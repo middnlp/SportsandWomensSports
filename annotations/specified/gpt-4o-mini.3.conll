@@ -1,0 +1,6233 @@
+# sent_id = 0
+# text = Who won the medals in the Men's Water Polo event at the 2008 olympic games?At the 2008 Olympic Games in Beijing, the medals in the Men's Water Polo event were awarded as follows:
+- **Gold Medal:** Hungary
+- **Silver Medal:** Spain
+- **Bronze Medal:** Croatia
+Hungary claimed their ninth gold medal in men's water polo at that time.
+# status = {"0":"accepted"}
+# time (ms) = 2473
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2008	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Beijing	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Water	O
+35	Polo	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	:**	O
+47	Hungary	B-Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	:**	O
+53	Spain	B-Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	:**	O
+59	Croatia	B-Bronze
+60	Hungary	O
+61	claimed	O
+62	their	O
+63	ninth	O
+64	gold	O
+65	medal	O
+66	in	O
+67	men	O
+68	'	O
+69	s	O
+70	water	O
+71	polo	O
+72	at	O
+73	that	O
+74	time	O
+75	.	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Women's Water Polo event at the 2008 olympic games?At the 2008 Olympic Games in Beijing, the medals for the Women's Water Polo event were awarded as follows:
+- **Gold Medal**: The United States
+- **Silver Medal**: Spain
+- **Bronze Medal**: Hungary
+The U.S. team claimed the gold after a successful tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2008	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Beijing	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Water	O
+35	Polo	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	The	O
+48	United	B-Gold
+49	States	I-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	Spain	B-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Hungary	B-Bronze
+62	The	O
+63	U	O
+64	.	O
+65	S	O
+66	.	O
+67	team	O
+68	claimed	O
+69	the	O
+70	gold	O
+71	after	O
+72	a	O
+73	successful	O
+74	tournament	O
+75	.	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Men's Curling event at the 2010 olympic games?At the 2010 Winter Olympics in Vancouver, the medals for the Men's Curling event were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: Norway
+- **Bronze Medal**: Sweden
+Canada won the gold by defeating Norway in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2010	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2010	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Vancouver	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Curling	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Canada	B-Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Norway	B-Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	Sweden	B-Bronze
+58	Canada	O
+59	won	O
+60	the	O
+61	gold	O
+62	by	O
+63	defeating	O
+64	Norway	O
+65	in	O
+66	the	O
+67	final	O
+68	match	O
+69	.	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Women's Curling event at the 2010 olympic games?At the 2010 Winter Olympics held in Vancouver, Canada, the medals in the Women's Curling event were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: Sweden
+- **Bronze Medal**: Switzerland
+Canada won the gold after defeating Sweden in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2010	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2010	O
+21	Winter	O
+22	Olympics	O
+23	held	O
+24	in	O
+25	Vancouver	O
+26	,	O
+27	Canada	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Curling	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Canada	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Sweden	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Switzerland	B-Bronze
+61	Canada	O
+62	won	O
+63	the	O
+64	gold	O
+65	after	O
+66	defeating	O
+67	Sweden	O
+68	in	O
+69	the	O
+70	final	O
+71	match	O
+72	.	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Men's Ice Hockey event at the 2010 olympic games?At the 2010 Winter Olympics held in Vancouver, the medals for the Men's Ice Hockey event were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: United States
+- **Bronze Medal**: Finland
+Canada won the gold by defeating the United States in the final.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2010	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2010	O
+22	Winter	O
+23	Olympics	O
+24	held	O
+25	in	O
+26	Vancouver	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Ice	O
+36	Hockey	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Canada	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	United	B-Silver
+55	States	I-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Finland	B-Bronze
+62	Canada	O
+63	won	O
+64	the	O
+65	gold	O
+66	by	O
+67	defeating	O
+68	the	O
+69	United	O
+70	States	O
+71	in	O
+72	the	O
+73	final	O
+74	.	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Women's Ice Hockey event at the 2010 olympic games?At the 2010 Winter Olympics held in Vancouver, Canada, the medals for the Women's Ice Hockey event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Canada
+- **Bronze Medal**: Finland
+The final match saw the United States defeat Canada, ending a long-standing rivalry in women's ice hockey.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2010	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2010	O
+22	Winter	O
+23	Olympics	O
+24	held	O
+25	in	O
+26	Vancouver	O
+27	,	O
+28	Canada	O
+29	,	O
+30	the	O
+31	medals	O
+32	for	O
+33	the	O
+34	Women	O
+35	'	O
+36	s	O
+37	Ice	O
+38	Hockey	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	United	B-Gold
+51	States	I-Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	Canada	B-Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	**:	O
+63	Finland	B-Bronze
+64	The	O
+65	final	O
+66	match	O
+67	saw	O
+68	the	O
+69	United	O
+70	States	O
+71	defeat	O
+72	Canada	O
+73	,	O
+74	ending	O
+75	a	O
+76	long-standing	O
+77	rivalry	O
+78	in	O
+79	women	O
+80	'	O
+81	s	O
+82	ice	O
+83	hockey	O
+84	.	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's 4 x 100 metres Freestyle Relay event had the following medal winners:
+- **Gold**: United States
+- **Silver**: France
+- **Bronze**: Australia
+The U.S. team set a new Olympic record in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	event	O
+43	had	O
+44	the	O
+45	following	O
+46	medal	O
+47	winners	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	**:	O
+59	France	B-Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	**:	O
+64	Australia	B-Bronze
+65	The	O
+66	U	O
+67	.	O
+68	S	O
+69	.	O
+70	team	O
+71	set	O
+72	a	O
+73	new	O
+74	Olympic	O
+75	record	O
+76	in	O
+77	this	O
+78	event	O
+79	.	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Australia
+- **Bronze**: Canada
+The U.S. team set a new world record in the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	medals	O
+34	for	O
+35	the	O
+36	Women	O
+37	'	O
+38	s	O
+39	4	O
+40	x	O
+41	100	O
+42	metres	O
+43	Freestyle	O
+44	Relay	O
+45	were	O
+46	awarded	O
+47	as	O
+48	follows	O
+49	:	O
+50	-	O
+51	**	O
+52	Gold	O
+53	**:	O
+54	United	B-Gold
+55	States	I-Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	**:	O
+60	Australia	B-Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	**:	O
+65	Canada	B-Bronze
+66	The	O
+67	U	O
+68	.	O
+69	S	O
+70	.	O
+71	team	O
+72	set	O
+73	a	O
+74	new	O
+75	world	O
+76	record	O
+77	in	O
+78	the	O
+79	event	O
+80	.	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's 4 x 100 metres Medley Relay event medals were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Australia
+- **Bronze Medal:** Japan
+The U.S. team won the event with a time of 3:29.35.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Medley	O
+41	Relay	O
+42	event	O
+43	medals	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	United	B-Gold
+55	States	I-Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	Medal	O
+60	:**	O
+61	Australia	B-Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	:**	O
+67	Japan	B-Bronze
+68	The	O
+69	U	O
+70	.	O
+71	S	O
+72	.	O
+73	team	O
+74	won	O
+75	the	O
+76	event	O
+77	with	O
+78	a	O
+79	time	O
+80	of	O
+81	3	O
+82	:	O
+83	29	O
+84	.	O
+85	35	O
+86	.	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Canada
+The U.S. team set a new Olympic record in the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	medals	O
+34	for	O
+35	the	O
+36	Women	O
+37	'	O
+38	s	O
+39	4	O
+40	x	O
+41	100	O
+42	metres	O
+43	Medley	O
+44	Relay	O
+45	were	O
+46	awarded	O
+47	as	O
+48	follows	O
+49	:	O
+50	-	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	United	B-Gold
+56	States	I-Gold
+57	-	O
+58	**	O
+59	Silver	O
+60	Medal	O
+61	**:	O
+62	Australia	B-Silver
+63	-	O
+64	**	O
+65	Bronze	O
+66	Medal	O
+67	**:	O
+68	Canada	B-Bronze
+69	The	O
+70	U	O
+71	.	O
+72	S	O
+73	.	O
+74	team	O
+75	set	O
+76	a	O
+77	new	O
+78	Olympic	O
+79	record	O
+80	in	O
+81	the	O
+82	event	O
+83	.	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Men's 4 x 100 metres Relay event were awarded as follows:
+- **Gold**: Jamaica
+- **Silver**: United States
+- **Bronze**: Trinidad and Tobago
+The Jamaican team, consisting of Usain Bolt, Yohan Blake, Nesta Carter, and Michael Frater, set a new world record with a time of 36.84 seconds.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2012	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	London	O
+30	,	O
+31	the	O
+32	medals	O
+33	for	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	100	O
+41	metres	O
+42	Relay	O
+43	event	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	Jamaica	B-Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	**:	O
+58	United	B-Silver
+59	States	I-Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	**:	O
+64	Trinidad	B-Bronze
+65	and	I-Bronze
+66	Tobago	I-Bronze
+67	The	O
+68	Jamaican	O
+69	team	O
+70	,	O
+71	consisting	O
+72	of	O
+73	Usain	O
+74	Bolt	O
+75	,	O
+76	Yohan	O
+77	Blake	O
+78	,	O
+79	Nesta	O
+80	Carter	O
+81	,	O
+82	and	O
+83	Michael	O
+84	Frater	O
+85	,	O
+86	set	O
+87	a	O
+88	new	O
+89	world	O
+90	record	O
+91	with	O
+92	a	O
+93	time	O
+94	of	O
+95	36	O
+96	.	O
+97	84	O
+98	seconds	O
+99	.	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's 4 x 100 metres Relay event were awarded as follows:
+- **Gold**: Jamaica (team consisting of Veronica Campbell-Brown, Shelly-Ann Fraser-Pryce, Kerron Stewart, and anchor leg by Carmelita Jeter)
+- **Silver**: United States 
+- **Bronze**: Russia 
+Jamaica won the race with a time of 40.82 seconds.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2012	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	London	O
+30	,	O
+31	the	O
+32	medals	O
+33	for	O
+34	the	O
+35	Women	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	100	O
+41	metres	O
+42	Relay	O
+43	event	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	Jamaica	B-Gold
+54	(	O
+55	team	O
+56	consisting	O
+57	of	O
+58	Veronica	O
+59	Campbell-Brown	O
+60	,	O
+61	Shelly-Ann	O
+62	Fraser-Pryce	O
+63	,	O
+64	Kerron	O
+65	Stewart	O
+66	,	O
+67	and	O
+68	anchor	O
+69	leg	O
+70	by	O
+71	Carmelita	O
+72	Jeter	O
+73	)	O
+74	-	O
+75	**	O
+76	Silver	O
+77	**:	O
+78	United	B-Silver
+79	States	I-Silver
+80	-	O
+81	**	O
+82	Bronze	O
+83	**:	O
+84	Russia	B-Bronze
+85	Jamaica	O
+86	won	O
+87	the	O
+88	race	O
+89	with	O
+90	a	O
+91	time	O
+92	of	O
+93	40	O
+94	.	O
+95	82	O
+96	seconds	O
+97	.	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's 4 x 200 meters Freestyle Relay event saw the following countries win medals:
+- **Gold**: United States
+- **Silver**: France
+- **Bronze**: China
+The American team set a new world record in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	200	O
+39	meters	O
+40	Freestyle	O
+41	Relay	O
+42	event	O
+43	saw	O
+44	the	O
+45	following	O
+46	countries	O
+47	win	O
+48	medals	O
+49	:	O
+50	-	O
+51	**	O
+52	Gold	O
+53	**:	O
+54	United	B-Gold
+55	States	I-Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	**:	O
+60	France	B-Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	**:	O
+65	China	B-Bronze
+66	The	O
+67	American	O
+68	team	O
+69	set	O
+70	a	O
+71	new	O
+72	world	O
+73	record	O
+74	in	O
+75	this	O
+76	event	O
+77	.	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals awarded in the Women's 4 x 200 metres Freestyle Relay event were as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Great Britain
+The American team set a new world record in this event during the competition.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	,	O
+32	the	O
+33	medals	O
+34	awarded	O
+35	in	O
+36	the	O
+37	Women	O
+38	'	O
+39	s	O
+40	4	O
+41	x	O
+42	200	O
+43	metres	O
+44	Freestyle	O
+45	Relay	O
+46	event	O
+47	were	O
+48	as	O
+49	follows	O
+50	:	O
+51	-	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	Medal	O
+62	**:	O
+63	Australia	B-Silver
+64	-	O
+65	**	O
+66	Bronze	O
+67	Medal	O
+68	**:	O
+69	Great	B-Bronze
+70	Britain	I-Bronze
+71	The	O
+72	American	O
+73	team	O
+74	set	O
+75	a	O
+76	new	O
+77	world	O
+78	record	O
+79	in	O
+80	this	O
+81	event	O
+82	during	O
+83	the	O
+84	competition	O
+85	.	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's 4 x 400 metres relay event medals were awarded as follows:
+- **Gold**: United States
+- **Silver**: Bahamas
+- **Bronze**: Great Britain & Northern Ireland
+The U.S. team won the event with a time of 2:57.44.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2012	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	London	O
+30	,	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	4	O
+36	x	O
+37	400	O
+38	metres	O
+39	relay	O
+40	event	O
+41	medals	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Bahamas	B-Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Great	B-Bronze
+63	Britain	I-Bronze
+64	&	I-Bronze
+65	Northern	I-Bronze
+66	Ireland	I-Bronze
+67	The	O
+68	U	O
+69	.	O
+70	S	O
+71	.	O
+72	team	O
+73	won	O
+74	the	O
+75	event	O
+76	with	O
+77	a	O
+78	time	O
+79	of	O
+80	2	O
+81	:	O
+82	57	O
+83	.	O
+84	44	O
+85	.	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2012 olympic games?At the 2012 Olympic Games in London, the Women's 4 x 400 metres Relay event had the following medal winners:
+- **Gold**: United States
+- **Silver**: Russia
+- **Bronze**: Jamaica
+This relay event took place on August 10, 2012, and the US team won the race with a time of 3:16.87.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2012	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	London	O
+30	,	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	4	O
+36	x	O
+37	400	O
+38	metres	O
+39	Relay	O
+40	event	O
+41	had	O
+42	the	O
+43	following	O
+44	medal	O
+45	winners	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Russia	B-Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Jamaica	B-Bronze
+63	This	O
+64	relay	O
+65	event	O
+66	took	O
+67	place	O
+68	on	O
+69	August	O
+70	10	O
+71	,	O
+72	2012	O
+73	,	O
+74	and	O
+75	the	O
+76	US	O
+77	team	O
+78	won	O
+79	the	O
+80	race	O
+81	with	O
+82	a	O
+83	time	O
+84	of	O
+85	3	O
+86	:	O
+87	16	O
+88	.	O
+89	87	O
+90	.	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Men's Basketball event at the 2012 olympic games?At the 2012 Olympic Games held in London, the medals for the Men's Basketball event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Spain
+- **Bronze Medal**: Russia
+The United States won the gold by defeating Spain 107–100 in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Basketball	O
+35	event	O
+36	were	O
+37	awarded	O
+38	as	O
+39	follows	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	United	B-Gold
+47	States	I-Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	Spain	B-Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	Russia	B-Bronze
+60	The	O
+61	United	O
+62	States	O
+63	won	O
+64	the	O
+65	gold	O
+66	by	O
+67	defeating	O
+68	Spain	O
+69	107	O
+70	–	O
+71	100	O
+72	in	O
+73	the	O
+74	final	O
+75	match	O
+76	.	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Women's Basketball event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Basketball event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: France
+- **Bronze Medal**: Australia
+The U.S. team won the gold by defeating France in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Basketball	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	United	B-Gold
+46	States	I-Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	France	B-Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	Australia	B-Bronze
+59	The	O
+60	U	O
+61	.	O
+62	S	O
+63	.	O
+64	team	O
+65	won	O
+66	the	O
+67	gold	O
+68	by	O
+69	defeating	O
+70	France	O
+71	in	O
+72	the	O
+73	final	O
+74	match	O
+75	.	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Men's Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: Britain (Great Britain)
+- **Silver Medal**: Germany
+- **Bronze Medal**: Canada
+Great Britain won the event, marking a significant achievement in home waters.
+# status = {"0":"accepted"}
+# time (ms) = 6195
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Coxed	O
+37	Eights	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Britain	O
+50	(	O
+51	Great	B-Gold
+52	Britain	I-Gold
+53	)	O
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	**:	O
+59	Germany	B-Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Canada	B-Bronze
+66	Great	O
+67	Britain	O
+68	won	O
+69	the	O
+70	event	O
+71	,	O
+72	marking	O
+73	a	O
+74	significant	O
+75	achievement	O
+76	in	O
+77	home	O
+78	waters	O
+79	.	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Women's Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Canada
+- **Bronze Medal:** Great Britain
+These teams competed in the final held on August 2, 2012.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Coxed	O
+37	Eights	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	United	B-Gold
+50	States	I-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	:**	O
+56	Canada	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	:**	O
+62	Great	B-Bronze
+63	Britain	I-Bronze
+64	These	O
+65	teams	O
+66	competed	O
+67	in	O
+68	the	O
+69	final	O
+70	held	O
+71	on	O
+72	August	O
+73	2	O
+74	,	O
+75	2012	O
+76	.	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Men's Field Hockey event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's Field Hockey event concluded with the following medal winners:
+- **Gold Medal**: Germany
+- **Silver Medal**: Netherlands
+- **Bronze Medal**: Great Britain
+Germany claimed the gold by defeating the Netherlands in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	Men	O
+29	'	O
+30	s	O
+31	Field	O
+32	Hockey	O
+33	event	O
+34	concluded	O
+35	with	O
+36	the	O
+37	following	O
+38	medal	O
+39	winners	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	Germany	B-Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	Netherlands	B-Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	Great	B-Bronze
+59	Britain	I-Bronze
+60	Germany	O
+61	claimed	O
+62	the	O
+63	gold	O
+64	by	O
+65	defeating	O
+66	the	O
+67	Netherlands	O
+68	in	O
+69	the	O
+70	final	O
+71	match	O
+72	.	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Women's Field Hockey event at the 2012 olympic games?At the 2012 Olympic Games held in London, the medals for the Women's Field Hockey event were awarded as follows:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: The Netherlands
+- **Bronze Medal**: New Zealand
+Great Britain won the gold by defeating the Netherlands in the final match, while New Zealand secured the bronze by winning the third-place match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	held	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Field	O
+36	Hockey	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Great	B-Gold
+49	Britain	I-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	The	O
+56	Netherlands	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	New	B-Bronze
+63	Zealand	I-Bronze
+64	Great	O
+65	Britain	O
+66	won	O
+67	the	O
+68	gold	O
+69	by	O
+70	defeating	O
+71	the	O
+72	Netherlands	O
+73	in	O
+74	the	O
+75	final	O
+76	match	O
+77	,	O
+78	while	O
+79	New	O
+80	Zealand	O
+81	secured	O
+82	the	O
+83	bronze	O
+84	by	O
+85	winning	O
+86	the	O
+87	third-place	O
+88	match	O
+89	.	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Men's Fencing Foil Team event were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: South Korea
+- **Bronze Medal**: United States
+Italy's victory in this event continued their strong tradition in fencing.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2012	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	London	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Fencing	O
+37	Foil	O
+38	Team	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Italy	B-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	South	B-Silver
+57	Korea	I-Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	**:	O
+63	United	B-Bronze
+64	States	I-Bronze
+65	Italy	O
+66	'	O
+67	s	O
+68	victory	O
+69	in	O
+70	this	O
+71	event	O
+72	continued	O
+73	their	O
+74	strong	O
+75	tradition	O
+76	in	O
+77	fencing	O
+78	.	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the Women's Fencing Foil team event medals were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: United States
+- **Bronze Medal**: Russia 
+Italy won the gold by defeating the United States in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2012	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	London	O
+28	,	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Fencing	O
+34	Foil	O
+35	team	O
+36	event	O
+37	medals	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Italy	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	United	B-Silver
+55	States	I-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Russia	B-Bronze
+62	Italy	O
+63	won	O
+64	the	O
+65	gold	O
+66	by	O
+67	defeating	O
+68	the	O
+69	United	O
+70	States	O
+71	in	O
+72	the	O
+73	final	O
+74	match	O
+75	.	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Men's Football event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's Football event concluded with the following medal winners:
+- **Gold Medal**: Mexico
+- **Silver Medal**: Brazil
+- **Bronze Medal**: Japan
+Mexico won the final match against Brazil, securing their first Olympic gold medal in men's football.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	Men	O
+28	'	O
+29	s	O
+30	Football	O
+31	event	O
+32	concluded	O
+33	with	O
+34	the	O
+35	following	O
+36	medal	O
+37	winners	O
+38	:	O
+39	-	O
+40	**	O
+41	Gold	O
+42	Medal	O
+43	**:	O
+44	Mexico	B-Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	**:	O
+50	Brazil	B-Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Japan	B-Bronze
+57	Mexico	O
+58	won	O
+59	the	O
+60	final	O
+61	match	O
+62	against	O
+63	Brazil	O
+64	,	O
+65	securing	O
+66	their	O
+67	first	O
+68	Olympic	O
+69	gold	O
+70	medal	O
+71	in	O
+72	men	O
+73	'	O
+74	s	O
+75	football	O
+76	.	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Women's Football event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Football event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Japan
+- **Bronze Medal**: Canada
+The U.S. team won the final against Japan, while Canada secured the bronze by defeating France in the third-place match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Football	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	United	B-Gold
+46	States	I-Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	Japan	B-Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	Canada	B-Bronze
+59	The	O
+60	U	O
+61	.	O
+62	S	O
+63	.	O
+64	team	O
+65	won	O
+66	the	O
+67	final	O
+68	against	O
+69	Japan	O
+70	,	O
+71	while	O
+72	Canada	O
+73	secured	O
+74	the	O
+75	bronze	O
+76	by	O
+77	defeating	O
+78	France	O
+79	in	O
+80	the	O
+81	third-place	O
+82	match	O
+83	.	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Men's Handball event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Men's Handball event were awarded as follows:
+- **Gold Medal**: France
+- **Silver Medal**: Sweden
+- **Bronze Medal**: Great Britain
+France won the final match against Sweden, while Great Britain secured the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Handball	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	France	B-Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Sweden	B-Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	Great	B-Bronze
+58	Britain	I-Bronze
+59	France	O
+60	won	O
+61	the	O
+62	final	O
+63	match	O
+64	against	O
+65	Sweden	O
+66	,	O
+67	while	O
+68	Great	O
+69	Britain	O
+70	secured	O
+71	the	O
+72	bronze	O
+73	medal	O
+74	.	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Women's Handball event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Handball event were awarded as follows:
+- **Gold Medal**: Norway
+- **Silver Medal**: Montenegro
+- **Bronze Medal**: France
+Norway won the final match against Montenegro, while France secured the bronze medal by defeating Hungary.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Handball	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Norway	B-Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Montenegro	B-Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	France	B-Bronze
+58	Norway	O
+59	won	O
+60	the	O
+61	final	O
+62	match	O
+63	against	O
+64	Montenegro	O
+65	,	O
+66	while	O
+67	France	O
+68	secured	O
+69	the	O
+70	bronze	O
+71	medal	O
+72	by	O
+73	defeating	O
+74	Hungary	O
+75	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2012 olympic games?In the Men's Indoor Volleyball event at the 2012 Olympic Games held in London, the medals were awarded as follows:
+- **Gold Medal**: Russia
+- **Silver Medal**: Brazil
+- **Bronze Medal**: Italy
+Russia won the final match against Brazil to secure the gold medal, while Italy defeated the USA to take the bronze.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	In	O
+20	the	O
+21	Men	O
+22	'	O
+23	s	O
+24	Indoor	O
+25	Volleyball	O
+26	event	O
+27	at	O
+28	the	O
+29	2012	O
+30	Olympic	O
+31	Games	O
+32	held	O
+33	in	O
+34	London	O
+35	,	O
+36	the	O
+37	medals	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Russia	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Brazil	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Italy	B-Bronze
+61	Russia	O
+62	won	O
+63	the	O
+64	final	O
+65	match	O
+66	against	O
+67	Brazil	O
+68	to	O
+69	secure	O
+70	the	O
+71	gold	O
+72	medal	O
+73	,	O
+74	while	O
+75	Italy	O
+76	defeated	O
+77	the	O
+78	USA	O
+79	to	O
+80	take	O
+81	the	O
+82	bronze	O
+83	.	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Women's Indoor Volleyball event were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Brazil
+- **Bronze Medal:** Japan
+The U.S. team won the final match against Brazil, securing their first Olympic gold medal in women's indoor volleyball.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Indoor	O
+35	Volleyball	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	:**	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	:**	O
+54	Brazil	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	:**	O
+60	Japan	B-Bronze
+61	The	O
+62	U	O
+63	.	O
+64	S	O
+65	.	O
+66	team	O
+67	won	O
+68	the	O
+69	final	O
+70	match	O
+71	against	O
+72	Brazil	O
+73	,	O
+74	securing	O
+75	their	O
+76	first	O
+77	Olympic	O
+78	gold	O
+79	medal	O
+80	in	O
+81	women	O
+82	'	O
+83	s	O
+84	indoor	O
+85	volleyball	O
+86	.	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Men's Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: Germany (team members included Eric Johannesen, Paul Ludwig, Florian Roller, and Felix Schemmer)
+- **Silver Medal**: Great Britain (team members included Ben Ruby, Tom Solesbury, Peter Reed, and Alex Gregory)
+- **Bronze Medal**: The Netherlands (team members included Aito de Vos, Joris van Hest, Timo de Jong, and David Weir)
+These teams competed in the final race held on August 2, 2012.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Quadruple	O
+37	Sculls	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Germany	B-Gold
+50	(	O
+51	team	O
+52	members	O
+53	included	O
+54	Eric	O
+55	Johannesen	O
+56	,	O
+57	Paul	O
+58	Ludwig	O
+59	,	O
+60	Florian	O
+61	Roller	O
+62	,	O
+63	and	O
+64	Felix	O
+65	Schemmer	O
+66	)	O
+67	-	O
+68	**	O
+69	Silver	O
+70	Medal	O
+71	**:	O
+72	Great	B-Silver
+73	Britain	I-Silver
+74	(	O
+75	team	O
+76	members	O
+77	included	O
+78	Ben	O
+79	Ruby	O
+80	,	O
+81	Tom	O
+82	Solesbury	O
+83	,	O
+84	Peter	O
+85	Reed	O
+86	,	O
+87	and	O
+88	Alex	O
+89	Gregory	O
+90	)	O
+91	-	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	The	O
+97	Netherlands	B-Bronze
+98	(	O
+99	team	O
+100	members	O
+101	included	O
+102	Aito	O
+103	de	O
+104	Vos	O
+105	,	O
+106	Joris	O
+107	van	O
+108	Hest	O
+109	,	O
+110	Timo	O
+111	de	O
+112	Jong	O
+113	,	O
+114	and	O
+115	David	O
+116	Weir	O
+117	)	O
+118	These	O
+119	teams	O
+120	competed	O
+121	in	O
+122	the	O
+123	final	O
+124	race	O
+125	held	O
+126	on	O
+127	August	O
+128	2	O
+129	,	O
+130	2012	O
+131	.	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: Australia
+- **Bronze Medal**: Poland
+These teams competed in the final held on August 1, 2012.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Quadruple	O
+37	Sculls	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Great	B-Gold
+50	Britain	I-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Australia	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Poland	B-Bronze
+63	These	O
+64	teams	O
+65	competed	O
+66	in	O
+67	the	O
+68	final	O
+69	held	O
+70	on	O
+71	August	O
+72	1	O
+73	,	O
+74	2012	O
+75	.	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Men's Archery Team event at the 2012 olympic games?At the 2012 Summer Olympics in London, the medals for the Men's Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: United States
+- **Bronze Medal**: Italy
+South Korea continued its dominance in archery, winning the gold medal in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Archery	O
+35	Team	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	South	B-Gold
+48	Korea	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	United	B-Silver
+55	States	I-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Italy	B-Bronze
+62	South	O
+63	Korea	O
+64	continued	O
+65	its	O
+66	dominance	O
+67	in	O
+68	archery	O
+69	,	O
+70	winning	O
+71	the	O
+72	gold	O
+73	medal	O
+74	in	O
+75	this	O
+76	event	O
+77	.	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Women's Archery Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Women's Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: Russia
+- **Bronze Medal**: Italy
+South Korea continued its dominance in archery by winning the gold medal in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Archery	O
+35	Team	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	South	B-Gold
+48	Korea	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Russia	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Italy	B-Bronze
+61	South	O
+62	Korea	O
+63	continued	O
+64	its	O
+65	dominance	O
+66	in	O
+67	archery	O
+68	by	O
+69	winning	O
+70	the	O
+71	gold	O
+72	medal	O
+73	in	O
+74	this	O
+75	event	O
+76	.	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Men's Table Tennis Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Men's Table Tennis Team event were awarded as follows:
+- **Gold Medal**: China
+- **Silver Medal**: South Korea
+- **Bronze Medal**: Germany 
+China continued its dominance in table tennis by winning the gold, while South Korea secured the silver and Germany took home the bronze.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Table	O
+36	Tennis	O
+37	Team	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	China	B-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	South	B-Silver
+56	Korea	I-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Germany	B-Bronze
+63	China	O
+64	continued	O
+65	its	O
+66	dominance	O
+67	in	O
+68	table	O
+69	tennis	O
+70	by	O
+71	winning	O
+72	the	O
+73	gold	O
+74	,	O
+75	while	O
+76	South	O
+77	Korea	O
+78	secured	O
+79	the	O
+80	silver	O
+81	and	O
+82	Germany	O
+83	took	O
+84	home	O
+85	the	O
+86	bronze	O
+87	.	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Women's Table Tennis Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Women's Table Tennis Team event were awarded as follows:
+- **Gold Medal:** China
+- **Silver Medal:** Japan
+- **Bronze Medal:** South Korea
+The Chinese team continued its dominance in the sport by winning the gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2012	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	London	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Table	O
+36	Tennis	O
+37	Team	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	China	B-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	:**	O
+55	Japan	B-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	:**	O
+61	South	B-Bronze
+62	Korea	I-Bronze
+63	The	O
+64	Chinese	O
+65	team	O
+66	continued	O
+67	its	O
+68	dominance	O
+69	in	O
+70	the	O
+71	sport	O
+72	by	O
+73	winning	O
+74	the	O
+75	gold	O
+76	medal	O
+77	.	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2012 olympic games?At the 2012 Olympic Games in London, the Men's Artistic Gymnastics Team All-Around event saw the following medal winners:
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: China
+These teams performed in the event held on July 30, 2012.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2012	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	London	O
+28	,	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Artistic	O
+34	Gymnastics	O
+35	Team	O
+36	All-Around	O
+37	event	O
+38	saw	O
+39	the	O
+40	following	O
+41	medal	O
+42	winners	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	United	B-Gold
+50	States	I-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Russia	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	China	B-Bronze
+63	These	O
+64	teams	O
+65	performed	O
+66	in	O
+67	the	O
+68	event	O
+69	held	O
+70	on	O
+71	July	O
+72	30	O
+73	,	O
+74	2012	O
+75	.	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Russia
+- **Bronze Medal:** Romania
+The U.S. team won the gold medal, showcasing strong performances throughout the competition.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2012	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	London	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Artistic	O
+37	Gymnastics	O
+38	Team	O
+39	All-Around	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	:**	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	:**	O
+58	Russia	B-Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	Medal	O
+63	:**	O
+64	Romania	B-Bronze
+65	The	O
+66	U	O
+67	.	O
+68	S	O
+69	.	O
+70	team	O
+71	won	O
+72	the	O
+73	gold	O
+74	medal	O
+75	,	O
+76	showcasing	O
+77	strong	O
+78	performances	O
+79	throughout	O
+80	the	O
+81	competition	O
+82	.	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Men's Water Polo event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Men's Water Polo event were awarded as follows:
+- **Gold Medal**: Hungary
+- **Silver Medal**: Spain
+- **Bronze Medal**: Croatia
+Hungary won the final match against Spain to secure the gold medal, while Croatia claimed the bronze medal by defeating Montenegro.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Water	O
+35	Polo	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Hungary	B-Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	Spain	B-Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	Croatia	B-Bronze
+60	Hungary	O
+61	won	O
+62	the	O
+63	final	O
+64	match	O
+65	against	O
+66	Spain	O
+67	to	O
+68	secure	O
+69	the	O
+70	gold	O
+71	medal	O
+72	,	O
+73	while	O
+74	Croatia	O
+75	claimed	O
+76	the	O
+77	bronze	O
+78	medal	O
+79	by	O
+80	defeating	O
+81	Montenegro	O
+82	.	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Women's Water Polo event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Women's Water Polo event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Spain
+- **Bronze Medal**: Australia
+The U.S. team won the final match, securing their victory in the tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2012	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	London	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Water	O
+35	Polo	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Spain	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Australia	B-Bronze
+61	The	O
+62	U	O
+63	.	O
+64	S	O
+65	.	O
+66	team	O
+67	won	O
+68	the	O
+69	final	O
+70	match	O
+71	,	O
+72	securing	O
+73	their	O
+74	victory	O
+75	in	O
+76	the	O
+77	tournament	O
+78	.	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Men's Curling event at the 2014 olympic games?At the 2014 Winter Olympics in Sochi, the medals for the Men's Curling event were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: Sweden
+- **Bronze Medal**: Switzerland
+Canada won the gold by defeating Sweden in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2014	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2014	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Sochi	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Curling	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Canada	B-Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Sweden	B-Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	Switzerland	B-Bronze
+58	Canada	O
+59	won	O
+60	the	O
+61	gold	O
+62	by	O
+63	defeating	O
+64	Sweden	O
+65	in	O
+66	the	O
+67	final	O
+68	match	O
+69	.	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Women's Curling event at the 2014 olympic games?At the 2014 Winter Olympics in Sochi, the medals for the Women's Curling event were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: Britain (Team GB)
+- **Bronze Medal**: Switzerland
+The Canadian team, skipped by Jennifer Jones, won the gold by defeating Great Britain in the final.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2014	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2014	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Sochi	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Curling	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Canada	B-Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Britain	B-Silver
+52	(	O
+53	Team	O
+54	GB	O
+55	)	O
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Switzerland	B-Bronze
+62	The	O
+63	Canadian	O
+64	team	O
+65	,	O
+66	skipped	O
+67	by	O
+68	Jennifer	O
+69	Jones	O
+70	,	O
+71	won	O
+72	the	O
+73	gold	O
+74	by	O
+75	defeating	O
+76	Great	O
+77	Britain	O
+78	in	O
+79	the	O
+80	final	O
+81	.	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Men's Ice Hockey event at the 2014 olympic games?In the Men's Ice Hockey event at the 2014 Olympic Games held in Sochi, Russia, the medals were awarded as follows:
+- **Gold Medal**: Canada
+- **Silver Medal**: Sweden
+- **Bronze Medal**: Finland
+Canada won the gold by defeating Sweden in the final match, while Finland secured the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2014	O
+16	olympic	O
+17	games	O
+18	?	O
+19	In	O
+20	the	O
+21	Men	O
+22	'	O
+23	s	O
+24	Ice	O
+25	Hockey	O
+26	event	O
+27	at	O
+28	the	O
+29	2014	O
+30	Olympic	O
+31	Games	O
+32	held	O
+33	in	O
+34	Sochi	O
+35	,	O
+36	Russia	O
+37	,	O
+38	the	O
+39	medals	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Canada	B-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Sweden	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Finland	B-Bronze
+63	Canada	O
+64	won	O
+65	the	O
+66	gold	O
+67	by	O
+68	defeating	O
+69	Sweden	O
+70	in	O
+71	the	O
+72	final	O
+73	match	O
+74	,	O
+75	while	O
+76	Finland	O
+77	secured	O
+78	the	O
+79	bronze	O
+80	medal	O
+81	.	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Women's Ice Hockey event at the 2014 olympic games?At the 2014 Winter Olympics in Sochi, the medals in the Women's Ice Hockey event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Canada
+- **Bronze Medal**: Sweden
+Canada secured the gold medal by defeating the United States in the final match. This was a continuation of Canada's strong performance in women's ice hockey at the Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2014	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2014	O
+22	Winter	O
+23	Olympics	O
+24	in	O
+25	Sochi	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Ice	O
+35	Hockey	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Canada	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Sweden	B-Bronze
+61	Canada	O
+62	secured	O
+63	the	O
+64	gold	O
+65	medal	O
+66	by	O
+67	defeating	O
+68	the	O
+69	United	O
+70	States	O
+71	in	O
+72	the	O
+73	final	O
+74	match	O
+75	.	O
+76	This	O
+77	was	O
+78	a	O
+79	continuation	O
+80	of	O
+81	Canada	O
+82	'	O
+83	s	O
+84	strong	O
+85	performance	O
+86	in	O
+87	women	O
+88	'	O
+89	s	O
+90	ice	O
+91	hockey	O
+92	at	O
+93	the	O
+94	Olympics	O
+95	.	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Olympics in Rio de Janeiro, the medals for the Men's 4 x 100 metres Freestyle Relay event were awarded as follows:
+- **Gold**: United States
+- **Silver**: Australia
+- **Bronze**: France
+The U.S. team set a new Olympic record in the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympics	O
+28	in	O
+29	Rio	O
+30	de	O
+31	Janeiro	O
+32	,	O
+33	the	O
+34	medals	O
+35	for	O
+36	the	O
+37	Men	O
+38	'	O
+39	s	O
+40	4	O
+41	x	O
+42	100	O
+43	metres	O
+44	Freestyle	O
+45	Relay	O
+46	event	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	-	O
+53	**	O
+54	Gold	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	**:	O
+62	Australia	B-Silver
+63	-	O
+64	**	O
+65	Bronze	O
+66	**:	O
+67	France	B-Bronze
+68	The	O
+69	U	O
+70	.	O
+71	S	O
+72	.	O
+73	team	O
+74	set	O
+75	a	O
+76	new	O
+77	Olympic	O
+78	record	O
+79	in	O
+80	the	O
+81	event	O
+82	.	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Women's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Australia
+- **Bronze**: Canada
+The U.S. team's victory was highlighted by a strong performance, solidifying their dominance in swimming events during the Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	for	O
+37	the	O
+38	Women	O
+39	'	O
+40	s	O
+41	4	O
+42	x	O
+43	100	O
+44	metres	O
+45	Freestyle	O
+46	Relay	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	-	O
+53	**	O
+54	Gold	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	**:	O
+62	Australia	B-Silver
+63	-	O
+64	**	O
+65	Bronze	O
+66	**:	O
+67	Canada	B-Bronze
+68	The	O
+69	U	O
+70	.	O
+71	S	O
+72	.	O
+73	team	O
+74	'	O
+75	s	O
+76	victory	O
+77	was	O
+78	highlighted	O
+79	by	O
+80	a	O
+81	strong	O
+82	performance	O
+83	,	O
+84	solidifying	O
+85	their	O
+86	dominance	O
+87	in	O
+88	swimming	O
+89	events	O
+90	during	O
+91	the	O
+92	Olympics	O
+93	.	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Men's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Great Britain
+- **Bronze**: Australia
+The U.S. team set a new Olympic record with their victory in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	in	O
+37	the	O
+38	Men	O
+39	'	O
+40	s	O
+41	4	O
+42	x	O
+43	100	O
+44	metres	O
+45	Medley	O
+46	Relay	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	-	O
+53	**	O
+54	Gold	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	**:	O
+62	Great	B-Silver
+63	Britain	I-Silver
+64	-	O
+65	**	O
+66	Bronze	O
+67	**:	O
+68	Australia	B-Bronze
+69	The	O
+70	U	O
+71	.	O
+72	S	O
+73	.	O
+74	team	O
+75	set	O
+76	a	O
+77	new	O
+78	Olympic	O
+79	record	O
+80	with	O
+81	their	O
+82	victory	O
+83	in	O
+84	this	O
+85	event	O
+86	.	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Women's 4 × 100 meters Medley Relay were won by the following teams:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Canada
+This event showcased some of the top female swimmers from around the world.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	for	O
+37	the	O
+38	Women	O
+39	'	O
+40	s	O
+41	4	O
+42	×	O
+43	100	O
+44	meters	O
+45	Medley	O
+46	Relay	O
+47	were	O
+48	won	O
+49	by	O
+50	the	O
+51	following	O
+52	teams	O
+53	:	O
+54	-	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	**	O
+63	Silver	O
+64	Medal	O
+65	**:	O
+66	Australia	B-Silver
+67	-	O
+68	**	O
+69	Bronze	O
+70	Medal	O
+71	**:	O
+72	Canada	B-Bronze
+73	This	O
+74	event	O
+75	showcased	O
+76	some	O
+77	of	O
+78	the	O
+79	top	O
+80	female	O
+81	swimmers	O
+82	from	O
+83	around	O
+84	the	O
+85	world	O
+86	.	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the Men's 4 x 100 metres Relay event medals were awarded as follows:
+- **Gold Medal**: Jamaica
+- **Silver Medal**: United States
+- **Bronze Medal**: Canada
+Jamaica won the event, securing their place at the top of the podium.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2016	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	Rio	O
+30	de	O
+31	Janeiro	O
+32	,	O
+33	the	O
+34	Men	O
+35	'	O
+36	s	O
+37	4	O
+38	x	O
+39	100	O
+40	metres	O
+41	Relay	O
+42	event	O
+43	medals	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Jamaica	B-Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	**:	O
+60	United	B-Silver
+61	States	I-Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	**:	O
+67	Canada	B-Bronze
+68	Jamaica	O
+69	won	O
+70	the	O
+71	event	O
+72	,	O
+73	securing	O
+74	their	O
+75	place	O
+76	at	O
+77	the	O
+78	top	O
+79	of	O
+80	the	O
+81	podium	O
+82	.	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals for the Women's 4 x 100 metres Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Great Britain
+- **Bronze**: Jamaica
+The U.S. team originally finished first, but there was a disqualification that affected the final standings of some other teams. The results were confirmed and awarded as listed above.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2016	O
+26	Olympic	O
+27	Games	O
+28	held	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	for	O
+37	the	O
+38	Women	O
+39	'	O
+40	s	O
+41	4	O
+42	x	O
+43	100	O
+44	metres	O
+45	Relay	O
+46	were	O
+47	awarded	O
+48	as	O
+49	follows	O
+50	:	O
+51	-	O
+52	**	O
+53	Gold	O
+54	**:	O
+55	United	B-Gold
+56	States	I-Gold
+57	-	O
+58	**	O
+59	Silver	O
+60	**:	O
+61	Great	B-Silver
+62	Britain	I-Silver
+63	-	O
+64	**	O
+65	Bronze	O
+66	**:	O
+67	Jamaica	B-Bronze
+68	The	O
+69	U	O
+70	.	O
+71	S	O
+72	.	O
+73	team	O
+74	originally	O
+75	finished	O
+76	first	O
+77	,	O
+78	but	O
+79	there	O
+80	was	O
+81	a	O
+82	disqualification	O
+83	that	O
+84	affected	O
+85	the	O
+86	final	O
+87	standings	O
+88	of	O
+89	some	O
+90	other	O
+91	teams	O
+92	.	O
+93	The	O
+94	results	O
+95	were	O
+96	confirmed	O
+97	and	O
+98	awarded	O
+99	as	O
+100	listed	O
+101	above	O
+102	.	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event were won by the following teams:
+- **Gold Medal**: United States
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Australia
+The U.S. team set a new Olympic record during the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	in	O
+37	the	O
+38	Men	O
+39	'	O
+40	s	O
+41	Swimming	O
+42	4	O
+43	x	O
+44	200	O
+45	metres	O
+46	Freestyle	O
+47	Relay	O
+48	event	O
+49	were	O
+50	won	O
+51	by	O
+52	the	O
+53	following	O
+54	teams	O
+55	:	O
+56	-	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	Great	B-Silver
+69	Britain	I-Silver
+70	-	O
+71	**	O
+72	Bronze	O
+73	Medal	O
+74	**:	O
+75	Australia	B-Bronze
+76	The	O
+77	U	O
+78	.	O
+79	S	O
+80	.	O
+81	team	O
+82	set	O
+83	a	O
+84	new	O
+85	Olympic	O
+86	record	O
+87	during	O
+88	the	O
+89	event	O
+90	.	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Women's 4 x 200 metres Freestyle Relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Canada
+The U.S. team notably set a new world record in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	,	O
+34	the	O
+35	medals	O
+36	for	O
+37	the	O
+38	Women	O
+39	'	O
+40	s	O
+41	4	O
+42	x	O
+43	200	O
+44	metres	O
+45	Freestyle	O
+46	Relay	O
+47	event	O
+48	were	O
+49	awarded	O
+50	as	O
+51	follows	O
+52	:	O
+53	-	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	**	O
+62	Silver	O
+63	Medal	O
+64	**:	O
+65	Australia	B-Silver
+66	-	O
+67	**	O
+68	Bronze	O
+69	Medal	O
+70	**:	O
+71	Canada	B-Bronze
+72	The	O
+73	U	O
+74	.	O
+75	S	O
+76	.	O
+77	team	O
+78	notably	O
+79	set	O
+80	a	O
+81	new	O
+82	world	O
+83	record	O
+84	in	O
+85	this	O
+86	event	O
+87	.	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Men's Athletics 4 x 400 metres Relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Bahamas
+- **Bronze Medal**: Botswana
+The United States team set a time of 2:57.30 for the gold.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2016	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	Rio	O
+30	de	O
+31	Janeiro	O
+32	,	O
+33	the	O
+34	medals	O
+35	for	O
+36	the	O
+37	Men	O
+38	'	O
+39	s	O
+40	Athletics	O
+41	4	O
+42	x	O
+43	400	O
+44	metres	O
+45	Relay	O
+46	event	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	-	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	United	B-Gold
+58	States	I-Gold
+59	-	O
+60	**	O
+61	Silver	O
+62	Medal	O
+63	**:	O
+64	Bahamas	B-Silver
+65	-	O
+66	**	O
+67	Bronze	O
+68	Medal	O
+69	**:	O
+70	Botswana	B-Bronze
+71	The	O
+72	United	O
+73	States	O
+74	team	O
+75	set	O
+76	a	O
+77	time	O
+78	of	O
+79	2	O
+80	:	O
+81	57	O
+82	.	O
+83	30	O
+84	for	O
+85	the	O
+86	gold	O
+87	.	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Women's 4 x 400 metres relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Jamaica
+The United States team, featuring athletes like Allyson Felix and Natasha Hastings, secured the gold with a strong performance.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2016	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	Rio	O
+30	de	O
+31	Janeiro	O
+32	,	O
+33	the	O
+34	medals	O
+35	for	O
+36	the	O
+37	Women	O
+38	'	O
+39	s	O
+40	4	O
+41	x	O
+42	400	O
+43	metres	O
+44	relay	O
+45	event	O
+46	were	O
+47	awarded	O
+48	as	O
+49	follows	O
+50	:	O
+51	-	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	Medal	O
+62	**:	O
+63	Great	B-Silver
+64	Britain	I-Silver
+65	-	O
+66	**	O
+67	Bronze	O
+68	Medal	O
+69	**:	O
+70	Jamaica	B-Bronze
+71	The	O
+72	United	O
+73	States	O
+74	team	O
+75	,	O
+76	featuring	O
+77	athletes	O
+78	like	O
+79	Allyson	O
+80	Felix	O
+81	and	O
+82	Natasha	O
+83	Hastings	O
+84	,	O
+85	secured	O
+86	the	O
+87	gold	O
+88	with	O
+89	a	O
+90	strong	O
+91	performance	O
+92	.	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Men's Basketball event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals in the Men's Basketball event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Spain
+- **Bronze Medal**: Australia
+The U.S. team won the gold by defeating Spain in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	Rio	O
+26	de	O
+27	Janeiro	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Basketball	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	United	B-Gold
+49	States	I-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	Spain	B-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Australia	B-Bronze
+62	The	O
+63	U	O
+64	.	O
+65	S	O
+66	.	O
+67	team	O
+68	won	O
+69	the	O
+70	gold	O
+71	by	O
+72	defeating	O
+73	Spain	O
+74	in	O
+75	the	O
+76	final	O
+77	match	O
+78	.	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Women's Basketball event at the 2016 olympic games?In the Women's Basketball event at the 2016 Olympic Games in Rio de Janeiro, the medals were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Spain
+- **Bronze Medal:** Serbia
+The U.S. team continued its dominance in women's basketball by securing their sixth consecutive Olympic gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	In	O
+19	the	O
+20	Women	O
+21	'	O
+22	s	O
+23	Basketball	O
+24	event	O
+25	at	O
+26	the	O
+27	2016	O
+28	Olympic	O
+29	Games	O
+30	in	O
+31	Rio	O
+32	de	O
+33	Janeiro	O
+34	,	O
+35	the	O
+36	medals	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	:**	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	:**	O
+54	Spain	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	:**	O
+60	Serbia	B-Bronze
+61	The	O
+62	U	O
+63	.	O
+64	S	O
+65	.	O
+66	team	O
+67	continued	O
+68	its	O
+69	dominance	O
+70	in	O
+71	women	O
+72	'	O
+73	s	O
+74	basketball	O
+75	by	O
+76	securing	O
+77	their	O
+78	sixth	O
+79	consecutive	O
+80	Olympic	O
+81	gold	O
+82	medal	O
+83	.	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2016 olympic games?At the 2016 Summer Olympics in Rio de Janeiro, the medals in the Men's Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal:** Great Britain
+- **Silver Medal:** Germany
+- **Bronze Medal:** Canada
+These teams performed at a high level to secure their places on the podium in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2016	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Men	O
+35	'	O
+36	s	O
+37	Rowing	O
+38	Coxed	O
+39	Eights	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	:**	O
+51	Great	B-Gold
+52	Britain	I-Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	:**	O
+58	Germany	B-Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	Medal	O
+63	:**	O
+64	Canada	B-Bronze
+65	These	O
+66	teams	O
+67	performed	O
+68	at	O
+69	a	O
+70	high	O
+71	level	O
+72	to	O
+73	secure	O
+74	their	O
+75	places	O
+76	on	O
+77	the	O
+78	podium	O
+79	in	O
+80	this	O
+81	event	O
+82	.	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Women's Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Australia
+The event showcased strong performances from these teams, with the United States taking the top spot.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2016	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Women	O
+35	'	O
+36	s	O
+37	Rowing	O
+38	Coxed	O
+39	Eights	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	**:	O
+58	Great	B-Silver
+59	Britain	I-Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Australia	B-Bronze
+66	The	O
+67	event	O
+68	showcased	O
+69	strong	O
+70	performances	O
+71	from	O
+72	these	O
+73	teams	O
+74	,	O
+75	with	O
+76	the	O
+77	United	O
+78	States	O
+79	taking	O
+80	the	O
+81	top	O
+82	spot	O
+83	.	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Men's Field Hockey event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Men's Field Hockey event were awarded as follows:
+- **Gold Medal**: Argentina
+- **Silver Medal**: Belgium
+- **Bronze Medal**: Germany
+Argentina won the gold by defeating Belgium in the final.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2016	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Rio	O
+26	de	O
+27	Janeiro	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Field	O
+37	Hockey	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Argentina	B-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	Belgium	B-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Germany	B-Bronze
+62	Argentina	O
+63	won	O
+64	the	O
+65	gold	O
+66	by	O
+67	defeating	O
+68	Belgium	O
+69	in	O
+70	the	O
+71	final	O
+72	.	O
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Women's Field Hockey event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals in the Women's Field Hockey event were awarded as follows:
+- **Gold Medal**: Netherlands
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: New Zealand
+The Netherlands successfully defended their title, having also won gold in the previous Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2016	O
+22	Olympic	O
+23	Games	O
+24	held	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Women	O
+35	'	O
+36	s	O
+37	Field	O
+38	Hockey	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Netherlands	B-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Great	B-Silver
+57	Britain	I-Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	**:	O
+63	New	B-Bronze
+64	Zealand	I-Bronze
+65	The	O
+66	Netherlands	O
+67	successfully	O
+68	defended	O
+69	their	O
+70	title	O
+71	,	O
+72	having	O
+73	also	O
+74	won	O
+75	gold	O
+76	in	O
+77	the	O
+78	previous	O
+79	Olympic	O
+80	Games	O
+81	.	O
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Men's Football event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals for the Men's Football event were awarded as follows:
+- **Gold Medal**: Brazil
+- **Silver Medal**: Germany
+- **Bronze Medal**: Nigeria
+Brazil won the gold medal by defeating Germany in the final match, while Nigeria secured the bronze by beating Honduras.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	Rio	O
+26	de	O
+27	Janeiro	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Football	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Brazil	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Germany	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Nigeria	B-Bronze
+61	Brazil	O
+62	won	O
+63	the	O
+64	gold	O
+65	medal	O
+66	by	O
+67	defeating	O
+68	Germany	O
+69	in	O
+70	the	O
+71	final	O
+72	match	O
+73	,	O
+74	while	O
+75	Nigeria	O
+76	secured	O
+77	the	O
+78	bronze	O
+79	by	O
+80	beating	O
+81	Honduras	O
+82	.	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Women's Football event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Women's Football event were awarded as follows:
+- **Gold Medal**: Germany
+- **Silver Medal**: Sweden
+- **Bronze Medal**: United States
+Germany won the final match against Sweden to secure the gold, while the United States defeated Canada to win the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Rio	O
+25	de	O
+26	Janeiro	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Football	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Germany	B-Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	Sweden	B-Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	United	B-Bronze
+60	States	I-Bronze
+61	Germany	O
+62	won	O
+63	the	O
+64	final	O
+65	match	O
+66	against	O
+67	Sweden	O
+68	to	O
+69	secure	O
+70	the	O
+71	gold	O
+72	,	O
+73	while	O
+74	the	O
+75	United	O
+76	States	O
+77	defeated	O
+78	Canada	O
+79	to	O
+80	win	O
+81	the	O
+82	bronze	O
+83	medal	O
+84	.	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Men's Handball event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Men's Handball event were awarded as follows:
+- **Gold Medal**: France
+- **Silver Medal**: Denmark
+- **Bronze Medal**: Germany
+France won the final match against Denmark, while Germany secured the bronze by defeating Croatia.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Rio	O
+25	de	O
+26	Janeiro	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Handball	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	France	B-Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	Denmark	B-Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	Germany	B-Bronze
+60	France	O
+61	won	O
+62	the	O
+63	final	O
+64	match	O
+65	against	O
+66	Denmark	O
+67	,	O
+68	while	O
+69	Germany	O
+70	secured	O
+71	the	O
+72	bronze	O
+73	by	O
+74	defeating	O
+75	Croatia	O
+76	.	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Women's Handball event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals for the Women's Handball event were awarded as follows:
+- **Gold Medal**: Russia
+- **Silver Medal**: Norway
+- **Bronze Medal**: France
+Russia won the final match against Norway to secure the gold medal, while France defeated the Netherlands for the bronze.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	Rio	O
+26	de	O
+27	Janeiro	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Handball	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Russia	B-Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Norway	B-Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	France	B-Bronze
+61	Russia	O
+62	won	O
+63	the	O
+64	final	O
+65	match	O
+66	against	O
+67	Norway	O
+68	to	O
+69	secure	O
+70	the	O
+71	gold	O
+72	medal	O
+73	,	O
+74	while	O
+75	France	O
+76	defeated	O
+77	the	O
+78	Netherlands	O
+79	for	O
+80	the	O
+81	bronze	O
+82	.	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals in the Men's Indoor Volleyball event were awarded as follows:
+- **Gold Medal**: Brazil
+- **Silver Medal**: Italy
+- **Bronze Medal**: USA
+Brazil won the gold medal by defeating Italy in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2016	O
+22	Olympic	O
+23	Games	O
+24	held	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Men	O
+35	'	O
+36	s	O
+37	Indoor	O
+38	Volleyball	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Brazil	B-Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Italy	B-Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	USA	B-Bronze
+63	Brazil	O
+64	won	O
+65	the	O
+66	gold	O
+67	medal	O
+68	by	O
+69	defeating	O
+70	Italy	O
+71	in	O
+72	the	O
+73	final	O
+74	match	O
+75	.	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Women's Indoor Volleyball event were awarded as follows:
+- **Gold Medal:** Serbia
+- **Silver Medal:** USA
+- **Bronze Medal:** Netherlands
+Serbia won the gold by defeating the USA in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2016	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Rio	O
+26	de	O
+27	Janeiro	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Indoor	O
+37	Volleyball	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	Serbia	B-Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	:**	O
+55	USA	B-Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	:**	O
+61	Netherlands	B-Bronze
+62	Serbia	O
+63	won	O
+64	the	O
+65	gold	O
+66	by	O
+67	defeating	O
+68	the	O
+69	USA	O
+70	in	O
+71	the	O
+72	final	O
+73	match	O
+74	.	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2016 olympic games?At the 2016 Olympics held in Rio de Janeiro, the medals for the Men's Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: Germany
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Netherlands
+This event showcased some of the best rowing talent in the world and was a highlight of the rowing competitions.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2016	O
+23	Olympics	O
+24	held	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	for	O
+33	the	O
+34	Men	O
+35	'	O
+36	s	O
+37	Rowing	O
+38	Quadruple	O
+39	Sculls	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	Germany	B-Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	Great	B-Silver
+58	Britain	I-Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	Medal	O
+63	**:	O
+64	Netherlands	B-Bronze
+65	This	O
+66	event	O
+67	showcased	O
+68	some	O
+69	of	O
+70	the	O
+71	best	O
+72	rowing	O
+73	talent	O
+74	in	O
+75	the	O
+76	world	O
+77	and	O
+78	was	O
+79	a	O
+80	highlight	O
+81	of	O
+82	the	O
+83	rowing	O
+84	competitions	O
+85	.	O
+
+

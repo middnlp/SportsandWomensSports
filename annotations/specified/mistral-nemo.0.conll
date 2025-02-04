@@ -1,0 +1,11476 @@
+# sent_id = 0
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 1988 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Evert
+   - Matt Biondi
+   - Tom Jager
+   - Troy Dalbey
+2. **Silver Medal**: West Germany
+   - Michael Gross
+   - Thomas Fahrner
+   - Dirk Vandenhirtz
+   - Stefan Herbst
+3. **Bronze Medal**: Soviet Union
+   - Sergei Chavdarov
+   - Igor Polianski
+   - Aleksandr Sautin
+   - Vladimir Tkachenko
+# status = {"0":"accepted"}
+# time (ms) = 1739
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1988	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1988	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Seoul	O
+42	,	O
+43	South	O
+44	Korea	O
+45	,	O
+46	was	O
+47	won	O
+48	by	O
+49	the	O
+50	United	O
+51	States	O
+52	.	O
+53	Here	O
+54	are	O
+55	the	O
+56	medalists	O
+57	:	O
+58	1	O
+59	.	O
+60	**	O
+61	Gold	O
+62	Medal	O
+63	**:	O
+64	United	B-Gold
+65	States	I-Gold
+66	-	O
+67	Michael	O
+68	Evert	O
+69	-	O
+70	Matt	O
+71	Biondi	O
+72	-	O
+73	Tom	O
+74	Jager	O
+75	-	O
+76	Troy	O
+77	Dalbey	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	West	B-Silver
+85	Germany	I-Silver
+86	-	O
+87	Michael	O
+88	Gross	O
+89	-	O
+90	Thomas	O
+91	Fahrner	O
+92	-	O
+93	Dirk	O
+94	Vandenhirtz	O
+95	-	O
+96	Stefan	O
+97	Herbst	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Soviet	B-Bronze
+105	Union	I-Bronze
+106	-	O
+107	Sergei	O
+108	Chavdarov	O
+109	-	O
+110	Igor	O
+111	Polianski	O
+112	-	O
+113	Aleksandr	O
+114	Sautin	O
+115	-	O
+116	Vladimir	O
+117	Tkachenko	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 1988 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 1988 Olympic Games in Seoul, South Korea, was won by the team from East Germany. Here are the medalists:
+1. **Gold Medal**: East Germany
+   - Kristin Otto
+   - Katrin Meissner
+   - Sabina Schulze
+   - Manuela Stellmach
+2. **Silver Medal**: United States
+   - Dara Torres
+   - Mary Wayte
+   - Ann Pirrella
+   - Nancy Muth
+3. **Bronze Medal**: Sweden
+   - Anette Persson
+   - Linda Hinders
+   - Malin Strömberg
+   - Carina Forslund
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1988	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1988	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Seoul	O
+42	,	O
+43	South	O
+44	Korea	O
+45	,	O
+46	was	O
+47	won	O
+48	by	O
+49	the	O
+50	team	O
+51	from	O
+52	East	O
+53	Germany	O
+54	.	O
+55	Here	O
+56	are	O
+57	the	O
+58	medalists	O
+59	:	O
+60	1	O
+61	.	O
+62	**	O
+63	Gold	O
+64	Medal	O
+65	**:	O
+66	East	B-Gold
+67	Germany	I-Gold
+68	-	O
+69	Kristin	O
+70	Otto	O
+71	-	O
+72	Katrin	O
+73	Meissner	O
+74	-	O
+75	Sabina	O
+76	Schulze	O
+77	-	O
+78	Manuela	O
+79	Stellmach	O
+80	2	O
+81	.	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	United	B-Silver
+87	States	I-Silver
+88	-	O
+89	Dara	O
+90	Torres	O
+91	-	O
+92	Mary	O
+93	Wayte	O
+94	-	O
+95	Ann	O
+96	Pirrella	O
+97	-	O
+98	Nancy	O
+99	Muth	O
+100	3	O
+101	.	O
+102	**	O
+103	Bronze	O
+104	Medal	O
+105	**:	O
+106	Sweden	B-Bronze
+107	-	O
+108	Anette	O
+109	Persson	O
+110	-	O
+111	Linda	O
+112	Hinders	O
+113	-	O
+114	Malin	O
+115	Strömberg	O
+116	-	O
+117	Carina	O
+118	Forslund	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 1988 olympic games?The Men's 4 x 100 metres Medley Relay event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - David Wharton (Backstroke)
+   - Matt Biondi (Freestyle)
+   - Bruce Hayes (Breaststroke)
+   - Matt Biondi (Butterfly)
+2. **Silver Medal**: Soviet Union
+   - Igor Polianski (Backstroke)
+   - Sergei Zabolotnov (Freestyle)
+   - Dmitri Volkov (Breaststroke)
+   - Sergei Ledovskikh (Butterfly)
+3. **Bronze Medal**: West Germany
+   - Michael Gross (Backstroke)
+   - Thomas Fahrner (Freestyle)
+   - Christian Poswiat (Breaststroke)
+   - Michael Groß (Butterfly)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1988	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1988	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Seoul	O
+42	,	O
+43	South	O
+44	Korea	O
+45	,	O
+46	was	O
+47	won	O
+48	by	O
+49	the	O
+50	United	O
+51	States	O
+52	.	O
+53	Here	O
+54	are	O
+55	the	O
+56	medalists	O
+57	:	O
+58	1	O
+59	.	O
+60	**	O
+61	Gold	O
+62	Medal	O
+63	**:	O
+64	United	B-Gold
+65	States	I-Gold
+66	-	O
+67	David	O
+68	Wharton	O
+69	(	O
+70	Backstroke	O
+71	)	O
+72	-	O
+73	Matt	O
+74	Biondi	O
+75	(	O
+76	Freestyle	O
+77	)	O
+78	-	O
+79	Bruce	O
+80	Hayes	O
+81	(	O
+82	Breaststroke	O
+83	)	O
+84	-	O
+85	Matt	O
+86	Biondi	O
+87	(	O
+88	Butterfly	O
+89	)	O
+90	2	O
+91	.	O
+92	**	O
+93	Silver	O
+94	Medal	O
+95	**:	O
+96	Soviet	B-Silver
+97	Union	I-Silver
+98	-	O
+99	Igor	O
+100	Polianski	O
+101	(	O
+102	Backstroke	O
+103	)	O
+104	-	O
+105	Sergei	O
+106	Zabolotnov	O
+107	(	O
+108	Freestyle	O
+109	)	O
+110	-	O
+111	Dmitri	O
+112	Volkov	O
+113	(	O
+114	Breaststroke	O
+115	)	O
+116	-	O
+117	Sergei	O
+118	Ledovskikh	O
+119	(	O
+120	Butterfly	O
+121	)	O
+122	3	O
+123	.	O
+124	**	O
+125	Bronze	O
+126	Medal	O
+127	**:	O
+128	West	B-Bronze
+129	Germany	I-Bronze
+130	-	O
+131	Michael	O
+132	Gross	O
+133	(	O
+134	Backstroke	O
+135	)	O
+136	-	O
+137	Thomas	O
+138	Fahrner	O
+139	(	O
+140	Freestyle	O
+141	)	O
+142	-	O
+143	Christian	O
+144	Poswiat	O
+145	(	O
+146	Breaststroke	O
+147	)	O
+148	-	O
+149	Michael	O
+150	Groß	O
+151	(	O
+152	Butterfly	O
+153	)	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 1988 olympic games?The Women's 4 x 100 metres Medley Relay event at the 1988 Summer Olympics in Seoul, South Korea, was won by the team from East Germany. Here are the medalists:
+1. **Gold Medal**: East Germany
+   - Kristin Otto
+   - Birgit Meeuw
+   - Dagmar Hase
+   - Heike Friedrich
+2. **Silver Medal**: United States
+   - Beth Barr
+   - Laura Walker
+   - Jenny Thompson
+   - Dara Torres
+3. **Bronze Medal**: Canada
+   - Anne Ottenbrite
+   - Jane Kerr
+   - Marianne Limpert
+   - Pamela Rai
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1988	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1988	O
+38	Summer	O
+39	Olympics	O
+40	in	O
+41	Seoul	O
+42	,	O
+43	South	O
+44	Korea	O
+45	,	O
+46	was	O
+47	won	O
+48	by	O
+49	the	O
+50	team	O
+51	from	O
+52	East	O
+53	Germany	O
+54	.	O
+55	Here	O
+56	are	O
+57	the	O
+58	medalists	O
+59	:	O
+60	1	O
+61	.	O
+62	**	O
+63	Gold	O
+64	Medal	O
+65	**:	O
+66	East	B-Gold
+67	Germany	I-Gold
+68	-	O
+69	Kristin	O
+70	Otto	O
+71	-	O
+72	Birgit	O
+73	Meeuw	O
+74	-	O
+75	Dagmar	O
+76	Hase	O
+77	-	O
+78	Heike	O
+79	Friedrich	O
+80	2	O
+81	.	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	United	B-Silver
+87	States	I-Silver
+88	-	O
+89	Beth	O
+90	Barr	O
+91	-	O
+92	Laura	O
+93	Walker	O
+94	-	O
+95	Jenny	O
+96	Thompson	O
+97	-	O
+98	Dara	O
+99	Torres	O
+100	3	O
+101	.	O
+102	**	O
+103	Bronze	O
+104	Medal	O
+105	**:	O
+106	Canada	B-Bronze
+107	-	O
+108	Anne	O
+109	Ottenbrite	O
+110	-	O
+111	Jane	O
+112	Kerr	O
+113	-	O
+114	Marianne	O
+115	Limpert	O
+116	-	O
+117	Pamela	O
+118	Rai	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 1988 olympic games?The Men's 4 x 100 metres Relay event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Carl Lewis
+   - Dennis Mitchell
+   - Floyd Heard
+   - Leroy Burrell
+2. **Silver Medal**: Canada
+   - Ben Johnson
+   - Desai Williams
+   - Andy Grant
+   - Peter Ogilvie
+3. **Bronze Medal**: France
+   - Bruno Marie-Rose
+   - Jean-Charles Trouabal
+   - Max Morinière
+   - Daniel Sangouma
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1988	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1988	O
+36	Summer	O
+37	Olympics	O
+38	in	O
+39	Seoul	O
+40	,	O
+41	South	O
+42	Korea	O
+43	,	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	United	O
+49	States	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	**:	O
+62	United	B-Gold
+63	States	I-Gold
+64	-	O
+65	Carl	O
+66	Lewis	O
+67	-	O
+68	Dennis	O
+69	Mitchell	O
+70	-	O
+71	Floyd	O
+72	Heard	O
+73	-	O
+74	Leroy	O
+75	Burrell	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Canada	B-Silver
+83	-	O
+84	Ben	O
+85	Johnson	O
+86	-	O
+87	Desai	O
+88	Williams	O
+89	-	O
+90	Andy	O
+91	Grant	O
+92	-	O
+93	Peter	O
+94	Ogilvie	O
+95	3	O
+96	.	O
+97	**	O
+98	Bronze	O
+99	Medal	O
+100	**:	O
+101	France	B-Bronze
+102	-	O
+103	Bruno	O
+104	Marie-Rose	O
+105	-	O
+106	Jean-Charles	O
+107	Trouabal	O
+108	-	O
+109	Max	O
+110	Morinière	O
+111	-	O
+112	Daniel	O
+113	Sangouma	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 1988 olympic games?The gold medal in the Women's 4 x 100 meters Relay event at the 1988 Olympic Games in Seoul, South Korea, was won by the team from East Germany. Here are the medalists:
+1. **Gold Medal**: East Germany (Silke Möller, Katrin Krabbe, Heike Drechsler, Marlies Göhr)
+2. **Silver Medal**: United States (Alice Brown, Sheila Echols, Diane Williams, Florence Griffith-Joyner)
+3. **Bronze Medal**: Canada (Angela Bailey, Angela Phipps, France Gareau, Marita Payne-Wiggins)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1988	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	gold	O
+25	medal	O
+26	in	O
+27	the	O
+28	Women	O
+29	'	O
+30	s	O
+31	4	O
+32	x	O
+33	100	O
+34	meters	O
+35	Relay	O
+36	event	O
+37	at	O
+38	the	O
+39	1988	O
+40	Olympic	O
+41	Games	O
+42	in	O
+43	Seoul	O
+44	,	O
+45	South	O
+46	Korea	O
+47	,	O
+48	was	O
+49	won	O
+50	by	O
+51	the	O
+52	team	O
+53	from	O
+54	East	O
+55	Germany	O
+56	.	O
+57	Here	O
+58	are	O
+59	the	O
+60	medalists	O
+61	:	O
+62	1	O
+63	.	O
+64	**	O
+65	Gold	O
+66	Medal	O
+67	**:	O
+68	East	B-Gold
+69	Germany	I-Gold
+70	(	O
+71	Silke	O
+72	Möller	O
+73	,	O
+74	Katrin	O
+75	Krabbe	O
+76	,	O
+77	Heike	O
+78	Drechsler	O
+79	,	O
+80	Marlies	O
+81	Göhr	O
+82	)	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	United	B-Silver
+90	States	I-Silver
+91	(	O
+92	Alice	O
+93	Brown	O
+94	,	O
+95	Sheila	O
+96	Echols	O
+97	,	O
+98	Diane	O
+99	Williams	O
+100	,	O
+101	Florence	O
+102	Griffith-Joyner	O
+103	)	O
+104	3	O
+105	.	O
+106	**	O
+107	Bronze	O
+108	Medal	O
+109	**:	O
+110	Canada	B-Bronze
+111	(	O
+112	Angela	O
+113	Bailey	O
+114	,	O
+115	Angela	O
+116	Phipps	O
+117	,	O
+118	France	O
+119	Gareau	O
+120	,	O
+121	Marita	O
+122	Payne-Wiggins	O
+123	)	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 1988 olympic games?The Men's 4 x 400 metres Relay event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - Harry Reynolds
+   - Quincy Watts
+   - Danny Everett
+   - Steve Lewis
+2. **Silver Medal:** Great Britain
+   - Kriss Akabusi
+   - Todd Bennett
+   - Derek Redmond
+   - Roger Black
+3. **Bronze Medal:** Jamaica
+   - Devon Morris
+   - Christopher Brown
+   - Howard Davis
+   - Bert Cameron
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1988	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1988	O
+36	Summer	O
+37	Olympics	O
+38	in	O
+39	Seoul	O
+40	,	O
+41	South	O
+42	Korea	O
+43	,	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	United	O
+49	States	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	:**	O
+62	United	B-Gold
+63	States	I-Gold
+64	-	O
+65	Harry	O
+66	Reynolds	O
+67	-	O
+68	Quincy	O
+69	Watts	O
+70	-	O
+71	Danny	O
+72	Everett	O
+73	-	O
+74	Steve	O
+75	Lewis	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	:**	O
+82	Great	B-Silver
+83	Britain	I-Silver
+84	-	O
+85	Kriss	O
+86	Akabusi	O
+87	-	O
+88	Todd	O
+89	Bennett	O
+90	-	O
+91	Derek	O
+92	Redmond	O
+93	-	O
+94	Roger	O
+95	Black	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	:**	O
+102	Jamaica	B-Bronze
+103	-	O
+104	Devon	O
+105	Morris	O
+106	-	O
+107	Christopher	O
+108	Brown	O
+109	-	O
+110	Howard	O
+111	Davis	O
+112	-	O
+113	Bert	O
+114	Cameron	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 1988 olympic games?The Women's 4 x 400 meters Relay event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union team. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Tatyana Ledovskaya
+   - Mariya Pinigina
+   - Olga Nazarova
+   - Olga Bryzgina
+2. **Silver Medal**: East Germany
+   - Sabine Busch
+   - Heike Drechsler
+   - Petra Schersing
+   - Dagmar Neubauer
+3. **Bronze Medal**: United States
+   - Denean Hill
+   - Jearl Miles
+   - Diane Dixon
+   - Valerie Brisco-Hooks
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1988	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1988	O
+36	Summer	O
+37	Olympics	O
+38	in	O
+39	Seoul	O
+40	,	O
+41	South	O
+42	Korea	O
+43	,	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	Soviet	O
+49	Union	O
+50	team	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	Soviet	B-Gold
+64	Union	I-Gold
+65	-	O
+66	Tatyana	O
+67	Ledovskaya	O
+68	-	O
+69	Mariya	O
+70	Pinigina	O
+71	-	O
+72	Olga	O
+73	Nazarova	O
+74	-	O
+75	Olga	O
+76	Bryzgina	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	East	B-Silver
+84	Germany	I-Silver
+85	-	O
+86	Sabine	O
+87	Busch	O
+88	-	O
+89	Heike	O
+90	Drechsler	O
+91	-	O
+92	Petra	O
+93	Schersing	O
+94	-	O
+95	Dagmar	O
+96	Neubauer	O
+97	3	O
+98	.	O
+99	**	O
+100	Bronze	O
+101	Medal	O
+102	**:	O
+103	United	B-Bronze
+104	States	I-Bronze
+105	-	O
+106	Denean	O
+107	Hill	O
+108	-	O
+109	Jearl	O
+110	Miles	O
+111	-	O
+112	Diane	O
+113	Dixon	O
+114	-	O
+115	Valerie	O
+116	Brisco-Hooks	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Men's Basketball event at the 1988 olympic games?The Men's Basketball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Charles Barkley
+   - David Robinson
+   - Patrick Ewing
+   - Michael Jordan
+   - Chris Mullin
+   - Karl Malone
+   - John Stockton
+   - Mitch Richmond
+   - Dan Marjele
+   - Jay Humphries
+   - Greg Kite
+   - Kenny Smith
+2. **Silver Medal**: Soviet Union
+   - Sergei Tarakanov
+   - Alexander Belostenny
+   - Valeri Tikhonenko
+   - Vladimir Tkachenko
+   - Sergei Babkov
+   - Anatoly Myshkin
+   - Alexander Volkov
+   - Valeri Goborov
+   - Igors Miglinieks
+   - Valdemaras Chomičius
+   - Valdemaras Sabonis
+   - Šarūnas Marčiulionis
+3. **Bronze Medal**: Yugoslavia
+   - Dražen Petrović
+   - Toni Kukoč
+   - Zoran Savic
+   - Zarko Paspalj
+   - Jure Zdovc
+   - Franjo Arapović
+   - Aza Petrovic
+   - Dubravko Šimo
+   - Stojko Vranković
+   - Zoran Radović
+   - Zoran Savić
+   - Vlade Divac
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	1988	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Seoul	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Charles	O
+57	Barkley	O
+58	-	O
+59	David	O
+60	Robinson	O
+61	-	O
+62	Patrick	O
+63	Ewing	O
+64	-	O
+65	Michael	O
+66	Jordan	O
+67	-	O
+68	Chris	O
+69	Mullin	O
+70	-	O
+71	Karl	O
+72	Malone	O
+73	-	O
+74	John	O
+75	Stockton	O
+76	-	O
+77	Mitch	O
+78	Richmond	O
+79	-	O
+80	Dan	O
+81	Marjele	O
+82	-	O
+83	Jay	O
+84	Humphries	O
+85	-	O
+86	Greg	O
+87	Kite	O
+88	-	O
+89	Kenny	O
+90	Smith	O
+91	2	O
+92	.	O
+93	**	O
+94	Silver	O
+95	Medal	O
+96	**:	O
+97	Soviet	B-Silver
+98	Union	I-Silver
+99	-	O
+100	Sergei	O
+101	Tarakanov	O
+102	-	O
+103	Alexander	O
+104	Belostenny	O
+105	-	O
+106	Valeri	O
+107	Tikhonenko	O
+108	-	O
+109	Vladimir	O
+110	Tkachenko	O
+111	-	O
+112	Sergei	O
+113	Babkov	O
+114	-	O
+115	Anatoly	O
+116	Myshkin	O
+117	-	O
+118	Alexander	O
+119	Volkov	O
+120	-	O
+121	Valeri	O
+122	Goborov	O
+123	-	O
+124	Igors	O
+125	Miglinieks	O
+126	-	O
+127	Valdemaras	O
+128	Chomičius	O
+129	-	O
+130	Valdemaras	O
+131	Sabonis	O
+132	-	O
+133	Šarūnas	O
+134	Marčiulionis	O
+135	3	O
+136	.	O
+137	**	O
+138	Bronze	O
+139	Medal	O
+140	**:	O
+141	Yugoslavia	B-Bronze
+142	-	O
+143	Dražen	O
+144	Petrović	O
+145	-	O
+146	Toni	O
+147	Kukoč	O
+148	-	O
+149	Zoran	O
+150	Savic	O
+151	-	O
+152	Zarko	O
+153	Paspalj	O
+154	-	O
+155	Jure	O
+156	Zdovc	O
+157	-	O
+158	Franjo	O
+159	Arapović	O
+160	-	O
+161	Aza	O
+162	Petrovic	O
+163	-	O
+164	Dubravko	O
+165	Šimo	O
+166	-	O
+167	Stojko	O
+168	Vranković	O
+169	-	O
+170	Zoran	O
+171	Radović	O
+172	-	O
+173	Zoran	O
+174	Savić	O
+175	-	O
+176	Vlade	O
+177	Divac	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Women's Basketball event at the 1988 olympic games?The Women's Basketball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Anne Donovan, Cynthia Cooper, Teresa Edwards, Kamie Ethridge, Katrina McClain, Jennifer Gillom, Lynette Woodard, Stephanie White, Andrea Lloyd, Dawn Staley, Victoria Bullett, and Cathy Boswell.
+2. **Silver Medal**: Yugoslavia
+   - Players: Mersada Bećirspahić, Stojanka Vranes, Mersedeh Hadžiabdić, Albina Galic, Danira Nakić, Jelica Komnenović, Marija Tonković, Zorica Đurković, Gordana Adžić, Vesna Despotović, Marija Petronijević, and Anđelija Arbutina.
+3. **Bronze Medal**: China
+   - Players: Zheng Haixia, Liu Jun, Song Xiaoli, Cong Xuedi, Liu Qing, Wang Fang, Zhang Yali, Zheng Hongliang, Liu Ailing, Zhang Lina, Liu Junhong, and Zheng Dongmei.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	1988	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Seoul	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Players	O
+57	:	O
+58	Anne	O
+59	Donovan	O
+60	,	O
+61	Cynthia	O
+62	Cooper	O
+63	,	O
+64	Teresa	O
+65	Edwards	O
+66	,	O
+67	Kamie	O
+68	Ethridge	O
+69	,	O
+70	Katrina	O
+71	McClain	O
+72	,	O
+73	Jennifer	O
+74	Gillom	O
+75	,	O
+76	Lynette	O
+77	Woodard	O
+78	,	O
+79	Stephanie	O
+80	White	O
+81	,	O
+82	Andrea	O
+83	Lloyd	O
+84	,	O
+85	Dawn	O
+86	Staley	O
+87	,	O
+88	Victoria	O
+89	Bullett	O
+90	,	O
+91	and	O
+92	Cathy	O
+93	Boswell	O
+94	.	O
+95	2	O
+96	.	O
+97	**	O
+98	Silver	O
+99	Medal	O
+100	**:	O
+101	Yugoslavia	B-Silver
+102	-	O
+103	Players	O
+104	:	O
+105	Mersada	O
+106	Bećirspahić	O
+107	,	O
+108	Stojanka	O
+109	Vranes	O
+110	,	O
+111	Mersedeh	O
+112	Hadžiabdić	O
+113	,	O
+114	Albina	O
+115	Galic	O
+116	,	O
+117	Danira	O
+118	Nakić	O
+119	,	O
+120	Jelica	O
+121	Komnenović	O
+122	,	O
+123	Marija	O
+124	Tonković	O
+125	,	O
+126	Zorica	O
+127	Đurković	O
+128	,	O
+129	Gordana	O
+130	Adžić	O
+131	,	O
+132	Vesna	O
+133	Despotović	O
+134	,	O
+135	Marija	O
+136	Petronijević	O
+137	,	O
+138	and	O
+139	Anđelija	O
+140	Arbutina	O
+141	.	O
+142	3	O
+143	.	O
+144	**	O
+145	Bronze	O
+146	Medal	O
+147	**:	O
+148	China	B-Bronze
+149	-	O
+150	Players	O
+151	:	O
+152	Zheng	O
+153	Haixia	O
+154	,	O
+155	Liu	O
+156	Jun	O
+157	,	O
+158	Song	O
+159	Xiaoli	O
+160	,	O
+161	Cong	O
+162	Xuedi	O
+163	,	O
+164	Liu	O
+165	Qing	O
+166	,	O
+167	Wang	O
+168	Fang	O
+169	,	O
+170	Zhang	O
+171	Yali	O
+172	,	O
+173	Zheng	O
+174	Hongliang	O
+175	,	O
+176	Liu	O
+177	Ailing	O
+178	,	O
+179	Zhang	O
+180	Lina	O
+181	,	O
+182	Liu	O
+183	Junhong	O
+184	,	O
+185	and	O
+186	Zheng	O
+187	Dongmei	O
+188	.	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 1988 olympic games?The Men's Rowing Coxed Eights event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - David Krmpotich
+   - Jonathan Smith
+   - Thomas Bohrer
+   - Gregory Spranger
+   - Kevin Still
+   - Joseph Spano
+   - Edward Ives
+   - Theodore Yohannes
+   - John Terwilliger (cox)
+2. **Silver Medal:** East Germany
+   - Thomas Greiner
+   - Olaf Förster
+   - Thomas Möllenkamp
+   - Matthias Mellinghaus
+   - Uwe Mund
+   - Peter Hoeger
+   - Detlef Kirchhoff
+   - Frank Klawonn
+   - Frank Richter (cox)
+3. **Bronze Medal:** Soviet Union
+   - Vasily Tikhonov
+   - Dmitriy Rozinkevic
+   - Siarhei Maslouski
+   - Ihar Marchanka
+   - Aliaksandr Lukianenka
+   - Siarhei Varnenchyk
+   - Aliaksandr Adashkevich
+   - Siarhei Silchanka
+   - Aliaksandr Tihonovich (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	:**	O
+57	United	B-Gold
+58	States	I-Gold
+59	-	O
+60	David	O
+61	Krmpotich	O
+62	-	O
+63	Jonathan	O
+64	Smith	O
+65	-	O
+66	Thomas	O
+67	Bohrer	O
+68	-	O
+69	Gregory	O
+70	Spranger	O
+71	-	O
+72	Kevin	O
+73	Still	O
+74	-	O
+75	Joseph	O
+76	Spano	O
+77	-	O
+78	Edward	O
+79	Ives	O
+80	-	O
+81	Theodore	O
+82	Yohannes	O
+83	-	O
+84	John	O
+85	Terwilliger	O
+86	(	O
+87	cox	O
+88	)	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	:**	O
+95	East	B-Silver
+96	Germany	I-Silver
+97	-	O
+98	Thomas	O
+99	Greiner	O
+100	-	O
+101	Olaf	O
+102	Förster	O
+103	-	O
+104	Thomas	O
+105	Möllenkamp	O
+106	-	O
+107	Matthias	O
+108	Mellinghaus	O
+109	-	O
+110	Uwe	O
+111	Mund	O
+112	-	O
+113	Peter	O
+114	Hoeger	O
+115	-	O
+116	Detlef	O
+117	Kirchhoff	O
+118	-	O
+119	Frank	O
+120	Klawonn	O
+121	-	O
+122	Frank	O
+123	Richter	O
+124	(	O
+125	cox	O
+126	)	O
+127	3	O
+128	.	O
+129	**	O
+130	Bronze	O
+131	Medal	O
+132	:**	O
+133	Soviet	B-Bronze
+134	Union	I-Bronze
+135	-	O
+136	Vasily	O
+137	Tikhonov	O
+138	-	O
+139	Dmitriy	O
+140	Rozinkevic	O
+141	-	O
+142	Siarhei	O
+143	Maslouski	O
+144	-	O
+145	Ihar	O
+146	Marchanka	O
+147	-	O
+148	Aliaksandr	O
+149	Lukianenka	O
+150	-	O
+151	Siarhei	O
+152	Varnenchyk	O
+153	-	O
+154	Aliaksandr	O
+155	Adashkevich	O
+156	-	O
+157	Siarhei	O
+158	Silchanka	O
+159	-	O
+160	Aliaksandr	O
+161	Tihonovich	O
+162	(	O
+163	cox	O
+164	)	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 1988 olympic games?The Women's Rowing Coxed Eights event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Betsy Beard
+   - Carie Graves
+   - Mary McCagg
+   - Kathleen Nordstrom
+   - Brenda Lee
+   - Victoria Dupont
+   - Sharon Miller
+   - Virginia Gilder
+   - Danica Sanborn (cox)
+2. **Silver Medal**: Romania
+   - Doina Robu
+   - Ecaterina Oancia
+   - Anișoara Sorohan
+   - Ioana Badea
+   - Veronica Necula
+   - Maria Păduraru
+   - Doina Ciucă
+   - Elena Horvat
+   - Ecaterina Oancia (cox)
+3. **Bronze Medal**: East Germany
+   - Kersten Neisser
+   - Gabriele Mehl
+   - Carola Lichey
+   - Birgit Peter
+   - Kersten Peters
+   - Ute Wild
+   - Anja Kluge
+   - Ute Stange
+   - Marita Sandig (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	United	B-Gold
+58	States	I-Gold
+59	-	O
+60	Betsy	O
+61	Beard	O
+62	-	O
+63	Carie	O
+64	Graves	O
+65	-	O
+66	Mary	O
+67	McCagg	O
+68	-	O
+69	Kathleen	O
+70	Nordstrom	O
+71	-	O
+72	Brenda	O
+73	Lee	O
+74	-	O
+75	Victoria	O
+76	Dupont	O
+77	-	O
+78	Sharon	O
+79	Miller	O
+80	-	O
+81	Virginia	O
+82	Gilder	O
+83	-	O
+84	Danica	O
+85	Sanborn	O
+86	(	O
+87	cox	O
+88	)	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	**:	O
+95	Romania	B-Silver
+96	-	O
+97	Doina	O
+98	Robu	O
+99	-	O
+100	Ecaterina	O
+101	Oancia	O
+102	-	O
+103	Anișoara	O
+104	Sorohan	O
+105	-	O
+106	Ioana	O
+107	Badea	O
+108	-	O
+109	Veronica	O
+110	Necula	O
+111	-	O
+112	Maria	O
+113	Păduraru	O
+114	-	O
+115	Doina	O
+116	Ciucă	O
+117	-	O
+118	Elena	O
+119	Horvat	O
+120	-	O
+121	Ecaterina	O
+122	Oancia	O
+123	(	O
+124	cox	O
+125	)	O
+126	3	O
+127	.	O
+128	**	O
+129	Bronze	O
+130	Medal	O
+131	**:	O
+132	East	B-Bronze
+133	Germany	I-Bronze
+134	-	O
+135	Kersten	O
+136	Neisser	O
+137	-	O
+138	Gabriele	O
+139	Mehl	O
+140	-	O
+141	Carola	O
+142	Lichey	O
+143	-	O
+144	Birgit	O
+145	Peter	O
+146	-	O
+147	Kersten	O
+148	Peters	O
+149	-	O
+150	Ute	O
+151	Wild	O
+152	-	O
+153	Anja	O
+154	Kluge	O
+155	-	O
+156	Ute	O
+157	Stange	O
+158	-	O
+159	Marita	O
+160	Sandig	O
+161	(	O
+162	cox	O
+163	)	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Men's Rowing Coxed Fours event at the 1988 olympic games?The Men's Rowing Coxed Fours event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - David Krmpotich
+   - Jonathan Smith
+   - Thomas Bohrer
+   - Bruce Ibbetson
+   - Michael Teti (coxswain)
+2. **Silver Medal**: East Germany
+   - Olaf Förster
+   - Thomas Greiner
+   - Ralf Brudel
+   - Uwe Mund
+   - Frank Richter (coxswain)
+3. **Bronze Medal**: West Germany
+   - Ansgar Wessling
+   - Detlef Kirchhoff
+   - Thomas Möllenkamp
+   - Peter Kersten
+   - Michael Scheer (coxswain)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Fours	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Fours	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	United	B-Gold
+58	States	I-Gold
+59	-	O
+60	David	O
+61	Krmpotich	O
+62	-	O
+63	Jonathan	O
+64	Smith	O
+65	-	O
+66	Thomas	O
+67	Bohrer	O
+68	-	O
+69	Bruce	O
+70	Ibbetson	O
+71	-	O
+72	Michael	O
+73	Teti	O
+74	(	O
+75	coxswain	O
+76	)	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	East	B-Silver
+84	Germany	I-Silver
+85	-	O
+86	Olaf	O
+87	Förster	O
+88	-	O
+89	Thomas	O
+90	Greiner	O
+91	-	O
+92	Ralf	O
+93	Brudel	O
+94	-	O
+95	Uwe	O
+96	Mund	O
+97	-	O
+98	Frank	O
+99	Richter	O
+100	(	O
+101	coxswain	O
+102	)	O
+103	3	O
+104	.	O
+105	**	O
+106	Bronze	O
+107	Medal	O
+108	**:	O
+109	West	B-Bronze
+110	Germany	I-Bronze
+111	-	O
+112	Ansgar	O
+113	Wessling	O
+114	-	O
+115	Detlef	O
+116	Kirchhoff	O
+117	-	O
+118	Thomas	O
+119	Möllenkamp	O
+120	-	O
+121	Peter	O
+122	Kersten	O
+123	-	O
+124	Michael	O
+125	Scheer	O
+126	(	O
+127	coxswain	O
+128	)	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Women's Rowing Coxed Fours event at the 1988 olympic games?The Women's Rowing Coxed Fours event at the 1988 Olympic Games in Seoul, South Korea, was won by the team from Romania. Here are the medalists:
+1. **Gold Medal**: Romania
+   - Rodica Arba, Olga Homeghi, Veronica Necula, Ecaterina Oancia, and Ecaterina Dumitru (cox)
+2. **Silver Medal**: West Germany
+   - Birgit Peter, Carola Lenz, Karin Metze, Sybille Schmidt, and Christiane Saß (cox)
+3. **Bronze Medal**: Canada
+   - Megan Delehanty, Marnie McBean, Brenda Taylor, Jessica Monroe, and Lesley Thompson (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Fours	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Fours	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	Romania	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	Romania	B-Gold
+59	-	O
+60	Rodica	O
+61	Arba	O
+62	,	O
+63	Olga	O
+64	Homeghi	O
+65	,	O
+66	Veronica	O
+67	Necula	O
+68	,	O
+69	Ecaterina	O
+70	Oancia	O
+71	,	O
+72	and	O
+73	Ecaterina	O
+74	Dumitru	O
+75	(	O
+76	cox	O
+77	)	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	West	B-Silver
+85	Germany	I-Silver
+86	-	O
+87	Birgit	O
+88	Peter	O
+89	,	O
+90	Carola	O
+91	Lenz	O
+92	,	O
+93	Karin	O
+94	Metze	O
+95	,	O
+96	Sybille	O
+97	Schmidt	O
+98	,	O
+99	and	O
+100	Christiane	O
+101	Saß	O
+102	(	O
+103	cox	O
+104	)	O
+105	3	O
+106	.	O
+107	**	O
+108	Bronze	O
+109	Medal	O
+110	**:	O
+111	Canada	B-Bronze
+112	-	O
+113	Megan	O
+114	Delehanty	O
+115	,	O
+116	Marnie	O
+117	McBean	O
+118	,	O
+119	Brenda	O
+120	Taylor	O
+121	,	O
+122	Jessica	O
+123	Monroe	O
+124	,	O
+125	and	O
+126	Lesley	O
+127	Thompson	O
+128	(	O
+129	cox	O
+130	)	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Men's Field Hockey event at the 1988 olympic games?The Men's Field Hockey event at the 1988 Summer Olympics in Seoul, South Korea, was won by the team from Australia. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Team members: Warren Birmingham, Lee Bodimeade, Ashley Carey, Warren Frecklington, Lachlan Dreher, Graham Reid, Michael Brennan, David Wansbrough, Lee Powell, Peter Murphy, Craig Davies, John bestall, Jay Stacy, Grant Smith, Dean Evans, and Colin Batch.
+2. **Silver Medal**: Pakistan
+   - Team members: Shahbaz Ahmed, Muhammad Qamar Ibrahim, Muhammad Asif Bajwa, Muhammad Akhlaq Ahmed, Muhammad Khalid, Muhammad Qamar Ibrahim, Muhammad Shahbaz, Muhammad Akram, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Akram, Muhammad Qamar Ibrahim, Muhammad Shahbaz, Muhammad Akram, Muhammad Qamar Ibrahim, and Muhammad Shahbaz.
+3. **Bronze Medal**: Great Britain
+   - Team members: Sean Kerly, Robert Thompson, Stephen Martin, Jason Laslett, Stephen Batchelor, Robert Hill, Paul Reeve, Stephen Powell, Richard Leman, David Luckes, Stephen Batchelor, Robert Hill, Paul Reeve, Stephen Powell, Richard Leman, and David Luckes.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	Australia	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	Australia	B-Gold
+57	-	O
+58	Team	O
+59	members	O
+60	:	O
+61	Warren	O
+62	Birmingham	O
+63	,	O
+64	Lee	O
+65	Bodimeade	O
+66	,	O
+67	Ashley	O
+68	Carey	O
+69	,	O
+70	Warren	O
+71	Frecklington	O
+72	,	O
+73	Lachlan	O
+74	Dreher	O
+75	,	O
+76	Graham	O
+77	Reid	O
+78	,	O
+79	Michael	O
+80	Brennan	O
+81	,	O
+82	David	O
+83	Wansbrough	O
+84	,	O
+85	Lee	O
+86	Powell	O
+87	,	O
+88	Peter	O
+89	Murphy	O
+90	,	O
+91	Craig	O
+92	Davies	O
+93	,	O
+94	John	O
+95	bestall	O
+96	,	O
+97	Jay	O
+98	Stacy	O
+99	,	O
+100	Grant	O
+101	Smith	O
+102	,	O
+103	Dean	O
+104	Evans	O
+105	,	O
+106	and	O
+107	Colin	O
+108	Batch	O
+109	.	O
+110	2	O
+111	.	O
+112	**	O
+113	Silver	O
+114	Medal	O
+115	**:	O
+116	Pakistan	B-Silver
+117	-	O
+118	Team	O
+119	members	O
+120	:	O
+121	Shahbaz	O
+122	Ahmed	O
+123	,	O
+124	Muhammad	O
+125	Qamar	O
+126	Ibrahim	O
+127	,	O
+128	Muhammad	O
+129	Asif	O
+130	Bajwa	O
+131	,	O
+132	Muhammad	O
+133	Akhlaq	O
+134	Ahmed	O
+135	,	O
+136	Muhammad	O
+137	Khalid	O
+138	,	O
+139	Muhammad	O
+140	Qamar	O
+141	Ibrahim	O
+142	,	O
+143	Muhammad	O
+144	Shahbaz	O
+145	,	O
+146	Muhammad	O
+147	Akram	O
+148	,	O
+149	Muhammad	O
+150	Qamar	O
+151	Ibrahim	O
+152	,	O
+153	Muhammad	O
+154	Khalid	O
+155	,	O
+156	Muhammad	O
+157	Akram	O
+158	,	O
+159	Muhammad	O
+160	Qamar	O
+161	Ibrahim	O
+162	,	O
+163	Muhammad	O
+164	Shahbaz	O
+165	,	O
+166	Muhammad	O
+167	Akram	O
+168	,	O
+169	Muhammad	O
+170	Qamar	O
+171	Ibrahim	O
+172	,	O
+173	and	O
+174	Muhammad	O
+175	Shahbaz	O
+176	.	O
+177	3	O
+178	.	O
+179	**	O
+180	Bronze	O
+181	Medal	O
+182	**:	O
+183	Great	B-Bronze
+184	Britain	I-Bronze
+185	-	O
+186	Team	O
+187	members	O
+188	:	O
+189	Sean	O
+190	Kerly	O
+191	,	O
+192	Robert	O
+193	Thompson	O
+194	,	O
+195	Stephen	O
+196	Martin	O
+197	,	O
+198	Jason	O
+199	Laslett	O
+200	,	O
+201	Stephen	O
+202	Batchelor	O
+203	,	O
+204	Robert	O
+205	Hill	O
+206	,	O
+207	Paul	O
+208	Reeve	O
+209	,	O
+210	Stephen	O
+211	Powell	O
+212	,	O
+213	Richard	O
+214	Leman	O
+215	,	O
+216	David	O
+217	Luckes	O
+218	,	O
+219	Stephen	O
+220	Batchelor	O
+221	,	O
+222	Robert	O
+223	Hill	O
+224	,	O
+225	Paul	O
+226	Reeve	O
+227	,	O
+228	Stephen	O
+229	Powell	O
+230	,	O
+231	Richard	O
+232	Leman	O
+233	,	O
+234	and	O
+235	David	O
+236	Luckes	O
+237	.	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Women's Field Hockey event at the 1988 olympic games?The Women's Field Hockey event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Team members: Carina Bleeker, Annemieke Fokke, Martine Ohr, Marjolein Eijsvogel, Martine Smit, Carina Bleeker, Cécile Vinke, Marieke van Doorn, Aletta van Manen, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina Bleeker, Cécile Vinke, Annemieke Fokke, Martine Ohr, Carina
+# status = {"0":"accepted"}
+# time (ms) = 11079
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Netherlands	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Netherlands	B-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Carina	O
+60	Bleeker	O
+61	,	O
+62	Annemieke	O
+63	Fokke	O
+64	,	O
+65	Martine	O
+66	Ohr	O
+67	,	O
+68	Marjolein	O
+69	Eijsvogel	O
+70	,	O
+71	Martine	O
+72	Smit	O
+73	,	O
+74	Carina	O
+75	Bleeker	O
+76	,	O
+77	Cécile	O
+78	Vinke	O
+79	,	O
+80	Marieke	O
+81	van	O
+82	Doorn	O
+83	,	O
+84	Aletta	O
+85	van	O
+86	Manen	O
+87	,	O
+88	Annemieke	O
+89	Fokke	O
+90	,	O
+91	Martine	O
+92	Ohr	O
+93	,	O
+94	Carina	O
+95	Bleeker	O
+96	,	O
+97	Cécile	O
+98	Vinke	O
+99	,	O
+100	Annemieke	O
+101	Fokke	O
+102	,	O
+103	Martine	O
+104	Ohr	O
+105	,	O
+106	Carina	O
+107	Bleeker	O
+108	,	O
+109	Cécile	O
+110	Vinke	O
+111	,	O
+112	Annemieke	O
+113	Fokke	O
+114	,	O
+115	Martine	O
+116	Ohr	O
+117	,	O
+118	Carina	O
+119	Bleeker	O
+120	,	O
+121	Cécile	O
+122	Vinke	O
+123	,	O
+124	Annemieke	O
+125	Fokke	O
+126	,	O
+127	Martine	O
+128	Ohr	O
+129	,	O
+130	Carina	O
+131	Bleeker	O
+132	,	O
+133	Cécile	O
+134	Vinke	O
+135	,	O
+136	Annemieke	O
+137	Fokke	O
+138	,	O
+139	Martine	O
+140	Ohr	O
+141	,	O
+142	Carina	O
+143	Bleeker	O
+144	,	O
+145	Cécile	O
+146	Vinke	O
+147	,	O
+148	Annemieke	O
+149	Fokke	O
+150	,	O
+151	Martine	O
+152	Ohr	O
+153	,	O
+154	Carina	O
+155	Bleeker	O
+156	,	O
+157	Cécile	O
+158	Vinke	O
+159	,	O
+160	Annemieke	O
+161	Fokke	O
+162	,	O
+163	Martine	O
+164	Ohr	O
+165	,	O
+166	Carina	O
+167	Bleeker	O
+168	,	O
+169	Cécile	O
+170	Vinke	O
+171	,	O
+172	Annemieke	O
+173	Fokke	O
+174	,	O
+175	Martine	O
+176	Ohr	O
+177	,	O
+178	Carina	O
+179	Bleeker	O
+180	,	O
+181	Cécile	O
+182	Vinke	O
+183	,	O
+184	Annemieke	O
+185	Fokke	O
+186	,	O
+187	Martine	O
+188	Ohr	O
+189	,	O
+190	Carina	O
+191	Bleeker	O
+192	,	O
+193	Cécile	O
+194	Vinke	O
+195	,	O
+196	Annemieke	O
+197	Fokke	O
+198	,	O
+199	Martine	O
+200	Ohr	O
+201	,	O
+202	Carina	O
+203	Bleeker	O
+204	,	O
+205	Cécile	O
+206	Vinke	O
+207	,	O
+208	Annemieke	O
+209	Fokke	O
+210	,	O
+211	Martine	O
+212	Ohr	O
+213	,	O
+214	Carina	O
+215	Bleeker	O
+216	,	O
+217	Cécile	O
+218	Vinke	O
+219	,	O
+220	Annemieke	O
+221	Fokke	O
+222	,	O
+223	Martine	O
+224	Ohr	O
+225	,	O
+226	Carina	O
+227	Bleeker	O
+228	,	O
+229	Cécile	O
+230	Vinke	O
+231	,	O
+232	Annemieke	O
+233	Fokke	O
+234	,	O
+235	Martine	O
+236	Ohr	O
+237	,	O
+238	Carina	O
+239	Bleeker	O
+240	,	O
+241	Cécile	O
+242	Vinke	O
+243	,	O
+244	Annemieke	O
+245	Fokke	O
+246	,	O
+247	Martine	O
+248	Ohr	O
+249	,	O
+250	Carina	O
+251	Bleeker	O
+252	,	O
+253	Cécile	O
+254	Vinke	O
+255	,	O
+256	Annemieke	O
+257	Fokke	O
+258	,	O
+259	Martine	O
+260	Ohr	O
+261	,	O
+262	Carina	O
+263	Bleeker	O
+264	,	O
+265	Cécile	O
+266	Vinke	O
+267	,	O
+268	Annemieke	O
+269	Fokke	O
+270	,	O
+271	Martine	O
+272	Ohr	O
+273	,	O
+274	Carina	O
+275	Bleeker	O
+276	,	O
+277	Cécile	O
+278	Vinke	O
+279	,	O
+280	Annemieke	O
+281	Fokke	O
+282	,	O
+283	Martine	O
+284	Ohr	O
+285	,	O
+286	Carina	O
+287	Bleeker	O
+288	,	O
+289	Cécile	O
+290	Vinke	O
+291	,	O
+292	Annemieke	O
+293	Fokke	O
+294	,	O
+295	Martine	O
+296	Ohr	O
+297	,	O
+298	Carina	O
+299	Bleeker	O
+300	,	O
+301	Cécile	O
+302	Vinke	O
+303	,	O
+304	Annemieke	O
+305	Fokke	O
+306	,	O
+307	Martine	O
+308	Ohr	O
+309	,	O
+310	Carina	O
+311	Bleeker	O
+312	,	O
+313	Cécile	O
+314	Vinke	O
+315	,	O
+316	Annemieke	O
+317	Fokke	O
+318	,	O
+319	Martine	O
+320	Ohr	O
+321	,	O
+322	Carina	O
+323	Bleeker	O
+324	,	O
+325	Cécile	O
+326	Vinke	O
+327	,	O
+328	Annemieke	O
+329	Fokke	O
+330	,	O
+331	Martine	O
+332	Ohr	O
+333	,	O
+334	Carina	O
+335	Bleeker	O
+336	,	O
+337	Cécile	O
+338	Vinke	O
+339	,	O
+340	Annemieke	O
+341	Fokke	O
+342	,	O
+343	Martine	O
+344	Ohr	O
+345	,	O
+346	Carina	O
+347	Bleeker	O
+348	,	O
+349	Cécile	O
+350	Vinke	O
+351	,	O
+352	Annemieke	O
+353	Fokke	O
+354	,	O
+355	Martine	O
+356	Ohr	O
+357	,	O
+358	Carina	O
+359	Bleeker	O
+360	,	O
+361	Cécile	O
+362	Vinke	O
+363	,	O
+364	Annemieke	O
+365	Fokke	O
+366	,	O
+367	Martine	O
+368	Ohr	O
+369	,	O
+370	Carina	O
+371	Bleeker	O
+372	,	O
+373	Cécile	O
+374	Vinke	O
+375	,	O
+376	Annemieke	O
+377	Fokke	O
+378	,	O
+379	Martine	O
+380	Ohr	O
+381	,	O
+382	Carina	O
+383	Bleeker	O
+384	,	O
+385	Cécile	O
+386	Vinke	O
+387	,	O
+388	Annemieke	O
+389	Fokke	O
+390	,	O
+391	Martine	O
+392	Ohr	O
+393	,	O
+394	Carina	O
+395	Bleeker	O
+396	,	O
+397	Cécile	O
+398	Vinke	O
+399	,	O
+400	Annemieke	O
+401	Fokke	O
+402	,	O
+403	Martine	O
+404	Ohr	O
+405	,	O
+406	Carina	O
+407	Bleeker	O
+408	,	O
+409	Cécile	O
+410	Vinke	O
+411	,	O
+412	Annemieke	O
+413	Fokke	O
+414	,	O
+415	Martine	O
+416	Ohr	O
+417	,	O
+418	Carina	O
+419	Bleeker	O
+420	,	O
+421	Cécile	O
+422	Vinke	O
+423	,	O
+424	Annemieke	O
+425	Fokke	O
+426	,	O
+427	Martine	O
+428	Ohr	O
+429	,	O
+430	Carina	O
+431	Bleeker	O
+432	,	O
+433	Cécile	O
+434	Vinke	O
+435	,	O
+436	Annemieke	O
+437	Fokke	O
+438	,	O
+439	Martine	O
+440	Ohr	O
+441	,	O
+442	Carina	O
+443	Bleeker	O
+444	,	O
+445	Cécile	O
+446	Vinke	O
+447	,	O
+448	Annemieke	O
+449	Fokke	O
+450	,	O
+451	Martine	O
+452	Ohr	O
+453	,	O
+454	Carina	O
+455	Bleeker	O
+456	,	O
+457	Cécile	O
+458	Vinke	O
+459	,	O
+460	Annemieke	O
+461	Fokke	O
+462	,	O
+463	Martine	O
+464	Ohr	O
+465	,	O
+466	Carina	O
+467	Bleeker	O
+468	,	O
+469	Cécile	O
+470	Vinke	O
+471	,	O
+472	Annemieke	O
+473	Fokke	O
+474	,	O
+475	Martine	O
+476	Ohr	O
+477	,	O
+478	Carina	O
+479	Bleeker	O
+480	,	O
+481	Cécile	O
+482	Vinke	O
+483	,	O
+484	Annemieke	O
+485	Fokke	O
+486	,	O
+487	Martine	O
+488	Ohr	O
+489	,	O
+490	Carina	O
+491	Bleeker	O
+492	,	O
+493	Cécile	O
+494	Vinke	O
+495	,	O
+496	Annemieke	O
+497	Fokke	O
+498	,	O
+499	Martine	O
+500	Ohr	O
+501	,	O
+502	Carina	O
+503	Bleeker	O
+504	,	O
+505	Cécile	O
+506	Vinke	O
+507	,	O
+508	Annemieke	O
+509	Fokke	O
+510	,	O
+511	Martine	O
+512	Ohr	O
+513	,	O
+514	Carina	O
+515	Bleeker	O
+516	,	O
+517	Cécile	O
+518	Vinke	O
+519	,	O
+520	Annemieke	O
+521	Fokke	O
+522	,	O
+523	Martine	O
+524	Ohr	O
+525	,	O
+526	Carina	O
+527	Bleeker	O
+528	,	O
+529	Cécile	O
+530	Vinke	O
+531	,	O
+532	Annemieke	O
+533	Fokke	O
+534	,	O
+535	Martine	O
+536	Ohr	O
+537	,	O
+538	Carina	O
+539	Bleeker	O
+540	,	O
+541	Cécile	O
+542	Vinke	O
+543	,	O
+544	Annemieke	O
+545	Fokke	O
+546	,	O
+547	Martine	O
+548	Ohr	O
+549	,	O
+550	Carina	O
+551	Bleeker	O
+552	,	O
+553	Cécile	O
+554	Vinke	O
+555	,	O
+556	Annemieke	O
+557	Fokke	O
+558	,	O
+559	Martine	O
+560	Ohr	O
+561	,	O
+562	Carina	O
+563	Bleeker	O
+564	,	O
+565	Cécile	O
+566	Vinke	O
+567	,	O
+568	Annemieke	O
+569	Fokke	O
+570	,	O
+571	Martine	O
+572	Ohr	O
+573	,	O
+574	Carina	O
+575	Bleeker	O
+576	,	O
+577	Cécile	O
+578	Vinke	O
+579	,	O
+580	Annemieke	O
+581	Fokke	O
+582	,	O
+583	Martine	O
+584	Ohr	O
+585	,	O
+586	Carina	O
+587	Bleeker	O
+588	,	O
+589	Cécile	O
+590	Vinke	O
+591	,	O
+592	Annemieke	O
+593	Fokke	O
+594	,	O
+595	Martine	O
+596	Ohr	O
+597	,	O
+598	Carina	O
+599	Bleeker	O
+600	,	O
+601	Cécile	O
+602	Vinke	O
+603	,	O
+604	Annemieke	O
+605	Fokke	O
+606	,	O
+607	Martine	O
+608	Ohr	O
+609	,	O
+610	Carina	O
+611	Bleeker	O
+612	,	O
+613	Cécile	O
+614	Vinke	O
+615	,	O
+616	Annemieke	O
+617	Fokke	O
+618	,	O
+619	Martine	O
+620	Ohr	O
+621	,	O
+622	Carina	O
+623	Bleeker	O
+624	,	O
+625	Cécile	O
+626	Vinke	O
+627	,	O
+628	Annemieke	O
+629	Fokke	O
+630	,	O
+631	Martine	O
+632	Ohr	O
+633	,	O
+634	Carina	O
+635	Bleeker	O
+636	,	O
+637	Cécile	O
+638	Vinke	O
+639	,	O
+640	Annemieke	O
+641	Fokke	O
+642	,	O
+643	Martine	O
+644	Ohr	O
+645	,	O
+646	Carina	O
+647	Bleeker	O
+648	,	O
+649	Cécile	O
+650	Vinke	O
+651	,	O
+652	Annemieke	O
+653	Fokke	O
+654	,	O
+655	Martine	O
+656	Ohr	O
+657	,	O
+658	Carina	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 1988 olympic games?The Men's Fencing Foil, Team event at the 1988 Olympic Games in Seoul, South Korea, was won by the Soviet Union. Here's the medal breakdown:
+1. Gold Medal: Soviet Union (Anatoliy Medvedev, Ilgar Mamedov, Andrey Shuvalov, and Vladimir Reznichenko)
+2. Silver Medal: West Germany (Thomas Gerullis, Ulrich Schreck, Matthias Behr, and Klaus Haertter)
+3. Bronze Medal: France (Philippe Omnès, Patrick Groc, Jean-Michel Henry, and Frédéric Pietruszka)
+# status = {"0":"accepted"}
+# time (ms) = 1270
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Foil	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	1988	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Seoul	O
+37	,	O
+38	South	O
+39	Korea	O
+40	,	O
+41	was	O
+42	won	O
+43	by	O
+44	the	O
+45	Soviet	O
+46	Union	O
+47	.	O
+48	Here	O
+49	'	O
+50	s	O
+51	the	O
+52	medal	O
+53	breakdown	O
+54	:	O
+55	1	O
+56	.	O
+57	Gold	O
+58	Medal	O
+59	:	O
+60	Soviet	B-Gold
+61	Union	I-Gold
+62	(	O
+63	Anatoliy	O
+64	Medvedev	O
+65	,	O
+66	Ilgar	O
+67	Mamedov	O
+68	,	O
+69	Andrey	O
+70	Shuvalov	O
+71	,	O
+72	and	O
+73	Vladimir	O
+74	Reznichenko	O
+75	)	O
+76	2	O
+77	.	O
+78	Silver	O
+79	Medal	O
+80	:	O
+81	West	B-Silver
+82	Germany	I-Silver
+83	(	O
+84	Thomas	O
+85	Gerullis	O
+86	,	O
+87	Ulrich	O
+88	Schreck	O
+89	,	O
+90	Matthias	O
+91	Behr	O
+92	,	O
+93	and	O
+94	Klaus	O
+95	Haertter	O
+96	)	O
+97	3	O
+98	.	O
+99	Bronze	O
+100	Medal	O
+101	:	O
+102	France	B-Bronze
+103	(	O
+104	Philippe	O
+105	Omnès	O
+106	,	O
+107	Patrick	O
+108	Groc	O
+109	,	O
+110	Jean-Michel	O
+111	Henry	O
+112	,	O
+113	and	O
+114	Frédéric	O
+115	Pietruszka	O
+116	)	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 1988 olympic games?The Women's Fencing Foil, Team event at the 1988 Olympic Games in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Tatyana Sadovskaya
+   - Marina Vezdukhina
+   - Yelena Glikina
+   - Olga Velichkina
+2. **Silver Medal**: West Germany
+   - Anja Fichtel-Mauritz
+   - Zita Funkenhauser
+   - Anke Krause
+   - Sabine Bau
+3. **Bronze Medal**: Italy
+   - Dorina Vaccaroni
+   - Margherita Zalaffi
+   - Francesca Bortolozzi
+   - Lucia Traversa
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Foil	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	1988	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Seoul	O
+37	,	O
+38	South	O
+39	Korea	O
+40	,	O
+41	was	O
+42	won	O
+43	by	O
+44	the	O
+45	Soviet	O
+46	Union	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Soviet	B-Gold
+60	Union	I-Gold
+61	-	O
+62	Tatyana	O
+63	Sadovskaya	O
+64	-	O
+65	Marina	O
+66	Vezdukhina	O
+67	-	O
+68	Yelena	O
+69	Glikina	O
+70	-	O
+71	Olga	O
+72	Velichkina	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	West	B-Silver
+80	Germany	I-Silver
+81	-	O
+82	Anja	O
+83	Fichtel-Mauritz	O
+84	-	O
+85	Zita	O
+86	Funkenhauser	O
+87	-	O
+88	Anke	O
+89	Krause	O
+90	-	O
+91	Sabine	O
+92	Bau	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Italy	B-Bronze
+100	-	O
+101	Dorina	O
+102	Vaccaroni	O
+103	-	O
+104	Margherita	O
+105	Zalaffi	O
+106	-	O
+107	Francesca	O
+108	Bortolozzi	O
+109	-	O
+110	Lucia	O
+111	Traversa	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Men's Handball event at the 1988 olympic games?The Men's Handball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Team: Anzor Kiknadze, Vladimir Belov, Yuriy Shevtsov, Mikhail Isakov, Aleksandr Karshakevich, Aleksandr Anpilogov, Vladimir Repiev, Mikhail Vasilyev, Aleksandr Tuchkin, Sergey Kushev, Vladimir Belyaev, Aleksandr Rymanov, Aleksandr Kuleshov, Vladimir Skvortsov, and Vladimir Berezin.
+2. **Silver Medal**: Yugoslavia
+   - Team: Mirko Bašić, Veselin Vujović, Iztok Puc, Rolando Pušnik, Boris Jarak, Zlatko Saračević, Milan Kalina, Goran Perkovac, Irfan Smajlagić, Ermin Velić, Veselin Vuković, Jožef Holpert, Momir Rnić, Zlatko Čupić, and Mile Isaković.
+3. **Bronze Medal**: West Germany
+   - Team: Andreas Thiel, Klaus-Dieter Petersen, Thomas Springel, Michael Roth, Michael Lischka, Andreas Thiel, Michael Roth, Michael Lischka, Andreas Thiel, Thomas Springel, Klaus-Dieter Petersen, Dirk Beuchler, Frank-Michael Wahl, Andreas Thiel, Michael Roth, Michael Lischka, and Thomas Springel.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	1988	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Seoul	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	Soviet	O
+40	Union	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Soviet	B-Gold
+54	Union	I-Gold
+55	-	O
+56	Team	O
+57	:	O
+58	Anzor	O
+59	Kiknadze	O
+60	,	O
+61	Vladimir	O
+62	Belov	O
+63	,	O
+64	Yuriy	O
+65	Shevtsov	O
+66	,	O
+67	Mikhail	O
+68	Isakov	O
+69	,	O
+70	Aleksandr	O
+71	Karshakevich	O
+72	,	O
+73	Aleksandr	O
+74	Anpilogov	O
+75	,	O
+76	Vladimir	O
+77	Repiev	O
+78	,	O
+79	Mikhail	O
+80	Vasilyev	O
+81	,	O
+82	Aleksandr	O
+83	Tuchkin	O
+84	,	O
+85	Sergey	O
+86	Kushev	O
+87	,	O
+88	Vladimir	O
+89	Belyaev	O
+90	,	O
+91	Aleksandr	O
+92	Rymanov	O
+93	,	O
+94	Aleksandr	O
+95	Kuleshov	O
+96	,	O
+97	Vladimir	O
+98	Skvortsov	O
+99	,	O
+100	and	O
+101	Vladimir	O
+102	Berezin	O
+103	.	O
+104	2	O
+105	.	O
+106	**	O
+107	Silver	O
+108	Medal	O
+109	**:	O
+110	Yugoslavia	B-Silver
+111	-	O
+112	Team	O
+113	:	O
+114	Mirko	O
+115	Bašić	O
+116	,	O
+117	Veselin	O
+118	Vujović	O
+119	,	O
+120	Iztok	O
+121	Puc	O
+122	,	O
+123	Rolando	O
+124	Pušnik	O
+125	,	O
+126	Boris	O
+127	Jarak	O
+128	,	O
+129	Zlatko	O
+130	Saračević	O
+131	,	O
+132	Milan	O
+133	Kalina	O
+134	,	O
+135	Goran	O
+136	Perkovac	O
+137	,	O
+138	Irfan	O
+139	Smajlagić	O
+140	,	O
+141	Ermin	O
+142	Velić	O
+143	,	O
+144	Veselin	O
+145	Vuković	O
+146	,	O
+147	Jožef	O
+148	Holpert	O
+149	,	O
+150	Momir	O
+151	Rnić	O
+152	,	O
+153	Zlatko	O
+154	Čupić	O
+155	,	O
+156	and	O
+157	Mile	O
+158	Isaković	O
+159	.	O
+160	3	O
+161	.	O
+162	**	O
+163	Bronze	O
+164	Medal	O
+165	**:	O
+166	West	B-Bronze
+167	Germany	I-Bronze
+168	-	O
+169	Team	O
+170	:	O
+171	Andreas	O
+172	Thiel	O
+173	,	O
+174	Klaus-Dieter	O
+175	Petersen	O
+176	,	O
+177	Thomas	O
+178	Springel	O
+179	,	O
+180	Michael	O
+181	Roth	O
+182	,	O
+183	Michael	O
+184	Lischka	O
+185	,	O
+186	Andreas	O
+187	Thiel	O
+188	,	O
+189	Michael	O
+190	Roth	O
+191	,	O
+192	Michael	O
+193	Lischka	O
+194	,	O
+195	Andreas	O
+196	Thiel	O
+197	,	O
+198	Thomas	O
+199	Springel	O
+200	,	O
+201	Klaus-Dieter	O
+202	Petersen	O
+203	,	O
+204	Dirk	O
+205	Beuchler	O
+206	,	O
+207	Frank-Michael	O
+208	Wahl	O
+209	,	O
+210	Andreas	O
+211	Thiel	O
+212	,	O
+213	Michael	O
+214	Roth	O
+215	,	O
+216	Michael	O
+217	Lischka	O
+218	,	O
+219	and	O
+220	Thomas	O
+221	Springel	O
+222	.	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Women's Handball event at the 1988 olympic games?The Women's Handball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Team members: Tatyana Khmyrova, Lyubov Odinokova, Svitlana Mankova, Yekaterina Serebryakova, Yekaterina Davydova, Yelena Guryeva, Yelena Nemashkalo, Yelena Tovstoganyuk, Galina Loginova, Yelena Yushkova, Yelena Golovkina, Yelena Nemtova, Yelena Novikova, Yelena Russkikh, Yelena Tushkova, and coach Vladimir Anpilogov.
+2. **Silver Medal**: South Korea
+   - Team members: Lee Soon-young, Kim Kyung-sook, Kim Kyung-hee, Kim Hwa-sook, Kim Jeong-mi, Kim Mi-sook, Lee Ho-jung, Lee Young-ja, Lee Mi-kyung, Lee Ae-ja, Lee Mi-sook, Park Jeong-lim, Park Jeong-sook, Park Mi-sook, Shin Yeong-sook, and coach Kim Jae-hong.
+3. **Bronze Medal**: Norway
+   - Team members: Hanne Hegh, Siri Eftedal, Cathrine Svendsen, Hege Frøseth, Vibeke Johnsen, Trine Haltvik, Kristin Midthun, Anne Oddson, Hanne Hogness, Kjersti Grini, Ingrid Steen, Heidi Sundal, Berit Digre, Susann Goksør, Karin Pettersen, and coach Leif Eric Willumsen.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	1988	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Seoul	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	Soviet	O
+40	Union	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Soviet	B-Gold
+54	Union	I-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Tatyana	O
+60	Khmyrova	O
+61	,	O
+62	Lyubov	O
+63	Odinokova	O
+64	,	O
+65	Svitlana	O
+66	Mankova	O
+67	,	O
+68	Yekaterina	O
+69	Serebryakova	O
+70	,	O
+71	Yekaterina	O
+72	Davydova	O
+73	,	O
+74	Yelena	O
+75	Guryeva	O
+76	,	O
+77	Yelena	O
+78	Nemashkalo	O
+79	,	O
+80	Yelena	O
+81	Tovstoganyuk	O
+82	,	O
+83	Galina	O
+84	Loginova	O
+85	,	O
+86	Yelena	O
+87	Yushkova	O
+88	,	O
+89	Yelena	O
+90	Golovkina	O
+91	,	O
+92	Yelena	O
+93	Nemtova	O
+94	,	O
+95	Yelena	O
+96	Novikova	O
+97	,	O
+98	Yelena	O
+99	Russkikh	O
+100	,	O
+101	Yelena	O
+102	Tushkova	O
+103	,	O
+104	and	O
+105	coach	O
+106	Vladimir	O
+107	Anpilogov	O
+108	.	O
+109	2	O
+110	.	O
+111	**	O
+112	Silver	O
+113	Medal	O
+114	**:	O
+115	South	B-Silver
+116	Korea	I-Silver
+117	-	O
+118	Team	O
+119	members	O
+120	:	O
+121	Lee	O
+122	Soon-young	O
+123	,	O
+124	Kim	O
+125	Kyung-sook	O
+126	,	O
+127	Kim	O
+128	Kyung-hee	O
+129	,	O
+130	Kim	O
+131	Hwa-sook	O
+132	,	O
+133	Kim	O
+134	Jeong-mi	O
+135	,	O
+136	Kim	O
+137	Mi-sook	O
+138	,	O
+139	Lee	O
+140	Ho-jung	O
+141	,	O
+142	Lee	O
+143	Young-ja	O
+144	,	O
+145	Lee	O
+146	Mi-kyung	O
+147	,	O
+148	Lee	O
+149	Ae-ja	O
+150	,	O
+151	Lee	O
+152	Mi-sook	O
+153	,	O
+154	Park	O
+155	Jeong-lim	O
+156	,	O
+157	Park	O
+158	Jeong-sook	O
+159	,	O
+160	Park	O
+161	Mi-sook	O
+162	,	O
+163	Shin	O
+164	Yeong-sook	O
+165	,	O
+166	and	O
+167	coach	O
+168	Kim	O
+169	Jae-hong	O
+170	.	O
+171	3	O
+172	.	O
+173	**	O
+174	Bronze	O
+175	Medal	O
+176	**:	O
+177	Norway	B-Bronze
+178	-	O
+179	Team	O
+180	members	O
+181	:	O
+182	Hanne	O
+183	Hegh	O
+184	,	O
+185	Siri	O
+186	Eftedal	O
+187	,	O
+188	Cathrine	O
+189	Svendsen	O
+190	,	O
+191	Hege	O
+192	Frøseth	O
+193	,	O
+194	Vibeke	O
+195	Johnsen	O
+196	,	O
+197	Trine	O
+198	Haltvik	O
+199	,	O
+200	Kristin	O
+201	Midthun	O
+202	,	O
+203	Anne	O
+204	Oddson	O
+205	,	O
+206	Hanne	O
+207	Hogness	O
+208	,	O
+209	Kjersti	O
+210	Grini	O
+211	,	O
+212	Ingrid	O
+213	Steen	O
+214	,	O
+215	Heidi	O
+216	Sundal	O
+217	,	O
+218	Berit	O
+219	Digre	O
+220	,	O
+221	Susann	O
+222	Goksør	O
+223	,	O
+224	Karin	O
+225	Pettersen	O
+226	,	O
+227	and	O
+228	coach	O
+229	Leif	O
+230	Eric	O
+231	Willumsen	O
+232	.	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Men's Indoor Volleyball event at the 1988 olympic games?The Men's Indoor Volleyball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Team members: Yuri Panchenko, Igor Runov, Vladimir Shkuropalo, Valeri Losev, Igor Rudakov, Vladimir Dorokhov, Yuri Cherednik, Dmitri Fomin, Vladimir Kondra, Alexander Sorokoletov, Vladimir Tikhonov, and Vladimir Ivanov
+2. **Silver Medal**: Brazil
+   - Team members: Bernard Rajzman, Douglas Chiarotti, William Carvalho, Douglas de Souza, Alexandre Stanzioni, Marcelo Negrão, Paulo Silva, Talmo Santos, Douglas Lacerda, Jair de Oliveira, and Carlos Schwanke
+3. **Bronze Medal**: United States
+   - Team members: Craig Buck, Steve Timmons, David Lee, Bob Ctvrtlik, Karch Kiraly, Patrick Powers, Jon Stanley, Michael O'Hara, Todd Rogers, Jeff Stork, and Dave Saunders
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Soviet	O
+42	Union	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	Soviet	B-Gold
+56	Union	I-Gold
+57	-	O
+58	Team	O
+59	members	O
+60	:	O
+61	Yuri	O
+62	Panchenko	O
+63	,	O
+64	Igor	O
+65	Runov	O
+66	,	O
+67	Vladimir	O
+68	Shkuropalo	O
+69	,	O
+70	Valeri	O
+71	Losev	O
+72	,	O
+73	Igor	O
+74	Rudakov	O
+75	,	O
+76	Vladimir	O
+77	Dorokhov	O
+78	,	O
+79	Yuri	O
+80	Cherednik	O
+81	,	O
+82	Dmitri	O
+83	Fomin	O
+84	,	O
+85	Vladimir	O
+86	Kondra	O
+87	,	O
+88	Alexander	O
+89	Sorokoletov	O
+90	,	O
+91	Vladimir	O
+92	Tikhonov	O
+93	,	O
+94	and	O
+95	Vladimir	O
+96	Ivanov	O
+97	2	O
+98	.	O
+99	**	O
+100	Silver	O
+101	Medal	O
+102	**:	O
+103	Brazil	B-Silver
+104	-	O
+105	Team	O
+106	members	O
+107	:	O
+108	Bernard	O
+109	Rajzman	O
+110	,	O
+111	Douglas	O
+112	Chiarotti	O
+113	,	O
+114	William	O
+115	Carvalho	O
+116	,	O
+117	Douglas	O
+118	de	O
+119	Souza	O
+120	,	O
+121	Alexandre	O
+122	Stanzioni	O
+123	,	O
+124	Marcelo	O
+125	Negrão	O
+126	,	O
+127	Paulo	O
+128	Silva	O
+129	,	O
+130	Talmo	O
+131	Santos	O
+132	,	O
+133	Douglas	O
+134	Lacerda	O
+135	,	O
+136	Jair	O
+137	de	O
+138	Oliveira	O
+139	,	O
+140	and	O
+141	Carlos	O
+142	Schwanke	O
+143	3	O
+144	.	O
+145	**	O
+146	Bronze	O
+147	Medal	O
+148	**:	O
+149	United	B-Bronze
+150	States	I-Bronze
+151	-	O
+152	Team	O
+153	members	O
+154	:	O
+155	Craig	O
+156	Buck	O
+157	,	O
+158	Steve	O
+159	Timmons	O
+160	,	O
+161	David	O
+162	Lee	O
+163	,	O
+164	Bob	O
+165	Ctvrtlik	O
+166	,	O
+167	Karch	O
+168	Kiraly	O
+169	,	O
+170	Patrick	O
+171	Powers	O
+172	,	O
+173	Jon	O
+174	Stanley	O
+175	,	O
+176	Michael	O
+177	O	O
+178	'	O
+179	Hara	O
+180	,	O
+181	Todd	O
+182	Rogers	O
+183	,	O
+184	Jeff	O
+185	Stork	O
+186	,	O
+187	and	O
+188	Dave	O
+189	Saunders	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Women's Indoor Volleyball event at the 1988 olympic games?The Women's Indoor Volleyball event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union
+   - Team members: Yelena Chebukina, Yelena Vasilevskaya, Olga Shkurnova, Marina Kumysh, Svetlana Korytova, Olga Krivosheeva, Galina Leontyeva, Yelena Akabanicheva, Marina Nikulina, Svetlana Izyova, Olga Piskun, Yelena Tkacheva
+2. **Silver Medal**: China
+   - Team members: Lang Ping, Hou Yuzhu, Zhou Xiaolan, Yang Xilan, Su Huijuan, Li Yanjun, Yang Xiaojun, Zhang Rongfang, Li Guojun, Li Demei, Yang Hongqin, Li Yanyan
+3. **Bronze Medal**: Peru
+   - Team members: Rosa Garcia, Miriam Gallardo, Nancy Malpartida, Cenaida Uribe, Gina Torrealba, Neli Cervantes, Ana Milans, Carmen Pimentel, Gina Torrealba, Neli Cervantes, Ana Milans, Carmen Pimentel
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Soviet	O
+42	Union	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	Soviet	B-Gold
+56	Union	I-Gold
+57	-	O
+58	Team	O
+59	members	O
+60	:	O
+61	Yelena	O
+62	Chebukina	O
+63	,	O
+64	Yelena	O
+65	Vasilevskaya	O
+66	,	O
+67	Olga	O
+68	Shkurnova	O
+69	,	O
+70	Marina	O
+71	Kumysh	O
+72	,	O
+73	Svetlana	O
+74	Korytova	O
+75	,	O
+76	Olga	O
+77	Krivosheeva	O
+78	,	O
+79	Galina	O
+80	Leontyeva	O
+81	,	O
+82	Yelena	O
+83	Akabanicheva	O
+84	,	O
+85	Marina	O
+86	Nikulina	O
+87	,	O
+88	Svetlana	O
+89	Izyova	O
+90	,	O
+91	Olga	O
+92	Piskun	O
+93	,	O
+94	Yelena	O
+95	Tkacheva	O
+96	2	O
+97	.	O
+98	**	O
+99	Silver	O
+100	Medal	O
+101	**:	O
+102	China	B-Silver
+103	-	O
+104	Team	O
+105	members	O
+106	:	O
+107	Lang	O
+108	Ping	O
+109	,	O
+110	Hou	O
+111	Yuzhu	O
+112	,	O
+113	Zhou	O
+114	Xiaolan	O
+115	,	O
+116	Yang	O
+117	Xilan	O
+118	,	O
+119	Su	O
+120	Huijuan	O
+121	,	O
+122	Li	O
+123	Yanjun	O
+124	,	O
+125	Yang	O
+126	Xiaojun	O
+127	,	O
+128	Zhang	O
+129	Rongfang	O
+130	,	O
+131	Li	O
+132	Guojun	O
+133	,	O
+134	Li	O
+135	Demei	O
+136	,	O
+137	Yang	O
+138	Hongqin	O
+139	,	O
+140	Li	O
+141	Yanyan	O
+142	3	O
+143	.	O
+144	**	O
+145	Bronze	O
+146	Medal	O
+147	**:	O
+148	Peru	B-Bronze
+149	-	O
+150	Team	O
+151	members	O
+152	:	O
+153	Rosa	O
+154	Garcia	O
+155	,	O
+156	Miriam	O
+157	Gallardo	O
+158	,	O
+159	Nancy	O
+160	Malpartida	O
+161	,	O
+162	Cenaida	O
+163	Uribe	O
+164	,	O
+165	Gina	O
+166	Torrealba	O
+167	,	O
+168	Neli	O
+169	Cervantes	O
+170	,	O
+171	Ana	O
+172	Milans	O
+173	,	O
+174	Carmen	O
+175	Pimentel	O
+176	,	O
+177	Gina	O
+178	Torrealba	O
+179	,	O
+180	Neli	O
+181	Cervantes	O
+182	,	O
+183	Ana	O
+184	Milans	O
+185	,	O
+186	Carmen	O
+187	Pimentel	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 1988 olympic games?The Men's Rowing Quadruple Sculls event at the 1988 Olympic Games in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. Gold: United States (USA)
+   - David Krmpotich
+   - Stephen H. Lavin
+   - Douglas Burden
+   - Thomas D. D'Este
+2. Silver: East Germany (GDR)
+   - Olaf Förster
+   - Thomas Greiner
+   - Ralf Brudel
+   - Michael Steinbach
+3. Bronze: Italy (ITA)
+   - Agostino Abbagnale
+   - Gianluca Farina
+   - Piero Poli
+   - Davide Tizzano
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	Gold	O
+54	:	O
+55	United	B-Gold
+56	States	I-Gold
+57	(	O
+58	USA	O
+59	)	O
+60	-	O
+61	David	O
+62	Krmpotich	O
+63	-	O
+64	Stephen	O
+65	H	O
+66	.	O
+67	Lavin	O
+68	-	O
+69	Douglas	O
+70	Burden	O
+71	-	O
+72	Thomas	O
+73	D	O
+74	.	O
+75	D	O
+76	'	O
+77	Este	O
+78	2	O
+79	.	O
+80	Silver	O
+81	:	O
+82	East	B-Silver
+83	Germany	I-Silver
+84	(	O
+85	GDR	O
+86	)	O
+87	-	O
+88	Olaf	O
+89	Förster	O
+90	-	O
+91	Thomas	O
+92	Greiner	O
+93	-	O
+94	Ralf	O
+95	Brudel	O
+96	-	O
+97	Michael	O
+98	Steinbach	O
+99	3	O
+100	.	O
+101	Bronze	O
+102	:	O
+103	Italy	B-Bronze
+104	(	O
+105	ITA	O
+106	)	O
+107	-	O
+108	Agostino	O
+109	Abbagnale	O
+110	-	O
+111	Gianluca	O
+112	Farina	O
+113	-	O
+114	Piero	O
+115	Poli	O
+116	-	O
+117	Davide	O
+118	Tizzano	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 1988 olympic games?The Women's Rowing Quadruple Sculls event at the 1988 Olympic Games in Seoul, South Korea, was won by the team from East Germany. Here are the medalists:
+1. Gold: East Germany (GDR)
+   - Kersten Neisser
+   - Gabriele Lohs
+   - Birgit Peter
+   - Carola Lichey
+2. Silver: Romania
+   - Doina Snep-Bălan
+   - Anișoara Sorohan
+   - Ioana Badea
+   - Elisabeta Oleniuc
+3. Bronze: Bulgaria
+   - Stoyanka Kuncheva
+   - Ogniana Petkova
+   - Liliana Vaseva
+   - Valevka Yordanova
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	1988	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Seoul	O
+35	,	O
+36	South	O
+37	Korea	O
+38	,	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	East	O
+46	Germany	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	Gold	O
+56	:	O
+57	East	B-Gold
+58	Germany	I-Gold
+59	(	O
+60	GDR	O
+61	)	O
+62	-	O
+63	Kersten	O
+64	Neisser	O
+65	-	O
+66	Gabriele	O
+67	Lohs	O
+68	-	O
+69	Birgit	O
+70	Peter	O
+71	-	O
+72	Carola	O
+73	Lichey	O
+74	2	O
+75	.	O
+76	Silver	O
+77	:	O
+78	Romania	B-Silver
+79	-	O
+80	Doina	O
+81	Snep-Bălan	O
+82	-	O
+83	Anișoara	O
+84	Sorohan	O
+85	-	O
+86	Ioana	O
+87	Badea	O
+88	-	O
+89	Elisabeta	O
+90	Oleniuc	O
+91	3	O
+92	.	O
+93	Bronze	O
+94	:	O
+95	Bulgaria	B-Bronze
+96	-	O
+97	Stoyanka	O
+98	Kuncheva	O
+99	-	O
+100	Ogniana	O
+101	Petkova	O
+102	-	O
+103	Liliana	O
+104	Vaseva	O
+105	-	O
+106	Valevka	O
+107	Yordanova	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Men's Archery Team event at the 1988 olympic games?The Men's Archery Team event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States (Jay Barrs, Richard McKinney, Darrell Pace)
+2. **Silver Medal**: South Korea (Chun In-soo, Kim Joo-sung, Lee Han-sang)
+3. **Bronze Medal**: Italy (Michele Frangilli, Andrea Parenti, Mauro Nespoli)
+# status = {"0":"accepted"}
+# time (ms) = 41488
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	United	B-Gold
+56	States	I-Gold
+57	(	O
+58	Jay	O
+59	Barrs	O
+60	,	O
+61	Richard	O
+62	McKinney	O
+63	,	O
+64	Darrell	O
+65	Pace	O
+66	)	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	South	B-Silver
+74	Korea	I-Silver
+75	(	O
+76	Chun	O
+77	In-soo	O
+78	,	O
+79	Kim	O
+80	Joo-sung	O
+81	,	O
+82	Lee	O
+83	Han-sang	O
+84	)	O
+85	3	O
+86	.	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Italy	B-Bronze
+92	(	O
+93	Michele	O
+94	Frangilli	O
+95	,	O
+96	Andrea	O
+97	Parenti	O
+98	,	O
+99	Mauro	O
+100	Nespoli	O
+101	)	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Women's Archery Team event at the 1988 olympic games?The Women's Archery Team event at the 1988 Summer Olympics in Seoul, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States (Deborah Ochs, Denise Parker, and Linda Beck)
+2. **Silver Medal**: South Korea (Kim Soo-nyung, Kim Jin-hwa, and Lee Eun-kyung)
+3. **Bronze Medal**: China (Ma Xiangjun, Wang Hong, and Yu Shumei)
+# status = {"0":"accepted"}
+# time (ms) = 1550
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1988	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	1988	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Seoul	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	United	B-Gold
+56	States	I-Gold
+57	(	O
+58	Deborah	O
+59	Ochs	O
+60	,	O
+61	Denise	O
+62	Parker	O
+63	,	O
+64	and	O
+65	Linda	O
+66	Beck	O
+67	)	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	South	B-Silver
+75	Korea	I-Silver
+76	(	O
+77	Kim	O
+78	Soo-nyung	O
+79	,	O
+80	Kim	O
+81	Jin-hwa	O
+82	,	O
+83	and	O
+84	Lee	O
+85	Eun-kyung	O
+86	)	O
+87	3	O
+88	.	O
+89	**	O
+90	Bronze	O
+91	Medal	O
+92	**:	O
+93	China	B-Bronze
+94	(	O
+95	Ma	O
+96	Xiangjun	O
+97	,	O
+98	Wang	O
+99	Hong	O
+100	,	O
+101	and	O
+102	Yu	O
+103	Shumei	O
+104	)	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 1988 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the top three teams:
+1. **Gold Medal**: Soviet Union
+   - Valery Lyukin
+   - Vladimir Artemov
+   - Dmitri Bilozertsev
+   - Sergei Kharkov
+   - Alexander Tkachyov
+   - Dmitri Stratonov
+2. **Silver Medal**: China
+   - Li Ning
+   - Lou Yun
+   - Li Xiaopeng
+   - Li Chunyang
+   - Huang Liping
+   - Li Ge
+3. **Bronze Medal**: East Germany
+   - Andreas Wecker
+   - Sven Tippelt
+   - Andreas Aguilar
+   - Ulf Hoffmann
+   - Thomas Freudenthal
+   - Andreaseck
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	1988	O
+33	Summer	O
+34	Olympics	O
+35	in	O
+36	Seoul	O
+37	,	O
+38	South	O
+39	Korea	O
+40	,	O
+41	was	O
+42	won	O
+43	by	O
+44	the	O
+45	Soviet	O
+46	Union	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	top	O
+52	three	O
+53	teams	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	Soviet	B-Gold
+62	Union	I-Gold
+63	-	O
+64	Valery	O
+65	Lyukin	O
+66	-	O
+67	Vladimir	O
+68	Artemov	O
+69	-	O
+70	Dmitri	O
+71	Bilozertsev	O
+72	-	O
+73	Sergei	O
+74	Kharkov	O
+75	-	O
+76	Alexander	O
+77	Tkachyov	O
+78	-	O
+79	Dmitri	O
+80	Stratonov	O
+81	2	O
+82	.	O
+83	**	O
+84	Silver	O
+85	Medal	O
+86	**:	O
+87	China	B-Silver
+88	-	O
+89	Li	O
+90	Ning	O
+91	-	O
+92	Lou	O
+93	Yun	O
+94	-	O
+95	Li	O
+96	Xiaopeng	O
+97	-	O
+98	Li	O
+99	Chunyang	O
+100	-	O
+101	Huang	O
+102	Liping	O
+103	-	O
+104	Li	O
+105	Ge	O
+106	3	O
+107	.	O
+108	**	O
+109	Bronze	O
+110	Medal	O
+111	**:	O
+112	East	B-Bronze
+113	Germany	I-Bronze
+114	-	O
+115	Andreas	O
+116	Wecker	O
+117	-	O
+118	Sven	O
+119	Tippelt	O
+120	-	O
+121	Andreas	O
+122	Aguilar	O
+123	-	O
+124	Ulf	O
+125	Hoffmann	O
+126	-	O
+127	Thomas	O
+128	Freudenthal	O
+129	-	O
+130	Andreaseck	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 1988 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 1988 Summer Olympics in Seoul, South Korea, was won by the Soviet Union. Here are the medalists:
+1. **Gold Medal**: Soviet Union (Elena Shushunova, Svetlana Boguinskaya, Natalia Yurchenko, Oksana Omelianchik, Yelena Shushunova, and Yelena Grudneva)
+2. **Silver Medal**: Romania (Erika Zuchold, Laura Cutina, Camelia Voinea, Gina Gogean, Daniela Silivaș, and Lavinia Miloșovici)
+3. **Bronze Medal**: China (Zhou Qunying, Yang Bo, Lou Xiaojuan, Zhou Jieling, Chen Yali, and Gu Jun)
+The Soviet Union won the gold medal with a total score of 397.000 points, Romania took the silver with 396.575 points, and China earned the bronze with 394.275 points.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	1988	O
+33	Summer	O
+34	Olympics	O
+35	in	O
+36	Seoul	O
+37	,	O
+38	South	O
+39	Korea	O
+40	,	O
+41	was	O
+42	won	O
+43	by	O
+44	the	O
+45	Soviet	O
+46	Union	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Soviet	B-Gold
+60	Union	I-Gold
+61	(	O
+62	Elena	O
+63	Shushunova	O
+64	,	O
+65	Svetlana	O
+66	Boguinskaya	O
+67	,	O
+68	Natalia	O
+69	Yurchenko	O
+70	,	O
+71	Oksana	O
+72	Omelianchik	O
+73	,	O
+74	Yelena	O
+75	Shushunova	O
+76	,	O
+77	and	O
+78	Yelena	O
+79	Grudneva	O
+80	)	O
+81	2	O
+82	.	O
+83	**	O
+84	Silver	O
+85	Medal	O
+86	**:	O
+87	Romania	B-Silver
+88	(	O
+89	Erika	O
+90	Zuchold	O
+91	,	O
+92	Laura	O
+93	Cutina	O
+94	,	O
+95	Camelia	O
+96	Voinea	O
+97	,	O
+98	Gina	O
+99	Gogean	O
+100	,	O
+101	Daniela	O
+102	Silivaș	O
+103	,	O
+104	and	O
+105	Lavinia	O
+106	Miloșovici	O
+107	)	O
+108	3	O
+109	.	O
+110	**	O
+111	Bronze	O
+112	Medal	O
+113	**:	O
+114	China	B-Bronze
+115	(	O
+116	Zhou	O
+117	Qunying	O
+118	,	O
+119	Yang	O
+120	Bo	O
+121	,	O
+122	Lou	O
+123	Xiaojuan	O
+124	,	O
+125	Zhou	O
+126	Jieling	O
+127	,	O
+128	Chen	O
+129	Yali	O
+130	,	O
+131	and	O
+132	Gu	O
+133	Jun	O
+134	)	O
+135	The	O
+136	Soviet	O
+137	Union	O
+138	won	O
+139	the	O
+140	gold	O
+141	medal	O
+142	with	O
+143	a	O
+144	total	O
+145	score	O
+146	of	O
+147	397	O
+148	.	O
+149	000	O
+150	points	O
+151	,	O
+152	Romania	O
+153	took	O
+154	the	O
+155	silver	O
+156	with	O
+157	396	O
+158	.	O
+159	575	O
+160	points	O
+161	,	O
+162	and	O
+163	China	O
+164	earned	O
+165	the	O
+166	bronze	O
+167	with	O
+168	394	O
+169	.	O
+170	275	O
+171	points	O
+172	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 1992 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Matt Biondi
+   - Jon Olsen
+   - Tom Jager
+   - Troy Dalbey
+2. **Silver Medal**: Soviet Union
+   - Sergei Chavdarov
+   - Alexander Popov
+   - Vladimir Pyshnenko
+   - Igor Polianski
+3. **Bronze Medal**: Germany
+   - Dirk Vandenhirtz
+   - Stefan Herbst
+   - Christian Tröger
+   - Michael Gross
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1992	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1992	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Barcelona	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Matt	O
+64	Biondi	O
+65	-	O
+66	Jon	O
+67	Olsen	O
+68	-	O
+69	Tom	O
+70	Jager	O
+71	-	O
+72	Troy	O
+73	Dalbey	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Soviet	B-Silver
+81	Union	I-Silver
+82	-	O
+83	Sergei	O
+84	Chavdarov	O
+85	-	O
+86	Alexander	O
+87	Popov	O
+88	-	O
+89	Vladimir	O
+90	Pyshnenko	O
+91	-	O
+92	Igor	O
+93	Polianski	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Germany	B-Bronze
+101	-	O
+102	Dirk	O
+103	Vandenhirtz	O
+104	-	O
+105	Stefan	O
+106	Herbst	O
+107	-	O
+108	Christian	O
+109	Tröger	O
+110	-	O
+111	Michael	O
+112	Gross	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 1992 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Dara Torres
+   - Nicole Haislett
+   - Angel Martino
+   - Jenny Thompson
+2. **Silver Medal**: Germany
+   - Franziska van Almsick
+   - Anke Möhring
+   - Dagmar Hase
+   - Manuela Stellmach
+3. **Bronze Medal**: Sweden
+   - Therese Alshammar
+   - Malin Strömberg
+   - Louise Jöhncke
+   - Eva Nyberg
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1992	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1992	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Barcelona	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Dara	O
+64	Torres	O
+65	-	O
+66	Nicole	O
+67	Haislett	O
+68	-	O
+69	Angel	O
+70	Martino	O
+71	-	O
+72	Jenny	O
+73	Thompson	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Germany	B-Silver
+81	-	O
+82	Franziska	O
+83	van	O
+84	Almsick	O
+85	-	O
+86	Anke	O
+87	Möhring	O
+88	-	O
+89	Dagmar	O
+90	Hase	O
+91	-	O
+92	Manuela	O
+93	Stellmach	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Sweden	B-Bronze
+101	-	O
+102	Therese	O
+103	Alshammar	O
+104	-	O
+105	Malin	O
+106	Strömberg	O
+107	-	O
+108	Louise	O
+109	Jöhncke	O
+110	-	O
+111	Eva	O
+112	Nyberg	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 1992 olympic games?The Men's 4 x 100 metres Medley Relay event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Jeff Rouse (Backstroke)
+   - Nelson Diebel (Breaststroke)
+   - Matt Biondi (Butterfly)
+   - Troy Dalbey (Freestyle)
+2. **Silver Medal**: Germany
+   - Christian Knorr (Backstroke)
+   - Dirk Richter (Breaststroke)
+   - Michael Gross (Butterfly)
+   - Stefan Herbst (Freestyle)
+3. **Bronze Medal**: Sweden
+   - Pär Lindström (Backstroke)
+   - Patrick Lönn (Breaststroke)
+   - Lars Frölander (Butterfly)
+   - Christer Wallin (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 23474
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1992	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1992	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Barcelona	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Jeff	O
+64	Rouse	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Nelson	O
+70	Diebel	O
+71	(	O
+72	Breaststroke	O
+73	)	O
+74	-	O
+75	Matt	O
+76	Biondi	O
+77	(	O
+78	Butterfly	O
+79	)	O
+80	-	O
+81	Troy	O
+82	Dalbey	O
+83	(	O
+84	Freestyle	O
+85	)	O
+86	2	O
+87	.	O
+88	**	O
+89	Silver	O
+90	Medal	O
+91	**:	O
+92	Germany	B-Silver
+93	-	O
+94	Christian	O
+95	Knorr	O
+96	(	O
+97	Backstroke	O
+98	)	O
+99	-	O
+100	Dirk	O
+101	Richter	O
+102	(	O
+103	Breaststroke	O
+104	)	O
+105	-	O
+106	Michael	O
+107	Gross	O
+108	(	O
+109	Butterfly	O
+110	)	O
+111	-	O
+112	Stefan	O
+113	Herbst	O
+114	(	O
+115	Freestyle	O
+116	)	O
+117	3	O
+118	.	O
+119	**	O
+120	Bronze	O
+121	Medal	O
+122	**:	O
+123	Sweden	B-Bronze
+124	-	O
+125	Pär	O
+126	Lindström	O
+127	(	O
+128	Backstroke	O
+129	)	O
+130	-	O
+131	Patrick	O
+132	Lönn	O
+133	(	O
+134	Breaststroke	O
+135	)	O
+136	-	O
+137	Lars	O
+138	Frölander	O
+139	(	O
+140	Butterfly	O
+141	)	O
+142	-	O
+143	Christer	O
+144	Wallin	O
+145	(	O
+146	Freestyle	O
+147	)	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 1992 olympic games?The Women's 4 x 100 metres Medley Relay event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Team members: Beth Barr, Anita Nall, Janet Evans, and Nicole Haislett
+2. **Silver Medal**: China
+   - Team members: Liu Limin, Guan Yue, Zhou Hong, and Le Jingyi
+3. **Bronze Medal**: Sweden
+   - Team members: Louise Jöhncke, Malin Strömberg, Eva Nyberg, and Therese Alshammar
+# status = {"0":"accepted"}
+# time (ms) = 3520
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1992	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1992	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Barcelona	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Team	O
+64	members	O
+65	:	O
+66	Beth	O
+67	Barr	O
+68	,	O
+69	Anita	O
+70	Nall	O
+71	,	O
+72	Janet	O
+73	Evans	O
+74	,	O
+75	and	O
+76	Nicole	O
+77	Haislett	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	China	B-Silver
+85	-	O
+86	Team	O
+87	members	O
+88	:	O
+89	Liu	O
+90	Limin	O
+91	,	O
+92	Guan	O
+93	Yue	O
+94	,	O
+95	Zhou	O
+96	Hong	O
+97	,	O
+98	and	O
+99	Le	O
+100	Jingyi	O
+101	3	O
+102	.	O
+103	**	O
+104	Bronze	O
+105	Medal	O
+106	**:	O
+107	Sweden	B-Bronze
+108	-	O
+109	Team	O
+110	members	O
+111	:	O
+112	Louise	O
+113	Jöhncke	O
+114	,	O
+115	Malin	O
+116	Strömberg	O
+117	,	O
+118	Eva	O
+119	Nyberg	O
+120	,	O
+121	and	O
+122	Therese	O
+123	Alshammar	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 1992 olympic games?The Men's 4 x 100 metres Relay event at the 1992 Olympic Games in Barcelona was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Team members: Andre Cason, Michael Marsh, Leroy Burrell, Carl Lewis
+2. **Silver Medal**: Canada
+   - Team members: Ben Johnson, Peter Ogilvie, Glenroy Gilbert, Atlee Mahorn
+3. **Bronze Medal**: Germany
+   - Team members: Michael Huke, Thomas Schröder, Marc Blume, Steffen Görmer
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1992	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1992	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Barcelona	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Team	O
+63	members	O
+64	:	O
+65	Andre	O
+66	Cason	O
+67	,	O
+68	Michael	O
+69	Marsh	O
+70	,	O
+71	Leroy	O
+72	Burrell	O
+73	,	O
+74	Carl	O
+75	Lewis	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Canada	B-Silver
+83	-	O
+84	Team	O
+85	members	O
+86	:	O
+87	Ben	O
+88	Johnson	O
+89	,	O
+90	Peter	O
+91	Ogilvie	O
+92	,	O
+93	Glenroy	O
+94	Gilbert	O
+95	,	O
+96	Atlee	O
+97	Mahorn	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Germany	B-Bronze
+105	-	O
+106	Team	O
+107	members	O
+108	:	O
+109	Michael	O
+110	Huke	O
+111	,	O
+112	Thomas	O
+113	Schröder	O
+114	,	O
+115	Marc	O
+116	Blume	O
+117	,	O
+118	Steffen	O
+119	Görmer	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 1992 olympic games?The Women's 4 x 100 meters Relay event at the 1992 Olympic Games in Barcelona was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Gwen Torrence
+   - Michael Marsh
+   - Carlette Guidry
+   - Evelyn Ashford
+2. **Silver Medal**: Germany
+   - Katrin Krabbe
+   - Heike Drechsler
+   - Sabine Günther
+   - Iris Dawson
+3. **Bronze Medal**: Jamaica
+   - Juliet Cuthbert
+   - Merlene Ottey
+   - Juliet Campbell
+   - Michelle Freeman
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1992	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1992	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Barcelona	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Gwen	O
+63	Torrence	O
+64	-	O
+65	Michael	O
+66	Marsh	O
+67	-	O
+68	Carlette	O
+69	Guidry	O
+70	-	O
+71	Evelyn	O
+72	Ashford	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Germany	B-Silver
+80	-	O
+81	Katrin	O
+82	Krabbe	O
+83	-	O
+84	Heike	O
+85	Drechsler	O
+86	-	O
+87	Sabine	O
+88	Günther	O
+89	-	O
+90	Iris	O
+91	Dawson	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Jamaica	B-Bronze
+99	-	O
+100	Juliet	O
+101	Cuthbert	O
+102	-	O
+103	Merlene	O
+104	Ottey	O
+105	-	O
+106	Juliet	O
+107	Campbell	O
+108	-	O
+109	Michelle	O
+110	Freeman	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 1992 olympic games?The Men's 4 x 400 metres Relay event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - Andrew Valmon
+   - Quincy Watts
+   - Michael Johnson
+   - Steve Lewis
+2. **Silver Medal:** Bahamas
+   - Troy McIntosh
+   - Dennis Darling
+   - Alvin Francis
+   - Chris Brown
+3. **Bronze Medal:** Great Britain
+   - Roger Black
+   - Derek Redmond
+   - Mark Richardson
+   - Kriss Akabusi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1992	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1992	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Barcelona	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	:**	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Andrew	O
+62	Valmon	O
+63	-	O
+64	Quincy	O
+65	Watts	O
+66	-	O
+67	Michael	O
+68	Johnson	O
+69	-	O
+70	Steve	O
+71	Lewis	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	:**	O
+78	Bahamas	B-Silver
+79	-	O
+80	Troy	O
+81	McIntosh	O
+82	-	O
+83	Dennis	O
+84	Darling	O
+85	-	O
+86	Alvin	O
+87	Francis	O
+88	-	O
+89	Chris	O
+90	Brown	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	:**	O
+97	Great	B-Bronze
+98	Britain	I-Bronze
+99	-	O
+100	Roger	O
+101	Black	O
+102	-	O
+103	Derek	O
+104	Redmond	O
+105	-	O
+106	Mark	O
+107	Richardson	O
+108	-	O
+109	Kriss	O
+110	Akabusi	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 1992 olympic games?The Women's 4 x 400 meters Relay event at the 1992 Olympic Games in Barcelona was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Grit Breuer
+   - Jearl Miles
+   - Natasha Kaiser
+   - Rochelle Stevens
+2. **Silver Medal**: Germany
+   - Heike Meissner
+   - Anja Rücker
+   - Uta Rohländer
+   - Grit Breuer
+3. **Bronze Medal**: Cuba
+   - Aliuska López
+   - Idalmis Bonne
+   - Odalys Adams
+   - Ana Fidelia Quirot
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1992	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1992	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Barcelona	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Grit	O
+63	Breuer	O
+64	-	O
+65	Jearl	O
+66	Miles	O
+67	-	O
+68	Natasha	O
+69	Kaiser	O
+70	-	O
+71	Rochelle	O
+72	Stevens	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Germany	B-Silver
+80	-	O
+81	Heike	O
+82	Meissner	O
+83	-	O
+84	Anja	O
+85	Rücker	O
+86	-	O
+87	Uta	O
+88	Rohländer	O
+89	-	O
+90	Grit	O
+91	Breuer	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Cuba	B-Bronze
+99	-	O
+100	Aliuska	O
+101	López	O
+102	-	O
+103	Idalmis	O
+104	Bonne	O
+105	-	O
+106	Odalys	O
+107	Adams	O
+108	-	O
+109	Ana	O
+110	Fidelia	O
+111	Quirot	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Men's Basketball event at the 1992 olympic games?The Men's Basketball event at the 1992 Summer Olympics, held in Barcelona, Spain, was won by the United States. The U.S. team, known as the "Dream Team," was the first to feature active NBA players and dominated the competition. Here are the medalists:
+1. **Gold Medal**: United States
+   - Charles Barkley
+   - Larry Bird
+   - Clyde Drexler
+   - Patrick Ewing
+   - Magic Johnson
+   - Michael Jordan
+   - Karl Malone
+   - Chris Mullin
+   - Scottie Pippen
+   - David Robinson
+   - John Stockton
+   - Karl Anthony Towns (head coach)
+2. **Silver Medal**: Croatia
+   - Zoran Savić
+   - Dražen Petrović
+   - Toni Kukoč
+   - Franjo Arapović
+   - Aza Petrović
+   - Stojko Vranković
+   - Dino Rađa
+   - Velimir Perasović
+   - Vladan Alanović
+   - Žan Tabak
+   - Luka Pavićević
+   - Petar Skansi (head coach)
+3. **Bronze Medal**: Lithuania
+   - Arvydas Sabonis
+   - Šarūnas Marčiulionis
+   - Valdemaras Chomičius
+   - Rimas Kurtinaitis
+   - Gintaras Einikis
+   - Arūnas Visockas
+   - Darius Dimavičius
+   - Mindaugas Timinskas
+   - Virginijus Praškevičius
+   - Saulius Štombergas
+   - Rimas Kučys
+   - Vladas Garastas (head coach)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	1992	O
+27	Summer	O
+28	Olympics	O
+29	,	O
+30	held	O
+31	in	O
+32	Barcelona	O
+33	,	O
+34	Spain	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	United	O
+41	States	O
+42	.	O
+43	The	O
+44	U	O
+45	.	O
+46	S	O
+47	.	O
+48	team	O
+49	,	O
+50	known	O
+51	as	O
+52	the	O
+53	"	O
+54	Dream	O
+55	Team	O
+56	,"	O
+57	was	O
+58	the	O
+59	first	O
+60	to	O
+61	feature	O
+62	active	O
+63	NBA	O
+64	players	O
+65	and	O
+66	dominated	O
+67	the	O
+68	competition	O
+69	.	O
+70	Here	O
+71	are	O
+72	the	O
+73	medalists	O
+74	:	O
+75	1	O
+76	.	O
+77	**	O
+78	Gold	O
+79	Medal	O
+80	**:	O
+81	United	B-Gold
+82	States	I-Gold
+83	-	O
+84	Charles	O
+85	Barkley	O
+86	-	O
+87	Larry	O
+88	Bird	O
+89	-	O
+90	Clyde	O
+91	Drexler	O
+92	-	O
+93	Patrick	O
+94	Ewing	O
+95	-	O
+96	Magic	O
+97	Johnson	O
+98	-	O
+99	Michael	O
+100	Jordan	O
+101	-	O
+102	Karl	O
+103	Malone	O
+104	-	O
+105	Chris	O
+106	Mullin	O
+107	-	O
+108	Scottie	O
+109	Pippen	O
+110	-	O
+111	David	O
+112	Robinson	O
+113	-	O
+114	John	O
+115	Stockton	O
+116	-	O
+117	Karl	O
+118	Anthony	O
+119	Towns	O
+120	(	O
+121	head	O
+122	coach	O
+123	)	O
+124	2	O
+125	.	O
+126	**	O
+127	Silver	O
+128	Medal	O
+129	**:	O
+130	Croatia	B-Silver
+131	-	O
+132	Zoran	O
+133	Savić	O
+134	-	O
+135	Dražen	O
+136	Petrović	O
+137	-	O
+138	Toni	O
+139	Kukoč	O
+140	-	O
+141	Franjo	O
+142	Arapović	O
+143	-	O
+144	Aza	O
+145	Petrović	O
+146	-	O
+147	Stojko	O
+148	Vranković	O
+149	-	O
+150	Dino	O
+151	Rađa	O
+152	-	O
+153	Velimir	O
+154	Perasović	O
+155	-	O
+156	Vladan	O
+157	Alanović	O
+158	-	O
+159	Žan	O
+160	Tabak	O
+161	-	O
+162	Luka	O
+163	Pavićević	O
+164	-	O
+165	Petar	O
+166	Skansi	O
+167	(	O
+168	head	O
+169	coach	O
+170	)	O
+171	3	O
+172	.	O
+173	**	O
+174	Bronze	O
+175	Medal	O
+176	**:	O
+177	Lithuania	B-Bronze
+178	-	O
+179	Arvydas	O
+180	Sabonis	O
+181	-	O
+182	Šarūnas	O
+183	Marčiulionis	O
+184	-	O
+185	Valdemaras	O
+186	Chomičius	O
+187	-	O
+188	Rimas	O
+189	Kurtinaitis	O
+190	-	O
+191	Gintaras	O
+192	Einikis	O
+193	-	O
+194	Arūnas	O
+195	Visockas	O
+196	-	O
+197	Darius	O
+198	Dimavičius	O
+199	-	O
+200	Mindaugas	O
+201	Timinskas	O
+202	-	O
+203	Virginijus	O
+204	Praškevičius	O
+205	-	O
+206	Saulius	O
+207	Štombergas	O
+208	-	O
+209	Rimas	O
+210	Kučys	O
+211	-	O
+212	Vladas	O
+213	Garastas	O
+214	(	O
+215	head	O
+216	coach	O
+217	)	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Women's Basketball event at the 1992 olympic games?The Women's Basketball event at the 1992 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Teresa Edwards, Dawn Staley, Lisa Leslie, Katrina McClain, Jennifer Azzi, Cynthia Cooper, Dawn Sherrod, Bridgette Gordon, Victoria Bullett, Kamie Ethridge, Cynthia Brown, and Katy Steding.
+2. **Silver Medal**: China
+   - Players: Zheng Haixia, Liu Jun, Song Xiaoyun, Cong Xuedi, Zhang Xiaoni, Wang Fang, Zheng Hongliang, Liu Yuying, Liu Jun, Zhang Lina, Li Dongmei, and Zhuang Wei.
+3. **Bronze Medal**: Cuba
+   - Players: Milagros Gerardo, Milagros Martinez, Yamila Ramos, Ana Perez, Yudelquis Contreras, Tania Padron, Cariola Torres, Yaraima Oquendo, Yumilka Da Silva, Yamila Rodriguez, Lisset Morales, and Norka Montalvo.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	1992	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	United	O
+34	States	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Teresa	O
+53	Edwards	O
+54	,	O
+55	Dawn	O
+56	Staley	O
+57	,	O
+58	Lisa	O
+59	Leslie	O
+60	,	O
+61	Katrina	O
+62	McClain	O
+63	,	O
+64	Jennifer	O
+65	Azzi	O
+66	,	O
+67	Cynthia	O
+68	Cooper	O
+69	,	O
+70	Dawn	O
+71	Sherrod	O
+72	,	O
+73	Bridgette	O
+74	Gordon	O
+75	,	O
+76	Victoria	O
+77	Bullett	O
+78	,	O
+79	Kamie	O
+80	Ethridge	O
+81	,	O
+82	Cynthia	O
+83	Brown	O
+84	,	O
+85	and	O
+86	Katy	O
+87	Steding	O
+88	.	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	**:	O
+95	China	B-Silver
+96	-	O
+97	Players	O
+98	:	O
+99	Zheng	O
+100	Haixia	O
+101	,	O
+102	Liu	O
+103	Jun	O
+104	,	O
+105	Song	O
+106	Xiaoyun	O
+107	,	O
+108	Cong	O
+109	Xuedi	O
+110	,	O
+111	Zhang	O
+112	Xiaoni	O
+113	,	O
+114	Wang	O
+115	Fang	O
+116	,	O
+117	Zheng	O
+118	Hongliang	O
+119	,	O
+120	Liu	O
+121	Yuying	O
+122	,	O
+123	Liu	O
+124	Jun	O
+125	,	O
+126	Zhang	O
+127	Lina	O
+128	,	O
+129	Li	O
+130	Dongmei	O
+131	,	O
+132	and	O
+133	Zhuang	O
+134	Wei	O
+135	.	O
+136	3	O
+137	.	O
+138	**	O
+139	Bronze	O
+140	Medal	O
+141	**:	O
+142	Cuba	B-Bronze
+143	-	O
+144	Players	O
+145	:	O
+146	Milagros	O
+147	Gerardo	O
+148	,	O
+149	Milagros	O
+150	Martinez	O
+151	,	O
+152	Yamila	O
+153	Ramos	O
+154	,	O
+155	Ana	O
+156	Perez	O
+157	,	O
+158	Yudelquis	O
+159	Contreras	O
+160	,	O
+161	Tania	O
+162	Padron	O
+163	,	O
+164	Cariola	O
+165	Torres	O
+166	,	O
+167	Yaraima	O
+168	Oquendo	O
+169	,	O
+170	Yumilka	O
+171	Da	O
+172	Silva	O
+173	,	O
+174	Yamila	O
+175	Rodriguez	O
+176	,	O
+177	Lisset	O
+178	Morales	O
+179	,	O
+180	and	O
+181	Norka	O
+182	Montalvo	O
+183	.	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 1992 olympic games?The Men's Rowing Coxed Eights event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Teti (coxswain)
+   - Thomas Bohrer
+   - Jeffrey McLaughlin
+   - Jonathan Smith
+   - John Strotbeck
+   - Kevin Still
+   - John Terwilliger
+   - Brian Sullivan
+   - Patrick Manning
+2. **Silver Medal**: Germany
+   - Ansgar Wessling (coxswain)
+   - Detlef Kirchhoff
+   - Ralph Mietzner
+   - Thomas Möllenkamp
+   - Matthias Ungemach
+   - Michael Steinbach
+   - Thorsten Streppelhoff
+   - Peter Thiede
+   - Bahne Rabe
+3. **Bronze Medal**: Canada
+   - John Wallace (coxswain)
+   - Robert Marland
+   - Michael Forgeron
+   - Mark Evans
+   - David Hunt-Lawrence
+   - Michael Rascher
+   - Bruce Robertson
+   - Douglas Hamilton
+   - John Wallace Jr.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Michael	O
+57	Teti	O
+58	(	O
+59	coxswain	O
+60	)	O
+61	-	O
+62	Thomas	O
+63	Bohrer	O
+64	-	O
+65	Jeffrey	O
+66	McLaughlin	O
+67	-	O
+68	Jonathan	O
+69	Smith	O
+70	-	O
+71	John	O
+72	Strotbeck	O
+73	-	O
+74	Kevin	O
+75	Still	O
+76	-	O
+77	John	O
+78	Terwilliger	O
+79	-	O
+80	Brian	O
+81	Sullivan	O
+82	-	O
+83	Patrick	O
+84	Manning	O
+85	2	O
+86	.	O
+87	**	O
+88	Silver	O
+89	Medal	O
+90	**:	O
+91	Germany	B-Silver
+92	-	O
+93	Ansgar	O
+94	Wessling	O
+95	(	O
+96	coxswain	O
+97	)	O
+98	-	O
+99	Detlef	O
+100	Kirchhoff	O
+101	-	O
+102	Ralph	O
+103	Mietzner	O
+104	-	O
+105	Thomas	O
+106	Möllenkamp	O
+107	-	O
+108	Matthias	O
+109	Ungemach	O
+110	-	O
+111	Michael	O
+112	Steinbach	O
+113	-	O
+114	Thorsten	O
+115	Streppelhoff	O
+116	-	O
+117	Peter	O
+118	Thiede	O
+119	-	O
+120	Bahne	O
+121	Rabe	O
+122	3	O
+123	.	O
+124	**	O
+125	Bronze	O
+126	Medal	O
+127	**:	O
+128	Canada	B-Bronze
+129	-	O
+130	John	O
+131	Wallace	O
+132	(	O
+133	coxswain	O
+134	)	O
+135	-	O
+136	Robert	O
+137	Marland	O
+138	-	O
+139	Michael	O
+140	Forgeron	O
+141	-	O
+142	Mark	O
+143	Evans	O
+144	-	O
+145	David	O
+146	Hunt-Lawrence	O
+147	-	O
+148	Michael	O
+149	Rascher	O
+150	-	O
+151	Bruce	O
+152	Robertson	O
+153	-	O
+154	Douglas	O
+155	Hamilton	O
+156	-	O
+157	John	O
+158	Wallace	O
+159	Jr	O
+160	.	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 1992 olympic games?The Women's Rowing Coxed Eights event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Team members: Stephanie Maxwell-Webb, Anna Seaton, Amanda McClain, Sarah Parsons, Kay Worthington, Megan McCorkle, Kate MacRae, Carie Graves, Mary Whipple (cox)
+2. **Silver Medal**: Romania
+   - Team members: Doina Robu, Viorica Susanu, Ioana Olteanu, Liliana Gafencu, Doina Snep-Balan, Maria Păduraru, Rodica Arba, Adelina Cojocaru, Elena Georgescu (cox)
+3. **Bronze Medal**: Canada
+   - Team members: Brenda Taylor, Jessica Monroe, Megan Delehanty, Anna van der Kamp, Tosha Tsang, Emma Robinson, Alison Korn, Laura Colwell, Lesley Thompson (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Stephanie	O
+60	Maxwell-Webb	O
+61	,	O
+62	Anna	O
+63	Seaton	O
+64	,	O
+65	Amanda	O
+66	McClain	O
+67	,	O
+68	Sarah	O
+69	Parsons	O
+70	,	O
+71	Kay	O
+72	Worthington	O
+73	,	O
+74	Megan	O
+75	McCorkle	O
+76	,	O
+77	Kate	O
+78	MacRae	O
+79	,	O
+80	Carie	O
+81	Graves	O
+82	,	O
+83	Mary	O
+84	Whipple	O
+85	(	O
+86	cox	O
+87	)	O
+88	2	O
+89	.	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	**:	O
+94	Romania	B-Silver
+95	-	O
+96	Team	O
+97	members	O
+98	:	O
+99	Doina	O
+100	Robu	O
+101	,	O
+102	Viorica	O
+103	Susanu	O
+104	,	O
+105	Ioana	O
+106	Olteanu	O
+107	,	O
+108	Liliana	O
+109	Gafencu	O
+110	,	O
+111	Doina	O
+112	Snep-Balan	O
+113	,	O
+114	Maria	O
+115	Păduraru	O
+116	,	O
+117	Rodica	O
+118	Arba	O
+119	,	O
+120	Adelina	O
+121	Cojocaru	O
+122	,	O
+123	Elena	O
+124	Georgescu	O
+125	(	O
+126	cox	O
+127	)	O
+128	3	O
+129	.	O
+130	**	O
+131	Bronze	O
+132	Medal	O
+133	**:	O
+134	Canada	B-Bronze
+135	-	O
+136	Team	O
+137	members	O
+138	:	O
+139	Brenda	O
+140	Taylor	O
+141	,	O
+142	Jessica	O
+143	Monroe	O
+144	,	O
+145	Megan	O
+146	Delehanty	O
+147	,	O
+148	Anna	O
+149	van	O
+150	der	O
+151	Kamp	O
+152	,	O
+153	Tosha	O
+154	Tsang	O
+155	,	O
+156	Emma	O
+157	Robinson	O
+158	,	O
+159	Alison	O
+160	Korn	O
+161	,	O
+162	Laura	O
+163	Colwell	O
+164	,	O
+165	Lesley	O
+166	Thompson	O
+167	(	O
+168	cox	O
+169	)	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Men's Rowing Coxless Fours event at the 1992 olympic games?The Men's Rowing Coxless Fours event at the 1992 Olympic Games in Barcelona was won by the team from Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Michael Forgeron
+   - Mark Evans
+   - David Hunt
+   - Robert Marland
+2. **Silver Medal**: Germany
+   - Uwe Munke
+   - Detlef Kirchhoff
+   - Thorsten Guhr
+   - Stefan Ullrich
+3. **Bronze Medal**: Great Britain
+   - Gregory Searle
+   - Jonathan Searle
+   - Rufus Biggs
+   - Peter Haining
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxless	O
+12	Fours	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxless	O
+26	Fours	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Canada	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Canada	B-Gold
+55	-	O
+56	Michael	O
+57	Forgeron	O
+58	-	O
+59	Mark	O
+60	Evans	O
+61	-	O
+62	David	O
+63	Hunt	O
+64	-	O
+65	Robert	O
+66	Marland	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Germany	B-Silver
+74	-	O
+75	Uwe	O
+76	Munke	O
+77	-	O
+78	Detlef	O
+79	Kirchhoff	O
+80	-	O
+81	Thorsten	O
+82	Guhr	O
+83	-	O
+84	Stefan	O
+85	Ullrich	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Great	B-Bronze
+93	Britain	I-Bronze
+94	-	O
+95	Gregory	O
+96	Searle	O
+97	-	O
+98	Jonathan	O
+99	Searle	O
+100	-	O
+101	Rufus	O
+102	Biggs	O
+103	-	O
+104	Peter	O
+105	Haining	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Women's Rowing Coxless Fours event at the 1992 olympic games?The Women's Rowing Coxless Fours event at the 1992 Olympic Games in Barcelona was won by the team from Romania. Here are the medalists:
+1. **Gold Medal**: Romania
+   - Constanța Burcică
+   - Viorica Susanu
+   - Ioana Olteanu
+   - Doina Robu
+2. **Silver Medal**: Canada
+   - Marnie McBean
+   - Kathleen Heddle
+   - Jane Tregunno
+   - Brenda Taylor
+3. **Bronze Medal**: United States
+   - Anne Marden
+   - Alison Townley
+   - Carie Graves
+   - Mary McCagg
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxless	O
+12	Fours	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxless	O
+26	Fours	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Romania	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Romania	B-Gold
+55	-	O
+56	Constanța	O
+57	Burcică	O
+58	-	O
+59	Viorica	O
+60	Susanu	O
+61	-	O
+62	Ioana	O
+63	Olteanu	O
+64	-	O
+65	Doina	O
+66	Robu	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Canada	B-Silver
+74	-	O
+75	Marnie	O
+76	McBean	O
+77	-	O
+78	Kathleen	O
+79	Heddle	O
+80	-	O
+81	Jane	O
+82	Tregunno	O
+83	-	O
+84	Brenda	O
+85	Taylor	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	United	B-Bronze
+93	States	I-Bronze
+94	-	O
+95	Anne	O
+96	Marden	O
+97	-	O
+98	Alison	O
+99	Townley	O
+100	-	O
+101	Carie	O
+102	Graves	O
+103	-	O
+104	Mary	O
+105	McCagg	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Men's Field Hockey event at the 1992 olympic games?The Men's Field Hockey event at the 1992 Olympic Games in Barcelona, Spain, was won by the German team. Here are the medalists:
+1. **Gold Medal**: Germany
+   - Team members: Christian Blunck, Christopher Reitz, Christian Mayerhöfer, Stefan Tewes, Andreas Keller, Christian Bassemir, Michael Knauth, Andreas Becker, Carsten Fischer, Christian Schliemann, Christian Mayerhöfer, Jan-Peter Tewes, Stefan Saliger, Christian Grambow, Christian Mayerhöfer, Stefan Tewes, Andreas Keller, Christian Bassemir, Michael Knauth, Andreas Becker, Carsten Fischer, Christian Schliemann, Jan-Peter Tewes, Stefan Saliger, Christian Grambow
+2. **Silver Medal**: Australia
+   - Team members: Lee Bodimeade, Warren Birmingham, Lachlan Dreher, Lachlan Elmer, Ashley Carey, Lachlan Craig, Warren McDonald, David Wansbrough, Lachlan Sharp, Ken Wark, Lachlan Elmer, Lachlan Craig, Warren McDonald, David Wansbrough, Lachlan Sharp, Ken Wark, Lee Bodimeade, Warren Birmingham, Ashley Carey, Lachlan Dreher, Lachlan Elmer, Lachlan Craig, Warren McDonald, David Wansbrough, Lachlan Sharp, Ken Wark
+3. **Bronze Medal**: Pakistan
+   - Team members: Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz, Muhammad Qamar Ibrahim, Muhammad Khalid, Muhammad Shahbaz
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	,	O
+34	Spain	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	German	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Germany	B-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Christian	O
+60	Blunck	O
+61	,	O
+62	Christopher	O
+63	Reitz	O
+64	,	O
+65	Christian	O
+66	Mayerhöfer	O
+67	,	O
+68	Stefan	O
+69	Tewes	O
+70	,	O
+71	Andreas	O
+72	Keller	O
+73	,	O
+74	Christian	O
+75	Bassemir	O
+76	,	O
+77	Michael	O
+78	Knauth	O
+79	,	O
+80	Andreas	O
+81	Becker	O
+82	,	O
+83	Carsten	O
+84	Fischer	O
+85	,	O
+86	Christian	O
+87	Schliemann	O
+88	,	O
+89	Christian	O
+90	Mayerhöfer	O
+91	,	O
+92	Jan-Peter	O
+93	Tewes	O
+94	,	O
+95	Stefan	O
+96	Saliger	O
+97	,	O
+98	Christian	O
+99	Grambow	O
+100	,	O
+101	Christian	O
+102	Mayerhöfer	O
+103	,	O
+104	Stefan	O
+105	Tewes	O
+106	,	O
+107	Andreas	O
+108	Keller	O
+109	,	O
+110	Christian	O
+111	Bassemir	O
+112	,	O
+113	Michael	O
+114	Knauth	O
+115	,	O
+116	Andreas	O
+117	Becker	O
+118	,	O
+119	Carsten	O
+120	Fischer	O
+121	,	O
+122	Christian	O
+123	Schliemann	O
+124	,	O
+125	Jan-Peter	O
+126	Tewes	O
+127	,	O
+128	Stefan	O
+129	Saliger	O
+130	,	O
+131	Christian	O
+132	Grambow	O
+133	2	O
+134	.	O
+135	**	O
+136	Silver	O
+137	Medal	O
+138	**:	O
+139	Australia	B-Silver
+140	-	O
+141	Team	O
+142	members	O
+143	:	O
+144	Lee	O
+145	Bodimeade	O
+146	,	O
+147	Warren	O
+148	Birmingham	O
+149	,	O
+150	Lachlan	O
+151	Dreher	O
+152	,	O
+153	Lachlan	O
+154	Elmer	O
+155	,	O
+156	Ashley	O
+157	Carey	O
+158	,	O
+159	Lachlan	O
+160	Craig	O
+161	,	O
+162	Warren	O
+163	McDonald	O
+164	,	O
+165	David	O
+166	Wansbrough	O
+167	,	O
+168	Lachlan	O
+169	Sharp	O
+170	,	O
+171	Ken	O
+172	Wark	O
+173	,	O
+174	Lachlan	O
+175	Elmer	O
+176	,	O
+177	Lachlan	O
+178	Craig	O
+179	,	O
+180	Warren	O
+181	McDonald	O
+182	,	O
+183	David	O
+184	Wansbrough	O
+185	,	O
+186	Lachlan	O
+187	Sharp	O
+188	,	O
+189	Ken	O
+190	Wark	O
+191	,	O
+192	Lee	O
+193	Bodimeade	O
+194	,	O
+195	Warren	O
+196	Birmingham	O
+197	,	O
+198	Ashley	O
+199	Carey	O
+200	,	O
+201	Lachlan	O
+202	Dreher	O
+203	,	O
+204	Lachlan	O
+205	Elmer	O
+206	,	O
+207	Lachlan	O
+208	Craig	O
+209	,	O
+210	Warren	O
+211	McDonald	O
+212	,	O
+213	David	O
+214	Wansbrough	O
+215	,	O
+216	Lachlan	O
+217	Sharp	O
+218	,	O
+219	Ken	O
+220	Wark	O
+221	3	O
+222	.	O
+223	**	O
+224	Bronze	O
+225	Medal	O
+226	**:	O
+227	Pakistan	B-Bronze
+228	-	O
+229	Team	O
+230	members	O
+231	:	O
+232	Muhammad	O
+233	Qamar	O
+234	Ibrahim	O
+235	,	O
+236	Muhammad	O
+237	Khalid	O
+238	,	O
+239	Muhammad	O
+240	Shahbaz	O
+241	,	O
+242	Muhammad	O
+243	Qamar	O
+244	Ibrahim	O
+245	,	O
+246	Muhammad	O
+247	Khalid	O
+248	,	O
+249	Muhammad	O
+250	Shahbaz	O
+251	,	O
+252	Muhammad	O
+253	Qamar	O
+254	Ibrahim	O
+255	,	O
+256	Muhammad	O
+257	Khalid	O
+258	,	O
+259	Muhammad	O
+260	Shahbaz	O
+261	,	O
+262	Muhammad	O
+263	Qamar	O
+264	Ibrahim	O
+265	,	O
+266	Muhammad	O
+267	Khalid	O
+268	,	O
+269	Muhammad	O
+270	Shahbaz	O
+271	,	O
+272	Muhammad	O
+273	Qamar	O
+274	Ibrahim	O
+275	,	O
+276	Muhammad	O
+277	Khalid	O
+278	,	O
+279	Muhammad	O
+280	Shahbaz	O
+281	,	O
+282	Muhammad	O
+283	Qamar	O
+284	Ibrahim	O
+285	,	O
+286	Muhammad	O
+287	Khalid	O
+288	,	O
+289	Muhammad	O
+290	Shahbaz	O
+291	,	O
+292	Muhammad	O
+293	Qamar	O
+294	Ibrahim	O
+295	,	O
+296	Muhammad	O
+297	Khalid	O
+298	,	O
+299	Muhammad	O
+300	Shahbaz	O
+301	,	O
+302	Muhammad	O
+303	Qamar	O
+304	Ibrahim	O
+305	,	O
+306	Muhammad	O
+307	Khalid	O
+308	,	O
+309	Muhammad	O
+310	Shahbaz	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Women's Field Hockey event at the 1992 olympic games?The Women's Field Hockey event at the 1992 Olympic Games in Barcelona, Spain, was won by the German team. Here are the medalists:
+1. **Gold Medal**: Germany
+   - Team members: Susie Wollschläger, Nadine Ernsting-Krienke, Bianca Weiß, Anke Wild, Franziska Hentschel, Eva Hagenbäumer, Caren Jungjohann, Simone Thomaschinski, Susie Wollschläger, Tanja Dickenscheid, Kristine Peters, Susie Wollschläger, Nadine Ernsting-Krienke, Bianca Weiß, Anke Wild, Franziska Hentschel, Eva Hagenbäumer, Caren Jungjohann, Simone Thomaschinski, Tanja Dickenscheid, Kristine Peters
+2. **Silver Medal**: South Korea
+   - Team members: Lee Seong-Sook, Lee Eun-Kyung, Kim Mi-Sun, Lee Seong-Young, Kim Jeong-Hee, Kim Jeong-Mi, Park Kyung-Hoon, Lee Seong-Young, Kim Jeong-Mi, Kim Jeong-Hee, Park Kyung-Hoon, Lee Seong-Sook, Lee Eun-Kyung, Kim Mi-Sun, Lee Seong-Young, Kim Jeong-Hee, Kim Jeong-Mi, Park Kyung-Hoon
+3. **Bronze Medal**: Australia
+   - Team members: Lisa Powell, Michelle Hager, Alyson Annan, Juliet Haslam, Lisa Naughton, Rechelle Hawkes, Kathleen Partridge, Michelle Mott, Lisa Powell, Michelle Hager, Alyson Annan, Juliet Haslam, Lisa Naughton, Rechelle Hawkes, Kathleen Partridge, Michelle Mott
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	,	O
+34	Spain	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	German	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Germany	B-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Susie	O
+60	Wollschläger	O
+61	,	O
+62	Nadine	O
+63	Ernsting-Krienke	O
+64	,	O
+65	Bianca	O
+66	Weiß	O
+67	,	O
+68	Anke	O
+69	Wild	O
+70	,	O
+71	Franziska	O
+72	Hentschel	O
+73	,	O
+74	Eva	O
+75	Hagenbäumer	O
+76	,	O
+77	Caren	O
+78	Jungjohann	O
+79	,	O
+80	Simone	O
+81	Thomaschinski	O
+82	,	O
+83	Susie	O
+84	Wollschläger	O
+85	,	O
+86	Tanja	O
+87	Dickenscheid	O
+88	,	O
+89	Kristine	O
+90	Peters	O
+91	,	O
+92	Susie	O
+93	Wollschläger	O
+94	,	O
+95	Nadine	O
+96	Ernsting-Krienke	O
+97	,	O
+98	Bianca	O
+99	Weiß	O
+100	,	O
+101	Anke	O
+102	Wild	O
+103	,	O
+104	Franziska	O
+105	Hentschel	O
+106	,	O
+107	Eva	O
+108	Hagenbäumer	O
+109	,	O
+110	Caren	O
+111	Jungjohann	O
+112	,	O
+113	Simone	O
+114	Thomaschinski	O
+115	,	O
+116	Tanja	O
+117	Dickenscheid	O
+118	,	O
+119	Kristine	O
+120	Peters	O
+121	2	O
+122	.	O
+123	**	O
+124	Silver	O
+125	Medal	O
+126	**:	O
+127	South	B-Silver
+128	Korea	I-Silver
+129	-	O
+130	Team	O
+131	members	O
+132	:	O
+133	Lee	O
+134	Seong-Sook	O
+135	,	O
+136	Lee	O
+137	Eun-Kyung	O
+138	,	O
+139	Kim	O
+140	Mi-Sun	O
+141	,	O
+142	Lee	O
+143	Seong-Young	O
+144	,	O
+145	Kim	O
+146	Jeong-Hee	O
+147	,	O
+148	Kim	O
+149	Jeong-Mi	O
+150	,	O
+151	Park	O
+152	Kyung-Hoon	O
+153	,	O
+154	Lee	O
+155	Seong-Young	O
+156	,	O
+157	Kim	O
+158	Jeong-Mi	O
+159	,	O
+160	Kim	O
+161	Jeong-Hee	O
+162	,	O
+163	Park	O
+164	Kyung-Hoon	O
+165	,	O
+166	Lee	O
+167	Seong-Sook	O
+168	,	O
+169	Lee	O
+170	Eun-Kyung	O
+171	,	O
+172	Kim	O
+173	Mi-Sun	O
+174	,	O
+175	Lee	O
+176	Seong-Young	O
+177	,	O
+178	Kim	O
+179	Jeong-Hee	O
+180	,	O
+181	Kim	O
+182	Jeong-Mi	O
+183	,	O
+184	Park	O
+185	Kyung-Hoon	O
+186	3	O
+187	.	O
+188	**	O
+189	Bronze	O
+190	Medal	O
+191	**:	O
+192	Australia	B-Bronze
+193	-	O
+194	Team	O
+195	members	O
+196	:	O
+197	Lisa	O
+198	Powell	O
+199	,	O
+200	Michelle	O
+201	Hager	O
+202	,	O
+203	Alyson	O
+204	Annan	O
+205	,	O
+206	Juliet	O
+207	Haslam	O
+208	,	O
+209	Lisa	O
+210	Naughton	O
+211	,	O
+212	Rechelle	O
+213	Hawkes	O
+214	,	O
+215	Kathleen	O
+216	Partridge	O
+217	,	O
+218	Michelle	O
+219	Mott	O
+220	,	O
+221	Lisa	O
+222	Powell	O
+223	,	O
+224	Michelle	O
+225	Hager	O
+226	,	O
+227	Alyson	O
+228	Annan	O
+229	,	O
+230	Juliet	O
+231	Haslam	O
+232	,	O
+233	Lisa	O
+234	Naughton	O
+235	,	O
+236	Rechelle	O
+237	Hawkes	O
+238	,	O
+239	Kathleen	O
+240	Partridge	O
+241	,	O
+242	Michelle	O
+243	Mott	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 1992 olympic games?The Men's Fencing Foil, Team event at the 1992 Olympic Games in Barcelona was won by the team from France. The French team consisted of:
+1. Philippe Omnès
+2. Patrick Groc
+3. Jean-Michel Henry
+4. Olivier Lambert
+5. Thierry Soumagne
+They defeated the Italian team in the final match to secure the gold medal. The Italian team won the silver medal, and the bronze medal was won by the team from Poland.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Foil	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	1992	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Barcelona	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	France	B-Gold
+44	.	O
+45	The	O
+46	French	O
+47	team	O
+48	consisted	O
+49	of	O
+50	:	O
+51	1	O
+52	.	O
+53	Philippe	O
+54	Omnès	O
+55	2	O
+56	.	O
+57	Patrick	O
+58	Groc	O
+59	3	O
+60	.	O
+61	Jean-Michel	O
+62	Henry	O
+63	4	O
+64	.	O
+65	Olivier	O
+66	Lambert	O
+67	5	O
+68	.	O
+69	Thierry	O
+70	Soumagne	O
+71	They	O
+72	defeated	O
+73	the	O
+74	Italian	O
+75	team	O
+76	in	O
+77	the	O
+78	final	O
+79	match	O
+80	to	O
+81	secure	O
+82	the	O
+83	gold	O
+84	medal	O
+85	.	O
+86	The	O
+87	Italian	B-Silver
+88	team	O
+89	won	O
+90	the	O
+91	silver	O
+92	medal	O
+93	,	O
+94	and	O
+95	the	O
+96	bronze	O
+97	medal	O
+98	was	O
+99	won	O
+100	by	O
+101	the	O
+102	team	O
+103	from	O
+104	Poland	B-Bronze
+105	.	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 1992 olympic games?The Women's Fencing Foil, Team event at the 1992 Olympic Games in Barcelona was won by the team from the Unified Team (the team representing the former Soviet Union and other former Soviet republics). Here are the medalists:
+- Gold: Unified Team (Tatiana Sadovskaya, Yelena Glikina, Olga Veliychik, Marina Vezmarova, and Yekaterina Lebedeva)
+- Silver: Italy (Francesca Bortolozzi, Giovanna Trillini, Dorina Vaccaroni, Margherita Zalaffi, and Laura Chiesa)
+- Bronze: France (Valérie Barlois, Sophie Moressée-Pichot, Isabelle Spennato, and Guylaine Cloutier)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Foil	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	1992	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Barcelona	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	the	O
+44	Unified	O
+45	Team	O
+46	(	O
+47	the	O
+48	team	O
+49	representing	O
+50	the	O
+51	former	O
+52	Soviet	O
+53	Union	O
+54	and	O
+55	other	O
+56	former	O
+57	Soviet	O
+58	republics	O
+59	).	O
+60	Here	O
+61	are	O
+62	the	O
+63	medalists	O
+64	:	O
+65	-	O
+66	Gold	O
+67	:	O
+68	Unified	B-Gold
+69	Team	I-Gold
+70	(	O
+71	Tatiana	O
+72	Sadovskaya	O
+73	,	O
+74	Yelena	O
+75	Glikina	O
+76	,	O
+77	Olga	O
+78	Veliychik	O
+79	,	O
+80	Marina	O
+81	Vezmarova	O
+82	,	O
+83	and	O
+84	Yekaterina	O
+85	Lebedeva	O
+86	)	O
+87	-	O
+88	Silver	O
+89	:	O
+90	Italy	B-Silver
+91	(	O
+92	Francesca	O
+93	Bortolozzi	O
+94	,	O
+95	Giovanna	O
+96	Trillini	O
+97	,	O
+98	Dorina	O
+99	Vaccaroni	O
+100	,	O
+101	Margherita	O
+102	Zalaffi	O
+103	,	O
+104	and	O
+105	Laura	O
+106	Chiesa	O
+107	)	O
+108	-	O
+109	Bronze	O
+110	:	O
+111	France	B-Bronze
+112	(	O
+113	Valérie	O
+114	Barlois	O
+115	,	O
+116	Sophie	O
+117	Moressée-Pichot	O
+118	,	O
+119	Isabelle	O
+120	Spennato	O
+121	,	O
+122	and	O
+123	Guylaine	O
+124	Cloutier	O
+125	)	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Men's Handball event at the 1992 olympic games?The Men's Handball event at the 1992 Olympic Games in Barcelona was won by the Unified Team (the team representing the post-Soviet states). Here are the medalists:
+- Gold: Unified Team
+  - Players: Talant Dujshebaev, Vasily Kudinov, Andrey Lavrov, Mikhail Vasilyev, Yuriy Shevtsov, Igor Vlasov, Valeri Gopin, Oleg Grebnev, Andrey Lavrov, Igor Chumak, Mikhail Jakimovich, Andrey Lavrov, Mikhail Vasilyev, Yuriy Shevtsov, Igor Vlasov, Valeri Gopin, Oleg Grebnev, Andrey Lavrov, Igor Chumak, Mikhail Jakimovich
+- Silver: France
+  - Players: Philippe Médard, Philippe Bana, Pascal Mahé, Jackson Richardson, Daniel Costantini, Frédéric Volle, Bruno Martini, Laurent Munier, Thierry Omeyer, Daniel Sauvet, Frédéric Dossis, Pascal Mahé, Philippe Médard, Philippe Bana, Jackson Richardson, Daniel Costantini, Frédéric Volle, Bruno Martini, Laurent Munier, Thierry Omeyer, Daniel Sauvet, Frédéric Dossis
+- Bronze: Sweden
+  - Players: Magnus Andersson, Robert Andersson, Per Carlén, Magnus Cato, Robert Hedin, Mats Olsson, Staffan Olsson, Ola Lindgren, Pierre Thorsson, Robert Andersson, Per Carlén, Magnus Cato, Robert Hedin, Mats Olsson, Staffan Olsson, Ola Lindgren, Pierre Thorsson, Magnus Andersson, Robert Andersson, Per Carlén, Magnus Cato, Robert Hedin, Mats Olsson, Staffan Olsson, Ola Lindgren, Pierre Thorsson
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	1992	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Barcelona	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Unified	O
+36	Team	O
+37	(	O
+38	the	O
+39	team	O
+40	representing	O
+41	the	O
+42	post-Soviet	O
+43	states	O
+44	).	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	-	O
+51	Gold	O
+52	:	O
+53	Unified	B-Gold
+54	Team	I-Gold
+55	-	O
+56	Players	O
+57	:	O
+58	Talant	O
+59	Dujshebaev	O
+60	,	O
+61	Vasily	O
+62	Kudinov	O
+63	,	O
+64	Andrey	O
+65	Lavrov	O
+66	,	O
+67	Mikhail	O
+68	Vasilyev	O
+69	,	O
+70	Yuriy	O
+71	Shevtsov	O
+72	,	O
+73	Igor	O
+74	Vlasov	O
+75	,	O
+76	Valeri	O
+77	Gopin	O
+78	,	O
+79	Oleg	O
+80	Grebnev	O
+81	,	O
+82	Andrey	O
+83	Lavrov	O
+84	,	O
+85	Igor	O
+86	Chumak	O
+87	,	O
+88	Mikhail	O
+89	Jakimovich	O
+90	,	O
+91	Andrey	O
+92	Lavrov	O
+93	,	O
+94	Mikhail	O
+95	Vasilyev	O
+96	,	O
+97	Yuriy	O
+98	Shevtsov	O
+99	,	O
+100	Igor	O
+101	Vlasov	O
+102	,	O
+103	Valeri	O
+104	Gopin	O
+105	,	O
+106	Oleg	O
+107	Grebnev	O
+108	,	O
+109	Andrey	O
+110	Lavrov	O
+111	,	O
+112	Igor	O
+113	Chumak	O
+114	,	O
+115	Mikhail	O
+116	Jakimovich	O
+117	-	O
+118	Silver	O
+119	:	O
+120	France	B-Silver
+121	-	O
+122	Players	O
+123	:	O
+124	Philippe	O
+125	Médard	O
+126	,	O
+127	Philippe	O
+128	Bana	O
+129	,	O
+130	Pascal	O
+131	Mahé	O
+132	,	O
+133	Jackson	O
+134	Richardson	O
+135	,	O
+136	Daniel	O
+137	Costantini	O
+138	,	O
+139	Frédéric	O
+140	Volle	O
+141	,	O
+142	Bruno	O
+143	Martini	O
+144	,	O
+145	Laurent	O
+146	Munier	O
+147	,	O
+148	Thierry	O
+149	Omeyer	O
+150	,	O
+151	Daniel	O
+152	Sauvet	O
+153	,	O
+154	Frédéric	O
+155	Dossis	O
+156	,	O
+157	Pascal	O
+158	Mahé	O
+159	,	O
+160	Philippe	O
+161	Médard	O
+162	,	O
+163	Philippe	O
+164	Bana	O
+165	,	O
+166	Jackson	O
+167	Richardson	O
+168	,	O
+169	Daniel	O
+170	Costantini	O
+171	,	O
+172	Frédéric	O
+173	Volle	O
+174	,	O
+175	Bruno	O
+176	Martini	O
+177	,	O
+178	Laurent	O
+179	Munier	O
+180	,	O
+181	Thierry	O
+182	Omeyer	O
+183	,	O
+184	Daniel	O
+185	Sauvet	O
+186	,	O
+187	Frédéric	O
+188	Dossis	O
+189	-	O
+190	Bronze	O
+191	:	O
+192	Sweden	B-Bronze
+193	-	O
+194	Players	O
+195	:	O
+196	Magnus	O
+197	Andersson	O
+198	,	O
+199	Robert	O
+200	Andersson	O
+201	,	O
+202	Per	O
+203	Carlén	O
+204	,	O
+205	Magnus	O
+206	Cato	O
+207	,	O
+208	Robert	O
+209	Hedin	O
+210	,	O
+211	Mats	O
+212	Olsson	O
+213	,	O
+214	Staffan	O
+215	Olsson	O
+216	,	O
+217	Ola	O
+218	Lindgren	O
+219	,	O
+220	Pierre	O
+221	Thorsson	O
+222	,	O
+223	Robert	O
+224	Andersson	O
+225	,	O
+226	Per	O
+227	Carlén	O
+228	,	O
+229	Magnus	O
+230	Cato	O
+231	,	O
+232	Robert	O
+233	Hedin	O
+234	,	O
+235	Mats	O
+236	Olsson	O
+237	,	O
+238	Staffan	O
+239	Olsson	O
+240	,	O
+241	Ola	O
+242	Lindgren	O
+243	,	O
+244	Pierre	O
+245	Thorsson	O
+246	,	O
+247	Magnus	O
+248	Andersson	O
+249	,	O
+250	Robert	O
+251	Andersson	O
+252	,	O
+253	Per	O
+254	Carlén	O
+255	,	O
+256	Magnus	O
+257	Cato	O
+258	,	O
+259	Robert	O
+260	Hedin	O
+261	,	O
+262	Mats	O
+263	Olsson	O
+264	,	O
+265	Staffan	O
+266	Olsson	O
+267	,	O
+268	Ola	O
+269	Lindgren	O
+270	,	O
+271	Pierre	O
+272	Thorsson	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Women's Handball event at the 1992 olympic games?The Women's Handball event at the 1992 Olympic Games was won by the South Korean team. Here are the medalists:
+1. **Gold Medal**: South Korea
+   - Players: Kim Hwa-sook, Kim Jeong-mi, Lee Ho-jung, Lee Mi-young, Lim Mi-kyung, Moon Hyang-ja, Nam Eun-young, Oh Sung-ok, Park Jeong-lim, Park Jeong-sook, Song Ji-hyang, Sung Kyung-hwa, Woo Sun-hee, and Yang Jeong-sook.
+2. **Silver Medal**: Norway
+   - Players: Hege Frøseth, Hege Kristiansen, Susann Goksør, Annett Haugland, Hanne Hogness, Tonje Larsen, Siri E. Molven, Kristine Duvholt, Vibeke Johnsen, Kjersti Grini, Cathrine Svendsen, Ingrid Steen, Heidi Sundal, and Trine Haltvik.
+3. **Bronze Medal**: Unified Team (Team Unification of former Soviet Republics)
+   - Players: Yekaterina Davydova, Yekaterina Luchko, Yekaterina Mambetova, Yekaterina Marennikova, Yekaterina Samikhina, Yekaterina Serebryakova, Yekaterina Tikhonova, Yekaterina Vasilyeva, Yekaterina Zazhogina, Yelena Guseva, Yelena Nemashkalo, Yelena Polovkova, Yelena Tushkova, and Yelena Yushkova.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	1992	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	South	O
+34	Korean	O
+35	team	O
+36	.	O
+37	Here	O
+38	are	O
+39	the	O
+40	medalists	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	South	B-Gold
+49	Korea	I-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Kim	O
+54	Hwa-sook	O
+55	,	O
+56	Kim	O
+57	Jeong-mi	O
+58	,	O
+59	Lee	O
+60	Ho-jung	O
+61	,	O
+62	Lee	O
+63	Mi-young	O
+64	,	O
+65	Lim	O
+66	Mi-kyung	O
+67	,	O
+68	Moon	O
+69	Hyang-ja	O
+70	,	O
+71	Nam	O
+72	Eun-young	O
+73	,	O
+74	Oh	O
+75	Sung-ok	O
+76	,	O
+77	Park	O
+78	Jeong-lim	O
+79	,	O
+80	Park	O
+81	Jeong-sook	O
+82	,	O
+83	Song	O
+84	Ji-hyang	O
+85	,	O
+86	Sung	O
+87	Kyung-hwa	O
+88	,	O
+89	Woo	O
+90	Sun-hee	O
+91	,	O
+92	and	O
+93	Yang	O
+94	Jeong-sook	O
+95	.	O
+96	2	O
+97	.	O
+98	**	O
+99	Silver	O
+100	Medal	O
+101	**:	O
+102	Norway	B-Silver
+103	-	O
+104	Players	O
+105	:	O
+106	Hege	O
+107	Frøseth	O
+108	,	O
+109	Hege	O
+110	Kristiansen	O
+111	,	O
+112	Susann	O
+113	Goksør	O
+114	,	O
+115	Annett	O
+116	Haugland	O
+117	,	O
+118	Hanne	O
+119	Hogness	O
+120	,	O
+121	Tonje	O
+122	Larsen	O
+123	,	O
+124	Siri	O
+125	E	O
+126	.	O
+127	Molven	O
+128	,	O
+129	Kristine	O
+130	Duvholt	O
+131	,	O
+132	Vibeke	O
+133	Johnsen	O
+134	,	O
+135	Kjersti	O
+136	Grini	O
+137	,	O
+138	Cathrine	O
+139	Svendsen	O
+140	,	O
+141	Ingrid	O
+142	Steen	O
+143	,	O
+144	Heidi	O
+145	Sundal	O
+146	,	O
+147	and	O
+148	Trine	O
+149	Haltvik	O
+150	.	O
+151	3	O
+152	.	O
+153	**	O
+154	Bronze	O
+155	Medal	O
+156	**:	O
+157	Unified	B-Bronze
+158	Team	I-Bronze
+159	(	O
+160	Team	O
+161	Unification	O
+162	of	O
+163	former	O
+164	Soviet	O
+165	Republics	O
+166	)	O
+167	-	O
+168	Players	O
+169	:	O
+170	Yekaterina	O
+171	Davydova	O
+172	,	O
+173	Yekaterina	O
+174	Luchko	O
+175	,	O
+176	Yekaterina	O
+177	Mambetova	O
+178	,	O
+179	Yekaterina	O
+180	Marennikova	O
+181	,	O
+182	Yekaterina	O
+183	Samikhina	O
+184	,	O
+185	Yekaterina	O
+186	Serebryakova	O
+187	,	O
+188	Yekaterina	O
+189	Tikhonova	O
+190	,	O
+191	Yekaterina	O
+192	Vasilyeva	O
+193	,	O
+194	Yekaterina	O
+195	Zazhogina	O
+196	,	O
+197	Yelena	O
+198	Guseva	O
+199	,	O
+200	Yelena	O
+201	Nemashkalo	O
+202	,	O
+203	Yelena	O
+204	Polovkova	O
+205	,	O
+206	Yelena	O
+207	Tushkova	O
+208	,	O
+209	and	O
+210	Yelena	O
+211	Yushkova	O
+212	.	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Men's Indoor Volleyball event at the 1992 olympic games?The Men's Indoor Volleyball event at the 1992 Olympic Games in Barcelona was won by the Unified Team (the team representing the former Soviet Union and other former Soviet republics). Here are the medalists:
+- Gold: Unified Team
+  - Players: Igor Runov, Yuri Cherednik, Dmitri Fomin, Dmitri Frolov, Vladimir Kondra, Dmitri Plyusnichev, Yuri Panchenko, Andrey Kuznetsov, Raitis Girgensons, Jānis Upenieks, Yuriy Sapega, and Vladimir Shkuropalo.
+- Silver: Netherlands
+  - Players: Martin van Werkhoven, Martin Teeuwisse, Peter Blangé, Henk-Jan Held, Ron Zwerver, Jan Posthuma, Mike van de Goor, Peter Versluijs, Avital Selinger, Olof van der Meulen, and Ron Boudrie.
+- Bronze: Brazil
+  - Players: Douglas Chiarotti, Alexandre Stanzioni, Douglas de Souza, Talmo Monteiro, Maurício Lima, Giovane Gávio, André Nascimento, Marcelo Negrão, Anderson Rodrigues, Paulo Silva, and Alexandre Samuel.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Unified	O
+38	Team	O
+39	(	O
+40	the	O
+41	team	O
+42	representing	O
+43	the	O
+44	former	O
+45	Soviet	O
+46	Union	O
+47	and	O
+48	other	O
+49	former	O
+50	Soviet	O
+51	republics	O
+52	).	O
+53	Here	O
+54	are	O
+55	the	O
+56	medalists	O
+57	:	O
+58	-	O
+59	Gold	O
+60	:	O
+61	Unified	B-Gold
+62	Team	I-Gold
+63	-	O
+64	Players	O
+65	:	O
+66	Igor	O
+67	Runov	O
+68	,	O
+69	Yuri	O
+70	Cherednik	O
+71	,	O
+72	Dmitri	O
+73	Fomin	O
+74	,	O
+75	Dmitri	O
+76	Frolov	O
+77	,	O
+78	Vladimir	O
+79	Kondra	O
+80	,	O
+81	Dmitri	O
+82	Plyusnichev	O
+83	,	O
+84	Yuri	O
+85	Panchenko	O
+86	,	O
+87	Andrey	O
+88	Kuznetsov	O
+89	,	O
+90	Raitis	O
+91	Girgensons	O
+92	,	O
+93	Jānis	O
+94	Upenieks	O
+95	,	O
+96	Yuriy	O
+97	Sapega	O
+98	,	O
+99	and	O
+100	Vladimir	O
+101	Shkuropalo	O
+102	.	O
+103	-	O
+104	Silver	O
+105	:	O
+106	Netherlands	B-Silver
+107	-	O
+108	Players	O
+109	:	O
+110	Martin	O
+111	van	O
+112	Werkhoven	O
+113	,	O
+114	Martin	O
+115	Teeuwisse	O
+116	,	O
+117	Peter	O
+118	Blangé	O
+119	,	O
+120	Henk-Jan	O
+121	Held	O
+122	,	O
+123	Ron	O
+124	Zwerver	O
+125	,	O
+126	Jan	O
+127	Posthuma	O
+128	,	O
+129	Mike	O
+130	van	O
+131	de	O
+132	Goor	O
+133	,	O
+134	Peter	O
+135	Versluijs	O
+136	,	O
+137	Avital	O
+138	Selinger	O
+139	,	O
+140	Olof	O
+141	van	O
+142	der	O
+143	Meulen	O
+144	,	O
+145	and	O
+146	Ron	O
+147	Boudrie	O
+148	.	O
+149	-	O
+150	Bronze	O
+151	:	O
+152	Brazil	B-Bronze
+153	-	O
+154	Players	O
+155	:	O
+156	Douglas	O
+157	Chiarotti	O
+158	,	O
+159	Alexandre	O
+160	Stanzioni	O
+161	,	O
+162	Douglas	O
+163	de	O
+164	Souza	O
+165	,	O
+166	Talmo	O
+167	Monteiro	O
+168	,	O
+169	Maurício	O
+170	Lima	O
+171	,	O
+172	Giovane	O
+173	Gávio	O
+174	,	O
+175	André	O
+176	Nascimento	O
+177	,	O
+178	Marcelo	O
+179	Negrão	O
+180	,	O
+181	Anderson	O
+182	Rodrigues	O
+183	,	O
+184	Paulo	O
+185	Silva	O
+186	,	O
+187	and	O
+188	Alexandre	O
+189	Samuel	O
+190	.	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Women's Indoor Volleyball event at the 1992 olympic games?The Women's Indoor Volleyball event at the 1992 Olympic Games in Barcelona was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Players: Lang Ping, Hou Yuzhu, Zhang Na, Su Huijuan, Yang Xilan, Wang Yimiao, Li Yan, Liu Ailing, Zhou Xiaolan, Wei Qiang, Mo Ruixiang, and Chen Zhonghe
+2. **Silver Medal**: United States
+   - Players: Paula Weishoff, Liane Sato, Elaina Oden, Teee Williams-Alexander, Tammy Liley, Ruth Lawanson, Holly McPeak, Caren Kemner, Misti May-Treanor, Janet Cobbs, and Kim Oden
+3. **Bronze Medal**: Peru
+   - Players: Rosa Garcia, Gina Torrealba, Miriam Gallardo, Cenaida Uribe, Milagros Mallma, Magaly Carrasco, Norka Uribe, Ana Moscoso, Sandra La Rosa, Luiza Martinez, and Gabriela Perez del Solar
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Chinese	O
+38	team	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	China	B-Gold
+52	-	O
+53	Players	O
+54	:	O
+55	Lang	O
+56	Ping	O
+57	,	O
+58	Hou	O
+59	Yuzhu	O
+60	,	O
+61	Zhang	O
+62	Na	O
+63	,	O
+64	Su	O
+65	Huijuan	O
+66	,	O
+67	Yang	O
+68	Xilan	O
+69	,	O
+70	Wang	O
+71	Yimiao	O
+72	,	O
+73	Li	O
+74	Yan	O
+75	,	O
+76	Liu	O
+77	Ailing	O
+78	,	O
+79	Zhou	O
+80	Xiaolan	O
+81	,	O
+82	Wei	O
+83	Qiang	O
+84	,	O
+85	Mo	O
+86	Ruixiang	O
+87	,	O
+88	and	O
+89	Chen	O
+90	Zhonghe	O
+91	2	O
+92	.	O
+93	**	O
+94	Silver	O
+95	Medal	O
+96	**:	O
+97	United	B-Silver
+98	States	I-Silver
+99	-	O
+100	Players	O
+101	:	O
+102	Paula	O
+103	Weishoff	O
+104	,	O
+105	Liane	O
+106	Sato	O
+107	,	O
+108	Elaina	O
+109	Oden	O
+110	,	O
+111	Teee	O
+112	Williams-Alexander	O
+113	,	O
+114	Tammy	O
+115	Liley	O
+116	,	O
+117	Ruth	O
+118	Lawanson	O
+119	,	O
+120	Holly	O
+121	McPeak	O
+122	,	O
+123	Caren	O
+124	Kemner	O
+125	,	O
+126	Misti	O
+127	May-Treanor	O
+128	,	O
+129	Janet	O
+130	Cobbs	O
+131	,	O
+132	and	O
+133	Kim	O
+134	Oden	O
+135	3	O
+136	.	O
+137	**	O
+138	Bronze	O
+139	Medal	O
+140	**:	O
+141	Peru	B-Bronze
+142	-	O
+143	Players	O
+144	:	O
+145	Rosa	O
+146	Garcia	O
+147	,	O
+148	Gina	O
+149	Torrealba	O
+150	,	O
+151	Miriam	O
+152	Gallardo	O
+153	,	O
+154	Cenaida	O
+155	Uribe	O
+156	,	O
+157	Milagros	O
+158	Mallma	O
+159	,	O
+160	Magaly	O
+161	Carrasco	O
+162	,	O
+163	Norka	O
+164	Uribe	O
+165	,	O
+166	Ana	O
+167	Moscoso	O
+168	,	O
+169	Sandra	O
+170	La	O
+171	Rosa	O
+172	,	O
+173	Luiza	O
+174	Martinez	O
+175	,	O
+176	and	O
+177	Gabriela	O
+178	Perez	O
+179	del	O
+180	Solar	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 1992 olympic games?The Men's Rowing Quadruple Sculls event at the 1992 Olympic Games in Barcelona was won by the team from Italy. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Alberto Demiddi
+   - Gianluca Farina
+   - Rossano Galtarossa
+   - Filippo Soffici
+2. **Silver Medal**: Germany
+   - Michael Steinbach
+   - Stefan Ullrich
+   - Uwe Mund
+   - Thomas Jung
+3. **Bronze Medal**: Great Britain
+   - Gregory Searle
+   - Jonathan Searle
+   - Jonathan Fairbairn
+   - Gregory Nobbs
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Italy	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Gold
+55	-	O
+56	Alberto	O
+57	Demiddi	O
+58	-	O
+59	Gianluca	O
+60	Farina	O
+61	-	O
+62	Rossano	O
+63	Galtarossa	O
+64	-	O
+65	Filippo	O
+66	Soffici	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Germany	B-Silver
+74	-	O
+75	Michael	O
+76	Steinbach	O
+77	-	O
+78	Stefan	O
+79	Ullrich	O
+80	-	O
+81	Uwe	O
+82	Mund	O
+83	-	O
+84	Thomas	O
+85	Jung	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Great	B-Bronze
+93	Britain	I-Bronze
+94	-	O
+95	Gregory	O
+96	Searle	O
+97	-	O
+98	Jonathan	O
+99	Searle	O
+100	-	O
+101	Jonathan	O
+102	Fairbairn	O
+103	-	O
+104	Gregory	O
+105	Nobbs	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 1992 olympic games?The Women's Rowing Quadruple Sculls event at the 1992 Olympic Games in Barcelona was won by the team from Romania. Here are the medalists:
+1. **Gold Medal**: Romania
+   - Constanța Burcică
+   - Viorica Susanu
+   - Ioana Olteanu
+   - Liliana Gafencu
+2. **Silver Medal**: Germany
+   - Kersten Neukirchen
+   - Birgit Peter
+   - Sabine Johannsen
+   - Sybille Schmidt
+3. **Bronze Medal**: Canada
+   - Jessica Monroe
+   - Kay Worthington
+   - Megan Delehanty
+   - Anna van der Kamp
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	1992	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Barcelona	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Romania	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Romania	B-Gold
+55	-	O
+56	Constanța	O
+57	Burcică	O
+58	-	O
+59	Viorica	O
+60	Susanu	O
+61	-	O
+62	Ioana	O
+63	Olteanu	O
+64	-	O
+65	Liliana	O
+66	Gafencu	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Germany	B-Silver
+74	-	O
+75	Kersten	O
+76	Neukirchen	O
+77	-	O
+78	Birgit	O
+79	Peter	O
+80	-	O
+81	Sabine	O
+82	Johannsen	O
+83	-	O
+84	Sybille	O
+85	Schmidt	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Canada	B-Bronze
+93	-	O
+94	Jessica	O
+95	Monroe	O
+96	-	O
+97	Kay	O
+98	Worthington	O
+99	-	O
+100	Megan	O
+101	Delehanty	O
+102	-	O
+103	Anna	O
+104	van	O
+105	der	O
+106	Kamp	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Men's Archery Team event at the 1992 olympic games?The Men's Archery Team event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States (Glenn Meyers, Jay Barrs, and Richard McKinney)
+2. **Silver Medal**: South Korea (Kim Joo-sun, Lee Han-sang, and Chang Young-han)
+3. **Bronze Medal**: France (Patrick Laffargue, Sébastien Flute, and Fabien Mahon)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	(	O
+54	Glenn	O
+55	Meyers	O
+56	,	O
+57	Jay	O
+58	Barrs	O
+59	,	O
+60	and	O
+61	Richard	O
+62	McKinney	O
+63	)	O
+64	2	O
+65	.	O
+66	**	O
+67	Silver	O
+68	Medal	O
+69	**:	O
+70	South	B-Silver
+71	Korea	I-Silver
+72	(	O
+73	Kim	O
+74	Joo-sun	O
+75	,	O
+76	Lee	O
+77	Han-sang	O
+78	,	O
+79	and	O
+80	Chang	O
+81	Young-han	O
+82	)	O
+83	3	O
+84	.	O
+85	**	O
+86	Bronze	O
+87	Medal	O
+88	**:	O
+89	France	B-Bronze
+90	(	O
+91	Patrick	O
+92	Laffargue	O
+93	,	O
+94	Sébastien	O
+95	Flute	O
+96	,	O
+97	and	O
+98	Fabien	O
+99	Mahon	O
+100	)	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Women's Archery Team event at the 1992 olympic games?The Women's Archery Team event at the 1992 Olympic Games in Barcelona was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States (Denise Parker, Janet Dykman, and Melissa Jennison)
+2. **Silver Medal**: South Korea (Kim Soo-nyung, Kim Jo-sun, and Lee Eun-kyung)
+3. **Bronze Medal**: China (Ma Xiangjun, Wang Hong, and Yu Shumei)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1992	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	1992	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Barcelona	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	(	O
+54	Denise	O
+55	Parker	O
+56	,	O
+57	Janet	O
+58	Dykman	O
+59	,	O
+60	and	O
+61	Melissa	O
+62	Jennison	O
+63	)	O
+64	2	O
+65	.	O
+66	**	O
+67	Silver	O
+68	Medal	O
+69	**:	O
+70	South	B-Silver
+71	Korea	I-Silver
+72	(	O
+73	Kim	O
+74	Soo-nyung	O
+75	,	O
+76	Kim	O
+77	Jo-sun	O
+78	,	O
+79	and	O
+80	Lee	O
+81	Eun-kyung	O
+82	)	O
+83	3	O
+84	.	O
+85	**	O
+86	Bronze	O
+87	Medal	O
+88	**:	O
+89	China	B-Bronze
+90	(	O
+91	Ma	O
+92	Xiangjun	O
+93	,	O
+94	Wang	O
+95	Hong	O
+96	,	O
+97	and	O
+98	Yu	O
+99	Shumei	O
+100	)	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 1992 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 1992 Olympic Games in Barcelona was won by the Unified Team (the team representing the former Soviet Union). Here are the medalists:
+- Gold: Unified Team (Andrey Chudnovskiy, Dmitri Bilozerchev, Valery Belenky, Sergei Kharkov, Alexander Voropayev, and Vitaly Scherbo)
+- Silver: China (Li Chunyang, Li Xiaopeng, Huang Liping, Li Dashuang, Li Ge, and Li Jing)
+- Bronze: Germany (Sven Tippelt, Andreas Wecker, Jan Peter Genze, Uwe Briel, Thomas Freudenthal, and Andreas Wickop)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	1992	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Barcelona	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Unified	O
+42	Team	O
+43	(	O
+44	the	O
+45	team	O
+46	representing	O
+47	the	O
+48	former	O
+49	Soviet	O
+50	Union	O
+51	).	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	-	O
+58	Gold	O
+59	:	O
+60	Unified	B-Gold
+61	Team	I-Gold
+62	(	O
+63	Andrey	O
+64	Chudnovskiy	O
+65	,	O
+66	Dmitri	O
+67	Bilozerchev	O
+68	,	O
+69	Valery	O
+70	Belenky	O
+71	,	O
+72	Sergei	O
+73	Kharkov	O
+74	,	O
+75	Alexander	O
+76	Voropayev	O
+77	,	O
+78	and	O
+79	Vitaly	O
+80	Scherbo	O
+81	)	O
+82	-	O
+83	Silver	O
+84	:	O
+85	China	B-Silver
+86	(	O
+87	Li	O
+88	Chunyang	O
+89	,	O
+90	Li	O
+91	Xiaopeng	O
+92	,	O
+93	Huang	O
+94	Liping	O
+95	,	O
+96	Li	O
+97	Dashuang	O
+98	,	O
+99	Li	O
+100	Ge	O
+101	,	O
+102	and	O
+103	Li	O
+104	Jing	O
+105	)	O
+106	-	O
+107	Bronze	O
+108	:	O
+109	Germany	B-Bronze
+110	(	O
+111	Sven	O
+112	Tippelt	O
+113	,	O
+114	Andreas	O
+115	Wecker	O
+116	,	O
+117	Jan	O
+118	Peter	O
+119	Genze	O
+120	,	O
+121	Uwe	O
+122	Briel	O
+123	,	O
+124	Thomas	O
+125	Freudenthal	O
+126	,	O
+127	and	O
+128	Andreas	O
+129	Wickop	O
+130	)	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 1992 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 1992 Olympic Games in Barcelona was won by the Unified Team (the team representing the former Soviet Union). Here are the medalists:
+- Gold: Unified Team (Russia, Ukraine, Belarus, Kazakhstan, and Uzbekistan)
+  - Svetlana Boguinskaya
+  - Tatiana Gutsu
+  - Lilia Podkopayeva
+  - Oksana Fabrichnova
+  - Rozalia Galiyeva
+- Silver: United States
+  - Shannon Miller
+  - Kim Zmeskal
+  - Dominique Dawes
+  - Betty Okino
+  - Karen Anderson
+- Bronze: Romania
+  - Gina Gogean
+  - Lavinia Miloșovici
+  - Simona Amanar
+  - Maria Neculiţă
+  - Vanda Hădărean
+# status = {"0":"accepted"}
+# time (ms) = 36907
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	1992	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Barcelona	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Unified	O
+42	Team	O
+43	(	O
+44	the	O
+45	team	O
+46	representing	O
+47	the	O
+48	former	O
+49	Soviet	O
+50	Union	O
+51	).	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	-	O
+58	Gold	O
+59	:	O
+60	Unified	B-Gold
+61	Team	I-Gold
+62	(	O
+63	Russia	O
+64	,	O
+65	Ukraine	O
+66	,	O
+67	Belarus	O
+68	,	O
+69	Kazakhstan	O
+70	,	O
+71	and	O
+72	Uzbekistan	O
+73	)	O
+74	-	O
+75	Svetlana	O
+76	Boguinskaya	O
+77	-	O
+78	Tatiana	O
+79	Gutsu	O
+80	-	O
+81	Lilia	O
+82	Podkopayeva	O
+83	-	O
+84	Oksana	O
+85	Fabrichnova	O
+86	-	O
+87	Rozalia	O
+88	Galiyeva	O
+89	-	O
+90	Silver	O
+91	:	O
+92	United	B-Silver
+93	States	I-Silver
+94	-	O
+95	Shannon	O
+96	Miller	O
+97	-	O
+98	Kim	O
+99	Zmeskal	O
+100	-	O
+101	Dominique	O
+102	Dawes	O
+103	-	O
+104	Betty	O
+105	Okino	O
+106	-	O
+107	Karen	O
+108	Anderson	O
+109	-	O
+110	Bronze	O
+111	:	O
+112	Romania	B-Bronze
+113	-	O
+114	Gina	O
+115	Gogean	O
+116	-	O
+117	Lavinia	O
+118	Miloșovici	O
+119	-	O
+120	Simona	O
+121	Amanar	O
+122	-	O
+123	Maria	O
+124	Neculiţă	O
+125	-	O
+126	Vanda	O
+127	Hădărean	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Men's Biathlon 4 x 7.5 kilometres Relay event at the 1994 olympic games?The Men's Biathlon 4 x 7.5 kilometres Relay event at the 1994 Winter Olympics in Lillehammer, Norway, was won by the team from Russia. The team consisted of:
+1. Sergei Tarasov
+2. Valeri Kiriyevskiy
+3. Sergei Chepikov
+4. Sergei Ushakov
+They completed the relay with a total time of 1:26:31.2, winning the gold medal. The silver medal went to the team from Germany, and the bronze medal was won by the team from France.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	1994	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	Men	O
+27	'	O
+28	s	O
+29	Biathlon	O
+30	4	O
+31	x	O
+32	7	O
+33	.	O
+34	5	O
+35	kilometres	O
+36	Relay	O
+37	event	O
+38	at	O
+39	the	O
+40	1994	O
+41	Winter	O
+42	Olympics	O
+43	in	O
+44	Lillehammer	O
+45	,	O
+46	Norway	O
+47	,	O
+48	was	O
+49	won	O
+50	by	O
+51	the	O
+52	team	O
+53	from	O
+54	Russia	B-Gold
+55	.	O
+56	The	O
+57	team	O
+58	consisted	O
+59	of	O
+60	:	O
+61	1	O
+62	.	O
+63	Sergei	O
+64	Tarasov	O
+65	2	O
+66	.	O
+67	Valeri	O
+68	Kiriyevskiy	O
+69	3	O
+70	.	O
+71	Sergei	O
+72	Chepikov	O
+73	4	O
+74	.	O
+75	Sergei	O
+76	Ushakov	O
+77	They	O
+78	completed	O
+79	the	O
+80	relay	O
+81	with	O
+82	a	O
+83	total	O
+84	time	O
+85	of	O
+86	1	O
+87	:	O
+88	26	O
+89	:	O
+90	31	O
+91	.	O
+92	2	O
+93	,	O
+94	winning	O
+95	the	O
+96	gold	O
+97	medal	O
+98	.	O
+99	The	O
+100	silver	O
+101	medal	O
+102	went	O
+103	to	O
+104	the	O
+105	team	O
+106	from	O
+107	Germany	B-Silver
+108	,	O
+109	and	O
+110	the	O
+111	bronze	O
+112	medal	O
+113	was	O
+114	won	O
+115	by	O
+116	the	O
+117	team	O
+118	from	O
+119	France	B-Bronze
+120	.	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Women's Biathlon 4 x 7.5 kilometres Relay event at the 1994 olympic games?The Women's Biathlon 4 x 7.5 kilometres Relay event at the 1994 Winter Olympics in Lillehammer, Norway, was won by the team from Russia. The team consisted of:
+1. Anfisa Reztsova
+2. Natalya Permiakova
+3. Luiza Noskova
+4. Svetlana Paramygina
+They completed the relay with a total time of 1:18:45.6, winning the gold medal. The silver medal went to the German team, and the bronze medal was won by the French team.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	1994	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	Women	O
+27	'	O
+28	s	O
+29	Biathlon	O
+30	4	O
+31	x	O
+32	7	O
+33	.	O
+34	5	O
+35	kilometres	O
+36	Relay	O
+37	event	O
+38	at	O
+39	the	O
+40	1994	O
+41	Winter	O
+42	Olympics	O
+43	in	O
+44	Lillehammer	O
+45	,	O
+46	Norway	O
+47	,	O
+48	was	O
+49	won	O
+50	by	O
+51	the	O
+52	team	O
+53	from	O
+54	Russia	B-Gold
+55	.	O
+56	The	O
+57	team	O
+58	consisted	O
+59	of	O
+60	:	O
+61	1	O
+62	.	O
+63	Anfisa	O
+64	Reztsova	O
+65	2	O
+66	.	O
+67	Natalya	O
+68	Permiakova	O
+69	3	O
+70	.	O
+71	Luiza	O
+72	Noskova	O
+73	4	O
+74	.	O
+75	Svetlana	O
+76	Paramygina	O
+77	They	O
+78	completed	O
+79	the	O
+80	relay	O
+81	with	O
+82	a	O
+83	total	O
+84	time	O
+85	of	O
+86	1	O
+87	:	O
+88	18	O
+89	:	O
+90	45	O
+91	.	O
+92	6	O
+93	,	O
+94	winning	O
+95	the	O
+96	gold	O
+97	medal	O
+98	.	O
+99	The	O
+100	silver	O
+101	medal	O
+102	went	O
+103	to	O
+104	the	O
+105	German	B-Silver
+106	team	O
+107	,	O
+108	and	O
+109	the	O
+110	bronze	O
+111	medal	O
+112	was	O
+113	won	O
+114	by	O
+115	the	O
+116	French	B-Bronze
+117	team	O
+118	.	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 1996 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Gary Hall Jr.
+   - Jon Olsen
+   - Joe Hudepohl
+   - Tom Dolan
+2. **Silver Medal**: Russia
+   - Vladimir Pyshnenko
+   - Denis Pankratov
+   - Roman Yegorov
+   - Alexander Popov
+3. **Bronze Medal**: Italy
+   - Lorenzo Vismara
+   - Massimiliano Rosolino
+   - Francesco Postiglione
+   - Alessandro Calvi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Gary	O
+64	Hall	O
+65	Jr	O
+66	.	O
+67	-	O
+68	Jon	O
+69	Olsen	O
+70	-	O
+71	Joe	O
+72	Hudepohl	O
+73	-	O
+74	Tom	O
+75	Dolan	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Russia	B-Silver
+83	-	O
+84	Vladimir	O
+85	Pyshnenko	O
+86	-	O
+87	Denis	O
+88	Pankratov	O
+89	-	O
+90	Roman	O
+91	Yegorov	O
+92	-	O
+93	Alexander	O
+94	Popov	O
+95	3	O
+96	.	O
+97	**	O
+98	Bronze	O
+99	Medal	O
+100	**:	O
+101	Italy	B-Bronze
+102	-	O
+103	Lorenzo	O
+104	Vismara	O
+105	-	O
+106	Massimiliano	O
+107	Rosolino	O
+108	-	O
+109	Francesco	O
+110	Postiglione	O
+111	-	O
+112	Alessandro	O
+113	Calvi	O
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 1996 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Amy Van Dyken
+   - Angel Martino
+   - Jenny Thompson
+   - Dara Torres
+2. **Silver Medal**: China
+   - Le Jingyi
+   - Le Xiaoxian
+   - Liu Limin
+   - Zhou Yafei
+3. **Bronze Medal**: Germany
+   - Franziska van Almsick
+   - Sandra Völker
+   - Anke Scholz
+   - Katrin Meissner
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Amy	O
+64	Van	O
+65	Dyken	O
+66	-	O
+67	Angel	O
+68	Martino	O
+69	-	O
+70	Jenny	O
+71	Thompson	O
+72	-	O
+73	Dara	O
+74	Torres	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	China	B-Silver
+82	-	O
+83	Le	O
+84	Jingyi	O
+85	-	O
+86	Le	O
+87	Xiaoxian	O
+88	-	O
+89	Liu	O
+90	Limin	O
+91	-	O
+92	Zhou	O
+93	Yafei	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Germany	B-Bronze
+101	-	O
+102	Franziska	O
+103	van	O
+104	Almsick	O
+105	-	O
+106	Sandra	O
+107	Völker	O
+108	-	O
+109	Anke	O
+110	Scholz	O
+111	-	O
+112	Katrin	O
+113	Meissner	O
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 1996 olympic games?The Men's 4 x 100 metres Medley Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Jeff Rouse (Backstroke)
+   - Neil Walker (Breaststroke)
+   - Gary Hall Jr. (Butterfly)
+   - Alexander Popov (Freestyle)
+2. **Silver Medal**: Russia
+   - Vladimir Selkov (Backstroke)
+   - Dmitry Volkov (Breaststroke)
+   - Sergei Mescheryakov (Butterfly)
+   - Denis Pankratov (Freestyle)
+3. **Bronze Medal**: Australia
+   - Phil Rogers (Backstroke)
+   - James Gibson (Breaststroke)
+   - Michael Klim (Butterfly)
+   - Chris Fydler (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Jeff	O
+64	Rouse	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Neil	O
+70	Walker	O
+71	(	O
+72	Breaststroke	O
+73	)	O
+74	-	O
+75	Gary	O
+76	Hall	O
+77	Jr	O
+78	.	O
+79	(	O
+80	Butterfly	O
+81	)	O
+82	-	O
+83	Alexander	O
+84	Popov	O
+85	(	O
+86	Freestyle	O
+87	)	O
+88	2	O
+89	.	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	**:	O
+94	Russia	B-Silver
+95	-	O
+96	Vladimir	O
+97	Selkov	O
+98	(	O
+99	Backstroke	O
+100	)	O
+101	-	O
+102	Dmitry	O
+103	Volkov	O
+104	(	O
+105	Breaststroke	O
+106	)	O
+107	-	O
+108	Sergei	O
+109	Mescheryakov	O
+110	(	O
+111	Butterfly	O
+112	)	O
+113	-	O
+114	Denis	O
+115	Pankratov	O
+116	(	O
+117	Freestyle	O
+118	)	O
+119	3	O
+120	.	O
+121	**	O
+122	Bronze	O
+123	Medal	O
+124	**:	O
+125	Australia	B-Bronze
+126	-	O
+127	Phil	O
+128	Rogers	O
+129	(	O
+130	Backstroke	O
+131	)	O
+132	-	O
+133	James	O
+134	Gibson	O
+135	(	O
+136	Breaststroke	O
+137	)	O
+138	-	O
+139	Michael	O
+140	Klim	O
+141	(	O
+142	Butterfly	O
+143	)	O
+144	-	O
+145	Chris	O
+146	Fydler	O
+147	(	O
+148	Freestyle	O
+149	)	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 1996 olympic games?The Women's 4 x 100 metres Medley Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Team members: Beth Botsford, Amanda Beard, Angel Martino, and Jenny Thompson
+2. **Silver Medal**: China
+   - Team members: Liu Limin, Chen Yan, Le Jingyi, and Le Xiaoxian
+3. **Bronze Medal**: Australia
+   - Team members: Nicole Stevenson, Samantha Riley, Susie O'Neill, and Sarah Ryan
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Team	O
+64	members	O
+65	:	O
+66	Beth	O
+67	Botsford	O
+68	,	O
+69	Amanda	O
+70	Beard	O
+71	,	O
+72	Angel	O
+73	Martino	O
+74	,	O
+75	and	O
+76	Jenny	O
+77	Thompson	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	China	B-Silver
+85	-	O
+86	Team	O
+87	members	O
+88	:	O
+89	Liu	O
+90	Limin	O
+91	,	O
+92	Chen	O
+93	Yan	O
+94	,	O
+95	Le	O
+96	Jingyi	O
+97	,	O
+98	and	O
+99	Le	O
+100	Xiaoxian	O
+101	3	O
+102	.	O
+103	**	O
+104	Bronze	O
+105	Medal	O
+106	**:	O
+107	Australia	B-Bronze
+108	-	O
+109	Team	O
+110	members	O
+111	:	O
+112	Nicole	O
+113	Stevenson	O
+114	,	O
+115	Samantha	O
+116	Riley	O
+117	,	O
+118	Susie	O
+119	O	O
+120	'	O
+121	Neill	O
+122	,	O
+123	and	O
+124	Sarah	O
+125	Ryan	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 1996 olympic games?The Men's 4 x 100 metres Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Jon Drummond, Michael Marsh, Dennis Mitchell, and Leroy Burrell
+2. **Silver Medal**: Canada
+   - Robert Esmie, Glenroy Gilbert, Bruny Surin, and Donovan Bailey
+3. **Bronze Medal**: Nigeria
+   - Olapade Adeniken, Osmond Ezinwa, Oluyemi Kayode, and Davidson Ezinwa
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1996	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1996	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Atlanta	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Jon	O
+62	Drummond	O
+63	,	O
+64	Michael	O
+65	Marsh	O
+66	,	O
+67	Dennis	O
+68	Mitchell	O
+69	,	O
+70	and	O
+71	Leroy	O
+72	Burrell	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Canada	B-Silver
+80	-	O
+81	Robert	O
+82	Esmie	O
+83	,	O
+84	Glenroy	O
+85	Gilbert	O
+86	,	O
+87	Bruny	O
+88	Surin	O
+89	,	O
+90	and	O
+91	Donovan	O
+92	Bailey	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Nigeria	B-Bronze
+100	-	O
+101	Olapade	O
+102	Adeniken	O
+103	,	O
+104	Osmond	O
+105	Ezinwa	O
+106	,	O
+107	Oluyemi	O
+108	Kayode	O
+109	,	O
+110	and	O
+111	Davidson	O
+112	Ezinwa	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 1996 olympic games?The Women's 4 x 100 meters Relay event at the 1996 Olympic Games in Atlanta was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Gwen Torrence
+   - Inger Miller
+   - Chryste Gaines
+   - Marion Jones
+2. **Silver Medal**: Germany
+   - Melanie Paschke
+   - Silke Möller
+   - Heike Drechsler
+   - Katrin Krabbe
+3. **Bronze Medal**: Nigeria
+   - Mary Onyali-Omagbemi
+   - Beatrice Utondu
+   - Faith Idehen
+   - Mary Tombiri
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1996	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1996	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Atlanta	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Gwen	O
+63	Torrence	O
+64	-	O
+65	Inger	O
+66	Miller	O
+67	-	O
+68	Chryste	O
+69	Gaines	O
+70	-	O
+71	Marion	O
+72	Jones	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Germany	B-Silver
+80	-	O
+81	Melanie	O
+82	Paschke	O
+83	-	O
+84	Silke	O
+85	Möller	O
+86	-	O
+87	Heike	O
+88	Drechsler	O
+89	-	O
+90	Katrin	O
+91	Krabbe	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Nigeria	B-Bronze
+99	-	O
+100	Mary	O
+101	Onyali-Omagbemi	O
+102	-	O
+103	Beatrice	O
+104	Utondu	O
+105	-	O
+106	Faith	O
+107	Idehen	O
+108	-	O
+109	Mary	O
+110	Tombiri	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 1996 olympic games?The Men's 4 x 200 metres Freestyle Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Dara Torres
+   - Neil Walker
+   - Josh Davis
+   - Tom Dolan
+2. **Silver Medal**: Russia
+   - Vladimir Pyshnenko
+   - Yevgeny Sadovyi
+   - Roman Yegorov
+   - Denis Pankratov
+3. **Bronze Medal**: Germany
+   - Christian Keller
+   - Lars Conrad
+   - Stefan Pfeiffer
+   - Sven Lodziewski
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Dara	O
+64	Torres	O
+65	-	O
+66	Neil	O
+67	Walker	O
+68	-	O
+69	Josh	O
+70	Davis	O
+71	-	O
+72	Tom	O
+73	Dolan	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Russia	B-Silver
+81	-	O
+82	Vladimir	O
+83	Pyshnenko	O
+84	-	O
+85	Yevgeny	O
+86	Sadovyi	O
+87	-	O
+88	Roman	O
+89	Yegorov	O
+90	-	O
+91	Denis	O
+92	Pankratov	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Germany	B-Bronze
+100	-	O
+101	Christian	O
+102	Keller	O
+103	-	O
+104	Lars	O
+105	Conrad	O
+106	-	O
+107	Stefan	O
+108	Pfeiffer	O
+109	-	O
+110	Sven	O
+111	Lodziewski	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 1996 olympic games?The Women's 4 x 200 metres Freestyle Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Jenny Thompson
+   - Dara Torres
+   - Shelli Stevens
+   - Cristina Teuscher
+2. **Silver Medal**: Germany
+   - Franziska van Almsick
+   - Kerstin Kielgass
+   - Anke Möhring
+   - Dagmar Hase
+3. **Bronze Medal**: China
+   - Le Jingyi
+   - Lu Bin
+   - Chen Yan
+   - Liu Limin
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	1996	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Atlanta	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Jenny	O
+64	Thompson	O
+65	-	O
+66	Dara	O
+67	Torres	O
+68	-	O
+69	Shelli	O
+70	Stevens	O
+71	-	O
+72	Cristina	O
+73	Teuscher	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Germany	B-Silver
+81	-	O
+82	Franziska	O
+83	van	O
+84	Almsick	O
+85	-	O
+86	Kerstin	O
+87	Kielgass	O
+88	-	O
+89	Anke	O
+90	Möhring	O
+91	-	O
+92	Dagmar	O
+93	Hase	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	China	B-Bronze
+101	-	O
+102	Le	O
+103	Jingyi	O
+104	-	O
+105	Lu	O
+106	Bin	O
+107	-	O
+108	Chen	O
+109	Yan	O
+110	-	O
+111	Liu	O
+112	Limin	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 1996 olympic games?The Men's 4 x 400 metres Relay event at the 1996 Olympic Games in Atlanta was won by the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - Members: LaMont Smith, Alvin Harrison, Derek Mills, and Antonio Pettigrew
+2. **Silver Medal:** Bahamas
+   - Members: Troy McIntosh, Carl Oliver, Dennis Darling, and Chris Brown
+3. **Bronze Medal:** Jamaica
+   - Members: Michael McDonald, Gregory Haughton, Danny McFarlane, and Devon Morris
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1996	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1996	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Atlanta	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	:**	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Members	O
+62	:	O
+63	LaMont	O
+64	Smith	O
+65	,	O
+66	Alvin	O
+67	Harrison	O
+68	,	O
+69	Derek	O
+70	Mills	O
+71	,	O
+72	and	O
+73	Antonio	O
+74	Pettigrew	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	:**	O
+81	Bahamas	B-Silver
+82	-	O
+83	Members	O
+84	:	O
+85	Troy	O
+86	McIntosh	O
+87	,	O
+88	Carl	O
+89	Oliver	O
+90	,	O
+91	Dennis	O
+92	Darling	O
+93	,	O
+94	and	O
+95	Chris	O
+96	Brown	O
+97	3	O
+98	.	O
+99	**	O
+100	Bronze	O
+101	Medal	O
+102	:**	O
+103	Jamaica	B-Bronze
+104	-	O
+105	Members	O
+106	:	O
+107	Michael	O
+108	McDonald	O
+109	,	O
+110	Gregory	O
+111	Haughton	O
+112	,	O
+113	Danny	O
+114	McFarlane	O
+115	,	O
+116	and	O
+117	Devon	O
+118	Morris	O
+
+
+
+# sent_id = 67
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 1996 olympic games?The Women's 4 x 400 meters Relay event at the 1996 Olympic Games in Atlanta was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Jearl Miles
+   - Kim Graham
+   - Rochelle Stevens
+   - Maicel Malone-Wallace
+2. **Silver Medal**: Jamaica
+   - Catherine Scott
+   - Sandie Richards
+   - Deon Hemmings
+   - Merlene Ottey
+3. **Bronze Medal**: Russia
+   - Yekaterina Kulikova
+   - Yekaterina Khoroshikh
+   - Olga Kotlyarova
+   - Svetlana Goncharenko
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	1996	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	1996	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Atlanta	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Jearl	O
+63	Miles	O
+64	-	O
+65	Kim	O
+66	Graham	O
+67	-	O
+68	Rochelle	O
+69	Stevens	O
+70	-	O
+71	Maicel	O
+72	Malone-Wallace	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Jamaica	B-Silver
+80	-	O
+81	Catherine	O
+82	Scott	O
+83	-	O
+84	Sandie	O
+85	Richards	O
+86	-	O
+87	Deon	O
+88	Hemmings	O
+89	-	O
+90	Merlene	O
+91	Ottey	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Russia	B-Bronze
+99	-	O
+100	Yekaterina	O
+101	Kulikova	O
+102	-	O
+103	Yekaterina	O
+104	Khoroshikh	O
+105	-	O
+106	Olga	O
+107	Kotlyarova	O
+108	-	O
+109	Svetlana	O
+110	Goncharenko	O
+
+

@@ -1,0 +1,12078 @@
+# sent_id = 0
+# text = Who won the medals in the Men's Water Polo event at the 2008 olympic games?The Men's Water Polo event at the 2008 Summer Olympics in Beijing, China, was won by the team from Hungary. Here are the medalists:
+1. **Gold Medal**: Hungary
+   - Players: Tibor Benedek, Peter Biros, Tamas Kasas, Gergely Kiss, Norbert Madaras, Tamas Molnar, Peter Nagy, Norbert Hosnyanszky, Daniel Varga, Tamas Varga, Marton Szivos, Balazs Harai, and Zoltan Szecsi.
+2. **Silver Medal**: Croatia
+   - Players: Frano Karač, Miho Bošković, Maro Joković, Miho Delonge, Nikša Dobud, Frano Vićan, Samir Barač, Andro Bušlje, Frano Karač, Josip Pavić, Frano Karač, Josip Šuto, and Josip Vrlić.
+3. **Bronze Medal**: Serbia
+   - Players: Gojko Pijetlović, Slobodan Soro, Filip Filipović, Duško Pijetlović, Andrija Prlainović, Živko Gocić, Slobodan Nikić, Stefan Mitrović, Dušan Mandić, Milan Aleksić, Slobodan Soro, and Gojko Pijetlović.
+These teams competed in the tournament held from August 10 to 24, 2008, with Hungary emerging victorious after defeating Croatia in the final match.
+# status = {"0":"accepted"}
+# time (ms) = 2060
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	team	O
+41	from	O
+42	Hungary	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	Hungary	B-Gold
+56	-	O
+57	Players	O
+58	:	O
+59	Tibor	O
+60	Benedek	O
+61	,	O
+62	Peter	O
+63	Biros	O
+64	,	O
+65	Tamas	O
+66	Kasas	O
+67	,	O
+68	Gergely	O
+69	Kiss	O
+70	,	O
+71	Norbert	O
+72	Madaras	O
+73	,	O
+74	Tamas	O
+75	Molnar	O
+76	,	O
+77	Peter	O
+78	Nagy	O
+79	,	O
+80	Norbert	O
+81	Hosnyanszky	O
+82	,	O
+83	Daniel	O
+84	Varga	O
+85	,	O
+86	Tamas	O
+87	Varga	O
+88	,	O
+89	Marton	O
+90	Szivos	O
+91	,	O
+92	Balazs	O
+93	Harai	O
+94	,	O
+95	and	O
+96	Zoltan	O
+97	Szecsi	O
+98	.	O
+99	2	O
+100	.	O
+101	**	O
+102	Silver	O
+103	Medal	O
+104	**:	O
+105	Croatia	B-Silver
+106	-	O
+107	Players	O
+108	:	O
+109	Frano	O
+110	Karač	O
+111	,	O
+112	Miho	O
+113	Bošković	O
+114	,	O
+115	Maro	O
+116	Joković	O
+117	,	O
+118	Miho	O
+119	Delonge	O
+120	,	O
+121	Nikša	O
+122	Dobud	O
+123	,	O
+124	Frano	O
+125	Vićan	O
+126	,	O
+127	Samir	O
+128	Barač	O
+129	,	O
+130	Andro	O
+131	Bušlje	O
+132	,	O
+133	Frano	O
+134	Karač	O
+135	,	O
+136	Josip	O
+137	Pavić	O
+138	,	O
+139	Frano	O
+140	Karač	O
+141	,	O
+142	Josip	O
+143	Šuto	O
+144	,	O
+145	and	O
+146	Josip	O
+147	Vrlić	O
+148	.	O
+149	3	O
+150	.	O
+151	**	O
+152	Bronze	O
+153	Medal	O
+154	**:	O
+155	Serbia	B-Bronze
+156	-	O
+157	Players	O
+158	:	O
+159	Gojko	O
+160	Pijetlović	O
+161	,	O
+162	Slobodan	O
+163	Soro	O
+164	,	O
+165	Filip	O
+166	Filipović	O
+167	,	O
+168	Duško	O
+169	Pijetlović	O
+170	,	O
+171	Andrija	O
+172	Prlainović	O
+173	,	O
+174	Živko	O
+175	Gocić	O
+176	,	O
+177	Slobodan	O
+178	Nikić	O
+179	,	O
+180	Stefan	O
+181	Mitrović	O
+182	,	O
+183	Dušan	O
+184	Mandić	O
+185	,	O
+186	Milan	O
+187	Aleksić	O
+188	,	O
+189	Slobodan	O
+190	Soro	O
+191	,	O
+192	and	O
+193	Gojko	O
+194	Pijetlović	O
+195	.	O
+196	These	O
+197	teams	O
+198	competed	O
+199	in	O
+200	the	O
+201	tournament	O
+202	held	O
+203	from	O
+204	August	O
+205	10	O
+206	to	O
+207	24	O
+208	,	O
+209	2008	O
+210	,	O
+211	with	O
+212	Hungary	O
+213	emerging	O
+214	victorious	O
+215	after	O
+216	defeating	O
+217	Croatia	O
+218	in	O
+219	the	O
+220	final	O
+221	match	O
+222	.	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Women's Water Polo event at the 2008 olympic games?The Women's Water Polo tournament at the 2008 Summer Olympics in Beijing, China, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Team members: Ilse van der Meijden, Mieke Cabout, Daniëlle de Bruijn, Biurakn Hakhverdian, Simone Koot, Marloes Nijland, Gillian van den Berg, Alette Sijbring, Simone van de Kraats, Mieke's de Nooy, Iefke van Belkum, and Meike de Nooy.
+2. **Silver Medal**: United States
+   - Team members: Tumua Anae, Betsey Armstrong, Heather Petri, Jaime Hipp, Kelly Rulon, Lauren Wenger, Heather Petri, Bridgette Murphy, Courtney Mathewson, Jessica Steffens, Maggie Steffens, and Kami Craig.
+3. **Bronze Medal**: Hungary
+   - Team members: Edina Gangl, Orsolya Kasó, Krisztina Garda, Rita Keszthelyi, Dóra Kisteleki, Ildikó Toth, Anikó Pelle, Orsolya Takács, Anna Illés, Orsolya Szilágyi, Dóra Czigány, and Patricia Szűcs.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	tournament	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Netherlands	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Netherlands	B-Gold
+54	-	O
+55	Team	O
+56	members	O
+57	:	O
+58	Ilse	O
+59	van	O
+60	der	O
+61	Meijden	O
+62	,	O
+63	Mieke	O
+64	Cabout	O
+65	,	O
+66	Daniëlle	O
+67	de	O
+68	Bruijn	O
+69	,	O
+70	Biurakn	O
+71	Hakhverdian	O
+72	,	O
+73	Simone	O
+74	Koot	O
+75	,	O
+76	Marloes	O
+77	Nijland	O
+78	,	O
+79	Gillian	O
+80	van	O
+81	den	O
+82	Berg	O
+83	,	O
+84	Alette	O
+85	Sijbring	O
+86	,	O
+87	Simone	O
+88	van	O
+89	de	O
+90	Kraats	O
+91	,	O
+92	Mieke	O
+93	'	O
+94	s	O
+95	de	O
+96	Nooy	O
+97	,	O
+98	Iefke	O
+99	van	O
+100	Belkum	O
+101	,	O
+102	and	O
+103	Meike	O
+104	de	O
+105	Nooy	O
+106	.	O
+107	2	O
+108	.	O
+109	**	O
+110	Silver	O
+111	Medal	O
+112	**:	O
+113	United	B-Silver
+114	States	I-Silver
+115	-	O
+116	Team	O
+117	members	O
+118	:	O
+119	Tumua	O
+120	Anae	O
+121	,	O
+122	Betsey	O
+123	Armstrong	O
+124	,	O
+125	Heather	O
+126	Petri	O
+127	,	O
+128	Jaime	O
+129	Hipp	O
+130	,	O
+131	Kelly	O
+132	Rulon	O
+133	,	O
+134	Lauren	O
+135	Wenger	O
+136	,	O
+137	Heather	O
+138	Petri	O
+139	,	O
+140	Bridgette	O
+141	Murphy	O
+142	,	O
+143	Courtney	O
+144	Mathewson	O
+145	,	O
+146	Jessica	O
+147	Steffens	O
+148	,	O
+149	Maggie	O
+150	Steffens	O
+151	,	O
+152	and	O
+153	Kami	O
+154	Craig	O
+155	.	O
+156	3	O
+157	.	O
+158	**	O
+159	Bronze	O
+160	Medal	O
+161	**:	O
+162	Hungary	B-Bronze
+163	-	O
+164	Team	O
+165	members	O
+166	:	O
+167	Edina	O
+168	Gangl	O
+169	,	O
+170	Orsolya	O
+171	Kasó	O
+172	,	O
+173	Krisztina	O
+174	Garda	O
+175	,	O
+176	Rita	O
+177	Keszthelyi	O
+178	,	O
+179	Dóra	O
+180	Kisteleki	O
+181	,	O
+182	Ildikó	O
+183	Toth	O
+184	,	O
+185	Anikó	O
+186	Pelle	O
+187	,	O
+188	Orsolya	O
+189	Takács	O
+190	,	O
+191	Anna	O
+192	Illés	O
+193	,	O
+194	Orsolya	O
+195	Szilágyi	O
+196	,	O
+197	Dóra	O
+198	Czigány	O
+199	,	O
+200	and	O
+201	Patricia	O
+202	Szűcs	O
+203	.	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Men's Curling event at the 2010 olympic games?The Men's Curling event at the 2010 Winter Olympics, held in Vancouver, Canada, was won by the Canadian team. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Skip: Kevin Martin
+   - Third: John Morris
+   - Second: Marc Kennedy
+   - Lead: Ben Hebert
+   - Alternate: Adam Enright
+2. **Silver Medal**: Norway
+   - Skip: Thomas Ulsrud
+   - Third: Torger Nergård
+   - Second: Christoffer Svae
+   - Lead: Håvard Vad Petersson
+   - Alternate: Eirik Mæland
+3. **Bronze Medal**: Switzerland
+   - Skip: Ralph Stöckli
+   - Third: Jan Hauser
+   - Second: Markus Eggler
+   - Lead: Simon Strübin
+   - Alternate: Toni Müller
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2010	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2010	O
+27	Winter	O
+28	Olympics	O
+29	,	O
+30	held	O
+31	in	O
+32	Vancouver	O
+33	,	O
+34	Canada	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Canadian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Canada	B-Gold
+55	-	O
+56	Skip	O
+57	:	O
+58	Kevin	O
+59	Martin	O
+60	-	O
+61	Third	O
+62	:	O
+63	John	O
+64	Morris	O
+65	-	O
+66	Second	O
+67	:	O
+68	Marc	O
+69	Kennedy	O
+70	-	O
+71	Lead	O
+72	:	O
+73	Ben	O
+74	Hebert	O
+75	-	O
+76	Alternate	O
+77	:	O
+78	Adam	O
+79	Enright	O
+80	2	O
+81	.	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	Norway	B-Silver
+87	-	O
+88	Skip	O
+89	:	O
+90	Thomas	O
+91	Ulsrud	O
+92	-	O
+93	Third	O
+94	:	O
+95	Torger	O
+96	Nergård	O
+97	-	O
+98	Second	O
+99	:	O
+100	Christoffer	O
+101	Svae	O
+102	-	O
+103	Lead	O
+104	:	O
+105	Håvard	O
+106	Vad	O
+107	Petersson	O
+108	-	O
+109	Alternate	O
+110	:	O
+111	Eirik	O
+112	Mæland	O
+113	3	O
+114	.	O
+115	**	O
+116	Bronze	O
+117	Medal	O
+118	**:	O
+119	Switzerland	B-Bronze
+120	-	O
+121	Skip	O
+122	:	O
+123	Ralph	O
+124	Stöckli	O
+125	-	O
+126	Third	O
+127	:	O
+128	Jan	O
+129	Hauser	O
+130	-	O
+131	Second	O
+132	:	O
+133	Markus	O
+134	Eggler	O
+135	-	O
+136	Lead	O
+137	:	O
+138	Simon	O
+139	Strübin	O
+140	-	O
+141	Alternate	O
+142	:	O
+143	Toni	O
+144	Müller	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Women's Curling event at the 2010 olympic games?The Women's Curling event at the 2010 Winter Olympics, held in Vancouver, Canada, was won by the Canadian team. Here are the medalists:
+1. **Gold Medal:** Canada
+   - Skip: Cheryl Bernard
+   - Third: Susan O'Connor
+   - Second: Carolyn McRorie
+   - Lead: Cori Bartel
+   - Alternate: Kristie Moore
+2. **Silver Medal:** Sweden
+   - Skip: Anette Norberg
+   - Third: Eva Lund
+   - Second: Cathrine Lindahl
+   - Lead: Anna Le Moine
+   - Alternate: Maria Prytz
+3. **Bronze Medal:** Switzerland
+   - Skip: Mirjam Ott
+   - Third: Carmen Schäfer
+   - Second: Sandra Gantenbein
+   - Lead: Irene Schori
+   - Alternate: Janine Greiner
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2010	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2010	O
+27	Winter	O
+28	Olympics	O
+29	,	O
+30	held	O
+31	in	O
+32	Vancouver	O
+33	,	O
+34	Canada	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Canadian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	Canada	B-Gold
+55	-	O
+56	Skip	O
+57	:	O
+58	Cheryl	O
+59	Bernard	O
+60	-	O
+61	Third	O
+62	:	O
+63	Susan	O
+64	O	O
+65	'	O
+66	Connor	O
+67	-	O
+68	Second	O
+69	:	O
+70	Carolyn	O
+71	McRorie	O
+72	-	O
+73	Lead	O
+74	:	O
+75	Cori	O
+76	Bartel	O
+77	-	O
+78	Alternate	O
+79	:	O
+80	Kristie	O
+81	Moore	O
+82	2	O
+83	.	O
+84	**	O
+85	Silver	O
+86	Medal	O
+87	:**	O
+88	Sweden	B-Silver
+89	-	O
+90	Skip	O
+91	:	O
+92	Anette	O
+93	Norberg	O
+94	-	O
+95	Third	O
+96	:	O
+97	Eva	O
+98	Lund	O
+99	-	O
+100	Second	O
+101	:	O
+102	Cathrine	O
+103	Lindahl	O
+104	-	O
+105	Lead	O
+106	:	O
+107	Anna	O
+108	Le	O
+109	Moine	O
+110	-	O
+111	Alternate	O
+112	:	O
+113	Maria	O
+114	Prytz	O
+115	3	O
+116	.	O
+117	**	O
+118	Bronze	O
+119	Medal	O
+120	:**	O
+121	Switzerland	B-Bronze
+122	-	O
+123	Skip	O
+124	:	O
+125	Mirjam	O
+126	Ott	O
+127	-	O
+128	Third	O
+129	:	O
+130	Carmen	O
+131	Schäfer	O
+132	-	O
+133	Second	O
+134	:	O
+135	Sandra	O
+136	Gantenbein	O
+137	-	O
+138	Lead	O
+139	:	O
+140	Irene	O
+141	Schori	O
+142	-	O
+143	Alternate	O
+144	:	O
+145	Janine	O
+146	Greiner	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Men's Ice Hockey event at the 2010 olympic games?The Men's Ice Hockey event at the 2010 Winter Olympics in Vancouver, Canada, was won by Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Goaltenders: Roberto Luongo, Martin Brodeur
+   - Defensemen: Drew Doughty, Duncan Keith, Scott Niedermayer, Chris Pronger, Shea Weber
+   - Forwards: Patrice Bergeron, Jarome Iginla, Dany Heatley, Ryan Getzlaf, Sidney Crosby (captain), Eric Staal, Rick Nash, Joe Thornton, Jonathan Toews, Corey Perry, Mike Richards, Patrick Marleau, Brenden Morrow, Jaromir Jagr, Marian Gaborik
+2. **Silver Medal**: United States
+   - Goaltenders: Ryan Miller, Jonathan Quick
+   - Defensemen: Erik Johnson, Jack Johnson, Mike Komisarek, Brooks Orpik, Ryan Suter, Tim Gleason, Brian Rafalski
+   - Forwards: David Backes, Dustin Brown, Ryan Callahan, Tyler Myers, Phil Kessel, Zach Parise, Joe Pavelski, Patrick Kane, Jamie Langenbrunner (captain), Ryan Malone, Chris Drury, Ryan Kesler, Bobby Ryan, Paul Stastny, Ryan Whitney
+3. **Bronze Medal**: Finland
+   - Goaltenders: Miikka Kiprusoff, Niklas Backstrom
+   - Defensemen: Lasse Kukkonen, Sami Salo, Kimmo Timonen, Toni Lydman, Sami Lepisto, Barret Jackman
+   - Forwards: Olli Jokinen, Saku Koivu (captain), Valtteri Filppula, Jarkko Immonen, Jere Lehtinen, Antti Miettinen, Tuomo Ruutu, Ville Peltonen, Mikko Koivu, Teemu Selanne, Antti Pihlström, Jori Lehtera, Niklas Hagman, Petri Kontiola, Mika Pyorala
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2010	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2010	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Vancouver	O
+33	,	O
+34	Canada	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	Canada	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Canada	B-Gold
+53	-	O
+54	Goaltenders	O
+55	:	O
+56	Roberto	O
+57	Luongo	O
+58	,	O
+59	Martin	O
+60	Brodeur	O
+61	-	O
+62	Defensemen	O
+63	:	O
+64	Drew	O
+65	Doughty	O
+66	,	O
+67	Duncan	O
+68	Keith	O
+69	,	O
+70	Scott	O
+71	Niedermayer	O
+72	,	O
+73	Chris	O
+74	Pronger	O
+75	,	O
+76	Shea	O
+77	Weber	O
+78	-	O
+79	Forwards	O
+80	:	O
+81	Patrice	O
+82	Bergeron	O
+83	,	O
+84	Jarome	O
+85	Iginla	O
+86	,	O
+87	Dany	O
+88	Heatley	O
+89	,	O
+90	Ryan	O
+91	Getzlaf	O
+92	,	O
+93	Sidney	O
+94	Crosby	O
+95	(	O
+96	captain	O
+97	),	O
+98	Eric	O
+99	Staal	O
+100	,	O
+101	Rick	O
+102	Nash	O
+103	,	O
+104	Joe	O
+105	Thornton	O
+106	,	O
+107	Jonathan	O
+108	Toews	O
+109	,	O
+110	Corey	O
+111	Perry	O
+112	,	O
+113	Mike	O
+114	Richards	O
+115	,	O
+116	Patrick	O
+117	Marleau	O
+118	,	O
+119	Brenden	O
+120	Morrow	O
+121	,	O
+122	Jaromir	O
+123	Jagr	O
+124	,	O
+125	Marian	O
+126	Gaborik	O
+127	2	O
+128	.	O
+129	**	O
+130	Silver	O
+131	Medal	O
+132	**:	O
+133	United	B-Silver
+134	States	I-Silver
+135	-	O
+136	Goaltenders	O
+137	:	O
+138	Ryan	O
+139	Miller	O
+140	,	O
+141	Jonathan	O
+142	Quick	O
+143	-	O
+144	Defensemen	O
+145	:	O
+146	Erik	O
+147	Johnson	O
+148	,	O
+149	Jack	O
+150	Johnson	O
+151	,	O
+152	Mike	O
+153	Komisarek	O
+154	,	O
+155	Brooks	O
+156	Orpik	O
+157	,	O
+158	Ryan	O
+159	Suter	O
+160	,	O
+161	Tim	O
+162	Gleason	O
+163	,	O
+164	Brian	O
+165	Rafalski	O
+166	-	O
+167	Forwards	O
+168	:	O
+169	David	O
+170	Backes	O
+171	,	O
+172	Dustin	O
+173	Brown	O
+174	,	O
+175	Ryan	O
+176	Callahan	O
+177	,	O
+178	Tyler	O
+179	Myers	O
+180	,	O
+181	Phil	O
+182	Kessel	O
+183	,	O
+184	Zach	O
+185	Parise	O
+186	,	O
+187	Joe	O
+188	Pavelski	O
+189	,	O
+190	Patrick	O
+191	Kane	O
+192	,	O
+193	Jamie	O
+194	Langenbrunner	O
+195	(	O
+196	captain	O
+197	),	O
+198	Ryan	O
+199	Malone	O
+200	,	O
+201	Chris	O
+202	Drury	O
+203	,	O
+204	Ryan	O
+205	Kesler	O
+206	,	O
+207	Bobby	O
+208	Ryan	O
+209	,	O
+210	Paul	O
+211	Stastny	O
+212	,	O
+213	Ryan	O
+214	Whitney	O
+215	3	O
+216	.	O
+217	**	O
+218	Bronze	O
+219	Medal	O
+220	**:	O
+221	Finland	B-Bronze
+222	-	O
+223	Goaltenders	O
+224	:	O
+225	Miikka	O
+226	Kiprusoff	O
+227	,	O
+228	Niklas	O
+229	Backstrom	O
+230	-	O
+231	Defensemen	O
+232	:	O
+233	Lasse	O
+234	Kukkonen	O
+235	,	O
+236	Sami	O
+237	Salo	O
+238	,	O
+239	Kimmo	O
+240	Timonen	O
+241	,	O
+242	Toni	O
+243	Lydman	O
+244	,	O
+245	Sami	O
+246	Lepisto	O
+247	,	O
+248	Barret	O
+249	Jackman	O
+250	-	O
+251	Forwards	O
+252	:	O
+253	Olli	O
+254	Jokinen	O
+255	,	O
+256	Saku	O
+257	Koivu	O
+258	(	O
+259	captain	O
+260	),	O
+261	Valtteri	O
+262	Filppula	O
+263	,	O
+264	Jarkko	O
+265	Immonen	O
+266	,	O
+267	Jere	O
+268	Lehtinen	O
+269	,	O
+270	Antti	O
+271	Miettinen	O
+272	,	O
+273	Tuomo	O
+274	Ruutu	O
+275	,	O
+276	Ville	O
+277	Peltonen	O
+278	,	O
+279	Mikko	O
+280	Koivu	O
+281	,	O
+282	Teemu	O
+283	Selanne	O
+284	,	O
+285	Antti	O
+286	Pihlström	O
+287	,	O
+288	Jori	O
+289	Lehtera	O
+290	,	O
+291	Niklas	O
+292	Hagman	O
+293	,	O
+294	Petri	O
+295	Kontiola	O
+296	,	O
+297	Mika	O
+298	Pyorala	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Women's Ice Hockey event at the 2010 olympic games?The Women's Ice Hockey event at the 2010 Winter Olympics in Vancouver, Canada, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goaltenders: Jessie Vetter, Molly Schaus, Brianne McLaughlin
+   - Defensemen: Angela Ruggiero, Molly Engstrom, Kacey Bellamy, Lisa Chesson, Anne Schleper, Gigi Marvin
+   - Forwards: Julie Chu, Natalie Darwitz, Meghan Duggan, Erika Lawler, Hilary Knight, Jocelyne Lamoureux, Monique Lamoureux, Katie King, Jenny Potter, Kelli Stack, Caitlin Cahow, Kendall Coyne, Brianne Jenner, A.J. Jenks
+2. **Silver Medal**: Canada
+   - Goaltenders: Shannon Szabados, Kim St-Pierre, Geneviève Lacasse
+   - Defensemen: Carla MacLeod, Catherine Ward, Meaghan Mikkelson, Becky Kellar, Tessa Bonhomme, Hayley Wickenheiser
+   - Forwards: Jayna Hefford, Gillian Apps, Meghan Agosta, Caroline Ouellette, Cherie Piper, Sarah Vaillancourt, Rebecca Johnston, Jennifer Botterill, Haley Irwin, Natalie Spooner, Meghan Duggan, Gina Kingsbury, Sarah MacLeod, Vicki Bendus
+3. **Bronze Medal**: Finland
+   - Goaltenders: Noora Räty, Meeri Räisänen, Anna Vanhatalo
+   - Defensemen: Saara Tuominen, Saija Tarkki, Jenni Hiirikoski, Mira Jalosuo, Emma Laaksonen, Annina Rajahuhta
+   - Forwards: Karoliina Rantamäki, Venla Hovi, Riikka Välilä, Emma Nuutinen, Michelle Karvinen, Annina Rajahuhta, Mari Saarinen, Minnamari Tuominen, Sanna Valkama, Leena Pajuniemi, Susanna Tapani, Saija Sirviö, Mariia Posa, Rosa Lindstedt
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2010	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2010	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Vancouver	O
+33	,	O
+34	Canada	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	United	O
+41	States	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	United	B-Gold
+55	States	I-Gold
+56	-	O
+57	Goaltenders	O
+58	:	O
+59	Jessie	O
+60	Vetter	O
+61	,	O
+62	Molly	O
+63	Schaus	O
+64	,	O
+65	Brianne	O
+66	McLaughlin	O
+67	-	O
+68	Defensemen	O
+69	:	O
+70	Angela	O
+71	Ruggiero	O
+72	,	O
+73	Molly	O
+74	Engstrom	O
+75	,	O
+76	Kacey	O
+77	Bellamy	O
+78	,	O
+79	Lisa	O
+80	Chesson	O
+81	,	O
+82	Anne	O
+83	Schleper	O
+84	,	O
+85	Gigi	O
+86	Marvin	O
+87	-	O
+88	Forwards	O
+89	:	O
+90	Julie	O
+91	Chu	O
+92	,	O
+93	Natalie	O
+94	Darwitz	O
+95	,	O
+96	Meghan	O
+97	Duggan	O
+98	,	O
+99	Erika	O
+100	Lawler	O
+101	,	O
+102	Hilary	O
+103	Knight	O
+104	,	O
+105	Jocelyne	O
+106	Lamoureux	O
+107	,	O
+108	Monique	O
+109	Lamoureux	O
+110	,	O
+111	Katie	O
+112	King	O
+113	,	O
+114	Jenny	O
+115	Potter	O
+116	,	O
+117	Kelli	O
+118	Stack	O
+119	,	O
+120	Caitlin	O
+121	Cahow	O
+122	,	O
+123	Kendall	O
+124	Coyne	O
+125	,	O
+126	Brianne	O
+127	Jenner	O
+128	,	O
+129	A	O
+130	.	O
+131	J	O
+132	.	O
+133	Jenks	O
+134	2	O
+135	.	O
+136	**	O
+137	Silver	O
+138	Medal	O
+139	**:	O
+140	Canada	B-Silver
+141	-	O
+142	Goaltenders	O
+143	:	O
+144	Shannon	O
+145	Szabados	O
+146	,	O
+147	Kim	O
+148	St-Pierre	O
+149	,	O
+150	Geneviève	O
+151	Lacasse	O
+152	-	O
+153	Defensemen	O
+154	:	O
+155	Carla	O
+156	MacLeod	O
+157	,	O
+158	Catherine	O
+159	Ward	O
+160	,	O
+161	Meaghan	O
+162	Mikkelson	O
+163	,	O
+164	Becky	O
+165	Kellar	O
+166	,	O
+167	Tessa	O
+168	Bonhomme	O
+169	,	O
+170	Hayley	O
+171	Wickenheiser	O
+172	-	O
+173	Forwards	O
+174	:	O
+175	Jayna	O
+176	Hefford	O
+177	,	O
+178	Gillian	O
+179	Apps	O
+180	,	O
+181	Meghan	O
+182	Agosta	O
+183	,	O
+184	Caroline	O
+185	Ouellette	O
+186	,	O
+187	Cherie	O
+188	Piper	O
+189	,	O
+190	Sarah	O
+191	Vaillancourt	O
+192	,	O
+193	Rebecca	O
+194	Johnston	O
+195	,	O
+196	Jennifer	O
+197	Botterill	O
+198	,	O
+199	Haley	O
+200	Irwin	O
+201	,	O
+202	Natalie	O
+203	Spooner	O
+204	,	O
+205	Meghan	O
+206	Duggan	O
+207	,	O
+208	Gina	O
+209	Kingsbury	O
+210	,	O
+211	Sarah	O
+212	MacLeod	O
+213	,	O
+214	Vicki	O
+215	Bendus	O
+216	3	O
+217	.	O
+218	**	O
+219	Bronze	O
+220	Medal	O
+221	**:	O
+222	Finland	B-Bronze
+223	-	O
+224	Goaltenders	O
+225	:	O
+226	Noora	O
+227	Räty	O
+228	,	O
+229	Meeri	O
+230	Räisänen	O
+231	,	O
+232	Anna	O
+233	Vanhatalo	O
+234	-	O
+235	Defensemen	O
+236	:	O
+237	Saara	O
+238	Tuominen	O
+239	,	O
+240	Saija	O
+241	Tarkki	O
+242	,	O
+243	Jenni	O
+244	Hiirikoski	O
+245	,	O
+246	Mira	O
+247	Jalosuo	O
+248	,	O
+249	Emma	O
+250	Laaksonen	O
+251	,	O
+252	Annina	O
+253	Rajahuhta	O
+254	-	O
+255	Forwards	O
+256	:	O
+257	Karoliina	O
+258	Rantamäki	O
+259	,	O
+260	Venla	O
+261	Hovi	O
+262	,	O
+263	Riikka	O
+264	Välilä	O
+265	,	O
+266	Emma	O
+267	Nuutinen	O
+268	,	O
+269	Michelle	O
+270	Karvinen	O
+271	,	O
+272	Annina	O
+273	Rajahuhta	O
+274	,	O
+275	Mari	O
+276	Saarinen	O
+277	,	O
+278	Minnamari	O
+279	Tuominen	O
+280	,	O
+281	Sanna	O
+282	Valkama	O
+283	,	O
+284	Leena	O
+285	Pajuniemi	O
+286	,	O
+287	Susanna	O
+288	Tapani	O
+289	,	O
+290	Saija	O
+291	Sirviö	O
+292	,	O
+293	Mariia	O
+294	Posa	O
+295	,	O
+296	Rosa	O
+297	Lindstedt	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2012 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 2012 Olympic Games in London was won by France. Here are the medalists:
+1. **Gold Medal**: France
+   - Yannick Agnel
+   - Florent Manaudou
+   - Grégory Mallet
+   - Alain Bernard
+2. **Silver Medal**: Russia
+   - Andrey Grechin
+   - Nikita Lobintsev
+   - Vladimir Morozov
+   - Danila Izotov
+3. **Bronze Medal**: Australia
+   - James Magnussen
+   - Eamon Sullivan
+   - James Roberts
+   - Matt Targett
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	France	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	France	B-Gold
+59	-	O
+60	Yannick	O
+61	Agnel	O
+62	-	O
+63	Florent	O
+64	Manaudou	O
+65	-	O
+66	Grégory	O
+67	Mallet	O
+68	-	O
+69	Alain	O
+70	Bernard	O
+71	2	O
+72	.	O
+73	**	O
+74	Silver	O
+75	Medal	O
+76	**:	O
+77	Russia	B-Silver
+78	-	O
+79	Andrey	O
+80	Grechin	O
+81	-	O
+82	Nikita	O
+83	Lobintsev	O
+84	-	O
+85	Vladimir	O
+86	Morozov	O
+87	-	O
+88	Danila	O
+89	Izotov	O
+90	3	O
+91	.	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	Australia	B-Bronze
+97	-	O
+98	James	O
+99	Magnussen	O
+100	-	O
+101	Eamon	O
+102	Sullivan	O
+103	-	O
+104	James	O
+105	Roberts	O
+106	-	O
+107	Matt	O
+108	Targett	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2012 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 2012 Olympic Games in London was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Ranomi Kromowidjojo
+   - Femke Heemskerk
+   - Marleen Veldhuis
+   - Inge Dekker
+2. **Silver Medal**: Australia
+   - Alicia Coutts
+   - Cate Campbell
+   - Brittany Elmslie
+   - Melanie Schlanger
+3. **Bronze Medal**: China
+   - Tang Yi
+   - Lu Ying
+   - Wu Yue
+   - Huang Xuechen
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	Netherlands	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Netherlands	B-Gold
+60	-	O
+61	Ranomi	O
+62	Kromowidjojo	O
+63	-	O
+64	Femke	O
+65	Heemskerk	O
+66	-	O
+67	Marleen	O
+68	Veldhuis	O
+69	-	O
+70	Inge	O
+71	Dekker	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Australia	B-Silver
+79	-	O
+80	Alicia	O
+81	Coutts	O
+82	-	O
+83	Cate	O
+84	Campbell	O
+85	-	O
+86	Brittany	O
+87	Elmslie	O
+88	-	O
+89	Melanie	O
+90	Schlanger	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	China	B-Bronze
+98	-	O
+99	Tang	O
+100	Yi	O
+101	-	O
+102	Lu	O
+103	Ying	O
+104	-	O
+105	Wu	O
+106	Yue	O
+107	-	O
+108	Huang	O
+109	Xuechen	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2012 olympic games?The Men's 4 x 100 metres Medley Relay event at the 2012 Olympic Games in London was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Ryan Lochte (Backstroke)
+   - Michael Phelps (Butterfly)
+   - Ricky Berens (Freestyle)
+   - Nathan Adrian (Freestyle)
+2. **Silver Medal**: Japan
+   - Ryosuke Irie (Backstroke)
+   - Takuro Fujii (Butterfly)
+   - Yuki Kobori (Freestyle)
+   - Shinri Shioura (Freestyle)
+3. **Bronze Medal**: Australia
+   - Hayden Stoeckel (Backstroke)
+   - Ashley Delaney (Butterfly)
+   - Thomas Fraser-Holmes (Freestyle)
+   - James Magnussen (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Ryan	O
+64	Lochte	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Michael	O
+70	Phelps	O
+71	(	O
+72	Butterfly	O
+73	)	O
+74	-	O
+75	Ricky	O
+76	Berens	O
+77	(	O
+78	Freestyle	O
+79	)	O
+80	-	O
+81	Nathan	O
+82	Adrian	O
+83	(	O
+84	Freestyle	O
+85	)	O
+86	2	O
+87	.	O
+88	**	O
+89	Silver	O
+90	Medal	O
+91	**:	O
+92	Japan	B-Silver
+93	-	O
+94	Ryosuke	O
+95	Irie	O
+96	(	O
+97	Backstroke	O
+98	)	O
+99	-	O
+100	Takuro	O
+101	Fujii	O
+102	(	O
+103	Butterfly	O
+104	)	O
+105	-	O
+106	Yuki	O
+107	Kobori	O
+108	(	O
+109	Freestyle	O
+110	)	O
+111	-	O
+112	Shinri	O
+113	Shioura	O
+114	(	O
+115	Freestyle	O
+116	)	O
+117	3	O
+118	.	O
+119	**	O
+120	Bronze	O
+121	Medal	O
+122	**:	O
+123	Australia	B-Bronze
+124	-	O
+125	Hayden	O
+126	Stoeckel	O
+127	(	O
+128	Backstroke	O
+129	)	O
+130	-	O
+131	Ashley	O
+132	Delaney	O
+133	(	O
+134	Butterfly	O
+135	)	O
+136	-	O
+137	Thomas	O
+138	Fraser-Holmes	O
+139	(	O
+140	Freestyle	O
+141	)	O
+142	-	O
+143	James	O
+144	Magnussen	O
+145	(	O
+146	Freestyle	O
+147	)	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2012 olympic games?The Women's 4 x 100 metres Medley Relay event at the 2012 Olympic Games in London was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Missy Franklin
+   - Rebecca Soni
+   - Dana Vollmer
+   - Allison Schmitt
+2. **Silver Medal**: Australia
+   - Emily Seebohm
+   - Leisel Jones
+   - Alicia Coutts
+   - Cate Campbell
+3. **Bronze Medal**: China
+   - Jiao Liuyang
+   - Zhao Jin
+   - Lu Ying
+   - Tang Yi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	team	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Missy	O
+65	Franklin	O
+66	-	O
+67	Rebecca	O
+68	Soni	O
+69	-	O
+70	Dana	O
+71	Vollmer	O
+72	-	O
+73	Allison	O
+74	Schmitt	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Australia	B-Silver
+82	-	O
+83	Emily	O
+84	Seebohm	O
+85	-	O
+86	Leisel	O
+87	Jones	O
+88	-	O
+89	Alicia	O
+90	Coutts	O
+91	-	O
+92	Cate	O
+93	Campbell	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	China	B-Bronze
+101	-	O
+102	Jiao	O
+103	Liuyang	O
+104	-	O
+105	Zhao	O
+106	Jin	O
+107	-	O
+108	Lu	O
+109	Ying	O
+110	-	O
+111	Tang	O
+112	Yi	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2012 olympic games?The Men's Athletics 4 x 100 metres Relay event at the 2012 Olympic Games was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Justin Gatlin
+   - Tyson Gay
+   - Trell Kimmons
+   - Ryan Bailey
+2. **Silver Medal**: Jamaica
+   - Nesta Carter
+   - Michael Frater
+   - Yohan Blake
+   - Usain Bolt
+3. **Bronze Medal**: Trinidad and Tobago
+   - Keston Bledman
+   - Marc Burns
+   - Richard Thompson
+   - Emmanuel Callender
+# status = {"0":"accepted"}
+# time (ms) = 13717
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2012	O
+37	Olympic	O
+38	Games	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	team	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Justin	O
+62	Gatlin	O
+63	-	O
+64	Tyson	O
+65	Gay	O
+66	-	O
+67	Trell	O
+68	Kimmons	O
+69	-	O
+70	Ryan	O
+71	Bailey	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Jamaica	B-Silver
+79	-	O
+80	Nesta	O
+81	Carter	O
+82	-	O
+83	Michael	O
+84	Frater	O
+85	-	O
+86	Yohan	O
+87	Blake	O
+88	-	O
+89	Usain	O
+90	Bolt	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	Trinidad	B-Bronze
+98	and	I-Bronze
+99	Tobago	I-Bronze
+100	-	O
+101	Keston	O
+102	Bledman	O
+103	-	O
+104	Marc	O
+105	Burns	O
+106	-	O
+107	Richard	O
+108	Thompson	O
+109	-	O
+110	Emmanuel	O
+111	Callender	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2012 olympic games?The Women's 4 x 100 metres Relay event at the 2012 Olympic Games in London was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Allyson Felix
+   - Bianca Knight
+   - Carmelita Jeter
+   - Tianna Madison
+2. **Silver Medal**: Jamaica
+   - Shelly-Ann Fraser-Pryce
+   - Sherone Simpson
+   - Veronica Campbell-Brown
+   - Kerron Stewart
+3. **Bronze Medal**: Ukraine
+   - Olesya Povh
+   - Yelyzabet Pavlyuk
+   - Nataliya Pohrebnyak
+   - Mariya Ryemyen
+# status = {"0":"accepted"}
+# time (ms) = 1885
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2012	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	London	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	the	O
+47	United	O
+48	States	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Allyson	O
+65	Felix	O
+66	-	O
+67	Bianca	O
+68	Knight	O
+69	-	O
+70	Carmelita	O
+71	Jeter	O
+72	-	O
+73	Tianna	O
+74	Madison	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Jamaica	B-Silver
+82	-	O
+83	Shelly-Ann	O
+84	Fraser-Pryce	O
+85	-	O
+86	Sherone	O
+87	Simpson	O
+88	-	O
+89	Veronica	O
+90	Campbell-Brown	O
+91	-	O
+92	Kerron	O
+93	Stewart	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Ukraine	B-Bronze
+101	-	O
+102	Olesya	O
+103	Povh	O
+104	-	O
+105	Yelyzabet	O
+106	Pavlyuk	O
+107	-	O
+108	Nataliya	O
+109	Pohrebnyak	O
+110	-	O
+111	Mariya	O
+112	Ryemyen	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2012 olympic games?The Men's 4 x 200 metres Freestyle Relay event at the 2012 Olympic Games in London was won by the team from France. Here are the medalists:
+1. **Gold Medal**: France
+   - Yannick Agnel
+   - Grégory Mallet
+   - Clément Lefert
+   - Camille Lacourt
+2. **Silver Medal**: United States
+   - Ryan Lochte
+   - Conor Dwyer
+   - Ricky Berens
+   - Michael Phelps
+3. **Bronze Medal**: China
+   - Hao Yun
+   - Li Yunqi
+   - Hao Jun
+   - Sun Yang
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	France	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	France	B-Gold
+62	-	O
+63	Yannick	O
+64	Agnel	O
+65	-	O
+66	Grégory	O
+67	Mallet	O
+68	-	O
+69	Clément	O
+70	Lefert	O
+71	-	O
+72	Camille	O
+73	Lacourt	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	United	B-Silver
+81	States	I-Silver
+82	-	O
+83	Ryan	O
+84	Lochte	O
+85	-	O
+86	Conor	O
+87	Dwyer	O
+88	-	O
+89	Ricky	O
+90	Berens	O
+91	-	O
+92	Michael	O
+93	Phelps	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	China	B-Bronze
+101	-	O
+102	Hao	O
+103	Yun	O
+104	-	O
+105	Li	O
+106	Yunqi	O
+107	-	O
+108	Hao	O
+109	Jun	O
+110	-	O
+111	Sun	O
+112	Yang	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2012 olympic games?The Women's 4 x 200 metres Freestyle Relay event at the 2012 Olympic Games in London was won by the team from China. Here are the medalists:
+1. **Gold Medal**: China
+   - Yang Yu
+   - Liu Zige
+   - Miao Hua
+   - Tang Yi
+2. **Silver Medal**: United States
+   - Missy Franklin
+   - Dana Vollmer
+   - Shannon Vreeland
+   - Allison Schmitt
+3. **Bronze Medal**: Australia
+   - Bronte Barratt
+   - Alicia Coutts
+   - Cate Campbell
+   - Melanie Schlanger
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2012	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2012	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	London	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	China	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	China	B-Gold
+62	-	O
+63	Yang	O
+64	Yu	O
+65	-	O
+66	Liu	O
+67	Zige	O
+68	-	O
+69	Miao	O
+70	Hua	O
+71	-	O
+72	Tang	O
+73	Yi	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	United	B-Silver
+81	States	I-Silver
+82	-	O
+83	Missy	O
+84	Franklin	O
+85	-	O
+86	Dana	O
+87	Vollmer	O
+88	-	O
+89	Shannon	O
+90	Vreeland	O
+91	-	O
+92	Allison	O
+93	Schmitt	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Australia	B-Bronze
+101	-	O
+102	Bronte	O
+103	Barratt	O
+104	-	O
+105	Alicia	O
+106	Coutts	O
+107	-	O
+108	Cate	O
+109	Campbell	O
+110	-	O
+111	Melanie	O
+112	Schlanger	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2012 olympic games?The Men's Athletics 4 x 400 metres Relay event at the 2012 Olympic Games was won by the team from the Bahamas. The winning team consisted of the following athletes:
+1. Chris Brown
+2. Demetrius Pinder
+3. Michael Mathieu
+4. Ramon Miller
+They set a new Olympic record with a time of 2:56.72. The other medalists were:
+Silver Medal: United States
+- Manteo Mitchell
+- Joshua Mance
+- Tony McQuay
+- Angelo Taylor
+Bronze Medal: Trinidad and Tobago
+- Lalonde Gordon
+- Jarrin Solomon
+- Deon Lendore
+- Ade Alleyne-Forte
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	400	O
+31	metres	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2012	O
+37	Olympic	O
+38	Games	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	the	O
+46	Bahamas	B-Gold
+47	.	O
+48	The	O
+49	winning	O
+50	team	O
+51	consisted	O
+52	of	O
+53	the	O
+54	following	O
+55	athletes	O
+56	:	O
+57	1	O
+58	.	O
+59	Chris	O
+60	Brown	O
+61	2	O
+62	.	O
+63	Demetrius	O
+64	Pinder	O
+65	3	O
+66	.	O
+67	Michael	O
+68	Mathieu	O
+69	4	O
+70	.	O
+71	Ramon	O
+72	Miller	O
+73	They	O
+74	set	O
+75	a	O
+76	new	O
+77	Olympic	O
+78	record	O
+79	with	O
+80	a	O
+81	time	O
+82	of	O
+83	2	O
+84	:	O
+85	56	O
+86	.	O
+87	72	O
+88	.	O
+89	The	O
+90	other	O
+91	medalists	O
+92	were	O
+93	:	O
+94	Silver	O
+95	Medal	O
+96	:	O
+97	United	B-Silver
+98	States	I-Silver
+99	-	O
+100	Manteo	O
+101	Mitchell	O
+102	-	O
+103	Joshua	O
+104	Mance	O
+105	-	O
+106	Tony	O
+107	McQuay	O
+108	-	O
+109	Angelo	O
+110	Taylor	O
+111	Bronze	O
+112	Medal	O
+113	:	O
+114	Trinidad	B-Bronze
+115	and	I-Bronze
+116	Tobago	I-Bronze
+117	-	O
+118	Lalonde	O
+119	Gordon	O
+120	-	O
+121	Jarrin	O
+122	Solomon	O
+123	-	O
+124	Deon	O
+125	Lendore	O
+126	-	O
+127	Ade	O
+128	Alleyne-Forte	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2012 olympic games?The Women's 4 x 400 metres Relay event at the 2012 Olympic Games in London was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Allyson Felix
+   - Sanya Richards-Ross
+   - Diamond Dixon
+   - Francena McCorory
+2. **Silver Medal**: Jamaica
+   - Novlene Williams-Mills
+   - Rosemarie Whyte
+   - Shericka Williams
+   - Christine Day
+3. **Bronze Medal**: Russia
+   - Antonina Krivoshapka
+   - Kseniya Ryzhova
+   - Tatyana Firova
+   - Yekaterina Poistogova
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2012	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2012	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	London	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Allyson	O
+63	Felix	O
+64	-	O
+65	Sanya	O
+66	Richards-Ross	O
+67	-	O
+68	Diamond	O
+69	Dixon	O
+70	-	O
+71	Francena	O
+72	McCorory	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Jamaica	B-Silver
+80	-	O
+81	Novlene	O
+82	Williams-Mills	O
+83	-	O
+84	Rosemarie	O
+85	Whyte	O
+86	-	O
+87	Shericka	O
+88	Williams	O
+89	-	O
+90	Christine	O
+91	Day	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Russia	B-Bronze
+99	-	O
+100	Antonina	O
+101	Krivoshapka	O
+102	-	O
+103	Kseniya	O
+104	Ryzhova	O
+105	-	O
+106	Tatyana	O
+107	Firova	O
+108	-	O
+109	Yekaterina	O
+110	Poistogova	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Men's Basketball event at the 2012 olympic games?The Men's Basketball event at the 2012 Olympic Games in London was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: LeBron James, Kobe Bryant, Kevin Durant, Chris Paul, Carmelo Anthony, Deron Williams, Russell Westbrook, Andre Iguodala, Kevin Love, James Harden, Tyson Chandler, Anthony Davis
+2. **Silver Medal**: Spain
+   - Players: Juan Carlos Navarro, Rudy Fernández, José Manuel Calderón, Sergio Rodríguez, Marc Gasol, Pau Gasol, Serge Ibaka, Víctor Claver, Fernando San Emeterio, Felipe Reyes, Ricky Rubio, Víctor Sada
+3. **Bronze Medal**: Argentina
+   - Players: Manu Ginóbili, Andrés Nocioni, Carlos Delfino, Pablo Prigioni, Luis Scola, Fabricio Oberto, Leo Gutiérrez, Hernán Jasen, Marcos Delía, Augusto César Araujo, Pablo Piovano, Juan Pedro Gutiérrez
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	United	O
+36	States	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	United	B-Gold
+50	States	I-Gold
+51	-	O
+52	Players	O
+53	:	O
+54	LeBron	O
+55	James	O
+56	,	O
+57	Kobe	O
+58	Bryant	O
+59	,	O
+60	Kevin	O
+61	Durant	O
+62	,	O
+63	Chris	O
+64	Paul	O
+65	,	O
+66	Carmelo	O
+67	Anthony	O
+68	,	O
+69	Deron	O
+70	Williams	O
+71	,	O
+72	Russell	O
+73	Westbrook	O
+74	,	O
+75	Andre	O
+76	Iguodala	O
+77	,	O
+78	Kevin	O
+79	Love	O
+80	,	O
+81	James	O
+82	Harden	O
+83	,	O
+84	Tyson	O
+85	Chandler	O
+86	,	O
+87	Anthony	O
+88	Davis	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	**:	O
+95	Spain	B-Silver
+96	-	O
+97	Players	O
+98	:	O
+99	Juan	O
+100	Carlos	O
+101	Navarro	O
+102	,	O
+103	Rudy	O
+104	Fernández	O
+105	,	O
+106	José	O
+107	Manuel	O
+108	Calderón	O
+109	,	O
+110	Sergio	O
+111	Rodríguez	O
+112	,	O
+113	Marc	O
+114	Gasol	O
+115	,	O
+116	Pau	O
+117	Gasol	O
+118	,	O
+119	Serge	O
+120	Ibaka	O
+121	,	O
+122	Víctor	O
+123	Claver	O
+124	,	O
+125	Fernando	O
+126	San	O
+127	Emeterio	O
+128	,	O
+129	Felipe	O
+130	Reyes	O
+131	,	O
+132	Ricky	O
+133	Rubio	O
+134	,	O
+135	Víctor	O
+136	Sada	O
+137	3	O
+138	.	O
+139	**	O
+140	Bronze	O
+141	Medal	O
+142	**:	O
+143	Argentina	B-Bronze
+144	-	O
+145	Players	O
+146	:	O
+147	Manu	O
+148	Ginóbili	O
+149	,	O
+150	Andrés	O
+151	Nocioni	O
+152	,	O
+153	Carlos	O
+154	Delfino	O
+155	,	O
+156	Pablo	O
+157	Prigioni	O
+158	,	O
+159	Luis	O
+160	Scola	O
+161	,	O
+162	Fabricio	O
+163	Oberto	O
+164	,	O
+165	Leo	O
+166	Gutiérrez	O
+167	,	O
+168	Hernán	O
+169	Jasen	O
+170	,	O
+171	Marcos	O
+172	Delía	O
+173	,	O
+174	Augusto	O
+175	César	O
+176	Araujo	O
+177	,	O
+178	Pablo	O
+179	Piovano	O
+180	,	O
+181	Juan	O
+182	Pedro	O
+183	Gutiérrez	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Women's Basketball event at the 2012 olympic games?The Women's Basketball event at the 2012 Olympic Games in London was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Sue Bird, Tamika Catchings, Sylvia Fowles, Candace Parker, Maya Moore, Diana Taurasi, Angel McCoughtry, Seimone Augustus, Swin Cash, Asjha Jones, Lisa Leslie, and Lindsay Whalen.
+2. **Silver Medal**: France
+   - Players: Sandrine Gruda, Isabelle Yacoubou, Endéné Miyem, Celine Dumerc, Emmeline Ndongue, Edwige Lawson-Wade, Florence Lepron, Marion Laborde, Elodie Godin, Emmanuelle Gomis, Jennifer Digbeu, and Diandra Tchatchouang.
+3. **Bronze Medal**: Australia
+   - Players: Lauren Jackson, Penny Taylor, Belinda Snell, Rachel Jarry, Suzy Batkovic, Kristi Harrower, Laura Summerton, Jenna O'Hea, Tully Bevilaqua, Alicia Poto, Abby Bishop, and Liz Cambage.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	London	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	United	O
+36	States	O
+37	team	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	United	B-Gold
+51	States	I-Gold
+52	-	O
+53	Players	O
+54	:	O
+55	Sue	O
+56	Bird	O
+57	,	O
+58	Tamika	O
+59	Catchings	O
+60	,	O
+61	Sylvia	O
+62	Fowles	O
+63	,	O
+64	Candace	O
+65	Parker	O
+66	,	O
+67	Maya	O
+68	Moore	O
+69	,	O
+70	Diana	O
+71	Taurasi	O
+72	,	O
+73	Angel	O
+74	McCoughtry	O
+75	,	O
+76	Seimone	O
+77	Augustus	O
+78	,	O
+79	Swin	O
+80	Cash	O
+81	,	O
+82	Asjha	O
+83	Jones	O
+84	,	O
+85	Lisa	O
+86	Leslie	O
+87	,	O
+88	and	O
+89	Lindsay	O
+90	Whalen	O
+91	.	O
+92	2	O
+93	.	O
+94	**	O
+95	Silver	O
+96	Medal	O
+97	**:	O
+98	France	B-Silver
+99	-	O
+100	Players	O
+101	:	O
+102	Sandrine	O
+103	Gruda	O
+104	,	O
+105	Isabelle	O
+106	Yacoubou	O
+107	,	O
+108	Endéné	O
+109	Miyem	O
+110	,	O
+111	Celine	O
+112	Dumerc	O
+113	,	O
+114	Emmeline	O
+115	Ndongue	O
+116	,	O
+117	Edwige	O
+118	Lawson-Wade	O
+119	,	O
+120	Florence	O
+121	Lepron	O
+122	,	O
+123	Marion	O
+124	Laborde	O
+125	,	O
+126	Elodie	O
+127	Godin	O
+128	,	O
+129	Emmanuelle	O
+130	Gomis	O
+131	,	O
+132	Jennifer	O
+133	Digbeu	O
+134	,	O
+135	and	O
+136	Diandra	O
+137	Tchatchouang	O
+138	.	O
+139	3	O
+140	.	O
+141	**	O
+142	Bronze	O
+143	Medal	O
+144	**:	O
+145	Australia	B-Bronze
+146	-	O
+147	Players	O
+148	:	O
+149	Lauren	O
+150	Jackson	O
+151	,	O
+152	Penny	O
+153	Taylor	O
+154	,	O
+155	Belinda	O
+156	Snell	O
+157	,	O
+158	Rachel	O
+159	Jarry	O
+160	,	O
+161	Suzy	O
+162	Batkovic	O
+163	,	O
+164	Kristi	O
+165	Harrower	O
+166	,	O
+167	Laura	O
+168	Summerton	O
+169	,	O
+170	Jenna	O
+171	O	O
+172	'	O
+173	Hea	O
+174	,	O
+175	Tully	O
+176	Bevilaqua	O
+177	,	O
+178	Alicia	O
+179	Poto	O
+180	,	O
+181	Abby	O
+182	Bishop	O
+183	,	O
+184	and	O
+185	Liz	O
+186	Cambage	O
+187	.	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2012 olympic games?The Men's Rowing Coxed Eights event at the 2012 Olympic Games was won by the team from Germany. Here are the top three medalists:
+1. **Gold Medal:** Germany
+   - Team members: Kristof Wilke, Rene Burmeister, Tomta Wilken, Laura Langen, Maximilian Reinelt, Richard Schmidt, Lars Wichert, Florian Mennigen, Martin Sauer (cox)
+2. **Silver Medal:** Canada
+   - Team members: Rob Gibson, Conlin McCabe, Will Crothers, Andrew Byrnes, Jeremiah Brown, Douglas Csima, Michael Braithwaite, Jake Wetzel, Brian Price (cox)
+3. **Bronze Medal:** Great Britain
+   - Team members: Alex Partridge, James Foad, Tom Ransley, Richard Egington, Moe Sbihi, Greg Searle, Matt Langridge, Constantine Louloudis, Phelan Hill (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	Germany	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	top	O
+45	three	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	Germany	B-Gold
+55	-	O
+56	Team	O
+57	members	O
+58	:	O
+59	Kristof	O
+60	Wilke	O
+61	,	O
+62	Rene	O
+63	Burmeister	O
+64	,	O
+65	Tomta	O
+66	Wilken	O
+67	,	O
+68	Laura	O
+69	Langen	O
+70	,	O
+71	Maximilian	O
+72	Reinelt	O
+73	,	O
+74	Richard	O
+75	Schmidt	O
+76	,	O
+77	Lars	O
+78	Wichert	O
+79	,	O
+80	Florian	O
+81	Mennigen	O
+82	,	O
+83	Martin	O
+84	Sauer	O
+85	(	O
+86	cox	O
+87	)	O
+88	2	O
+89	.	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	:**	O
+94	Canada	B-Silver
+95	-	O
+96	Team	O
+97	members	O
+98	:	O
+99	Rob	O
+100	Gibson	O
+101	,	O
+102	Conlin	O
+103	McCabe	O
+104	,	O
+105	Will	O
+106	Crothers	O
+107	,	O
+108	Andrew	O
+109	Byrnes	O
+110	,	O
+111	Jeremiah	O
+112	Brown	O
+113	,	O
+114	Douglas	O
+115	Csima	O
+116	,	O
+117	Michael	O
+118	Braithwaite	O
+119	,	O
+120	Jake	O
+121	Wetzel	O
+122	,	O
+123	Brian	O
+124	Price	O
+125	(	O
+126	cox	O
+127	)	O
+128	3	O
+129	.	O
+130	**	O
+131	Bronze	O
+132	Medal	O
+133	:**	O
+134	Great	B-Bronze
+135	Britain	I-Bronze
+136	-	O
+137	Team	O
+138	members	O
+139	:	O
+140	Alex	O
+141	Partridge	O
+142	,	O
+143	James	O
+144	Foad	O
+145	,	O
+146	Tom	O
+147	Ransley	O
+148	,	O
+149	Richard	O
+150	Egington	O
+151	,	O
+152	Moe	O
+153	Sbihi	O
+154	,	O
+155	Greg	O
+156	Searle	O
+157	,	O
+158	Matt	O
+159	Langridge	O
+160	,	O
+161	Constantine	O
+162	Louloudis	O
+163	,	O
+164	Phelan	O
+165	Hill	O
+166	(	O
+167	cox	O
+168	)	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2012 olympic games?The Women's Rowing Coxed Eights event at the 2012 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Caryn Davies
+   - Megan Kalmoe
+   - Taylor Ritzel
+   - Meghan Musnicki
+   - Esther Lofgren
+   - Susan Francia
+   - Caroline Lind
+   - Eleanor Logan
+   - Mary Whipple (cox)
+2. **Silver Medal**: Canada
+   - Janine Hanson
+   - Rachelle Viinberg
+   - Krista Guloien
+   - Lauren Wilkinson
+   - Natalie Mastracci
+   - Ashley Brzozowicz
+   - Lisa Roman
+   - Sandra Roma
+   - Kristen Kit (cox)
+3. **Bronze Medal**: Australia
+   - Kate Hornsey
+   - Sarah Tait
+   - Phoebe Stanley
+   - Sarah Cook
+   - Sally Kehoe
+   - Jennifer Cleary
+   - Sarah Haywood
+   - Kerry Hore
+   - Kate Slatter (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	Caryn	O
+55	Davies	O
+56	-	O
+57	Megan	O
+58	Kalmoe	O
+59	-	O
+60	Taylor	O
+61	Ritzel	O
+62	-	O
+63	Meghan	O
+64	Musnicki	O
+65	-	O
+66	Esther	O
+67	Lofgren	O
+68	-	O
+69	Susan	O
+70	Francia	O
+71	-	O
+72	Caroline	O
+73	Lind	O
+74	-	O
+75	Eleanor	O
+76	Logan	O
+77	-	O
+78	Mary	O
+79	Whipple	O
+80	(	O
+81	cox	O
+82	)	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	Canada	B-Silver
+90	-	O
+91	Janine	O
+92	Hanson	O
+93	-	O
+94	Rachelle	O
+95	Viinberg	O
+96	-	O
+97	Krista	O
+98	Guloien	O
+99	-	O
+100	Lauren	O
+101	Wilkinson	O
+102	-	O
+103	Natalie	O
+104	Mastracci	O
+105	-	O
+106	Ashley	O
+107	Brzozowicz	O
+108	-	O
+109	Lisa	O
+110	Roman	O
+111	-	O
+112	Sandra	O
+113	Roma	O
+114	-	O
+115	Kristen	O
+116	Kit	O
+117	(	O
+118	cox	O
+119	)	O
+120	3	O
+121	.	O
+122	**	O
+123	Bronze	O
+124	Medal	O
+125	**:	O
+126	Australia	B-Bronze
+127	-	O
+128	Kate	O
+129	Hornsey	O
+130	-	O
+131	Sarah	O
+132	Tait	O
+133	-	O
+134	Phoebe	O
+135	Stanley	O
+136	-	O
+137	Sarah	O
+138	Cook	O
+139	-	O
+140	Sally	O
+141	Kehoe	O
+142	-	O
+143	Jennifer	O
+144	Cleary	O
+145	-	O
+146	Sarah	O
+147	Haywood	O
+148	-	O
+149	Kerry	O
+150	Hore	O
+151	-	O
+152	Kate	O
+153	Slatter	O
+154	(	O
+155	cox	O
+156	)	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Men's Field Hockey event at the 2012 olympic games?The Men's Field Hockey event at the 2012 Olympic Games was won by Germany. Here are the medalists:
+1. **Gold Medal**: Germany
+   - Players: Nicolas Jacobi, Tobias Hauke, Moritz Fürste, Oliver Korn, Florian Fuchs, Benjamin Weß, Christopher Wesley, Jan-Marco Montag, Maximilian Müller, Martin Häner, Philipp Zeller, Christopher Rühr, Sebastian Draguhn, Tobias Matania, Linus Butt, and Florian Keller.
+2. **Silver Medal**: Netherlands
+   - Players: Jaap Stockmann, Wouter Jolie, Robbert Kemperman, Sander Baart, Roderick Weusthof, Mink van der Weerden, Bob de Voogd, Jeroen Hertzberger, Seve van Ass, Billy Bakker, Rogier Hofman, Valentin Verga, Sander de Wijn, Rob Reckers, Klaas Vermeulen, and Floris Evers.
+3. **Bronze Medal**: Australia
+   - Players: Matthew Swann, Mark Knowles, Glenn Turner, Liam De Young, Simon Orchard, Chris Ciriello, Russell Ford, Eddie Ockenden, Jamie Dwyer, Glenn Turner, Matthew Gohdes, Kieran Govers, Tim Deavin, Matthew Butturini, and Fergus Kavanagh.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	Germany	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Germany	B-Gold
+48	-	O
+49	Players	O
+50	:	O
+51	Nicolas	O
+52	Jacobi	O
+53	,	O
+54	Tobias	O
+55	Hauke	O
+56	,	O
+57	Moritz	O
+58	Fürste	O
+59	,	O
+60	Oliver	O
+61	Korn	O
+62	,	O
+63	Florian	O
+64	Fuchs	O
+65	,	O
+66	Benjamin	O
+67	Weß	O
+68	,	O
+69	Christopher	O
+70	Wesley	O
+71	,	O
+72	Jan-Marco	O
+73	Montag	O
+74	,	O
+75	Maximilian	O
+76	Müller	O
+77	,	O
+78	Martin	O
+79	Häner	O
+80	,	O
+81	Philipp	O
+82	Zeller	O
+83	,	O
+84	Christopher	O
+85	Rühr	O
+86	,	O
+87	Sebastian	O
+88	Draguhn	O
+89	,	O
+90	Tobias	O
+91	Matania	O
+92	,	O
+93	Linus	O
+94	Butt	O
+95	,	O
+96	and	O
+97	Florian	O
+98	Keller	O
+99	.	O
+100	2	O
+101	.	O
+102	**	O
+103	Silver	O
+104	Medal	O
+105	**:	O
+106	Netherlands	B-Silver
+107	-	O
+108	Players	O
+109	:	O
+110	Jaap	O
+111	Stockmann	O
+112	,	O
+113	Wouter	O
+114	Jolie	O
+115	,	O
+116	Robbert	O
+117	Kemperman	O
+118	,	O
+119	Sander	O
+120	Baart	O
+121	,	O
+122	Roderick	O
+123	Weusthof	O
+124	,	O
+125	Mink	O
+126	van	O
+127	der	O
+128	Weerden	O
+129	,	O
+130	Bob	O
+131	de	O
+132	Voogd	O
+133	,	O
+134	Jeroen	O
+135	Hertzberger	O
+136	,	O
+137	Seve	O
+138	van	O
+139	Ass	O
+140	,	O
+141	Billy	O
+142	Bakker	O
+143	,	O
+144	Rogier	O
+145	Hofman	O
+146	,	O
+147	Valentin	O
+148	Verga	O
+149	,	O
+150	Sander	O
+151	de	O
+152	Wijn	O
+153	,	O
+154	Rob	O
+155	Reckers	O
+156	,	O
+157	Klaas	O
+158	Vermeulen	O
+159	,	O
+160	and	O
+161	Floris	O
+162	Evers	O
+163	.	O
+164	3	O
+165	.	O
+166	**	O
+167	Bronze	O
+168	Medal	O
+169	**:	O
+170	Australia	B-Bronze
+171	-	O
+172	Players	O
+173	:	O
+174	Matthew	O
+175	Swann	O
+176	,	O
+177	Mark	O
+178	Knowles	O
+179	,	O
+180	Glenn	O
+181	Turner	O
+182	,	O
+183	Liam	O
+184	De	O
+185	Young	O
+186	,	O
+187	Simon	O
+188	Orchard	O
+189	,	O
+190	Chris	O
+191	Ciriello	O
+192	,	O
+193	Russell	O
+194	Ford	O
+195	,	O
+196	Eddie	O
+197	Ockenden	O
+198	,	O
+199	Jamie	O
+200	Dwyer	O
+201	,	O
+202	Glenn	O
+203	Turner	O
+204	,	O
+205	Matthew	O
+206	Gohdes	O
+207	,	O
+208	Kieran	O
+209	Govers	O
+210	,	O
+211	Tim	O
+212	Deavin	O
+213	,	O
+214	Matthew	O
+215	Butturini	O
+216	,	O
+217	and	O
+218	Fergus	O
+219	Kavanagh	O
+220	.	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Women's Field Hockey event at the 2012 olympic games?The Women's Field Hockey event at the 2012 Olympic Games in London was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Team members: Maartje Paumen, Lidewij Welten, Kitty van Male, Carlien Dirkse van den Heuvel, Maartje Goderie, Naomi van As, Ellen Hoog, Kelly Jonker, Kim Lammers, Eva de Goede, Floortje van den Berg, Caia van Maasakker, Sophie Polkamp, Merel de Blaey, Joyce Sombroek, and Margot van Geffen.
+2. **Silver Medal**: Argentina
+   - Team members: Laura Aladro, Luciana Aymar, Noel Barrionuevo, Rocío Carreras, Soledad García, María José Granatto, Delfina Merino, Florencia Mutio, Carla Rebecchi, Mariana Rossi, Laura del Colle, Silvina D'Elía, Macarena Rodríguez, Josefina Sruoga, María de la Paz Hernández, and Belén Succi.
+3. **Bronze Medal**: Great Britain
+   - Team members: Chloe Rogers, Laura Unsworth, Hannah Macleod, Crista Cullen, Sally Walton, Kate Walsh, Anna Bennett, Ashleigh Ball, Emily Maguire, Helen Richardson, Laura Bartlett, Georgie Twigg, Nicola White, Susie Gilbert, Sophie Bray, and Alex Danson.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	London	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Netherlands	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Netherlands	B-Gold
+51	-	O
+52	Team	O
+53	members	O
+54	:	O
+55	Maartje	O
+56	Paumen	O
+57	,	O
+58	Lidewij	O
+59	Welten	O
+60	,	O
+61	Kitty	O
+62	van	O
+63	Male	O
+64	,	O
+65	Carlien	O
+66	Dirkse	O
+67	van	O
+68	den	O
+69	Heuvel	O
+70	,	O
+71	Maartje	O
+72	Goderie	O
+73	,	O
+74	Naomi	O
+75	van	O
+76	As	O
+77	,	O
+78	Ellen	O
+79	Hoog	O
+80	,	O
+81	Kelly	O
+82	Jonker	O
+83	,	O
+84	Kim	O
+85	Lammers	O
+86	,	O
+87	Eva	O
+88	de	O
+89	Goede	O
+90	,	O
+91	Floortje	O
+92	van	O
+93	den	O
+94	Berg	O
+95	,	O
+96	Caia	O
+97	van	O
+98	Maasakker	O
+99	,	O
+100	Sophie	O
+101	Polkamp	O
+102	,	O
+103	Merel	O
+104	de	O
+105	Blaey	O
+106	,	O
+107	Joyce	O
+108	Sombroek	O
+109	,	O
+110	and	O
+111	Margot	O
+112	van	O
+113	Geffen	O
+114	.	O
+115	2	O
+116	.	O
+117	**	O
+118	Silver	O
+119	Medal	O
+120	**:	O
+121	Argentina	B-Silver
+122	-	O
+123	Team	O
+124	members	O
+125	:	O
+126	Laura	O
+127	Aladro	O
+128	,	O
+129	Luciana	O
+130	Aymar	O
+131	,	O
+132	Noel	O
+133	Barrionuevo	O
+134	,	O
+135	Rocío	O
+136	Carreras	O
+137	,	O
+138	Soledad	O
+139	García	O
+140	,	O
+141	María	O
+142	José	O
+143	Granatto	O
+144	,	O
+145	Delfina	O
+146	Merino	O
+147	,	O
+148	Florencia	O
+149	Mutio	O
+150	,	O
+151	Carla	O
+152	Rebecchi	O
+153	,	O
+154	Mariana	O
+155	Rossi	O
+156	,	O
+157	Laura	O
+158	del	O
+159	Colle	O
+160	,	O
+161	Silvina	O
+162	D	O
+163	'	O
+164	Elía	O
+165	,	O
+166	Macarena	O
+167	Rodríguez	O
+168	,	O
+169	Josefina	O
+170	Sruoga	O
+171	,	O
+172	María	O
+173	de	O
+174	la	O
+175	Paz	O
+176	Hernández	O
+177	,	O
+178	and	O
+179	Belén	O
+180	Succi	O
+181	.	O
+182	3	O
+183	.	O
+184	**	O
+185	Bronze	O
+186	Medal	O
+187	**:	O
+188	Great	B-Bronze
+189	Britain	I-Bronze
+190	-	O
+191	Team	O
+192	members	O
+193	:	O
+194	Chloe	O
+195	Rogers	O
+196	,	O
+197	Laura	O
+198	Unsworth	O
+199	,	O
+200	Hannah	O
+201	Macleod	O
+202	,	O
+203	Crista	O
+204	Cullen	O
+205	,	O
+206	Sally	O
+207	Walton	O
+208	,	O
+209	Kate	O
+210	Walsh	O
+211	,	O
+212	Anna	O
+213	Bennett	O
+214	,	O
+215	Ashleigh	O
+216	Ball	O
+217	,	O
+218	Emily	O
+219	Maguire	O
+220	,	O
+221	Helen	O
+222	Richardson	O
+223	,	O
+224	Laura	O
+225	Bartlett	O
+226	,	O
+227	Georgie	O
+228	Twigg	O
+229	,	O
+230	Nicola	O
+231	White	O
+232	,	O
+233	Susie	O
+234	Gilbert	O
+235	,	O
+236	Sophie	O
+237	Bray	O
+238	,	O
+239	and	O
+240	Alex	O
+241	Danson	O
+242	.	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 2012 olympic games?The Men's Team Foil Fencing event at the 2012 Olympic Games in London was won by the Italian team. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Andrea Baldini
+   - Giorgio Avola
+   - Andrea Cassarà
+   - Valerio Aspromonte
+2. **Silver Medal**: Japan
+   - Ryo Miyake
+   - Yuki Ota
+   - Kenta Chida
+   - Suguru Awaji
+3. **Bronze Medal**: Switzerland
+   - Benjamin Steffen
+   - Fabian Kauter
+   - Max Heinzer
+   - Andrea Luchini
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Team	O
+26	Foil	O
+27	Fencing	O
+28	event	O
+29	at	O
+30	the	O
+31	2012	O
+32	Olympic	O
+33	Games	O
+34	in	O
+35	London	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Italian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Gold
+55	-	O
+56	Andrea	O
+57	Baldini	O
+58	-	O
+59	Giorgio	O
+60	Avola	O
+61	-	O
+62	Andrea	O
+63	Cassarà	O
+64	-	O
+65	Valerio	O
+66	Aspromonte	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Japan	B-Silver
+74	-	O
+75	Ryo	O
+76	Miyake	O
+77	-	O
+78	Yuki	O
+79	Ota	O
+80	-	O
+81	Kenta	O
+82	Chida	O
+83	-	O
+84	Suguru	O
+85	Awaji	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Switzerland	B-Bronze
+93	-	O
+94	Benjamin	O
+95	Steffen	O
+96	-	O
+97	Fabian	O
+98	Kauter	O
+99	-	O
+100	Max	O
+101	Heinzer	O
+102	-	O
+103	Andrea	O
+104	Luchini	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 2012 olympic games?The Women's Fencing Foil, Team event at the 2012 Olympic Games was won by the Russian team. Here are the medalists:
+1. **Gold Medal**: Russia
+   - Aida Shanayeva
+   - Kamilla Gafurzianova
+   - Larisa Korobeynikova
+   - Inna Deriglazova
+2. **Silver Medal**: South Korea
+   - Nam Hyun-hee
+   - Jeon Hee-sook
+   - Shin Lam-bi
+   - Oh Ha-na
+3. **Bronze Medal**: Italy
+   - Valentina Vezzali
+   - Arianna Errigo
+   - Elisa Di Francisca
+   - Irene Vecchi
+# status = {"0":"accepted"}
+# time (ms) = 24238
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Foil	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	2012	O
+33	Olympic	O
+34	Games	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	Russian	O
+40	team	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Russia	B-Gold
+54	-	O
+55	Aida	O
+56	Shanayeva	O
+57	-	O
+58	Kamilla	O
+59	Gafurzianova	O
+60	-	O
+61	Larisa	O
+62	Korobeynikova	O
+63	-	O
+64	Inna	O
+65	Deriglazova	O
+66	2	O
+67	.	O
+68	**	O
+69	Silver	O
+70	Medal	O
+71	**:	O
+72	South	B-Silver
+73	Korea	I-Silver
+74	-	O
+75	Nam	O
+76	Hyun-hee	O
+77	-	O
+78	Jeon	O
+79	Hee-sook	O
+80	-	O
+81	Shin	O
+82	Lam-bi	O
+83	-	O
+84	Oh	O
+85	Ha-na	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Italy	B-Bronze
+93	-	O
+94	Valentina	O
+95	Vezzali	O
+96	-	O
+97	Arianna	O
+98	Errigo	O
+99	-	O
+100	Elisa	O
+101	Di	O
+102	Francisca	O
+103	-	O
+104	Irene	O
+105	Vecchi	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Men's Football event at the 2012 olympic games?The Men's Football event at the 2012 Olympic Games was won by Mexico. Here are the medalists:
+1. **Gold Medal**: Mexico
+   - Players: José Corona, Diego Reyes, Carlos Salcido, Hiram Mier, Jorge Torres Nilo, Marco Fabián, Javier Hernández, Oribe Peralta, Giovani dos Santos, Néstor Araujo, Héctor Herrera, Jesús Zavala, Raúl Jiménez, Javier Aquino, Jonathan Dos Santos, Oribe Peralta, Isaac Brizuela, Miguel Ponce, José Antonio Rodríguez, Carlos Peña, Javier Orozco, Héctor Moreno, and Héctor Herrera (Captain)
+2. **Silver Medal**: Brazil
+   - Players: Gabriel, Rafael, Danilo, Juan, Thiago Silva, Marcelo, Sandro, Oscar, Hulk, Neymar, Pato, Romulo, Alex Sandro, Ganso, Lucas, Leandro Damião, Rafael Sóbis, Jonas, Fernando, Marcelo, and Ronaldinho (Captain)
+3. **Bronze Medal**: South Korea
+   - Players: Jung Sung-ryong, Kim Young-gwon, Kim Chang-soo, Hong Jeong-ho, Yoo Byung-soo, Kim Bo-kyung, Ki Sung-yueng, Park Jong-woo, Koo Ja-cheol, Lee Chung-yong, Ji Dong-won, Kim Shin-wook, Kim Bo-kyung, Park Chu-young, Kim Min-woo, Kim Hyun-sung, Baek Sung-dong, Kim Jin-su, and Lee Bum-young
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	Mexico	O
+33	.	O
+34	Here	O
+35	are	O
+36	the	O
+37	medalists	O
+38	:	O
+39	1	O
+40	.	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Mexico	B-Gold
+46	-	O
+47	Players	O
+48	:	O
+49	José	O
+50	Corona	O
+51	,	O
+52	Diego	O
+53	Reyes	O
+54	,	O
+55	Carlos	O
+56	Salcido	O
+57	,	O
+58	Hiram	O
+59	Mier	O
+60	,	O
+61	Jorge	O
+62	Torres	O
+63	Nilo	O
+64	,	O
+65	Marco	O
+66	Fabián	O
+67	,	O
+68	Javier	O
+69	Hernández	O
+70	,	O
+71	Oribe	O
+72	Peralta	O
+73	,	O
+74	Giovani	O
+75	dos	O
+76	Santos	O
+77	,	O
+78	Néstor	O
+79	Araujo	O
+80	,	O
+81	Héctor	O
+82	Herrera	O
+83	,	O
+84	Jesús	O
+85	Zavala	O
+86	,	O
+87	Raúl	O
+88	Jiménez	O
+89	,	O
+90	Javier	O
+91	Aquino	O
+92	,	O
+93	Jonathan	O
+94	Dos	O
+95	Santos	O
+96	,	O
+97	Oribe	O
+98	Peralta	O
+99	,	O
+100	Isaac	O
+101	Brizuela	O
+102	,	O
+103	Miguel	O
+104	Ponce	O
+105	,	O
+106	José	O
+107	Antonio	O
+108	Rodríguez	O
+109	,	O
+110	Carlos	O
+111	Peña	O
+112	,	O
+113	Javier	O
+114	Orozco	O
+115	,	O
+116	Héctor	O
+117	Moreno	O
+118	,	O
+119	and	O
+120	Héctor	O
+121	Herrera	O
+122	(	O
+123	Captain	O
+124	)	O
+125	2	O
+126	.	O
+127	**	O
+128	Silver	O
+129	Medal	O
+130	**:	O
+131	Brazil	B-Silver
+132	-	O
+133	Players	O
+134	:	O
+135	Gabriel	O
+136	,	O
+137	Rafael	O
+138	,	O
+139	Danilo	O
+140	,	O
+141	Juan	O
+142	,	O
+143	Thiago	O
+144	Silva	O
+145	,	O
+146	Marcelo	O
+147	,	O
+148	Sandro	O
+149	,	O
+150	Oscar	O
+151	,	O
+152	Hulk	O
+153	,	O
+154	Neymar	O
+155	,	O
+156	Pato	O
+157	,	O
+158	Romulo	O
+159	,	O
+160	Alex	O
+161	Sandro	O
+162	,	O
+163	Ganso	O
+164	,	O
+165	Lucas	O
+166	,	O
+167	Leandro	O
+168	Damião	O
+169	,	O
+170	Rafael	O
+171	Sóbis	O
+172	,	O
+173	Jonas	O
+174	,	O
+175	Fernando	O
+176	,	O
+177	Marcelo	O
+178	,	O
+179	and	O
+180	Ronaldinho	O
+181	(	O
+182	Captain	O
+183	)	O
+184	3	O
+185	.	O
+186	**	O
+187	Bronze	O
+188	Medal	O
+189	**:	O
+190	South	B-Bronze
+191	Korea	I-Bronze
+192	-	O
+193	Players	O
+194	:	O
+195	Jung	O
+196	Sung-ryong	O
+197	,	O
+198	Kim	O
+199	Young-gwon	O
+200	,	O
+201	Kim	O
+202	Chang-soo	O
+203	,	O
+204	Hong	O
+205	Jeong-ho	O
+206	,	O
+207	Yoo	O
+208	Byung-soo	O
+209	,	O
+210	Kim	O
+211	Bo-kyung	O
+212	,	O
+213	Ki	O
+214	Sung-yueng	O
+215	,	O
+216	Park	O
+217	Jong-woo	O
+218	,	O
+219	Koo	O
+220	Ja-cheol	O
+221	,	O
+222	Lee	O
+223	Chung-yong	O
+224	,	O
+225	Ji	O
+226	Dong-won	O
+227	,	O
+228	Kim	O
+229	Shin-wook	O
+230	,	O
+231	Kim	O
+232	Bo-kyung	O
+233	,	O
+234	Park	O
+235	Chu-young	O
+236	,	O
+237	Kim	O
+238	Min-woo	O
+239	,	O
+240	Kim	O
+241	Hyun-sung	O
+242	,	O
+243	Baek	O
+244	Sung-dong	O
+245	,	O
+246	Kim	O
+247	Jin-su	O
+248	,	O
+249	and	O
+250	Lee	O
+251	Bum-young	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Women's Football event at the 2012 olympic games?The Women's Football event at the 2012 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goalkeeper: Hope Solo
+   - Defenders: Rachel Buehler, Heather Mitts, Kelley O'Hara, Christie Rampone, Becky Sauerbrunn
+   - Midfielders: Shannon Boxx, Lauren Cheney, Tobin Heath, Carli Lloyd, Heather O'Reilly
+   - Forwards: Sydney Leroux, Alex Morgan, Megan Rapinoe
+2. **Silver Medal**: Japan
+   - Goalkeeper: Miho Fukumoto
+   - Defenders: Azusa Iwashimizu, Yuka Miyamae, Aya Sameshima, Mizuho Sakaguchi, Yukari Kinga
+   - Midfielders: Nahomi Kawasumi, Aya Miyama, Homare Sawa, Mami Yamaguchi, Kozue Ando
+   - Forwards: Shinobu Ohno, Yuki Ogimi, Karina Maruyama
+3. **Bronze Medal**: Canada
+   - Goalkeeper: Erin McLeod
+   - Defenders: Robyn Gayle, Candace Chapman, Emily Zurrer, Rhian Wilkinson, Marie-Eve Nault
+   - Midfielders: Diana Matheson, Kaylyn Kyle, Desiree Scott, Sophie Schmidt, Christina Julien
+   - Forwards: Jonelle Filigno, Melissa Tancredi, Christine Sinclair
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	United	O
+34	States	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	Goalkeeper	O
+51	:	O
+52	Hope	O
+53	Solo	O
+54	-	O
+55	Defenders	O
+56	:	O
+57	Rachel	O
+58	Buehler	O
+59	,	O
+60	Heather	O
+61	Mitts	O
+62	,	O
+63	Kelley	O
+64	O	O
+65	'	O
+66	Hara	O
+67	,	O
+68	Christie	O
+69	Rampone	O
+70	,	O
+71	Becky	O
+72	Sauerbrunn	O
+73	-	O
+74	Midfielders	O
+75	:	O
+76	Shannon	O
+77	Boxx	O
+78	,	O
+79	Lauren	O
+80	Cheney	O
+81	,	O
+82	Tobin	O
+83	Heath	O
+84	,	O
+85	Carli	O
+86	Lloyd	O
+87	,	O
+88	Heather	O
+89	O	O
+90	'	O
+91	Reilly	O
+92	-	O
+93	Forwards	O
+94	:	O
+95	Sydney	O
+96	Leroux	O
+97	,	O
+98	Alex	O
+99	Morgan	O
+100	,	O
+101	Megan	O
+102	Rapinoe	O
+103	2	O
+104	.	O
+105	**	O
+106	Silver	O
+107	Medal	O
+108	**:	O
+109	Japan	B-Silver
+110	-	O
+111	Goalkeeper	O
+112	:	O
+113	Miho	O
+114	Fukumoto	O
+115	-	O
+116	Defenders	O
+117	:	O
+118	Azusa	O
+119	Iwashimizu	O
+120	,	O
+121	Yuka	O
+122	Miyamae	O
+123	,	O
+124	Aya	O
+125	Sameshima	O
+126	,	O
+127	Mizuho	O
+128	Sakaguchi	O
+129	,	O
+130	Yukari	O
+131	Kinga	O
+132	-	O
+133	Midfielders	O
+134	:	O
+135	Nahomi	O
+136	Kawasumi	O
+137	,	O
+138	Aya	O
+139	Miyama	O
+140	,	O
+141	Homare	O
+142	Sawa	O
+143	,	O
+144	Mami	O
+145	Yamaguchi	O
+146	,	O
+147	Kozue	O
+148	Ando	O
+149	-	O
+150	Forwards	O
+151	:	O
+152	Shinobu	O
+153	Ohno	O
+154	,	O
+155	Yuki	O
+156	Ogimi	O
+157	,	O
+158	Karina	O
+159	Maruyama	O
+160	3	O
+161	.	O
+162	**	O
+163	Bronze	O
+164	Medal	O
+165	**:	O
+166	Canada	B-Bronze
+167	-	O
+168	Goalkeeper	O
+169	:	O
+170	Erin	O
+171	McLeod	O
+172	-	O
+173	Defenders	O
+174	:	O
+175	Robyn	O
+176	Gayle	O
+177	,	O
+178	Candace	O
+179	Chapman	O
+180	,	O
+181	Emily	O
+182	Zurrer	O
+183	,	O
+184	Rhian	O
+185	Wilkinson	O
+186	,	O
+187	Marie-Eve	O
+188	Nault	O
+189	-	O
+190	Midfielders	O
+191	:	O
+192	Diana	O
+193	Matheson	O
+194	,	O
+195	Kaylyn	O
+196	Kyle	O
+197	,	O
+198	Desiree	O
+199	Scott	O
+200	,	O
+201	Sophie	O
+202	Schmidt	O
+203	,	O
+204	Christina	O
+205	Julien	O
+206	-	O
+207	Forwards	O
+208	:	O
+209	Jonelle	O
+210	Filigno	O
+211	,	O
+212	Melissa	O
+213	Tancredi	O
+214	,	O
+215	Christine	O
+216	Sinclair	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Men's Handball event at the 2012 olympic games?The Men's Handball event at the 2012 Olympic Games was won by France. Here are the medalists:
+1. **Gold Medal**: France
+   - Team: Nikola Karabatic, Daniel Narcisse, Guillaume Gille, Bertrand Gille, Xavier Barachet, Luc Abalo, Samuel Honrubia, Guillaume Joli, Cédric Sorhaindo, Michaël Guigou, William Accambray, Thierry Omeyer, Vincent Gérard, Luka Karabatic, Kiril Lazarov, and Jerôme Fernandez.
+2. **Silver Medal**: Sweden
+   - Team: Mattias Andersson, Kim Andersson, Jonas Källman, Niclas Ekberg, Mattias Zachrisson, Dalibor Doder, Tobias Karlsson, Jonas Larholm, Fredric Pettersson, Kim Ekdahl du Rietz, Marcus Ahlm, Johan Jakobsson, Mattias Gustafsson, Tobias Gustavsson, Joakim Hykeldahl, and Jesper Nielsen.
+3. **Bronze Medal**: Croatia
+   - Team: Ivan Čupić, Domagoj Duvnjak, Igor Vori, Luka Žvižej, Zlatko Horvat, Ivan Čupić, Damir Bičanić, Marino Marić, Ivan Slišković, Luka Žvižej, Igor Vori, Zlatko Horvat, Domagoj Duvnjak, Luka Žvižej, Ivan Čupić, and Damir Bičanić.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	France	O
+33	.	O
+34	Here	O
+35	are	O
+36	the	O
+37	medalists	O
+38	:	O
+39	1	O
+40	.	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	France	B-Gold
+46	-	O
+47	Team	O
+48	:	O
+49	Nikola	O
+50	Karabatic	O
+51	,	O
+52	Daniel	O
+53	Narcisse	O
+54	,	O
+55	Guillaume	O
+56	Gille	O
+57	,	O
+58	Bertrand	O
+59	Gille	O
+60	,	O
+61	Xavier	O
+62	Barachet	O
+63	,	O
+64	Luc	O
+65	Abalo	O
+66	,	O
+67	Samuel	O
+68	Honrubia	O
+69	,	O
+70	Guillaume	O
+71	Joli	O
+72	,	O
+73	Cédric	O
+74	Sorhaindo	O
+75	,	O
+76	Michaël	O
+77	Guigou	O
+78	,	O
+79	William	O
+80	Accambray	O
+81	,	O
+82	Thierry	O
+83	Omeyer	O
+84	,	O
+85	Vincent	O
+86	Gérard	O
+87	,	O
+88	Luka	O
+89	Karabatic	O
+90	,	O
+91	Kiril	O
+92	Lazarov	O
+93	,	O
+94	and	O
+95	Jerôme	O
+96	Fernandez	O
+97	.	O
+98	2	O
+99	.	O
+100	**	O
+101	Silver	O
+102	Medal	O
+103	**:	O
+104	Sweden	B-Silver
+105	-	O
+106	Team	O
+107	:	O
+108	Mattias	O
+109	Andersson	O
+110	,	O
+111	Kim	O
+112	Andersson	O
+113	,	O
+114	Jonas	O
+115	Källman	O
+116	,	O
+117	Niclas	O
+118	Ekberg	O
+119	,	O
+120	Mattias	O
+121	Zachrisson	O
+122	,	O
+123	Dalibor	O
+124	Doder	O
+125	,	O
+126	Tobias	O
+127	Karlsson	O
+128	,	O
+129	Jonas	O
+130	Larholm	O
+131	,	O
+132	Fredric	O
+133	Pettersson	O
+134	,	O
+135	Kim	O
+136	Ekdahl	O
+137	du	O
+138	Rietz	O
+139	,	O
+140	Marcus	O
+141	Ahlm	O
+142	,	O
+143	Johan	O
+144	Jakobsson	O
+145	,	O
+146	Mattias	O
+147	Gustafsson	O
+148	,	O
+149	Tobias	O
+150	Gustavsson	O
+151	,	O
+152	Joakim	O
+153	Hykeldahl	O
+154	,	O
+155	and	O
+156	Jesper	O
+157	Nielsen	O
+158	.	O
+159	3	O
+160	.	O
+161	**	O
+162	Bronze	O
+163	Medal	O
+164	**:	O
+165	Croatia	B-Bronze
+166	-	O
+167	Team	O
+168	:	O
+169	Ivan	O
+170	Čupić	O
+171	,	O
+172	Domagoj	O
+173	Duvnjak	O
+174	,	O
+175	Igor	O
+176	Vori	O
+177	,	O
+178	Luka	O
+179	Žvižej	O
+180	,	O
+181	Zlatko	O
+182	Horvat	O
+183	,	O
+184	Ivan	O
+185	Čupić	O
+186	,	O
+187	Damir	O
+188	Bičanić	O
+189	,	O
+190	Marino	O
+191	Marić	O
+192	,	O
+193	Ivan	O
+194	Slišković	O
+195	,	O
+196	Luka	O
+197	Žvižej	O
+198	,	O
+199	Igor	O
+200	Vori	O
+201	,	O
+202	Zlatko	O
+203	Horvat	O
+204	,	O
+205	Domagoj	O
+206	Duvnjak	O
+207	,	O
+208	Luka	O
+209	Žvižej	O
+210	,	O
+211	Ivan	O
+212	Čupić	O
+213	,	O
+214	and	O
+215	Damir	O
+216	Bičanić	O
+217	.	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Women's Handball event at the 2012 olympic games?The Women's Handball event at the 2012 Olympic Games was won by the Norway national team. Here are the medalists:
+1. **Gold Medal**: Norway
+   - Players: Kari Aalvik Grimsbø, Karoline Dyhre Breivang, Mari Molid, Ida Alstad, Heidi Løke, Tonje Nøstvold, Katrine Lunde, Linn-Kristin Riegelhuth Koren, Gøril Snorroeggen, Kristine Lunde-Borgersen, Linn Jørum Sulland, Camilla Herrem, Amanda Kurtović, Marit Malm Frafjord, and Nora Mørk.
+2. **Silver Medal**: Montenegro
+   - Players: Marina Vukčević, Majda Mehmedović, Marija Jovanović, Radmila Miljanić, Ana Đokić, Sonja Barjaktarović, Anđela Bulatović, Milena Knežević, Suzana Lazović, Maja Savić, Bojana Popović, Jovanka Radičević, Marina Vuković, Katarina Bulatović, and Anđela Škrbić.
+3. **Bronze Medal**: Spain
+   - Players: Nely Carla Alberto, Nerea Pena, Jessica Alonso, Marta Mangué, Verónica Cuadrado, Macarena Aguilar, Begoña Fernández, Elke Karsten, Marta López, Carmen Martín, Mihaela Ciobanu, Silvia Navarro, Beatriz Fernández, Patricia Elorza, and Lynn Knedlik.
+These teams competed in the tournament held from July 28 to August 10, 2012, at the Copper Box in London. Norway defeated Montenegro 26-23 in the final to claim the gold medal, while Spain won the bronze medal match against South Korea.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2012	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	Norway	O
+34	national	O
+35	team	O
+36	.	O
+37	Here	O
+38	are	O
+39	the	O
+40	medalists	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Norway	B-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Kari	O
+53	Aalvik	O
+54	Grimsbø	O
+55	,	O
+56	Karoline	O
+57	Dyhre	O
+58	Breivang	O
+59	,	O
+60	Mari	O
+61	Molid	O
+62	,	O
+63	Ida	O
+64	Alstad	O
+65	,	O
+66	Heidi	O
+67	Løke	O
+68	,	O
+69	Tonje	O
+70	Nøstvold	O
+71	,	O
+72	Katrine	O
+73	Lunde	O
+74	,	O
+75	Linn-Kristin	O
+76	Riegelhuth	O
+77	Koren	O
+78	,	O
+79	Gøril	O
+80	Snorroeggen	O
+81	,	O
+82	Kristine	O
+83	Lunde-Borgersen	O
+84	,	O
+85	Linn	O
+86	Jørum	O
+87	Sulland	O
+88	,	O
+89	Camilla	O
+90	Herrem	O
+91	,	O
+92	Amanda	O
+93	Kurtović	O
+94	,	O
+95	Marit	O
+96	Malm	O
+97	Frafjord	O
+98	,	O
+99	and	O
+100	Nora	O
+101	Mørk	O
+102	.	O
+103	2	O
+104	.	O
+105	**	O
+106	Silver	O
+107	Medal	O
+108	**:	O
+109	Montenegro	B-Silver
+110	-	O
+111	Players	O
+112	:	O
+113	Marina	O
+114	Vukčević	O
+115	,	O
+116	Majda	O
+117	Mehmedović	O
+118	,	O
+119	Marija	O
+120	Jovanović	O
+121	,	O
+122	Radmila	O
+123	Miljanić	O
+124	,	O
+125	Ana	O
+126	Đokić	O
+127	,	O
+128	Sonja	O
+129	Barjaktarović	O
+130	,	O
+131	Anđela	O
+132	Bulatović	O
+133	,	O
+134	Milena	O
+135	Knežević	O
+136	,	O
+137	Suzana	O
+138	Lazović	O
+139	,	O
+140	Maja	O
+141	Savić	O
+142	,	O
+143	Bojana	O
+144	Popović	O
+145	,	O
+146	Jovanka	O
+147	Radičević	O
+148	,	O
+149	Marina	O
+150	Vuković	O
+151	,	O
+152	Katarina	O
+153	Bulatović	O
+154	,	O
+155	and	O
+156	Anđela	O
+157	Škrbić	O
+158	.	O
+159	3	O
+160	.	O
+161	**	O
+162	Bronze	O
+163	Medal	O
+164	**:	O
+165	Spain	B-Bronze
+166	-	O
+167	Players	O
+168	:	O
+169	Nely	O
+170	Carla	O
+171	Alberto	O
+172	,	O
+173	Nerea	O
+174	Pena	O
+175	,	O
+176	Jessica	O
+177	Alonso	O
+178	,	O
+179	Marta	O
+180	Mangué	O
+181	,	O
+182	Verónica	O
+183	Cuadrado	O
+184	,	O
+185	Macarena	O
+186	Aguilar	O
+187	,	O
+188	Begoña	O
+189	Fernández	O
+190	,	O
+191	Elke	O
+192	Karsten	O
+193	,	O
+194	Marta	O
+195	López	O
+196	,	O
+197	Carmen	O
+198	Martín	O
+199	,	O
+200	Mihaela	O
+201	Ciobanu	O
+202	,	O
+203	Silvia	O
+204	Navarro	O
+205	,	O
+206	Beatriz	O
+207	Fernández	O
+208	,	O
+209	Patricia	O
+210	Elorza	O
+211	,	O
+212	and	O
+213	Lynn	O
+214	Knedlik	O
+215	.	O
+216	These	O
+217	teams	O
+218	competed	O
+219	in	O
+220	the	O
+221	tournament	O
+222	held	O
+223	from	O
+224	July	O
+225	28	O
+226	to	O
+227	August	O
+228	10	O
+229	,	O
+230	2012	O
+231	,	O
+232	at	O
+233	the	O
+234	Copper	O
+235	Box	O
+236	in	O
+237	London	O
+238	.	O
+239	Norway	O
+240	defeated	O
+241	Montenegro	O
+242	26	O
+243	-	O
+244	23	O
+245	in	O
+246	the	O
+247	final	O
+248	to	O
+249	claim	O
+250	the	O
+251	gold	O
+252	medal	O
+253	,	O
+254	while	O
+255	Spain	O
+256	won	O
+257	the	O
+258	bronze	O
+259	medal	O
+260	match	O
+261	against	O
+262	South	O
+263	Korea	O
+264	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2012 olympic games?The Men's Indoor Volleyball event at the 2012 Olympic Games was won by the Russian team. Here are the medalists:
+1. **Gold Medal**: Russia
+   - Players: Taras Khtey, Dmitriy Muserskiy, Maxim Mikhaylov, Sergey Grankin, Alexander Sokolov, Alexander Volkov, Dmitriy Ilinykh, Igor Kobzar, Alexey Verbov, Yury Berezhko, Alexander Butko, and Alexander Markin
+2. **Silver Medal**: Brazil
+   - Players: Murilo Endres, Wallace de Souza, Bruno Rezende, Leandro Vissotto, William Arjona, Lucas Saatkamp, Sidnei dos Santos, Ricardo Garcia, Sander Leite, Thiago Alves, Dante Amaral, and Maique Nascimento
+3. **Bronze Medal**: Italy
+   - Players: Simone Parodi, Ivan Zajec, Luigi Mastrangelo, Andrea Giovi, Dragan Travica, Ivan Zaytsev, Alessandro Fei, Samuele Papi, Andrea Bari, Alberto Casadei, Cristian Savani, and Andrea Gardini
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Russian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Russia	B-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Taras	O
+54	Khtey	O
+55	,	O
+56	Dmitriy	O
+57	Muserskiy	O
+58	,	O
+59	Maxim	O
+60	Mikhaylov	O
+61	,	O
+62	Sergey	O
+63	Grankin	O
+64	,	O
+65	Alexander	O
+66	Sokolov	O
+67	,	O
+68	Alexander	O
+69	Volkov	O
+70	,	O
+71	Dmitriy	O
+72	Ilinykh	O
+73	,	O
+74	Igor	O
+75	Kobzar	O
+76	,	O
+77	Alexey	O
+78	Verbov	O
+79	,	O
+80	Yury	O
+81	Berezhko	O
+82	,	O
+83	Alexander	O
+84	Butko	O
+85	,	O
+86	and	O
+87	Alexander	O
+88	Markin	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	**:	O
+95	Brazil	B-Silver
+96	-	O
+97	Players	O
+98	:	O
+99	Murilo	O
+100	Endres	O
+101	,	O
+102	Wallace	O
+103	de	O
+104	Souza	O
+105	,	O
+106	Bruno	O
+107	Rezende	O
+108	,	O
+109	Leandro	O
+110	Vissotto	O
+111	,	O
+112	William	O
+113	Arjona	O
+114	,	O
+115	Lucas	O
+116	Saatkamp	O
+117	,	O
+118	Sidnei	O
+119	dos	O
+120	Santos	O
+121	,	O
+122	Ricardo	O
+123	Garcia	O
+124	,	O
+125	Sander	O
+126	Leite	O
+127	,	O
+128	Thiago	O
+129	Alves	O
+130	,	O
+131	Dante	O
+132	Amaral	O
+133	,	O
+134	and	O
+135	Maique	O
+136	Nascimento	O
+137	3	O
+138	.	O
+139	**	O
+140	Bronze	O
+141	Medal	O
+142	**:	O
+143	Italy	B-Bronze
+144	-	O
+145	Players	O
+146	:	O
+147	Simone	O
+148	Parodi	O
+149	,	O
+150	Ivan	O
+151	Zajec	O
+152	,	O
+153	Luigi	O
+154	Mastrangelo	O
+155	,	O
+156	Andrea	O
+157	Giovi	O
+158	,	O
+159	Dragan	O
+160	Travica	O
+161	,	O
+162	Ivan	O
+163	Zaytsev	O
+164	,	O
+165	Alessandro	O
+166	Fei	O
+167	,	O
+168	Samuele	O
+169	Papi	O
+170	,	O
+171	Andrea	O
+172	Bari	O
+173	,	O
+174	Alberto	O
+175	Casadei	O
+176	,	O
+177	Cristian	O
+178	Savani	O
+179	,	O
+180	and	O
+181	Andrea	O
+182	Gardini	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2012 olympic games?The Women's Indoor Volleyball event at the 2012 Olympic Games was won by the Brazilian team. Here are the medalists:
+1. **Gold Medal**: Brazil
+   - Players: Fabiana Claudino, Jaqueline Carvalho, Thaísa Menezes, Adenízia Silva, Fernanda Garay, Sheilla Castro, Fabiola, Danielle Lins, Paula Pequeno, Fernanda Tomé, Mari Paraíba, Natália Pereira
+2. **Silver Medal**: United States
+   - Players: Destinee Hooker, Logan Tom, Foluke Akinradewo, Christa Dietzen, Jordan Larson, Tamari Miyashiro, Nicole Davis, Alisha Glass, Lindsey Berg, Courtney Thompson, Danielle Scott-Arruda, Jennifer Joines
+3. **Bronze Medal**: Japan
+   - Players: Saori Kimura, Yoshie Takeshita, Risa Shinnabe, Mai Yamaguchi, Saori Sakoda, Yukiko Ebata, Risa Sugiyama, Mai Okumura, Haruka Miyashita, Yuka Sakurai, Erika Araki, Kaori Inoue
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Brazilian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Brazil	B-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Fabiana	O
+54	Claudino	O
+55	,	O
+56	Jaqueline	O
+57	Carvalho	O
+58	,	O
+59	Thaísa	O
+60	Menezes	O
+61	,	O
+62	Adenízia	O
+63	Silva	O
+64	,	O
+65	Fernanda	O
+66	Garay	O
+67	,	O
+68	Sheilla	O
+69	Castro	O
+70	,	O
+71	Fabiola	O
+72	,	O
+73	Danielle	O
+74	Lins	O
+75	,	O
+76	Paula	O
+77	Pequeno	O
+78	,	O
+79	Fernanda	O
+80	Tomé	O
+81	,	O
+82	Mari	O
+83	Paraíba	O
+84	,	O
+85	Natália	O
+86	Pereira	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	United	B-Silver
+94	States	I-Silver
+95	-	O
+96	Players	O
+97	:	O
+98	Destinee	O
+99	Hooker	O
+100	,	O
+101	Logan	O
+102	Tom	O
+103	,	O
+104	Foluke	O
+105	Akinradewo	O
+106	,	O
+107	Christa	O
+108	Dietzen	O
+109	,	O
+110	Jordan	O
+111	Larson	O
+112	,	O
+113	Tamari	O
+114	Miyashiro	O
+115	,	O
+116	Nicole	O
+117	Davis	O
+118	,	O
+119	Alisha	O
+120	Glass	O
+121	,	O
+122	Lindsey	O
+123	Berg	O
+124	,	O
+125	Courtney	O
+126	Thompson	O
+127	,	O
+128	Danielle	O
+129	Scott-Arruda	O
+130	,	O
+131	Jennifer	O
+132	Joines	O
+133	3	O
+134	.	O
+135	**	O
+136	Bronze	O
+137	Medal	O
+138	**:	O
+139	Japan	B-Bronze
+140	-	O
+141	Players	O
+142	:	O
+143	Saori	O
+144	Kimura	O
+145	,	O
+146	Yoshie	O
+147	Takeshita	O
+148	,	O
+149	Risa	O
+150	Shinnabe	O
+151	,	O
+152	Mai	O
+153	Yamaguchi	O
+154	,	O
+155	Saori	O
+156	Sakoda	O
+157	,	O
+158	Yukiko	O
+159	Ebata	O
+160	,	O
+161	Risa	O
+162	Sugiyama	O
+163	,	O
+164	Mai	O
+165	Okumura	O
+166	,	O
+167	Haruka	O
+168	Miyashita	O
+169	,	O
+170	Yuka	O
+171	Sakurai	O
+172	,	O
+173	Erika	O
+174	Araki	O
+175	,	O
+176	Kaori	O
+177	Inoue	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2012 olympic games?The Men's Rowing Quadruple Sculls event at the 2012 Olympic Games was won by the German team. Here are the medalists:
+1. **Gold Medal:** Germany
+   - Tim Grohmann
+   - Karl Schulze
+   - Philipp Wende
+   - Lauritz Schoof
+2. **Silver Medal:** Australia
+   - Karsten Forsterling
+   - James McRae
+   - Daniel Noonan
+   - Christopher Morgan
+3. **Bronze Medal:** Estonia
+   - Tõnu Endrekson
+   - Andrei Jämsä
+   - Allar Raja
+   - Kaur Kuslap
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	German	O
+38	team	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	:**	O
+51	Germany	B-Gold
+52	-	O
+53	Tim	O
+54	Grohmann	O
+55	-	O
+56	Karl	O
+57	Schulze	O
+58	-	O
+59	Philipp	O
+60	Wende	O
+61	-	O
+62	Lauritz	O
+63	Schoof	O
+64	2	O
+65	.	O
+66	**	O
+67	Silver	O
+68	Medal	O
+69	:**	O
+70	Australia	B-Silver
+71	-	O
+72	Karsten	O
+73	Forsterling	O
+74	-	O
+75	James	O
+76	McRae	O
+77	-	O
+78	Daniel	O
+79	Noonan	O
+80	-	O
+81	Christopher	O
+82	Morgan	O
+83	3	O
+84	.	O
+85	**	O
+86	Bronze	O
+87	Medal	O
+88	:**	O
+89	Estonia	B-Bronze
+90	-	O
+91	Tõnu	O
+92	Endrekson	O
+93	-	O
+94	Andrei	O
+95	Jämsä	O
+96	-	O
+97	Allar	O
+98	Raja	O
+99	-	O
+100	Kaur	O
+101	Kuslap	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2012 olympic games?The Women's Rowing Quadruple Sculls event at the 2012 Olympic Games was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Stesha Carle, Natalie Dell, Megan Kalmoe, Kara Kohler)
+2. **Silver Medal**: Germany (Annekatrin Thiele, Carina Bär, Julia Richter, Britta Oppelt)
+3. **Bronze Medal**: China (Tang Bin, Gao Yulan, Zhang Yangyang, Zhou Kexin)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	the	O
+40	United	O
+41	States	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	United	B-Gold
+55	States	I-Gold
+56	(	O
+57	Stesha	O
+58	Carle	O
+59	,	O
+60	Natalie	O
+61	Dell	O
+62	,	O
+63	Megan	O
+64	Kalmoe	O
+65	,	O
+66	Kara	O
+67	Kohler	O
+68	)	O
+69	2	O
+70	.	O
+71	**	O
+72	Silver	O
+73	Medal	O
+74	**:	O
+75	Germany	B-Silver
+76	(	O
+77	Annekatrin	O
+78	Thiele	O
+79	,	O
+80	Carina	O
+81	Bär	O
+82	,	O
+83	Julia	O
+84	Richter	O
+85	,	O
+86	Britta	O
+87	Oppelt	O
+88	)	O
+89	3	O
+90	.	O
+91	**	O
+92	Bronze	O
+93	Medal	O
+94	**:	O
+95	China	B-Bronze
+96	(	O
+97	Tang	O
+98	Bin	O
+99	,	O
+100	Gao	O
+101	Yulan	O
+102	,	O
+103	Zhang	O
+104	Yangyang	O
+105	,	O
+106	Zhou	O
+107	Kexin	O
+108	)	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Men's Archery Team event at the 2012 olympic games?The Men's Archery Team event at the 2012 Olympic Games was won by the Italian team. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Marco Galiazzo
+   - Mauro Nespoli
+   - Michele Frangilli
+2. **Silver Medal**: United States
+   - Brady Ellison
+   - Jake Kaminski
+   - Jacob Wukie
+3. **Bronze Medal**: South Korea
+   - Im Dong-hyun
+   - Kim Bub-min
+   - Oh Jin-hyek
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Italian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Italy	B-Gold
+50	-	O
+51	Marco	O
+52	Galiazzo	O
+53	-	O
+54	Mauro	O
+55	Nespoli	O
+56	-	O
+57	Michele	O
+58	Frangilli	O
+59	2	O
+60	.	O
+61	**	O
+62	Silver	O
+63	Medal	O
+64	**:	O
+65	United	B-Silver
+66	States	I-Silver
+67	-	O
+68	Brady	O
+69	Ellison	O
+70	-	O
+71	Jake	O
+72	Kaminski	O
+73	-	O
+74	Jacob	O
+75	Wukie	O
+76	3	O
+77	.	O
+78	**	O
+79	Bronze	O
+80	Medal	O
+81	**:	O
+82	South	B-Bronze
+83	Korea	I-Bronze
+84	-	O
+85	Im	O
+86	Dong-hyun	O
+87	-	O
+88	Kim	O
+89	Bub-min	O
+90	-	O
+91	Oh	O
+92	Jin-hyek	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Women's Archery Team event at the 2012 olympic games?The Women's Archery Team event at the 2012 Olympic Games was won by the South Korean team. Here are the medalists:
+1. **Gold Medal**: South Korea (Ki Bo-bae, Lee Sung-jin, Choi Hyeon-ju)
+2. **Silver Medal**: China (Fang Yuting, Cheng Ming, Xu Jing)
+3. **Bronze Medal**: Japan (Ren Hayakawa, Kaori Kawanaka, Miki Kanie)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	South	O
+36	Korean	O
+37	team	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	South	B-Gold
+51	Korea	I-Gold
+52	(	O
+53	Ki	O
+54	Bo-bae	O
+55	,	O
+56	Lee	O
+57	Sung-jin	O
+58	,	O
+59	Choi	O
+60	Hyeon-ju	O
+61	)	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	China	B-Silver
+69	(	O
+70	Fang	O
+71	Yuting	O
+72	,	O
+73	Cheng	O
+74	Ming	O
+75	,	O
+76	Xu	O
+77	Jing	O
+78	)	O
+79	3	O
+80	.	O
+81	**	O
+82	Bronze	O
+83	Medal	O
+84	**:	O
+85	Japan	B-Bronze
+86	(	O
+87	Ren	O
+88	Hayakawa	O
+89	,	O
+90	Kaori	O
+91	Kawanaka	O
+92	,	O
+93	Miki	O
+94	Kanie	O
+95	)	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Men's Table Tennis Team event at the 2012 olympic games?The Men's Table Tennis Team event at the 2012 Olympic Games in London was won by China. Here are the medalists:
+1. **Gold Medal**: China (Ma Long, Zhang Jike, Wang Hao)
+2. **Silver Medal**: South Korea (Joo Se-hyuk, Oh Sang-eun, Ryu Seung-min)
+3. **Bronze Medal**: Germany (Timo Boll, Dimitrij Ovtcharov, Bastian Steger)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	London	O
+35	was	O
+36	won	O
+37	by	O
+38	China	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	China	B-Gold
+52	(	O
+53	Ma	O
+54	Long	O
+55	,	O
+56	Zhang	O
+57	Jike	O
+58	,	O
+59	Wang	O
+60	Hao	O
+61	)	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	South	B-Silver
+69	Korea	I-Silver
+70	(	O
+71	Joo	O
+72	Se-hyuk	O
+73	,	O
+74	Oh	O
+75	Sang-eun	O
+76	,	O
+77	Ryu	O
+78	Seung-min	O
+79	)	O
+80	3	O
+81	.	O
+82	**	O
+83	Bronze	O
+84	Medal	O
+85	**:	O
+86	Germany	B-Bronze
+87	(	O
+88	Timo	O
+89	Boll	O
+90	,	O
+91	Dimitrij	O
+92	Ovtcharov	O
+93	,	O
+94	Bastian	O
+95	Steger	O
+96	)	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Women's Table Tennis Team event at the 2012 olympic games?The Women's Table Tennis Team event at the 2012 Olympic Games in London was won by China. Here are the medalists:
+1. **Gold Medal**: China
+   - Ding Ning
+   - Li Xiaoxia
+   - Guo Yan
+2. **Silver Medal**: Japan
+   - Ai Fukuhara
+   - Kasumi Ishikawa
+   - Sayaka Hirano
+3. **Bronze Medal**: Singapore
+   - Feng Tianwei
+   - Wang Yuegu
+   - Yu Mengyu
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2012	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2012	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	London	O
+35	was	O
+36	won	O
+37	by	O
+38	China	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	China	B-Gold
+52	-	O
+53	Ding	O
+54	Ning	O
+55	-	O
+56	Li	O
+57	Xiaoxia	O
+58	-	O
+59	Guo	O
+60	Yan	O
+61	2	O
+62	.	O
+63	**	O
+64	Silver	O
+65	Medal	O
+66	**:	O
+67	Japan	B-Silver
+68	-	O
+69	Ai	O
+70	Fukuhara	O
+71	-	O
+72	Kasumi	O
+73	Ishikawa	O
+74	-	O
+75	Sayaka	O
+76	Hirano	O
+77	3	O
+78	.	O
+79	**	O
+80	Bronze	O
+81	Medal	O
+82	**:	O
+83	Singapore	B-Bronze
+84	-	O
+85	Feng	O
+86	Tianwei	O
+87	-	O
+88	Wang	O
+89	Yuegu	O
+90	-	O
+91	Yu	O
+92	Mengyu	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2012 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 2012 Olympic Games in London was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Danell Leyva
+   - Jonathan Horton
+   - Jake Dalton
+   - Sam Mikulak
+   - John Orozco
+2. **Silver Medal**: Japan
+   - Kohei Uchimura
+   - Ryohei Kato
+   - Koji Yamamuro
+   - Kenzo Shirai
+   - Yusuke Tanaka
+3. **Bronze Medal**: China
+   - Feng Zhe
+   - Zhang Chenglong
+   - Zou Kai
+   - Chen Yibing
+   - Guo Weiyang
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2012	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	London	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	team	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	Danell	O
+60	Leyva	O
+61	-	O
+62	Jonathan	O
+63	Horton	O
+64	-	O
+65	Jake	O
+66	Dalton	O
+67	-	O
+68	Sam	O
+69	Mikulak	O
+70	-	O
+71	John	O
+72	Orozco	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Japan	B-Silver
+80	-	O
+81	Kohei	O
+82	Uchimura	O
+83	-	O
+84	Ryohei	O
+85	Kato	O
+86	-	O
+87	Koji	O
+88	Yamamuro	O
+89	-	O
+90	Kenzo	O
+91	Shirai	O
+92	-	O
+93	Yusuke	O
+94	Tanaka	O
+95	3	O
+96	.	O
+97	**	O
+98	Bronze	O
+99	Medal	O
+100	**:	O
+101	China	B-Bronze
+102	-	O
+103	Feng	O
+104	Zhe	O
+105	-	O
+106	Zhang	O
+107	Chenglong	O
+108	-	O
+109	Zou	O
+110	Kai	O
+111	-	O
+112	Chen	O
+113	Yibing	O
+114	-	O
+115	Guo	O
+116	Weiyang	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2012 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 2012 Olympic Games in London was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Gabrielle Douglas
+   - McKayla Maroney
+   - Aly Raisman
+   - Kyla Ross
+   - Jordyn Wieber
+2. **Silver Medal**: Russia
+   - Aliya Mustafina
+   - Viktoria Komova
+   - Anastasia Grishina
+   - Ksenia Afanasyeva
+   - Anastasia Sidorova
+3. **Bronze Medal**: Romania
+   - Larisa Iordache
+   - Diana Bulimar
+   - Sandra Izbașa
+   - Cătălina Ponor
+   - Diana Chelaru
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2012	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2012	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	London	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	team	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	Gabrielle	O
+60	Douglas	O
+61	-	O
+62	McKayla	O
+63	Maroney	O
+64	-	O
+65	Aly	O
+66	Raisman	O
+67	-	O
+68	Kyla	O
+69	Ross	O
+70	-	O
+71	Jordyn	O
+72	Wieber	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Russia	B-Silver
+80	-	O
+81	Aliya	O
+82	Mustafina	O
+83	-	O
+84	Viktoria	O
+85	Komova	O
+86	-	O
+87	Anastasia	O
+88	Grishina	O
+89	-	O
+90	Ksenia	O
+91	Afanasyeva	O
+92	-	O
+93	Anastasia	O
+94	Sidorova	O
+95	3	O
+96	.	O
+97	**	O
+98	Bronze	O
+99	Medal	O
+100	**:	O
+101	Romania	B-Bronze
+102	-	O
+103	Larisa	O
+104	Iordache	O
+105	-	O
+106	Diana	O
+107	Bulimar	O
+108	-	O
+109	Sandra	O
+110	Izbașa	O
+111	-	O
+112	Cătălina	O
+113	Ponor	O
+114	-	O
+115	Diana	O
+116	Chelaru	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Men's Water Polo event at the 2012 olympic games?The Men's Water Polo event at the 2012 Olympic Games in London was won by the team from Croatia. Here are the medalists:
+1. **Gold Medal**: Croatia
+   - Players: Josip Pavić, Miho Bošković, Maro Joković, Andro Bušlje, Nikša Dobud, Frano Karač, Frano Mihojević, Petar Muslim, Paulo Obradović, Samir Barać, Josip Šutalo, Luka Lončar, and Miho Bošković (goalkeeper)
+2. **Silver Medal**: Italy
+   - Players: Stefano Tempesti (goalkeeper), Amaurys Pérez, Pietro Figlioli, Alex Giorgetti, Deni Fiorentini, Valentino Gallo, Christian Presciutti, Maurizio Felugo, Daniele Outzen, Giacomo Pastorino, Massimo Giacoppo, Matteo Aicardi, and Francesco Di Fulvio
+3. **Bronze Medal**: Montenegro
+   - Players: Dejan Lazović, Milan Muškatirović, Slaven Kolašinac, Mlađan Janović, Vjekoslav Pasković, Darko Brguljan, Filip Klikovać, Andrija Prlainović, Gojko Pijetlović, Stefan Živković, Siniša Škrbić, Draško Brguljan, and Boris Zloković (goalkeeper)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	London	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	Croatia	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Croatia	B-Gold
+53	-	O
+54	Players	O
+55	:	O
+56	Josip	O
+57	Pavić	O
+58	,	O
+59	Miho	O
+60	Bošković	O
+61	,	O
+62	Maro	O
+63	Joković	O
+64	,	O
+65	Andro	O
+66	Bušlje	O
+67	,	O
+68	Nikša	O
+69	Dobud	O
+70	,	O
+71	Frano	O
+72	Karač	O
+73	,	O
+74	Frano	O
+75	Mihojević	O
+76	,	O
+77	Petar	O
+78	Muslim	O
+79	,	O
+80	Paulo	O
+81	Obradović	O
+82	,	O
+83	Samir	O
+84	Barać	O
+85	,	O
+86	Josip	O
+87	Šutalo	O
+88	,	O
+89	Luka	O
+90	Lončar	O
+91	,	O
+92	and	O
+93	Miho	O
+94	Bošković	O
+95	(	O
+96	goalkeeper	O
+97	)	O
+98	2	O
+99	.	O
+100	**	O
+101	Silver	O
+102	Medal	O
+103	**:	O
+104	Italy	B-Silver
+105	-	O
+106	Players	O
+107	:	O
+108	Stefano	O
+109	Tempesti	O
+110	(	O
+111	goalkeeper	O
+112	),	O
+113	Amaurys	O
+114	Pérez	O
+115	,	O
+116	Pietro	O
+117	Figlioli	O
+118	,	O
+119	Alex	O
+120	Giorgetti	O
+121	,	O
+122	Deni	O
+123	Fiorentini	O
+124	,	O
+125	Valentino	O
+126	Gallo	O
+127	,	O
+128	Christian	O
+129	Presciutti	O
+130	,	O
+131	Maurizio	O
+132	Felugo	O
+133	,	O
+134	Daniele	O
+135	Outzen	O
+136	,	O
+137	Giacomo	O
+138	Pastorino	O
+139	,	O
+140	Massimo	O
+141	Giacoppo	O
+142	,	O
+143	Matteo	O
+144	Aicardi	O
+145	,	O
+146	and	O
+147	Francesco	O
+148	Di	O
+149	Fulvio	O
+150	3	O
+151	.	O
+152	**	O
+153	Bronze	O
+154	Medal	O
+155	**:	O
+156	Montenegro	B-Bronze
+157	-	O
+158	Players	O
+159	:	O
+160	Dejan	O
+161	Lazović	O
+162	,	O
+163	Milan	O
+164	Muškatirović	O
+165	,	O
+166	Slaven	O
+167	Kolašinac	O
+168	,	O
+169	Mlađan	O
+170	Janović	O
+171	,	O
+172	Vjekoslav	O
+173	Pasković	O
+174	,	O
+175	Darko	O
+176	Brguljan	O
+177	,	O
+178	Filip	O
+179	Klikovać	O
+180	,	O
+181	Andrija	O
+182	Prlainović	O
+183	,	O
+184	Gojko	O
+185	Pijetlović	O
+186	,	O
+187	Stefan	O
+188	Živković	O
+189	,	O
+190	Siniša	O
+191	Škrbić	O
+192	,	O
+193	Draško	O
+194	Brguljan	O
+195	,	O
+196	and	O
+197	Boris	O
+198	Zloković	O
+199	(	O
+200	goalkeeper	O
+201	)	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Women's Water Polo event at the 2012 olympic games?The Women's Water Polo tournament at the 2012 Olympic Games in London was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goalkeepers: Betsey Armstrong, Tumua Anae
+   - Field Players: Heather Petri, Courtney Mathewson, Kelly Rulon, Maggie Steffens, Jessica Steffens, Kami Craig, Tumua Anae, Lauren Wenger, Anni Espar, Kiley Neushul, Brittany Hayes, and Tony Azevedo (head coach)
+2. **Silver Medal**: Spain
+   - Goalkeepers: Laura Ester, Anna Espar
+   - Field Players: Lorena Miranda, Anna Espar, Marta Bach, Anna Gual, Laura Lopez, Ona Meseguer, Roser Tarragó, Maria del Pino, Laura Baraban, Maica Garcia, Ana Copado, and Miki Oca (head coach)
+3. **Bronze Medal**: Australia
+   - Goalkeepers: Victoria Brown, Ash Southern
+   - Field Players: Glencora Ralph, Bronwen Knox, Mel Rippon, Holly Lincoln-Smith, Gemma Beadsworth, Rowie Webster, Megan Noyes, Bronwen Knox, Melissa Rippon, Ash Southern, Victoria Brown, and Greg McFadden (head coach)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2012	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	tournament	O
+26	at	O
+27	the	O
+28	2012	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	London	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	Goalkeepers	O
+55	:	O
+56	Betsey	O
+57	Armstrong	O
+58	,	O
+59	Tumua	O
+60	Anae	O
+61	-	O
+62	Field	O
+63	Players	O
+64	:	O
+65	Heather	O
+66	Petri	O
+67	,	O
+68	Courtney	O
+69	Mathewson	O
+70	,	O
+71	Kelly	O
+72	Rulon	O
+73	,	O
+74	Maggie	O
+75	Steffens	O
+76	,	O
+77	Jessica	O
+78	Steffens	O
+79	,	O
+80	Kami	O
+81	Craig	O
+82	,	O
+83	Tumua	O
+84	Anae	O
+85	,	O
+86	Lauren	O
+87	Wenger	O
+88	,	O
+89	Anni	O
+90	Espar	O
+91	,	O
+92	Kiley	O
+93	Neushul	O
+94	,	O
+95	Brittany	O
+96	Hayes	O
+97	,	O
+98	and	O
+99	Tony	O
+100	Azevedo	O
+101	(	O
+102	head	O
+103	coach	O
+104	)	O
+105	2	O
+106	.	O
+107	**	O
+108	Silver	O
+109	Medal	O
+110	**:	O
+111	Spain	B-Silver
+112	-	O
+113	Goalkeepers	O
+114	:	O
+115	Laura	O
+116	Ester	O
+117	,	O
+118	Anna	O
+119	Espar	O
+120	-	O
+121	Field	O
+122	Players	O
+123	:	O
+124	Lorena	O
+125	Miranda	O
+126	,	O
+127	Anna	O
+128	Espar	O
+129	,	O
+130	Marta	O
+131	Bach	O
+132	,	O
+133	Anna	O
+134	Gual	O
+135	,	O
+136	Laura	O
+137	Lopez	O
+138	,	O
+139	Ona	O
+140	Meseguer	O
+141	,	O
+142	Roser	O
+143	Tarragó	O
+144	,	O
+145	Maria	O
+146	del	O
+147	Pino	O
+148	,	O
+149	Laura	O
+150	Baraban	O
+151	,	O
+152	Maica	O
+153	Garcia	O
+154	,	O
+155	Ana	O
+156	Copado	O
+157	,	O
+158	and	O
+159	Miki	O
+160	Oca	O
+161	(	O
+162	head	O
+163	coach	O
+164	)	O
+165	3	O
+166	.	O
+167	**	O
+168	Bronze	O
+169	Medal	O
+170	**:	O
+171	Australia	B-Bronze
+172	-	O
+173	Goalkeepers	O
+174	:	O
+175	Victoria	O
+176	Brown	O
+177	,	O
+178	Ash	O
+179	Southern	O
+180	-	O
+181	Field	O
+182	Players	O
+183	:	O
+184	Glencora	O
+185	Ralph	O
+186	,	O
+187	Bronwen	O
+188	Knox	O
+189	,	O
+190	Mel	O
+191	Rippon	O
+192	,	O
+193	Holly	O
+194	Lincoln-Smith	O
+195	,	O
+196	Gemma	O
+197	Beadsworth	O
+198	,	O
+199	Rowie	O
+200	Webster	O
+201	,	O
+202	Megan	O
+203	Noyes	O
+204	,	O
+205	Bronwen	O
+206	Knox	O
+207	,	O
+208	Melissa	O
+209	Rippon	O
+210	,	O
+211	Ash	O
+212	Southern	O
+213	,	O
+214	Victoria	O
+215	Brown	O
+216	,	O
+217	and	O
+218	Greg	O
+219	McFadden	O
+220	(	O
+221	head	O
+222	coach	O
+223	)	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Men's Curling event at the 2014 olympic games?The Men's Curling event at the 2014 Winter Olympics in Sochi, Russia, was won by the team from Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Brad Jacobs (skip)
+   - Ryan Fry (third)
+   - E.J. Harnden (second)
+   - Ryan Harnden (lead)
+   - Caleb Flaxey (alternate)
+2. **Silver Medal**: Great Britain
+   - David Murdoch (skip)
+   - Greg Drummond (third)
+   - Scott Andrews (second)
+   - Michael Goodfellow (lead)
+   - Tom Brewster (alternate)
+3. **Bronze Medal**: China
+   - Liu Rui (skip)
+   - Xu Xiaoming (third)
+   - Ba Dexin (second)
+   - Zang Jialiang (lead)
+   - Zou De (alternate)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2014	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2014	O
+27	Winter	O
+28	Olympics	O
+29	in	O
+30	Sochi	O
+31	,	O
+32	Russia	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	team	O
+39	from	O
+40	Canada	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Canada	B-Gold
+54	-	O
+55	Brad	O
+56	Jacobs	O
+57	(	O
+58	skip	O
+59	)	O
+60	-	O
+61	Ryan	O
+62	Fry	O
+63	(	O
+64	third	O
+65	)	O
+66	-	O
+67	E	O
+68	.	O
+69	J	O
+70	.	O
+71	Harnden	O
+72	(	O
+73	second	O
+74	)	O
+75	-	O
+76	Ryan	O
+77	Harnden	O
+78	(	O
+79	lead	O
+80	)	O
+81	-	O
+82	Caleb	O
+83	Flaxey	O
+84	(	O
+85	alternate	O
+86	)	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	Great	B-Silver
+94	Britain	I-Silver
+95	-	O
+96	David	O
+97	Murdoch	O
+98	(	O
+99	skip	O
+100	)	O
+101	-	O
+102	Greg	O
+103	Drummond	O
+104	(	O
+105	third	O
+106	)	O
+107	-	O
+108	Scott	O
+109	Andrews	O
+110	(	O
+111	second	O
+112	)	O
+113	-	O
+114	Michael	O
+115	Goodfellow	O
+116	(	O
+117	lead	O
+118	)	O
+119	-	O
+120	Tom	O
+121	Brewster	O
+122	(	O
+123	alternate	O
+124	)	O
+125	3	O
+126	.	O
+127	**	O
+128	Bronze	O
+129	Medal	O
+130	**:	O
+131	China	B-Bronze
+132	-	O
+133	Liu	O
+134	Rui	O
+135	(	O
+136	skip	O
+137	)	O
+138	-	O
+139	Xu	O
+140	Xiaoming	O
+141	(	O
+142	third	O
+143	)	O
+144	-	O
+145	Ba	O
+146	Dexin	O
+147	(	O
+148	second	O
+149	)	O
+150	-	O
+151	Zang	O
+152	Jialiang	O
+153	(	O
+154	lead	O
+155	)	O
+156	-	O
+157	Zou	O
+158	De	O
+159	(	O
+160	alternate	O
+161	)	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Women's Curling event at the 2014 olympic games?The Women's Curling event at the 2014 Winter Olympics in Sochi, Russia, was won by Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Skip: Jennifer Jones
+   - Third: Kaitlyn Lawes
+   - Second: Jill Officer
+   - Lead: Dawn McEwen
+   - Alternate: Jennifer Westway
+2. **Silver Medal**: Sweden
+   - Skip: Margaretha Sigfridsson
+   - Third: Maria Prytz
+   - Second: Christina Bertrup
+   - Lead: Maria Wennerström
+   - Alternate: Agnes Knochenhauer
+3. **Bronze Medal**: Great Britain
+   - Skip: Eve Muirhead
+   - Third: Anna Sloan
+   - Second: Vicki Adams
+   - Lead: Claire Hamilton
+   - Alternate: Lauren Gray
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2014	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2014	O
+27	Winter	O
+28	Olympics	O
+29	in	O
+30	Sochi	O
+31	,	O
+32	Russia	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	Canada	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Canada	B-Gold
+51	-	O
+52	Skip	O
+53	:	O
+54	Jennifer	O
+55	Jones	O
+56	-	O
+57	Third	O
+58	:	O
+59	Kaitlyn	O
+60	Lawes	O
+61	-	O
+62	Second	O
+63	:	O
+64	Jill	O
+65	Officer	O
+66	-	O
+67	Lead	O
+68	:	O
+69	Dawn	O
+70	McEwen	O
+71	-	O
+72	Alternate	O
+73	:	O
+74	Jennifer	O
+75	Westway	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Sweden	B-Silver
+83	-	O
+84	Skip	O
+85	:	O
+86	Margaretha	O
+87	Sigfridsson	O
+88	-	O
+89	Third	O
+90	:	O
+91	Maria	O
+92	Prytz	O
+93	-	O
+94	Second	O
+95	:	O
+96	Christina	O
+97	Bertrup	O
+98	-	O
+99	Lead	O
+100	:	O
+101	Maria	O
+102	Wennerström	O
+103	-	O
+104	Alternate	O
+105	:	O
+106	Agnes	O
+107	Knochenhauer	O
+108	3	O
+109	.	O
+110	**	O
+111	Bronze	O
+112	Medal	O
+113	**:	O
+114	Great	B-Bronze
+115	Britain	I-Bronze
+116	-	O
+117	Skip	O
+118	:	O
+119	Eve	O
+120	Muirhead	O
+121	-	O
+122	Third	O
+123	:	O
+124	Anna	O
+125	Sloan	O
+126	-	O
+127	Second	O
+128	:	O
+129	Vicki	O
+130	Adams	O
+131	-	O
+132	Lead	O
+133	:	O
+134	Claire	O
+135	Hamilton	O
+136	-	O
+137	Alternate	O
+138	:	O
+139	Lauren	O
+140	Gray	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Men's Ice Hockey event at the 2014 olympic games?The Men's Ice Hockey event at the 2014 Winter Olympics in Sochi, Russia, was won by Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Goaltenders: Carey Price, Roberto Luongo
+   - Defensemen: Drew Doughty, P.K. Subban, Alex Pietrangelo, Duncan Keith, Marc-Édouard Vlasic, Jay Bouwmeester, Dan Hamhuis
+   - Forwards: Sidney Crosby (captain), Jonathan Toews, Rick Nash, Steven Stamkos, Patrick Marleau, Eric Staal, Jamie Benn, John Tavares, Jeff Carter, Patrick Sharp, Martin St. Louis, Chris Kunitz, Patrick Sharp, Matt Duchene, Ryan Getzlaf
+2. **Silver Medal**: Sweden
+   - Goaltenders: Henrik Lundqvist, Jhonas Enroth
+   - Defensemen: Erik Karlsson, Oliver Ekman-Larsson, Niklas Hjalmarsson, Jonathan Ericsson, Alexander Edler, Niklas Kronwall, Johnny Oduya
+   - Forwards: Nicklas Backstrom, Daniel Alfredsson (captain), Henrik Sedin, Daniel Sedin, Loui Eriksson, Patrik Berglund, Marcus Johansson, Alexander Steen, Gabriel Landeskog, Jakob Silfverberg, Carl Hagelin, Jimmie Ericsson, Jonas Åhlqvist, Patrik Zackrisson, Marcus Krüger
+3. **Bronze Medal**: United States
+   - Goaltenders: Jonathan Quick, Ryan Miller
+   - Defensemen: Ryan McDonagh, Brooks Orpik, Paul Martin, Cam Fowler, John Carlson, Justin Faulk, Kevin Shattenkirk
+   - Forwards: David Backes, Dustin Brown, Ryan Callahan, Patrick Kane, Phil Kessel, T.J. Oshie, Zach Parise, Joe Pavelski, Max Pacioretty, James van Riemsdyk, Ryan Kesler, Derek Stepan, Blake Wheeler, Ryan Suter, Ryan Kesler
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2014	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2014	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Sochi	O
+33	,	O
+34	Russia	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	Canada	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Canada	B-Gold
+53	-	O
+54	Goaltenders	O
+55	:	O
+56	Carey	O
+57	Price	O
+58	,	O
+59	Roberto	O
+60	Luongo	O
+61	-	O
+62	Defensemen	O
+63	:	O
+64	Drew	O
+65	Doughty	O
+66	,	O
+67	P	O
+68	.	O
+69	K	O
+70	.	O
+71	Subban	O
+72	,	O
+73	Alex	O
+74	Pietrangelo	O
+75	,	O
+76	Duncan	O
+77	Keith	O
+78	,	O
+79	Marc-Édouard	O
+80	Vlasic	O
+81	,	O
+82	Jay	O
+83	Bouwmeester	O
+84	,	O
+85	Dan	O
+86	Hamhuis	O
+87	-	O
+88	Forwards	O
+89	:	O
+90	Sidney	O
+91	Crosby	O
+92	(	O
+93	captain	O
+94	),	O
+95	Jonathan	O
+96	Toews	O
+97	,	O
+98	Rick	O
+99	Nash	O
+100	,	O
+101	Steven	O
+102	Stamkos	O
+103	,	O
+104	Patrick	O
+105	Marleau	O
+106	,	O
+107	Eric	O
+108	Staal	O
+109	,	O
+110	Jamie	O
+111	Benn	O
+112	,	O
+113	John	O
+114	Tavares	O
+115	,	O
+116	Jeff	O
+117	Carter	O
+118	,	O
+119	Patrick	O
+120	Sharp	O
+121	,	O
+122	Martin	O
+123	St	O
+124	.	O
+125	Louis	O
+126	,	O
+127	Chris	O
+128	Kunitz	O
+129	,	O
+130	Patrick	O
+131	Sharp	O
+132	,	O
+133	Matt	O
+134	Duchene	O
+135	,	O
+136	Ryan	O
+137	Getzlaf	O
+138	2	O
+139	.	O
+140	**	O
+141	Silver	O
+142	Medal	O
+143	**:	O
+144	Sweden	B-Silver
+145	-	O
+146	Goaltenders	O
+147	:	O
+148	Henrik	O
+149	Lundqvist	O
+150	,	O
+151	Jhonas	O
+152	Enroth	O
+153	-	O
+154	Defensemen	O
+155	:	O
+156	Erik	O
+157	Karlsson	O
+158	,	O
+159	Oliver	O
+160	Ekman-Larsson	O
+161	,	O
+162	Niklas	O
+163	Hjalmarsson	O
+164	,	O
+165	Jonathan	O
+166	Ericsson	O
+167	,	O
+168	Alexander	O
+169	Edler	O
+170	,	O
+171	Niklas	O
+172	Kronwall	O
+173	,	O
+174	Johnny	O
+175	Oduya	O
+176	-	O
+177	Forwards	O
+178	:	O
+179	Nicklas	O
+180	Backstrom	O
+181	,	O
+182	Daniel	O
+183	Alfredsson	O
+184	(	O
+185	captain	O
+186	),	O
+187	Henrik	O
+188	Sedin	O
+189	,	O
+190	Daniel	O
+191	Sedin	O
+192	,	O
+193	Loui	O
+194	Eriksson	O
+195	,	O
+196	Patrik	O
+197	Berglund	O
+198	,	O
+199	Marcus	O
+200	Johansson	O
+201	,	O
+202	Alexander	O
+203	Steen	O
+204	,	O
+205	Gabriel	O
+206	Landeskog	O
+207	,	O
+208	Jakob	O
+209	Silfverberg	O
+210	,	O
+211	Carl	O
+212	Hagelin	O
+213	,	O
+214	Jimmie	O
+215	Ericsson	O
+216	,	O
+217	Jonas	O
+218	Åhlqvist	O
+219	,	O
+220	Patrik	O
+221	Zackrisson	O
+222	,	O
+223	Marcus	O
+224	Krüger	O
+225	3	O
+226	.	O
+227	**	O
+228	Bronze	O
+229	Medal	O
+230	**:	O
+231	United	B-Bronze
+232	States	I-Bronze
+233	-	O
+234	Goaltenders	O
+235	:	O
+236	Jonathan	O
+237	Quick	O
+238	,	O
+239	Ryan	O
+240	Miller	O
+241	-	O
+242	Defensemen	O
+243	:	O
+244	Ryan	O
+245	McDonagh	O
+246	,	O
+247	Brooks	O
+248	Orpik	O
+249	,	O
+250	Paul	O
+251	Martin	O
+252	,	O
+253	Cam	O
+254	Fowler	O
+255	,	O
+256	John	O
+257	Carlson	O
+258	,	O
+259	Justin	O
+260	Faulk	O
+261	,	O
+262	Kevin	O
+263	Shattenkirk	O
+264	-	O
+265	Forwards	O
+266	:	O
+267	David	O
+268	Backes	O
+269	,	O
+270	Dustin	O
+271	Brown	O
+272	,	O
+273	Ryan	O
+274	Callahan	O
+275	,	O
+276	Patrick	O
+277	Kane	O
+278	,	O
+279	Phil	O
+280	Kessel	O
+281	,	O
+282	T	O
+283	.	O
+284	J	O
+285	.	O
+286	Oshie	O
+287	,	O
+288	Zach	O
+289	Parise	O
+290	,	O
+291	Joe	O
+292	Pavelski	O
+293	,	O
+294	Max	O
+295	Pacioretty	O
+296	,	O
+297	James	O
+298	van	O
+299	Riemsdyk	O
+300	,	O
+301	Ryan	O
+302	Kesler	O
+303	,	O
+304	Derek	O
+305	Stepan	O
+306	,	O
+307	Blake	O
+308	Wheeler	O
+309	,	O
+310	Ryan	O
+311	Suter	O
+312	,	O
+313	Ryan	O
+314	Kesler	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Women's Ice Hockey event at the 2014 olympic games?The Women's Ice Hockey event at the 2014 Winter Olympics in Sochi, Russia, was won by Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Goaltenders: Shannon Szabados, Charline Labonté, Geneviève Lacasse
+   - Defensemen: Catherine Ward, Laura Fortino, Jocelyne Larocque, Meaghan Mikkelson, Lauriane Rougeau, Tara Watchorn
+   - Forwards: Meghan Agosta, Gillian Apps, Bailey Bram, Vicki Bendus, Jessica Campbell, Meghan Duff, Haley Irwin, Brianne Jenner, Rebecca Johnston, Caroline Ouellette, Marie-Philip Poulin, Natalie Spooner, Jennifer Wakefield, Hayley Wickenheiser
+2. **Silver Medal**: United States
+   - Goaltenders: Jessie Vetter, Molly Schaus, Alex Rigsby
+   - Defensemen: Kacey Bellamy, Megan Bozek, Lisa Chesson, Gigi Marvin, Michelle Picard, Anne Schleper, Lee Stecklein
+   - Forwards: Kelli Stack, Julie Chu, Kendall Coyne, Brianna Decker, Meghan Duggan, Lyndsey Fry, Amanda Kessel, Hilary Knight, Jocelyne Lamoureux, Monique Lamoureux, Amanda Pelkey, Alex Carpenter, Hannah Brandt, Kendall Coyne, Brianna Decker, Meghan Duggan, Lyndsey Fry, Amanda Kessel, Hilary Knight, Jocelyne Lamoureux, Monique Lamoureux, Amanda Pelkey, Alex Carpenter, Hannah Brandt
+3. **Bronze Medal**: Switzerland
+   - Goaltenders: Florence Schelling, Jenny Müller, Janine Alder
+   - Defensemen: Laura Benz, Julia Marty, Sabrina Zollinger, Nicole Bullo, Livia Altmann, Stefanie Marty
+   - Forwards: Sara Benz, Phoebe Stanz, Lara Stalder, Alina Müller, Jessica Lutz, Evelina Raselli, Angela Frautschi, Nina Waidacher, Laura Zweifel, Sarah Forster, Rahel Enzler, Sandra Thalmann, Phoebe Stanz, Lara Stalder, Alina Müller, Jessica Lutz, Evelina Raselli, Angela Frautschi, Nina Waidacher, Laura Zweifel, Sarah Forster, Rahel Enzler, Sandra Thalmann
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2014	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2014	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Sochi	O
+33	,	O
+34	Russia	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	Canada	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Canada	B-Gold
+53	-	O
+54	Goaltenders	O
+55	:	O
+56	Shannon	O
+57	Szabados	O
+58	,	O
+59	Charline	O
+60	Labonté	O
+61	,	O
+62	Geneviève	O
+63	Lacasse	O
+64	-	O
+65	Defensemen	O
+66	:	O
+67	Catherine	O
+68	Ward	O
+69	,	O
+70	Laura	O
+71	Fortino	O
+72	,	O
+73	Jocelyne	O
+74	Larocque	O
+75	,	O
+76	Meaghan	O
+77	Mikkelson	O
+78	,	O
+79	Lauriane	O
+80	Rougeau	O
+81	,	O
+82	Tara	O
+83	Watchorn	O
+84	-	O
+85	Forwards	O
+86	:	O
+87	Meghan	O
+88	Agosta	O
+89	,	O
+90	Gillian	O
+91	Apps	O
+92	,	O
+93	Bailey	O
+94	Bram	O
+95	,	O
+96	Vicki	O
+97	Bendus	O
+98	,	O
+99	Jessica	O
+100	Campbell	O
+101	,	O
+102	Meghan	O
+103	Duff	O
+104	,	O
+105	Haley	O
+106	Irwin	O
+107	,	O
+108	Brianne	O
+109	Jenner	O
+110	,	O
+111	Rebecca	O
+112	Johnston	O
+113	,	O
+114	Caroline	O
+115	Ouellette	O
+116	,	O
+117	Marie-Philip	O
+118	Poulin	O
+119	,	O
+120	Natalie	O
+121	Spooner	O
+122	,	O
+123	Jennifer	O
+124	Wakefield	O
+125	,	O
+126	Hayley	O
+127	Wickenheiser	O
+128	2	O
+129	.	O
+130	**	O
+131	Silver	O
+132	Medal	O
+133	**:	O
+134	United	B-Silver
+135	States	I-Silver
+136	-	O
+137	Goaltenders	O
+138	:	O
+139	Jessie	O
+140	Vetter	O
+141	,	O
+142	Molly	O
+143	Schaus	O
+144	,	O
+145	Alex	O
+146	Rigsby	O
+147	-	O
+148	Defensemen	O
+149	:	O
+150	Kacey	O
+151	Bellamy	O
+152	,	O
+153	Megan	O
+154	Bozek	O
+155	,	O
+156	Lisa	O
+157	Chesson	O
+158	,	O
+159	Gigi	O
+160	Marvin	O
+161	,	O
+162	Michelle	O
+163	Picard	O
+164	,	O
+165	Anne	O
+166	Schleper	O
+167	,	O
+168	Lee	O
+169	Stecklein	O
+170	-	O
+171	Forwards	O
+172	:	O
+173	Kelli	O
+174	Stack	O
+175	,	O
+176	Julie	O
+177	Chu	O
+178	,	O
+179	Kendall	O
+180	Coyne	O
+181	,	O
+182	Brianna	O
+183	Decker	O
+184	,	O
+185	Meghan	O
+186	Duggan	O
+187	,	O
+188	Lyndsey	O
+189	Fry	O
+190	,	O
+191	Amanda	O
+192	Kessel	O
+193	,	O
+194	Hilary	O
+195	Knight	O
+196	,	O
+197	Jocelyne	O
+198	Lamoureux	O
+199	,	O
+200	Monique	O
+201	Lamoureux	O
+202	,	O
+203	Amanda	O
+204	Pelkey	O
+205	,	O
+206	Alex	O
+207	Carpenter	O
+208	,	O
+209	Hannah	O
+210	Brandt	O
+211	,	O
+212	Kendall	O
+213	Coyne	O
+214	,	O
+215	Brianna	O
+216	Decker	O
+217	,	O
+218	Meghan	O
+219	Duggan	O
+220	,	O
+221	Lyndsey	O
+222	Fry	O
+223	,	O
+224	Amanda	O
+225	Kessel	O
+226	,	O
+227	Hilary	O
+228	Knight	O
+229	,	O
+230	Jocelyne	O
+231	Lamoureux	O
+232	,	O
+233	Monique	O
+234	Lamoureux	O
+235	,	O
+236	Amanda	O
+237	Pelkey	O
+238	,	O
+239	Alex	O
+240	Carpenter	O
+241	,	O
+242	Hannah	O
+243	Brandt	O
+244	3	O
+245	.	O
+246	**	O
+247	Bronze	O
+248	Medal	O
+249	**:	O
+250	Switzerland	B-Bronze
+251	-	O
+252	Goaltenders	O
+253	:	O
+254	Florence	O
+255	Schelling	O
+256	,	O
+257	Jenny	O
+258	Müller	O
+259	,	O
+260	Janine	O
+261	Alder	O
+262	-	O
+263	Defensemen	O
+264	:	O
+265	Laura	O
+266	Benz	O
+267	,	O
+268	Julia	O
+269	Marty	O
+270	,	O
+271	Sabrina	O
+272	Zollinger	O
+273	,	O
+274	Nicole	O
+275	Bullo	O
+276	,	O
+277	Livia	O
+278	Altmann	O
+279	,	O
+280	Stefanie	O
+281	Marty	O
+282	-	O
+283	Forwards	O
+284	:	O
+285	Sara	O
+286	Benz	O
+287	,	O
+288	Phoebe	O
+289	Stanz	O
+290	,	O
+291	Lara	O
+292	Stalder	O
+293	,	O
+294	Alina	O
+295	Müller	O
+296	,	O
+297	Jessica	O
+298	Lutz	O
+299	,	O
+300	Evelina	O
+301	Raselli	O
+302	,	O
+303	Angela	O
+304	Frautschi	O
+305	,	O
+306	Nina	O
+307	Waidacher	O
+308	,	O
+309	Laura	O
+310	Zweifel	O
+311	,	O
+312	Sarah	O
+313	Forster	O
+314	,	O
+315	Rahel	O
+316	Enzler	O
+317	,	O
+318	Sandra	O
+319	Thalmann	O
+320	,	O
+321	Phoebe	O
+322	Stanz	O
+323	,	O
+324	Lara	O
+325	Stalder	O
+326	,	O
+327	Alina	O
+328	Müller	O
+329	,	O
+330	Jessica	O
+331	Lutz	O
+332	,	O
+333	Evelina	O
+334	Raselli	O
+335	,	O
+336	Angela	O
+337	Frautschi	O
+338	,	O
+339	Nina	O
+340	Waidacher	O
+341	,	O
+342	Laura	O
+343	Zweifel	O
+344	,	O
+345	Sarah	O
+346	Forster	O
+347	,	O
+348	Rahel	O
+349	Enzler	O
+350	,	O
+351	Sandra	O
+352	Thalmann	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2016 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Caeleb Dressel
+   - Ryan Held
+   - Nathan Adrian
+2. **Silver Medal**: France
+   - Mehdy Metella
+   - Florent Manaudou
+   - Fabien Gilot
+   - Jacques-André Cousteau
+3. **Bronze Medal**: Australia
+   - James Roberts
+   - Kyle Chalmers
+   - James Magnussen
+   - Cameron McEvoy
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	team	O
+49	from	O
+50	the	O
+51	United	O
+52	States	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	United	B-Gold
+66	States	I-Gold
+67	-	O
+68	Michael	O
+69	Phelps	O
+70	-	O
+71	Caeleb	O
+72	Dressel	O
+73	-	O
+74	Ryan	O
+75	Held	O
+76	-	O
+77	Nathan	O
+78	Adrian	O
+79	2	O
+80	.	O
+81	**	O
+82	Silver	O
+83	Medal	O
+84	**:	O
+85	France	B-Silver
+86	-	O
+87	Mehdy	O
+88	Metella	O
+89	-	O
+90	Florent	O
+91	Manaudou	O
+92	-	O
+93	Fabien	O
+94	Gilot	O
+95	-	O
+96	Jacques-André	O
+97	Cousteau	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Australia	B-Bronze
+105	-	O
+106	James	O
+107	Roberts	O
+108	-	O
+109	Kyle	O
+110	Chalmers	O
+111	-	O
+112	James	O
+113	Magnussen	O
+114	-	O
+115	Cameron	O
+116	McEvoy	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2016 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Australia. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Bronte Campbell
+   - Cate Campbell
+   - Brittany Elmslie
+   - Bronte Barratt
+2. **Silver Medal**: Canada
+   - Sandrine Mainville
+   - Chantal van Landeghem
+   - Taylor Ruck
+   - Penny Oleksiak
+3. **Bronze Medal**: Netherlands
+   - Ranomi Kromowidjojo
+   - Marrit Steenbergen
+   - Femke Heemskerk
+   - Inge Dekker
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	team	O
+49	from	O
+50	Australia	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	Australia	B-Gold
+64	-	O
+65	Bronte	O
+66	Campbell	O
+67	-	O
+68	Cate	O
+69	Campbell	O
+70	-	O
+71	Brittany	O
+72	Elmslie	O
+73	-	O
+74	Bronte	O
+75	Barratt	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Canada	B-Silver
+83	-	O
+84	Sandrine	O
+85	Mainville	O
+86	-	O
+87	Chantal	O
+88	van	O
+89	Landeghem	O
+90	-	O
+91	Taylor	O
+92	Ruck	O
+93	-	O
+94	Penny	O
+95	Oleksiak	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	Netherlands	B-Bronze
+103	-	O
+104	Ranomi	O
+105	Kromowidjojo	O
+106	-	O
+107	Marrit	O
+108	Steenbergen	O
+109	-	O
+110	Femke	O
+111	Heemskerk	O
+112	-	O
+113	Inge	O
+114	Dekker	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2016 olympic games?The Men's 4 x 100 metres Medley Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Ryan Murphy
+   - Cody Miller
+   - Nathan Adrian
+   - Time: 3:27.95
+2. **Silver Medal**: Great Britain
+   - Chris Walker-Hebborn
+   - Adam Peaty
+   - James Guy
+   - Duncan Scott
+   - Time: 3:29.24
+3. **Bronze Medal**: Australia
+   - Mitchell Larkin
+   - Jake Packard
+   - David Morgan
+   - Cameron McEvoy
+   - Time: 3:29.92
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	United	O
+49	States	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	**:	O
+62	United	B-Gold
+63	States	I-Gold
+64	-	O
+65	Michael	O
+66	Phelps	O
+67	-	O
+68	Ryan	O
+69	Murphy	O
+70	-	O
+71	Cody	O
+72	Miller	O
+73	-	O
+74	Nathan	O
+75	Adrian	O
+76	-	O
+77	Time	O
+78	:	O
+79	3	O
+80	:	O
+81	27	O
+82	.	O
+83	95	O
+84	2	O
+85	.	O
+86	**	O
+87	Silver	O
+88	Medal	O
+89	**:	O
+90	Great	B-Silver
+91	Britain	I-Silver
+92	-	O
+93	Chris	O
+94	Walker-Hebborn	O
+95	-	O
+96	Adam	O
+97	Peaty	O
+98	-	O
+99	James	O
+100	Guy	O
+101	-	O
+102	Duncan	O
+103	Scott	O
+104	-	O
+105	Time	O
+106	:	O
+107	3	O
+108	:	O
+109	29	O
+110	.	O
+111	24	O
+112	3	O
+113	.	O
+114	**	O
+115	Bronze	O
+116	Medal	O
+117	**:	O
+118	Australia	B-Bronze
+119	-	O
+120	Mitchell	O
+121	Larkin	O
+122	-	O
+123	Jake	O
+124	Packard	O
+125	-	O
+126	David	O
+127	Morgan	O
+128	-	O
+129	Cameron	O
+130	McEvoy	O
+131	-	O
+132	Time	O
+133	:	O
+134	3	O
+135	:	O
+136	29	O
+137	.	O
+138	92	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2016 olympic games?The Women's 4 x 100 metres Medley Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Kathleen Baker
+   - Lilly King
+   - Dana Vollmer
+   - Simone Manuel
+2. **Silver Medal**: Australia
+   - Emily Seebohm
+   - Taylor McKeown
+   - Bronte Campbell
+   - Cate Campbell
+3. **Bronze Medal**: Canada
+   - Kylie Masse
+   - Rachel Nicol
+   - Penny Oleksiak
+   - Chantal Van Landeghem
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	team	O
+49	from	O
+50	the	O
+51	United	O
+52	States	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	United	B-Gold
+66	States	I-Gold
+67	-	O
+68	Kathleen	O
+69	Baker	O
+70	-	O
+71	Lilly	O
+72	King	O
+73	-	O
+74	Dana	O
+75	Vollmer	O
+76	-	O
+77	Simone	O
+78	Manuel	O
+79	2	O
+80	.	O
+81	**	O
+82	Silver	O
+83	Medal	O
+84	**:	O
+85	Australia	B-Silver
+86	-	O
+87	Emily	O
+88	Seebohm	O
+89	-	O
+90	Taylor	O
+91	McKeown	O
+92	-	O
+93	Bronte	O
+94	Campbell	O
+95	-	O
+96	Cate	O
+97	Campbell	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Canada	B-Bronze
+105	-	O
+106	Kylie	O
+107	Masse	O
+108	-	O
+109	Rachel	O
+110	Nicol	O
+111	-	O
+112	Penny	O
+113	Oleksiak	O
+114	-	O
+115	Chantal	O
+116	Van	O
+117	Landeghem	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2016 olympic games?The Men's Athletics 4 x 100 metres Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Jamaica. Here are the medalists:
+1. **Gold Medal**: Jamaica
+   - Usain Bolt, Yohan Blake, Nickel Ashmeade, Asafa Powell
+2. **Silver Medal**: Japan
+   - Yoshihide Kiryu, Shōta Iizuka, Yoshihide Kiryu, Asuka Cambridge
+3. **Bronze Medal**: Canada
+   - Akeem Haynes, Aaron Brown, Brendon Rodney, Andre De Grasse
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2016	O
+37	Olympic	O
+38	Games	O
+39	in	O
+40	Rio	O
+41	de	O
+42	Janeiro	O
+43	was	O
+44	won	O
+45	by	O
+46	the	O
+47	team	O
+48	from	O
+49	Jamaica	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	**:	O
+62	Jamaica	B-Gold
+63	-	O
+64	Usain	O
+65	Bolt	O
+66	,	O
+67	Yohan	O
+68	Blake	O
+69	,	O
+70	Nickel	O
+71	Ashmeade	O
+72	,	O
+73	Asafa	O
+74	Powell	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Japan	B-Silver
+82	-	O
+83	Yoshihide	O
+84	Kiryu	O
+85	,	O
+86	Shōta	O
+87	Iizuka	O
+88	,	O
+89	Yoshihide	O
+90	Kiryu	O
+91	,	O
+92	Asuka	O
+93	Cambridge	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Canada	B-Bronze
+101	-	O
+102	Akeem	O
+103	Haynes	O
+104	,	O
+105	Aaron	O
+106	Brown	O
+107	,	O
+108	Brendon	O
+109	Rodney	O
+110	,	O
+111	Andre	O
+112	De	O
+113	Grasse	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2016 olympic games?The Women's 4 x 100 metres Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Allyson Felix, Tianna Bartoletta, English Gardner, Tori Bowie
+2. **Silver Medal**: Jamaica
+   - Veronica Campbell-Brown, Elaine Thompson, Simone Facey, Shelly-Ann Fraser-Pryce
+3. **Bronze Medal**: China
+   - Wei Yongli, Feng Lulu, Yuan Qiqi, Liang Xiaojing
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2016	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Rio	O
+40	de	O
+41	Janeiro	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	the	O
+49	United	O
+50	States	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Allyson	O
+67	Felix	O
+68	,	O
+69	Tianna	O
+70	Bartoletta	O
+71	,	O
+72	English	O
+73	Gardner	O
+74	,	O
+75	Tori	O
+76	Bowie	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	Jamaica	B-Silver
+84	-	O
+85	Veronica	O
+86	Campbell-Brown	O
+87	,	O
+88	Elaine	O
+89	Thompson	O
+90	,	O
+91	Simone	O
+92	Facey	O
+93	,	O
+94	Shelly-Ann	O
+95	Fraser-Pryce	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	China	B-Bronze
+103	-	O
+104	Wei	O
+105	Yongli	O
+106	,	O
+107	Feng	O
+108	Lulu	O
+109	,	O
+110	Yuan	O
+111	Qiqi	O
+112	,	O
+113	Liang	O
+114	Xiaojing	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2016 olympic games?The Men's 4 x 200 metres Freestyle Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Great Britain. Here are the medalists:
+1. **Gold Medal**: Great Britain
+   - Stephen Milne
+   - Duncan Scott
+   - Daniel Wallace
+   - James Guy
+2. **Silver Medal**: United States
+   - Conor Dwyer
+   - Townley Haas
+   - Ryan Lochte
+   - Michael Phelps
+3. **Bronze Medal**: Japan
+   - Naito Ehara
+   - Hidekazu Takehara
+   - Katsuhiro Matsumoto
+   - Daiya Seto
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	team	O
+49	from	O
+50	Great	O
+51	Britain	O
+52	.	O
+53	Here	O
+54	are	O
+55	the	O
+56	medalists	O
+57	:	O
+58	1	O
+59	.	O
+60	**	O
+61	Gold	O
+62	Medal	O
+63	**:	O
+64	Great	B-Gold
+65	Britain	I-Gold
+66	-	O
+67	Stephen	O
+68	Milne	O
+69	-	O
+70	Duncan	O
+71	Scott	O
+72	-	O
+73	Daniel	O
+74	Wallace	O
+75	-	O
+76	James	O
+77	Guy	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	United	B-Silver
+85	States	I-Silver
+86	-	O
+87	Conor	O
+88	Dwyer	O
+89	-	O
+90	Townley	O
+91	Haas	O
+92	-	O
+93	Ryan	O
+94	Lochte	O
+95	-	O
+96	Michael	O
+97	Phelps	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Japan	B-Bronze
+105	-	O
+106	Naito	O
+107	Ehara	O
+108	-	O
+109	Hidekazu	O
+110	Takehara	O
+111	-	O
+112	Katsuhiro	O
+113	Matsumoto	O
+114	-	O
+115	Daiya	O
+116	Seto	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2016 olympic games?The Women's 4 x 200 metres Freestyle Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Katie Ledecky
+   - Allison Schmitt
+   - Leah Smith
+   - Maya DiRado
+2. **Silver Medal**: Canada
+   - Brittany MacLean
+   - Taylor Ruck
+   - Katerine Savard
+   - Penny Oleksiak
+3. **Bronze Medal**: China
+   - Zhu Menghui
+   - Qiu Yuhan
+   - Li Bingjie
+   - Shen Duo
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2016	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2016	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Rio	O
+42	de	O
+43	Janeiro	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	team	O
+49	from	O
+50	the	O
+51	United	O
+52	States	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	United	B-Gold
+66	States	I-Gold
+67	-	O
+68	Katie	O
+69	Ledecky	O
+70	-	O
+71	Allison	O
+72	Schmitt	O
+73	-	O
+74	Leah	O
+75	Smith	O
+76	-	O
+77	Maya	O
+78	DiRado	O
+79	2	O
+80	.	O
+81	**	O
+82	Silver	O
+83	Medal	O
+84	**:	O
+85	Canada	B-Silver
+86	-	O
+87	Brittany	O
+88	MacLean	O
+89	-	O
+90	Taylor	O
+91	Ruck	O
+92	-	O
+93	Katerine	O
+94	Savard	O
+95	-	O
+96	Penny	O
+97	Oleksiak	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	China	B-Bronze
+105	-	O
+106	Zhu	O
+107	Menghui	O
+108	-	O
+109	Qiu	O
+110	Yuhan	O
+111	-	O
+112	Li	O
+113	Bingjie	O
+114	-	O
+115	Shen	O
+116	Duo	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2016 olympic games?The Men's 4 x 400 metres Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - Wayde van Niekerk
+   - Arman Hall
+   - Tony McQuay
+   - LaShawn Merritt
+2. **Silver Medal:** Jamaica
+   - Nathon Allen
+   - Peter Matthews
+   - Fitzroy Dunkley
+   - Javon Francis
+3. **Bronze Medal:** Botswana
+   - Isaac Makwala
+   - Baboloki Thebe
+   - Karabo Sibanda
+   - Onkabetse Nkobolo
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2016	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Rio	O
+40	de	O
+41	Janeiro	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	the	O
+49	United	O
+50	States	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	:**	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Wayde	O
+67	van	O
+68	Niekerk	O
+69	-	O
+70	Arman	O
+71	Hall	O
+72	-	O
+73	Tony	O
+74	McQuay	O
+75	-	O
+76	LaShawn	O
+77	Merritt	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	:**	O
+84	Jamaica	B-Silver
+85	-	O
+86	Nathon	O
+87	Allen	O
+88	-	O
+89	Peter	O
+90	Matthews	O
+91	-	O
+92	Fitzroy	O
+93	Dunkley	O
+94	-	O
+95	Javon	O
+96	Francis	O
+97	3	O
+98	.	O
+99	**	O
+100	Bronze	O
+101	Medal	O
+102	:**	O
+103	Botswana	B-Bronze
+104	-	O
+105	Isaac	O
+106	Makwala	O
+107	-	O
+108	Baboloki	O
+109	Thebe	O
+110	-	O
+111	Karabo	O
+112	Sibanda	O
+113	-	O
+114	Onkabetse	O
+115	Nkobolo	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2016 olympic games?The Women's 4 x 400 metres Relay event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Allyson Felix
+   - Phyllis Francis
+   - Francena McCorory
+   - Courtney Okolo
+2. **Silver Medal**: Jamaica
+   - Novlene Williams-Mills
+   - Shericka Jackson
+   - Anneisha McLaughlin-Whilby
+   - Christine Day
+3. **Bronze Medal**: Great Britain
+   - Eilidh Doyle
+   - Christine Ohuruogu
+   - Emily Diamond
+   - Anyika Onuora
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2016	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Rio	O
+40	de	O
+41	Janeiro	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	the	O
+49	United	O
+50	States	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Allyson	O
+67	Felix	O
+68	-	O
+69	Phyllis	O
+70	Francis	O
+71	-	O
+72	Francena	O
+73	McCorory	O
+74	-	O
+75	Courtney	O
+76	Okolo	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	Jamaica	B-Silver
+84	-	O
+85	Novlene	O
+86	Williams-Mills	O
+87	-	O
+88	Shericka	O
+89	Jackson	O
+90	-	O
+91	Anneisha	O
+92	McLaughlin-Whilby	O
+93	-	O
+94	Christine	O
+95	Day	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	Great	B-Bronze
+103	Britain	I-Bronze
+104	-	O
+105	Eilidh	O
+106	Doyle	O
+107	-	O
+108	Christine	O
+109	Ohuruogu	O
+110	-	O
+111	Emily	O
+112	Diamond	O
+113	-	O
+114	Anyika	O
+115	Onuora	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Men's Basketball event at the 2016 olympic games?The Men's Basketball event at the 2016 Olympic Games in Rio de Janeiro was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Carmelo Anthony, Kevin Durant, Kyrie Irving, LeBron James, Draymond Green, DeMarcus Cousins, Jimmy Butler, Paul George, DeAndre Jordan, Klay Thompson, Harrison Barnes, and Kyle Lowry.
+2. **Silver Medal**: Serbia
+   - Players: Miloš Teodosić, Nikola Jokić, Nikola Kalinić, Stefan Jović, Bogdan Bogdanović, Vladimir Lučić, Stefan Birčević, Stefan Marković, Nemanja Nedović, Vladimir Štimac, Miroslav Raduljica, and Filip Filipović.
+3. **Bronze Medal**: Spain
+   - Players: Pau Gasol, Juan Carlos Navarro, Sergio Rodríguez, Rudy Fernández, José Manuel Calderón, Sergio Llull, Álex Abrines, Willy Hernangómez, Ricky Rubio, Nikola Mirotić, Víctor Claver, and Álex Mumbrú.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	Players	O
+55	:	O
+56	Carmelo	O
+57	Anthony	O
+58	,	O
+59	Kevin	O
+60	Durant	O
+61	,	O
+62	Kyrie	O
+63	Irving	O
+64	,	O
+65	LeBron	O
+66	James	O
+67	,	O
+68	Draymond	O
+69	Green	O
+70	,	O
+71	DeMarcus	O
+72	Cousins	O
+73	,	O
+74	Jimmy	O
+75	Butler	O
+76	,	O
+77	Paul	O
+78	George	O
+79	,	O
+80	DeAndre	O
+81	Jordan	O
+82	,	O
+83	Klay	O
+84	Thompson	O
+85	,	O
+86	Harrison	O
+87	Barnes	O
+88	,	O
+89	and	O
+90	Kyle	O
+91	Lowry	O
+92	.	O
+93	2	O
+94	.	O
+95	**	O
+96	Silver	O
+97	Medal	O
+98	**:	O
+99	Serbia	B-Silver
+100	-	O
+101	Players	O
+102	:	O
+103	Miloš	O
+104	Teodosić	O
+105	,	O
+106	Nikola	O
+107	Jokić	O
+108	,	O
+109	Nikola	O
+110	Kalinić	O
+111	,	O
+112	Stefan	O
+113	Jović	O
+114	,	O
+115	Bogdan	O
+116	Bogdanović	O
+117	,	O
+118	Vladimir	O
+119	Lučić	O
+120	,	O
+121	Stefan	O
+122	Birčević	O
+123	,	O
+124	Stefan	O
+125	Marković	O
+126	,	O
+127	Nemanja	O
+128	Nedović	O
+129	,	O
+130	Vladimir	O
+131	Štimac	O
+132	,	O
+133	Miroslav	O
+134	Raduljica	O
+135	,	O
+136	and	O
+137	Filip	O
+138	Filipović	O
+139	.	O
+140	3	O
+141	.	O
+142	**	O
+143	Bronze	O
+144	Medal	O
+145	**:	O
+146	Spain	B-Bronze
+147	-	O
+148	Players	O
+149	:	O
+150	Pau	O
+151	Gasol	O
+152	,	O
+153	Juan	O
+154	Carlos	O
+155	Navarro	O
+156	,	O
+157	Sergio	O
+158	Rodríguez	O
+159	,	O
+160	Rudy	O
+161	Fernández	O
+162	,	O
+163	José	O
+164	Manuel	O
+165	Calderón	O
+166	,	O
+167	Sergio	O
+168	Llull	O
+169	,	O
+170	Álex	O
+171	Abrines	O
+172	,	O
+173	Willy	O
+174	Hernangómez	O
+175	,	O
+176	Ricky	O
+177	Rubio	O
+178	,	O
+179	Nikola	O
+180	Mirotić	O
+181	,	O
+182	Víctor	O
+183	Claver	O
+184	,	O
+185	and	O
+186	Álex	O
+187	Mumbrú	O
+188	.	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Women's Basketball event at the 2016 olympic games?The Women's Basketball event at the 2016 Olympic Games in Rio de Janeiro was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Squad: Sue Bird, Tamika Catchings, Diana Taurasi, Sylvia Fowles, Angel McCoughtry, Elena Delle Donne, Brittney Griner, Maya Moore, Breanna Stewart, Chelsea Gray, Lindsay Whalen, and Seimone Augustus.
+2. **Silver Medal**: Spain
+   - Squad: Alba Torrens, Anna Cruz, Laia Palau, Laura Nicholls, Leonor Rodriguez, Marta Xargay, Silvia Dominguez, Astou Ndour, Laura Gil, Maria Stepanova, Sandra Ygueravide, and Loendi Rodriguez.
+3. **Bronze Medal**: Serbia
+   - Squad: Sonja Petrovic, Nevena Jovanovic, Dajana Butulija, Milica Dabovic, Jelena Milovanovic, Ana Dabovic, Nevena Markovic, Tijana Ajdukovic, Sasa Cado, Marina Maljkovic, Dara Vukovic, and Milica Krstajic.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	Squad	O
+55	:	O
+56	Sue	O
+57	Bird	O
+58	,	O
+59	Tamika	O
+60	Catchings	O
+61	,	O
+62	Diana	O
+63	Taurasi	O
+64	,	O
+65	Sylvia	O
+66	Fowles	O
+67	,	O
+68	Angel	O
+69	McCoughtry	O
+70	,	O
+71	Elena	O
+72	Delle	O
+73	Donne	O
+74	,	O
+75	Brittney	O
+76	Griner	O
+77	,	O
+78	Maya	O
+79	Moore	O
+80	,	O
+81	Breanna	O
+82	Stewart	O
+83	,	O
+84	Chelsea	O
+85	Gray	O
+86	,	O
+87	Lindsay	O
+88	Whalen	O
+89	,	O
+90	and	O
+91	Seimone	O
+92	Augustus	O
+93	.	O
+94	2	O
+95	.	O
+96	**	O
+97	Silver	O
+98	Medal	O
+99	**:	O
+100	Spain	B-Silver
+101	-	O
+102	Squad	O
+103	:	O
+104	Alba	O
+105	Torrens	O
+106	,	O
+107	Anna	O
+108	Cruz	O
+109	,	O
+110	Laia	O
+111	Palau	O
+112	,	O
+113	Laura	O
+114	Nicholls	O
+115	,	O
+116	Leonor	O
+117	Rodriguez	O
+118	,	O
+119	Marta	O
+120	Xargay	O
+121	,	O
+122	Silvia	O
+123	Dominguez	O
+124	,	O
+125	Astou	O
+126	Ndour	O
+127	,	O
+128	Laura	O
+129	Gil	O
+130	,	O
+131	Maria	O
+132	Stepanova	O
+133	,	O
+134	Sandra	O
+135	Ygueravide	O
+136	,	O
+137	and	O
+138	Loendi	O
+139	Rodriguez	O
+140	.	O
+141	3	O
+142	.	O
+143	**	O
+144	Bronze	O
+145	Medal	O
+146	**:	O
+147	Serbia	B-Bronze
+148	-	O
+149	Squad	O
+150	:	O
+151	Sonja	O
+152	Petrovic	O
+153	,	O
+154	Nevena	O
+155	Jovanovic	O
+156	,	O
+157	Dajana	O
+158	Butulija	O
+159	,	O
+160	Milica	O
+161	Dabovic	O
+162	,	O
+163	Jelena	O
+164	Milovanovic	O
+165	,	O
+166	Ana	O
+167	Dabovic	O
+168	,	O
+169	Nevena	O
+170	Markovic	O
+171	,	O
+172	Tijana	O
+173	Ajdukovic	O
+174	,	O
+175	Sasa	O
+176	Cado	O
+177	,	O
+178	Marina	O
+179	Maljkovic	O
+180	,	O
+181	Dara	O
+182	Vukovic	O
+183	,	O
+184	and	O
+185	Milica	O
+186	Krstajic	O
+187	.	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2016 olympic games?The Men's Rowing Coxed Eights event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Great Britain. Here are the top three medalists:
+1. **Gold Medal**: Great Britain
+   - Team members: Will Satch, Paul Bennett, Andy Triggs Hodge, Matt Gotrel, Alex Gregory, Pete Reed, Tom Ransley, Carl Coggan, and cox Phelan Hill
+2. **Silver Medal**: Germany
+   - Team members: Maximilian Planer, Felix Wimberger, Torben Johannesen, Jakob Schneider, Malte Jakschik, Richard Schmidt, Hagen Bach, Maximilian Reinelt, and cox Martin Sauer
+3. **Bronze Medal**: Netherlands
+   - Team members: Kaj Hendriks, Robert Lücken, Boaz Meylink, Boudewijn Schoots, Dirk Uittenbogaard, Mechiel Versluis, Tone Wieten, Peter Wiersum, and cox Shane Madill
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	Great	O
+44	Britain	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	top	O
+50	three	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Great	B-Gold
+60	Britain	I-Gold
+61	-	O
+62	Team	O
+63	members	O
+64	:	O
+65	Will	O
+66	Satch	O
+67	,	O
+68	Paul	O
+69	Bennett	O
+70	,	O
+71	Andy	O
+72	Triggs	O
+73	Hodge	O
+74	,	O
+75	Matt	O
+76	Gotrel	O
+77	,	O
+78	Alex	O
+79	Gregory	O
+80	,	O
+81	Pete	O
+82	Reed	O
+83	,	O
+84	Tom	O
+85	Ransley	O
+86	,	O
+87	Carl	O
+88	Coggan	O
+89	,	O
+90	and	O
+91	cox	O
+92	Phelan	O
+93	Hill	O
+94	2	O
+95	.	O
+96	**	O
+97	Silver	O
+98	Medal	O
+99	**:	O
+100	Germany	B-Silver
+101	-	O
+102	Team	O
+103	members	O
+104	:	O
+105	Maximilian	O
+106	Planer	O
+107	,	O
+108	Felix	O
+109	Wimberger	O
+110	,	O
+111	Torben	O
+112	Johannesen	O
+113	,	O
+114	Jakob	O
+115	Schneider	O
+116	,	O
+117	Malte	O
+118	Jakschik	O
+119	,	O
+120	Richard	O
+121	Schmidt	O
+122	,	O
+123	Hagen	O
+124	Bach	O
+125	,	O
+126	Maximilian	O
+127	Reinelt	O
+128	,	O
+129	and	O
+130	cox	O
+131	Martin	O
+132	Sauer	O
+133	3	O
+134	.	O
+135	**	O
+136	Bronze	O
+137	Medal	O
+138	**:	O
+139	Netherlands	B-Bronze
+140	-	O
+141	Team	O
+142	members	O
+143	:	O
+144	Kaj	O
+145	Hendriks	O
+146	,	O
+147	Robert	O
+148	Lücken	O
+149	,	O
+150	Boaz	O
+151	Meylink	O
+152	,	O
+153	Boudewijn	O
+154	Schoots	O
+155	,	O
+156	Dirk	O
+157	Uittenbogaard	O
+158	,	O
+159	Mechiel	O
+160	Versluis	O
+161	,	O
+162	Tone	O
+163	Wieten	O
+164	,	O
+165	Peter	O
+166	Wiersum	O
+167	,	O
+168	and	O
+169	cox	O
+170	Shane	O
+171	Madill	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2016 olympic games?The Women's Rowing Coxed Eights event at the 2016 Olympic Games in Rio de Janeiro was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Meghan Musnicki
+   - Amanda Elmore
+   - Eleanor Logan
+   - Lauren Schmetterling
+   - Tessa Gobbo
+   - Meghan O'Leary
+   - Emily Regan
+   - Kerry Simmonds
+   - Kate Bertko (cox)
+2. **Silver Medal**: United Kingdom
+   - Zoe Lee
+   - Jessica Eddie
+   - Lucy Stephan
+   - Olivia Carnegie-Brown
+   - Katie Greves
+   - Francesca Hill
+   - Polly Swann
+   - Caragh McMurtry
+   - Zoe Lee (cox)
+3. **Bronze Medal**: Romania
+   - Ioana Craciun
+   - Maria Tivodariu
+   - Andreea Boghian
+   - Adelina Bogus
+   - Raluca Oaidă
+   - Ioana Strungaru
+   - Iuliana Popa
+   - Mădălina Bereș
+   - Daniela Druncea (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	team	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	-	O
+59	Meghan	O
+60	Musnicki	O
+61	-	O
+62	Amanda	O
+63	Elmore	O
+64	-	O
+65	Eleanor	O
+66	Logan	O
+67	-	O
+68	Lauren	O
+69	Schmetterling	O
+70	-	O
+71	Tessa	O
+72	Gobbo	O
+73	-	O
+74	Meghan	O
+75	O	O
+76	'	O
+77	Leary	O
+78	-	O
+79	Emily	O
+80	Regan	O
+81	-	O
+82	Kerry	O
+83	Simmonds	O
+84	-	O
+85	Kate	O
+86	Bertko	O
+87	(	O
+88	cox	O
+89	)	O
+90	2	O
+91	.	O
+92	**	O
+93	Silver	O
+94	Medal	O
+95	**:	O
+96	United	B-Silver
+97	Kingdom	I-Silver
+98	-	O
+99	Zoe	O
+100	Lee	O
+101	-	O
+102	Jessica	O
+103	Eddie	O
+104	-	O
+105	Lucy	O
+106	Stephan	O
+107	-	O
+108	Olivia	O
+109	Carnegie-Brown	O
+110	-	O
+111	Katie	O
+112	Greves	O
+113	-	O
+114	Francesca	O
+115	Hill	O
+116	-	O
+117	Polly	O
+118	Swann	O
+119	-	O
+120	Caragh	O
+121	McMurtry	O
+122	-	O
+123	Zoe	O
+124	Lee	O
+125	(	O
+126	cox	O
+127	)	O
+128	3	O
+129	.	O
+130	**	O
+131	Bronze	O
+132	Medal	O
+133	**:	O
+134	Romania	B-Bronze
+135	-	O
+136	Ioana	O
+137	Craciun	O
+138	-	O
+139	Maria	O
+140	Tivodariu	O
+141	-	O
+142	Andreea	O
+143	Boghian	O
+144	-	O
+145	Adelina	O
+146	Bogus	O
+147	-	O
+148	Raluca	O
+149	Oaidă	O
+150	-	O
+151	Ioana	O
+152	Strungaru	O
+153	-	O
+154	Iuliana	O
+155	Popa	O
+156	-	O
+157	Mădălina	O
+158	Bereș	O
+159	-	O
+160	Daniela	O
+161	Druncea	O
+162	(	O
+163	cox	O
+164	)	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Men's Field Hockey event at the 2016 olympic games?The Men's Field Hockey event at the 2016 Olympic Games in Rio de Janeiro was won by Argentina. Here are the medalists:
+1. **Gold Medal**: Argentina
+   - Players: Juan Manuel Vivaldi, Matías Rey, Juan Martín López, Lucas Vila, Joaquín Menini, Lucas Rossi, Ignacio Ortiz, Juan Gilardi, Matías Paredes, Facundo Callioni, Agustín Mazzilli, Pedro Ibarra, Gonzalo Peillat, Lucas Martinez, Manuel Brunet, Santiago Tarazona, Federico Fernández, and Juan Manuel Saladino.
+2. **Silver Medal**: Belgium
+   - Players: Sebastien Dockier, Arthur Van Doren, Felix Denayer, Vincent Vanasch, John-John Dohmen, Thomas Briels, Florent van Aubel, Cédric Charlier, Alexander Hendrickx, Loïck Luypaert, Simon Gougnard, Gauthier Boccard, Tanguy Cosyns, Tom Boon, Jonas Gombleven, and Loïc Van Doren.
+3. **Bronze Medal**: Netherlands
+   - Players: Jaap Stockmann, Sander Baart, Seve van Ass, Jeroen Hertzberger, Robbert Kemperman, Mink van der Weerden, Bob de Voogd, Jelle Galema, Billy Bakker, Mirco Pruijser, Valentin Verga, Sander de Wijn, Rogier Hofman, Glenn Schuurman, Pirmin Blaak, and Bob de Voogd.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	Argentina	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	Argentina	B-Gold
+52	-	O
+53	Players	O
+54	:	O
+55	Juan	O
+56	Manuel	O
+57	Vivaldi	O
+58	,	O
+59	Matías	O
+60	Rey	O
+61	,	O
+62	Juan	O
+63	Martín	O
+64	López	O
+65	,	O
+66	Lucas	O
+67	Vila	O
+68	,	O
+69	Joaquín	O
+70	Menini	O
+71	,	O
+72	Lucas	O
+73	Rossi	O
+74	,	O
+75	Ignacio	O
+76	Ortiz	O
+77	,	O
+78	Juan	O
+79	Gilardi	O
+80	,	O
+81	Matías	O
+82	Paredes	O
+83	,	O
+84	Facundo	O
+85	Callioni	O
+86	,	O
+87	Agustín	O
+88	Mazzilli	O
+89	,	O
+90	Pedro	O
+91	Ibarra	O
+92	,	O
+93	Gonzalo	O
+94	Peillat	O
+95	,	O
+96	Lucas	O
+97	Martinez	O
+98	,	O
+99	Manuel	O
+100	Brunet	O
+101	,	O
+102	Santiago	O
+103	Tarazona	O
+104	,	O
+105	Federico	O
+106	Fernández	O
+107	,	O
+108	and	O
+109	Juan	O
+110	Manuel	O
+111	Saladino	O
+112	.	O
+113	2	O
+114	.	O
+115	**	O
+116	Silver	O
+117	Medal	O
+118	**:	O
+119	Belgium	B-Silver
+120	-	O
+121	Players	O
+122	:	O
+123	Sebastien	O
+124	Dockier	O
+125	,	O
+126	Arthur	O
+127	Van	O
+128	Doren	O
+129	,	O
+130	Felix	O
+131	Denayer	O
+132	,	O
+133	Vincent	O
+134	Vanasch	O
+135	,	O
+136	John-John	O
+137	Dohmen	O
+138	,	O
+139	Thomas	O
+140	Briels	O
+141	,	O
+142	Florent	O
+143	van	O
+144	Aubel	O
+145	,	O
+146	Cédric	O
+147	Charlier	O
+148	,	O
+149	Alexander	O
+150	Hendrickx	O
+151	,	O
+152	Loïck	O
+153	Luypaert	O
+154	,	O
+155	Simon	O
+156	Gougnard	O
+157	,	O
+158	Gauthier	O
+159	Boccard	O
+160	,	O
+161	Tanguy	O
+162	Cosyns	O
+163	,	O
+164	Tom	O
+165	Boon	O
+166	,	O
+167	Jonas	O
+168	Gombleven	O
+169	,	O
+170	and	O
+171	Loïc	O
+172	Van	O
+173	Doren	O
+174	.	O
+175	3	O
+176	.	O
+177	**	O
+178	Bronze	O
+179	Medal	O
+180	**:	O
+181	Netherlands	B-Bronze
+182	-	O
+183	Players	O
+184	:	O
+185	Jaap	O
+186	Stockmann	O
+187	,	O
+188	Sander	O
+189	Baart	O
+190	,	O
+191	Seve	O
+192	van	O
+193	Ass	O
+194	,	O
+195	Jeroen	O
+196	Hertzberger	O
+197	,	O
+198	Robbert	O
+199	Kemperman	O
+200	,	O
+201	Mink	O
+202	van	O
+203	der	O
+204	Weerden	O
+205	,	O
+206	Bob	O
+207	de	O
+208	Voogd	O
+209	,	O
+210	Jelle	O
+211	Galema	O
+212	,	O
+213	Billy	O
+214	Bakker	O
+215	,	O
+216	Mirco	O
+217	Pruijser	O
+218	,	O
+219	Valentin	O
+220	Verga	O
+221	,	O
+222	Sander	O
+223	de	O
+224	Wijn	O
+225	,	O
+226	Rogier	O
+227	Hofman	O
+228	,	O
+229	Glenn	O
+230	Schuurman	O
+231	,	O
+232	Pirmin	O
+233	Blaak	O
+234	,	O
+235	and	O
+236	Bob	O
+237	de	O
+238	Voogd	O
+239	.	O
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Women's Field Hockey event at the 2016 olympic games?The Women's Field Hockey event at the 2016 Olympic Games in Rio de Janeiro was won by the following teams:
+1. **Gold Medal**: Germany
+   - Players: Nadine Apfel, Lisa Altenburg, Hannah Krüger, Anne Schröder, Franziska Gude, Janne Müller-Wieland, Marie Mavers, Julia Müller, Lisa Hahn, Charlotte Stapenhorst, Pia-Sophie Oldhafer, Lisa Nöllenberger, Stern Neukirch, Anne Schröder, Julia Müller, Franziska Gude, Hannah Krüger, Lisa Altenburg, and Nadine Apfel.
+2. **Silver Medal**: Netherlands
+   - Players: Joyce Sombroek, Xan de Waard, Kitty van Male, Carlien Dirkse van den Heuvel, Lidewij Welten, Kelly Jonker, Laurien Leurink, Caia van Maasakker, Maria Verschoor, Maartje Paumen, Ellen Hoog, Kitty van Male, Carlien Dirkse van den Heuvel, Lidewij Welten, Kelly Jonker, Laurien Leurink, Caia van Maasakker, and Maria Verschoor.
+3. **Bronze Medal**: Great Britain
+   - Players: Maddie Hinch, Laura Unsworth, Crista Cullen, Hannah Macleod, Georgie Twigg, Susannah Townsend, Helen Richardson-Walsh, Kate Richardson-Walsh, Lily Owsley, Sophie Bray, Nicola White, Hollie Webb, Shona McCallin, Sam Quek, Georgie Twigg, Susannah Townsend, and Helen Richardson-Walsh.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	following	O
+40	teams	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Germany	B-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Nadine	O
+53	Apfel	O
+54	,	O
+55	Lisa	O
+56	Altenburg	O
+57	,	O
+58	Hannah	O
+59	Krüger	O
+60	,	O
+61	Anne	O
+62	Schröder	O
+63	,	O
+64	Franziska	O
+65	Gude	O
+66	,	O
+67	Janne	O
+68	Müller-Wieland	O
+69	,	O
+70	Marie	O
+71	Mavers	O
+72	,	O
+73	Julia	O
+74	Müller	O
+75	,	O
+76	Lisa	O
+77	Hahn	O
+78	,	O
+79	Charlotte	O
+80	Stapenhorst	O
+81	,	O
+82	Pia-Sophie	O
+83	Oldhafer	O
+84	,	O
+85	Lisa	O
+86	Nöllenberger	O
+87	,	O
+88	Stern	O
+89	Neukirch	O
+90	,	O
+91	Anne	O
+92	Schröder	O
+93	,	O
+94	Julia	O
+95	Müller	O
+96	,	O
+97	Franziska	O
+98	Gude	O
+99	,	O
+100	Hannah	O
+101	Krüger	O
+102	,	O
+103	Lisa	O
+104	Altenburg	O
+105	,	O
+106	and	O
+107	Nadine	O
+108	Apfel	O
+109	.	O
+110	2	O
+111	.	O
+112	**	O
+113	Silver	O
+114	Medal	O
+115	**:	O
+116	Netherlands	B-Silver
+117	-	O
+118	Players	O
+119	:	O
+120	Joyce	O
+121	Sombroek	O
+122	,	O
+123	Xan	O
+124	de	O
+125	Waard	O
+126	,	O
+127	Kitty	O
+128	van	O
+129	Male	O
+130	,	O
+131	Carlien	O
+132	Dirkse	O
+133	van	O
+134	den	O
+135	Heuvel	O
+136	,	O
+137	Lidewij	O
+138	Welten	O
+139	,	O
+140	Kelly	O
+141	Jonker	O
+142	,	O
+143	Laurien	O
+144	Leurink	O
+145	,	O
+146	Caia	O
+147	van	O
+148	Maasakker	O
+149	,	O
+150	Maria	O
+151	Verschoor	O
+152	,	O
+153	Maartje	O
+154	Paumen	O
+155	,	O
+156	Ellen	O
+157	Hoog	O
+158	,	O
+159	Kitty	O
+160	van	O
+161	Male	O
+162	,	O
+163	Carlien	O
+164	Dirkse	O
+165	van	O
+166	den	O
+167	Heuvel	O
+168	,	O
+169	Lidewij	O
+170	Welten	O
+171	,	O
+172	Kelly	O
+173	Jonker	O
+174	,	O
+175	Laurien	O
+176	Leurink	O
+177	,	O
+178	Caia	O
+179	van	O
+180	Maasakker	O
+181	,	O
+182	and	O
+183	Maria	O
+184	Verschoor	O
+185	.	O
+186	3	O
+187	.	O
+188	**	O
+189	Bronze	O
+190	Medal	O
+191	**:	O
+192	Great	B-Bronze
+193	Britain	I-Bronze
+194	-	O
+195	Players	O
+196	:	O
+197	Maddie	O
+198	Hinch	O
+199	,	O
+200	Laura	O
+201	Unsworth	O
+202	,	O
+203	Crista	O
+204	Cullen	O
+205	,	O
+206	Hannah	O
+207	Macleod	O
+208	,	O
+209	Georgie	O
+210	Twigg	O
+211	,	O
+212	Susannah	O
+213	Townsend	O
+214	,	O
+215	Helen	O
+216	Richardson-Walsh	O
+217	,	O
+218	Kate	O
+219	Richardson-Walsh	O
+220	,	O
+221	Lily	O
+222	Owsley	O
+223	,	O
+224	Sophie	O
+225	Bray	O
+226	,	O
+227	Nicola	O
+228	White	O
+229	,	O
+230	Hollie	O
+231	Webb	O
+232	,	O
+233	Shona	O
+234	McCallin	O
+235	,	O
+236	Sam	O
+237	Quek	O
+238	,	O
+239	Georgie	O
+240	Twigg	O
+241	,	O
+242	Susannah	O
+243	Townsend	O
+244	,	O
+245	and	O
+246	Helen	O
+247	Richardson-Walsh	O
+248	.	O
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Men's Football event at the 2016 olympic games?The Men's Football event at the 2016 Olympic Games in Rio de Janeiro was won by Brazil. Here are the medalists:
+1. **Gold Medal**: Brazil
+   - Players: Weverton, Zeca, Marquinhos, Luan, Douglas Santos, Rafinha, Walace, Luan Garcia, Gabriel Jesus, Neymar, Gabriel Barbosa
+2. **Silver Medal**: Germany
+   - Players: Timo Horn, Jeremy Toljan, Niklas Süle, Matthias Ginter, Lukas Klostermann, Max Meyer, Sebastian Rudy, Julian Brandt, Lars Bender, Davie Selke, Nils Petersen
+3. **Bronze Medal**: Nigeria
+   - Players: Daniel Akpeyi, Sadiq Umar, Stanley Amuzie, William Troost-Ekong, Shehu Abdullahi, Oghenekaro Etebo, John Obi Mikel, Aminu Umar, Imoh Ezekiel, Sone Aluko, Odion Ighalo
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	Brazil	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Brazil	B-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Weverton	O
+54	,	O
+55	Zeca	O
+56	,	O
+57	Marquinhos	O
+58	,	O
+59	Luan	O
+60	,	O
+61	Douglas	O
+62	Santos	O
+63	,	O
+64	Rafinha	O
+65	,	O
+66	Walace	O
+67	,	O
+68	Luan	O
+69	Garcia	O
+70	,	O
+71	Gabriel	O
+72	Jesus	O
+73	,	O
+74	Neymar	O
+75	,	O
+76	Gabriel	O
+77	Barbosa	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	Germany	B-Silver
+85	-	O
+86	Players	O
+87	:	O
+88	Timo	O
+89	Horn	O
+90	,	O
+91	Jeremy	O
+92	Toljan	O
+93	,	O
+94	Niklas	O
+95	Süle	O
+96	,	O
+97	Matthias	O
+98	Ginter	O
+99	,	O
+100	Lukas	O
+101	Klostermann	O
+102	,	O
+103	Max	O
+104	Meyer	O
+105	,	O
+106	Sebastian	O
+107	Rudy	O
+108	,	O
+109	Julian	O
+110	Brandt	O
+111	,	O
+112	Lars	O
+113	Bender	O
+114	,	O
+115	Davie	O
+116	Selke	O
+117	,	O
+118	Nils	O
+119	Petersen	O
+120	3	O
+121	.	O
+122	**	O
+123	Bronze	O
+124	Medal	O
+125	**:	O
+126	Nigeria	B-Bronze
+127	-	O
+128	Players	O
+129	:	O
+130	Daniel	O
+131	Akpeyi	O
+132	,	O
+133	Sadiq	O
+134	Umar	O
+135	,	O
+136	Stanley	O
+137	Amuzie	O
+138	,	O
+139	William	O
+140	Troost-Ekong	O
+141	,	O
+142	Shehu	O
+143	Abdullahi	O
+144	,	O
+145	Oghenekaro	O
+146	Etebo	O
+147	,	O
+148	John	O
+149	Obi	O
+150	Mikel	O
+151	,	O
+152	Aminu	O
+153	Umar	O
+154	,	O
+155	Imoh	O
+156	Ezekiel	O
+157	,	O
+158	Sone	O
+159	Aluko	O
+160	,	O
+161	Odion	O
+162	Ighalo	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Women's Football event at the 2016 olympic games?The Women's Football event at the 2016 Olympic Games in Rio de Janeiro was won by Germany. Here are the medalists:
+1. **Gold Medal:** Germany
+   - Players: Almuth Schult, Lisa Kolb, Sara Doorsoun, Leonie Maier, Babett Peter, Anna Blässe, Melanie Behringer, Simone Laudehr, Anja Mittag, Dzsenifer Marozsán, Melanie Leupolz, Alexandra Popp, Svenja Huth, Sara Däbritz, Verena Faisst, Tabea Kemme, Linda Dallmann, Isabel Kerschowski, Mandy Islacker, Melanie Leupolz, Laura Benkarth
+2. **Silver Medal:** Sweden
+   - Players: Hedvig Lindahl, Jonna Andersson, Linda Sembrant, Nilla Fischer, Emma Berglund, Magdalena Eriksson, Caroline Seger, Lisa Dahlkvist, Kosovare Asllani, Lotta Schelin, Stina Blackstenius, Olivia Schough, Fridolina Rolfö, Elin Rubensson, Sofia Jakobsson, Lina Hurtig, Pauline Hammarlund, Madelen Janogy, Emma Berglund, Jenny Hjohlman
+3. **Bronze Medal:** Canada
+   - Players: Stephanie Labbé, Allysha Chapman, Kadeisha Buchanan, Rebecca Quinn, Shelina Zadorsky, Josée Belanger, Ashley Lawrence, Deanne Rose, Jessie Fleming, Nichelle Prince, Janine Beckie, Christine Sinclair, Diana Matheson, Desiree Scott, Sophie Schmidt, Rhian Wilkinson, Gabrielle Carle, Sabrina D'Angelo, Erin McLeod
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	Germany	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	Germany	B-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Almuth	O
+54	Schult	O
+55	,	O
+56	Lisa	O
+57	Kolb	O
+58	,	O
+59	Sara	O
+60	Doorsoun	O
+61	,	O
+62	Leonie	O
+63	Maier	O
+64	,	O
+65	Babett	O
+66	Peter	O
+67	,	O
+68	Anna	O
+69	Blässe	O
+70	,	O
+71	Melanie	O
+72	Behringer	O
+73	,	O
+74	Simone	O
+75	Laudehr	O
+76	,	O
+77	Anja	O
+78	Mittag	O
+79	,	O
+80	Dzsenifer	O
+81	Marozsán	O
+82	,	O
+83	Melanie	O
+84	Leupolz	O
+85	,	O
+86	Alexandra	O
+87	Popp	O
+88	,	O
+89	Svenja	O
+90	Huth	O
+91	,	O
+92	Sara	O
+93	Däbritz	O
+94	,	O
+95	Verena	O
+96	Faisst	O
+97	,	O
+98	Tabea	O
+99	Kemme	O
+100	,	O
+101	Linda	O
+102	Dallmann	O
+103	,	O
+104	Isabel	O
+105	Kerschowski	O
+106	,	O
+107	Mandy	O
+108	Islacker	O
+109	,	O
+110	Melanie	O
+111	Leupolz	O
+112	,	O
+113	Laura	O
+114	Benkarth	O
+115	2	O
+116	.	O
+117	**	O
+118	Silver	O
+119	Medal	O
+120	:**	O
+121	Sweden	B-Silver
+122	-	O
+123	Players	O
+124	:	O
+125	Hedvig	O
+126	Lindahl	O
+127	,	O
+128	Jonna	O
+129	Andersson	O
+130	,	O
+131	Linda	O
+132	Sembrant	O
+133	,	O
+134	Nilla	O
+135	Fischer	O
+136	,	O
+137	Emma	O
+138	Berglund	O
+139	,	O
+140	Magdalena	O
+141	Eriksson	O
+142	,	O
+143	Caroline	O
+144	Seger	O
+145	,	O
+146	Lisa	O
+147	Dahlkvist	O
+148	,	O
+149	Kosovare	O
+150	Asllani	O
+151	,	O
+152	Lotta	O
+153	Schelin	O
+154	,	O
+155	Stina	O
+156	Blackstenius	O
+157	,	O
+158	Olivia	O
+159	Schough	O
+160	,	O
+161	Fridolina	O
+162	Rolfö	O
+163	,	O
+164	Elin	O
+165	Rubensson	O
+166	,	O
+167	Sofia	O
+168	Jakobsson	O
+169	,	O
+170	Lina	O
+171	Hurtig	O
+172	,	O
+173	Pauline	O
+174	Hammarlund	O
+175	,	O
+176	Madelen	O
+177	Janogy	O
+178	,	O
+179	Emma	O
+180	Berglund	O
+181	,	O
+182	Jenny	O
+183	Hjohlman	O
+184	3	O
+185	.	O
+186	**	O
+187	Bronze	O
+188	Medal	O
+189	:**	O
+190	Canada	B-Bronze
+191	-	O
+192	Players	O
+193	:	O
+194	Stephanie	O
+195	Labbé	O
+196	,	O
+197	Allysha	O
+198	Chapman	O
+199	,	O
+200	Kadeisha	O
+201	Buchanan	O
+202	,	O
+203	Rebecca	O
+204	Quinn	O
+205	,	O
+206	Shelina	O
+207	Zadorsky	O
+208	,	O
+209	Josée	O
+210	Belanger	O
+211	,	O
+212	Ashley	O
+213	Lawrence	O
+214	,	O
+215	Deanne	O
+216	Rose	O
+217	,	O
+218	Jessie	O
+219	Fleming	O
+220	,	O
+221	Nichelle	O
+222	Prince	O
+223	,	O
+224	Janine	O
+225	Beckie	O
+226	,	O
+227	Christine	O
+228	Sinclair	O
+229	,	O
+230	Diana	O
+231	Matheson	O
+232	,	O
+233	Desiree	O
+234	Scott	O
+235	,	O
+236	Sophie	O
+237	Schmidt	O
+238	,	O
+239	Rhian	O
+240	Wilkinson	O
+241	,	O
+242	Gabrielle	O
+243	Carle	O
+244	,	O
+245	Sabrina	O
+246	D	O
+247	'	O
+248	Angelo	O
+249	,	O
+250	Erin	O
+251	McLeod	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Men's Handball event at the 2016 olympic games?The Men's Handball event at the 2016 Olympic Games in Rio de Janeiro was won by the following teams:
+1. **Gold Medal**: France
+   - They defeated Norway in the final with a score of 28-25.
+2. **Silver Medal**: Norway
+   - They lost to France in the final.
+3. **Bronze Medal**: Germany
+   - They defeated Poland in the bronze medal match with a score of 31-25.
+Here's a summary of the medalists:
+- Gold: France
+- Silver: Norway
+- Bronze: Germany
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	following	O
+38	teams	O
+39	:	O
+40	1	O
+41	.	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	France	B-Gold
+47	-	O
+48	They	O
+49	defeated	O
+50	Norway	O
+51	in	O
+52	the	O
+53	final	O
+54	with	O
+55	a	O
+56	score	O
+57	of	O
+58	28	O
+59	-	O
+60	25	O
+61	.	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	Norway	B-Silver
+69	-	O
+70	They	O
+71	lost	O
+72	to	O
+73	France	O
+74	in	O
+75	the	O
+76	final	O
+77	.	O
+78	3	O
+79	.	O
+80	**	O
+81	Bronze	O
+82	Medal	O
+83	**:	O
+84	Germany	B-Bronze
+85	-	O
+86	They	O
+87	defeated	O
+88	Poland	O
+89	in	O
+90	the	O
+91	bronze	O
+92	medal	O
+93	match	O
+94	with	O
+95	a	O
+96	score	O
+97	of	O
+98	31	O
+99	-	O
+100	25	O
+101	.	O
+102	Here	O
+103	'	O
+104	s	O
+105	a	O
+106	summary	O
+107	of	O
+108	the	O
+109	medalists	O
+110	:	O
+111	-	O
+112	Gold	O
+113	:	O
+114	France	O
+115	-	O
+116	Silver	O
+117	:	O
+118	Norway	O
+119	-	O
+120	Bronze	O
+121	:	O
+122	Germany	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Women's Handball event at the 2016 olympic games?The Women's Handball event at the 2016 Olympic Games in Rio de Janeiro was won by the following teams:
+1. **Gold Medal**: Russia
+   - They defeated France in the final with a score of 19-22.
+2. **Silver Medal**: France
+   - France lost to Russia in the final.
+3. **Bronze Medal**: Norway
+   - Norway defeated the Netherlands in the bronze medal match with a score of 36-26.
+Here's a summary of the medalists:
+- Gold: Russia
+- Silver: France
+- Bronze: Norway
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2016	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Rio	O
+31	de	O
+32	Janeiro	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	following	O
+38	teams	O
+39	:	O
+40	1	O
+41	.	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	Russia	B-Gold
+47	-	O
+48	They	O
+49	defeated	O
+50	France	O
+51	in	O
+52	the	O
+53	final	O
+54	with	O
+55	a	O
+56	score	O
+57	of	O
+58	19	O
+59	-	O
+60	22	O
+61	.	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	France	B-Silver
+69	-	O
+70	France	O
+71	lost	O
+72	to	O
+73	Russia	O
+74	in	O
+75	the	O
+76	final	O
+77	.	O
+78	3	O
+79	.	O
+80	**	O
+81	Bronze	O
+82	Medal	O
+83	**:	O
+84	Norway	B-Bronze
+85	-	O
+86	Norway	O
+87	defeated	O
+88	the	O
+89	Netherlands	O
+90	in	O
+91	the	O
+92	bronze	O
+93	medal	O
+94	match	O
+95	with	O
+96	a	O
+97	score	O
+98	of	O
+99	36	O
+100	-	O
+101	26	O
+102	.	O
+103	Here	O
+104	'	O
+105	s	O
+106	a	O
+107	summary	O
+108	of	O
+109	the	O
+110	medalists	O
+111	:	O
+112	-	O
+113	Gold	O
+114	:	O
+115	Russia	O
+116	-	O
+117	Silver	O
+118	:	O
+119	France	O
+120	-	O
+121	Bronze	O
+122	:	O
+123	Norway	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2016 olympic games?The Men's Indoor Volleyball event at the 2016 Olympic Games in Rio de Janeiro was won by the Brazilian team. Here are the medalists:
+1. **Gold Medal**: Brazil
+   - Players: Wallace de Souza, Bruno Rezende, Douglas Souza, Ricardo Lucarelli, Evandro Guerra, William Arjona, Lucas Saatkamp, Maurício Souza, Thiago Alves, Douglas Chiarotti, Lipe Fonteles, and Lucão
+2. **Silver Medal**: Italy
+   - Players: Simone Giannelli, Ivan Zajec, Osmany Juantorena, Simone Buti, Massimo Colaci, Matteo Piano, Filippo Lanza, Fabio Balaso, Luca Vettori, Daniele Sottile, Oleg Antonov, and Andrea Giovi
+3. **Bronze Medal**: United States
+   - Players: Matthew Anderson, Aaron Russell, Taylor Sander, David Lee, Kawika Shoji, Thomas Jaeschke, Micah Christenson, Erik Shoji, David Smith, William Priddy, and Mark Anderson
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	Brazilian	O
+40	team	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Brazil	B-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Wallace	O
+58	de	O
+59	Souza	O
+60	,	O
+61	Bruno	O
+62	Rezende	O
+63	,	O
+64	Douglas	O
+65	Souza	O
+66	,	O
+67	Ricardo	O
+68	Lucarelli	O
+69	,	O
+70	Evandro	O
+71	Guerra	O
+72	,	O
+73	William	O
+74	Arjona	O
+75	,	O
+76	Lucas	O
+77	Saatkamp	O
+78	,	O
+79	Maurício	O
+80	Souza	O
+81	,	O
+82	Thiago	O
+83	Alves	O
+84	,	O
+85	Douglas	O
+86	Chiarotti	O
+87	,	O
+88	Lipe	O
+89	Fonteles	O
+90	,	O
+91	and	O
+92	Lucão	O
+93	2	O
+94	.	O
+95	**	O
+96	Silver	O
+97	Medal	O
+98	**:	O
+99	Italy	B-Silver
+100	-	O
+101	Players	O
+102	:	O
+103	Simone	O
+104	Giannelli	O
+105	,	O
+106	Ivan	O
+107	Zajec	O
+108	,	O
+109	Osmany	O
+110	Juantorena	O
+111	,	O
+112	Simone	O
+113	Buti	O
+114	,	O
+115	Massimo	O
+116	Colaci	O
+117	,	O
+118	Matteo	O
+119	Piano	O
+120	,	O
+121	Filippo	O
+122	Lanza	O
+123	,	O
+124	Fabio	O
+125	Balaso	O
+126	,	O
+127	Luca	O
+128	Vettori	O
+129	,	O
+130	Daniele	O
+131	Sottile	O
+132	,	O
+133	Oleg	O
+134	Antonov	O
+135	,	O
+136	and	O
+137	Andrea	O
+138	Giovi	O
+139	3	O
+140	.	O
+141	**	O
+142	Bronze	O
+143	Medal	O
+144	**:	O
+145	United	B-Bronze
+146	States	I-Bronze
+147	-	O
+148	Players	O
+149	:	O
+150	Matthew	O
+151	Anderson	O
+152	,	O
+153	Aaron	O
+154	Russell	O
+155	,	O
+156	Taylor	O
+157	Sander	O
+158	,	O
+159	David	O
+160	Lee	O
+161	,	O
+162	Kawika	O
+163	Shoji	O
+164	,	O
+165	Thomas	O
+166	Jaeschke	O
+167	,	O
+168	Micah	O
+169	Christenson	O
+170	,	O
+171	Erik	O
+172	Shoji	O
+173	,	O
+174	David	O
+175	Smith	O
+176	,	O
+177	William	O
+178	Priddy	O
+179	,	O
+180	and	O
+181	Mark	O
+182	Anderson	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2016 olympic games?The Women's Indoor Volleyball event at the 2016 Olympic Games in Rio de Janeiro was won by the team from China. Here are the medalists:
+1. **Gold Medal**: China
+   - Players: Zhu Ting, Wei Qiuyue, Yang Fangxu, Yuan Xinyue, Lin Li, Ding Xia, Liu Xiaotong, Zhang Changning, Gong Xiangyu, Yan Ni, Ding Xia, and Yuan Xinyue
+2. **Silver Medal**: Serbia
+   - Players: Tijana Bošković, Brankica Mihajlović, Maja Ognjenović, Silvija Popović, Ana Bjelica, Jovana Brakočević, Brankica Mihajlović, Tijana Malešević, Milena Rašić, Stefana Veljković, Maja Ognjenović, and Bojana Živković
+3. **Bronze Medal**: United States
+   - Players: Foluke Akinradewo, Kayla Banwarth, Alisha Glass, Carli Lloyd, Jordan Larson, Kelsey Robinson, Chiaka Ogbogu, Rachael Adams, Kelly Murphy, Kim Hill, Michelle Bartsch-Hackley, and Jordan Larson
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	China	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	China	B-Gold
+55	-	O
+56	Players	O
+57	:	O
+58	Zhu	O
+59	Ting	O
+60	,	O
+61	Wei	O
+62	Qiuyue	O
+63	,	O
+64	Yang	O
+65	Fangxu	O
+66	,	O
+67	Yuan	O
+68	Xinyue	O
+69	,	O
+70	Lin	O
+71	Li	O
+72	,	O
+73	Ding	O
+74	Xia	O
+75	,	O
+76	Liu	O
+77	Xiaotong	O
+78	,	O
+79	Zhang	O
+80	Changning	O
+81	,	O
+82	Gong	O
+83	Xiangyu	O
+84	,	O
+85	Yan	O
+86	Ni	O
+87	,	O
+88	Ding	O
+89	Xia	O
+90	,	O
+91	and	O
+92	Yuan	O
+93	Xinyue	O
+94	2	O
+95	.	O
+96	**	O
+97	Silver	O
+98	Medal	O
+99	**:	O
+100	Serbia	B-Silver
+101	-	O
+102	Players	O
+103	:	O
+104	Tijana	O
+105	Bošković	O
+106	,	O
+107	Brankica	O
+108	Mihajlović	O
+109	,	O
+110	Maja	O
+111	Ognjenović	O
+112	,	O
+113	Silvija	O
+114	Popović	O
+115	,	O
+116	Ana	O
+117	Bjelica	O
+118	,	O
+119	Jovana	O
+120	Brakočević	O
+121	,	O
+122	Brankica	O
+123	Mihajlović	O
+124	,	O
+125	Tijana	O
+126	Malešević	O
+127	,	O
+128	Milena	O
+129	Rašić	O
+130	,	O
+131	Stefana	O
+132	Veljković	O
+133	,	O
+134	Maja	O
+135	Ognjenović	O
+136	,	O
+137	and	O
+138	Bojana	O
+139	Živković	O
+140	3	O
+141	.	O
+142	**	O
+143	Bronze	O
+144	Medal	O
+145	**:	O
+146	United	B-Bronze
+147	States	I-Bronze
+148	-	O
+149	Players	O
+150	:	O
+151	Foluke	O
+152	Akinradewo	O
+153	,	O
+154	Kayla	O
+155	Banwarth	O
+156	,	O
+157	Alisha	O
+158	Glass	O
+159	,	O
+160	Carli	O
+161	Lloyd	O
+162	,	O
+163	Jordan	O
+164	Larson	O
+165	,	O
+166	Kelsey	O
+167	Robinson	O
+168	,	O
+169	Chiaka	O
+170	Ogbogu	O
+171	,	O
+172	Rachael	O
+173	Adams	O
+174	,	O
+175	Kelly	O
+176	Murphy	O
+177	,	O
+178	Kim	O
+179	Hill	O
+180	,	O
+181	Michelle	O
+182	Bartsch-Hackley	O
+183	,	O
+184	and	O
+185	Jordan	O
+186	Larson	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2016 olympic games?The Men's Rowing Quadruple Sculls event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Croatia. Here are the medalists:
+1. Gold: Croatia
+   - David Šain, Martin Sinković, Valent Sinković, Damir Martin
+2. Silver: Australia
+   - Karsten Forsterling, Alexander Belonogoff, Cameron Girdlestone, James McRae
+3. Bronze: Poland
+   - Mateusz Biskup, Dominik Czaja, Wiktor Chabel, Adam Wicenciak
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	Croatia	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	Gold	O
+53	:	O
+54	Croatia	B-Gold
+55	-	O
+56	David	O
+57	Šain	O
+58	,	O
+59	Martin	O
+60	Sinković	O
+61	,	O
+62	Valent	O
+63	Sinković	O
+64	,	O
+65	Damir	O
+66	Martin	O
+67	2	O
+68	.	O
+69	Silver	O
+70	:	O
+71	Australia	B-Silver
+72	-	O
+73	Karsten	O
+74	Forsterling	O
+75	,	O
+76	Alexander	O
+77	Belonogoff	O
+78	,	O
+79	Cameron	O
+80	Girdlestone	O
+81	,	O
+82	James	O
+83	McRae	O
+84	3	O
+85	.	O
+86	Bronze	O
+87	:	O
+88	Poland	B-Bronze
+89	-	O
+90	Mateusz	O
+91	Biskup	O
+92	,	O
+93	Dominik	O
+94	Czaja	O
+95	,	O
+96	Wiktor	O
+97	Chabel	O
+98	,	O
+99	Adam	O
+100	Wicenciak	O
+
+

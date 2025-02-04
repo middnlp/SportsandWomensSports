@@ -1,0 +1,6128 @@
+# sent_id = 0
+# text = Who won the medals in the Men's Basketball event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the United States won the gold medal in the Men's Basketball event, defeating Yugoslavia 95-69 in the final. The bronze medal was won by Lithuania, who defeated Australia 80-74 in the third-place game.
+# status = {"0":"accepted"}
+# time (ms) = 1790
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Atlanta	O
+25	,	O
+26	the	O
+27	United	B-Gold
+28	States	I-Gold
+29	won	O
+30	the	O
+31	gold	O
+32	medal	O
+33	in	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	Basketball	O
+39	event	O
+40	,	O
+41	defeating	O
+42	Yugoslavia	B-Silver
+43	95	O
+44	-	O
+45	69	O
+46	in	O
+47	the	O
+48	final	O
+49	.	O
+50	The	O
+51	bronze	O
+52	medal	O
+53	was	O
+54	won	O
+55	by	O
+56	Lithuania	B-Bronze
+57	,	O
+58	who	O
+59	defeated	O
+60	Australia	O
+61	80	O
+62	-	O
+63	74	O
+64	in	O
+65	the	O
+66	third-place	O
+67	game	O
+68	.	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Women's Basketball event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medal winners in the Women's Basketball event were:
+* Gold Medal: United States
+* Silver Medal: Brazil
+* Bronze Medal: Australia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Summer	O
+22	Olympics	O
+23	in	O
+24	Atlanta	O
+25	,	O
+26	the	O
+27	medal	O
+28	winners	O
+29	in	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Basketball	O
+35	event	O
+36	were	O
+37	:	O
+38	*	O
+39	Gold	O
+40	Medal	O
+41	:	O
+42	United	B-Gold
+43	States	I-Gold
+44	*	O
+45	Silver	O
+46	Medal	O
+47	:	O
+48	Brazil	B-Silver
+49	*	O
+50	Bronze	O
+51	Medal	O
+52	:	O
+53	Australia	B-Bronze
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medals in the Men's Rowing Coxed Eights event were won by the following teams:
+* Gold Medal: Netherlands (Koos Maasdijk, Ronald Florijn, Jeroen Duyster, Meindert Veenstra, Niels van der Meer, Niels van Steenis, Henk-Jan Zwolle, Diederik Simon, Michiel Bartman (cox))
+* Silver Medal: Germany (Frank Jörg Richter, Thoralf Peters, Lars-Thorben Thelen, Andreas Lutz, Dirk Soelter, Stefan Forster, Uwe Bender, Marc Weber, Klas Horn (cox))
+* Bronze Medal: Russia (Pavel Melnikov, Andrey Glukhov, Anton Chermashentsev, Nikolai Aksyonenko, Dmitri Rozinkevich, Vladimir Sokolov, Roman Monchenko, Sergey Matveyev, Aleksandr Lukyanov (cox))
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1996	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Atlanta	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Coxed	O
+37	Eights	O
+38	event	O
+39	were	O
+40	won	O
+41	by	O
+42	the	O
+43	following	O
+44	teams	O
+45	:	O
+46	*	O
+47	Gold	O
+48	Medal	O
+49	:	O
+50	Netherlands	B-Gold
+51	(	O
+52	Koos	O
+53	Maasdijk	O
+54	,	O
+55	Ronald	O
+56	Florijn	O
+57	,	O
+58	Jeroen	O
+59	Duyster	O
+60	,	O
+61	Meindert	O
+62	Veenstra	O
+63	,	O
+64	Niels	O
+65	van	O
+66	der	O
+67	Meer	O
+68	,	O
+69	Niels	O
+70	van	O
+71	Steenis	O
+72	,	O
+73	Henk-Jan	O
+74	Zwolle	O
+75	,	O
+76	Diederik	O
+77	Simon	O
+78	,	O
+79	Michiel	O
+80	Bartman	O
+81	(	O
+82	cox	O
+83	))	O
+84	*	O
+85	Silver	O
+86	Medal	O
+87	:	O
+88	Germany	B-Silver
+89	(	O
+90	Frank	O
+91	Jörg	O
+92	Richter	O
+93	,	O
+94	Thoralf	O
+95	Peters	O
+96	,	O
+97	Lars-Thorben	O
+98	Thelen	O
+99	,	O
+100	Andreas	O
+101	Lutz	O
+102	,	O
+103	Dirk	O
+104	Soelter	O
+105	,	O
+106	Stefan	O
+107	Forster	O
+108	,	O
+109	Uwe	O
+110	Bender	O
+111	,	O
+112	Marc	O
+113	Weber	O
+114	,	O
+115	Klas	O
+116	Horn	O
+117	(	O
+118	cox	O
+119	))	O
+120	*	O
+121	Bronze	O
+122	Medal	O
+123	:	O
+124	Russia	B-Bronze
+125	(	O
+126	Pavel	O
+127	Melnikov	O
+128	,	O
+129	Andrey	O
+130	Glukhov	O
+131	,	O
+132	Anton	O
+133	Chermashentsev	O
+134	,	O
+135	Nikolai	O
+136	Aksyonenko	O
+137	,	O
+138	Dmitri	O
+139	Rozinkevich	O
+140	,	O
+141	Vladimir	O
+142	Sokolov	O
+143	,	O
+144	Roman	O
+145	Monchenko	O
+146	,	O
+147	Sergey	O
+148	Matveyev	O
+149	,	O
+150	Aleksandr	O
+151	Lukyanov	O
+152	(	O
+153	cox	O
+154	))	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medals in the Women's Rowing Coxed Eights event were awarded as follows:
+* Gold Medal: Romania ( Veronica Cochelea-Cogeanu, Liliana Gafencu, Elena Georgescu, Doina Ignat, Elisabeta Lipă, Ioana Olteanu, Doina Spîrcu, Anca Tănase, and Doina Robu as coxswain)
+* Silver Medal: Canada (Heather McDermid, Tosca Rathgeber-Rankin, Emma Robinson, Anna van der Kamp, Jessica Monroe, Theresa Luke, Alison Korn, Laryssa Biesenthal, and Lesley Thompson as coxswain)
+* Bronze Medal: Belarus (Alena Mikulich, Marina Znak, Natalya Volchek, Natalya Stasyuk, Tamara Davydenko, Valentina Skrabatun, Elena Mikulich, Larisa Merkulova, and Natalya Lukyanchik as coxswain)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1996	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Atlanta	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Rowing	O
+36	Coxed	O
+37	Eights	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	*	O
+45	Gold	O
+46	Medal	O
+47	:	O
+48	Romania	B-Gold
+49	(	O
+50	Veronica	O
+51	Cochelea-Cogeanu	O
+52	,	O
+53	Liliana	O
+54	Gafencu	O
+55	,	O
+56	Elena	O
+57	Georgescu	O
+58	,	O
+59	Doina	O
+60	Ignat	O
+61	,	O
+62	Elisabeta	O
+63	Lipă	O
+64	,	O
+65	Ioana	O
+66	Olteanu	O
+67	,	O
+68	Doina	O
+69	Spîrcu	O
+70	,	O
+71	Anca	O
+72	Tănase	O
+73	,	O
+74	and	O
+75	Doina	O
+76	Robu	O
+77	as	O
+78	coxswain	O
+79	)	O
+80	*	O
+81	Silver	O
+82	Medal	O
+83	:	O
+84	Canada	B-Silver
+85	(	O
+86	Heather	O
+87	McDermid	O
+88	,	O
+89	Tosca	O
+90	Rathgeber-Rankin	O
+91	,	O
+92	Emma	O
+93	Robinson	O
+94	,	O
+95	Anna	O
+96	van	O
+97	der	O
+98	Kamp	O
+99	,	O
+100	Jessica	O
+101	Monroe	O
+102	,	O
+103	Theresa	O
+104	Luke	O
+105	,	O
+106	Alison	O
+107	Korn	O
+108	,	O
+109	Laryssa	O
+110	Biesenthal	O
+111	,	O
+112	and	O
+113	Lesley	O
+114	Thompson	O
+115	as	O
+116	coxswain	O
+117	)	O
+118	*	O
+119	Bronze	O
+120	Medal	O
+121	:	O
+122	Belarus	B-Bronze
+123	(	O
+124	Alena	O
+125	Mikulich	O
+126	,	O
+127	Marina	O
+128	Znak	O
+129	,	O
+130	Natalya	O
+131	Volchek	O
+132	,	O
+133	Natalya	O
+134	Stasyuk	O
+135	,	O
+136	Tamara	O
+137	Davydenko	O
+138	,	O
+139	Valentina	O
+140	Skrabatun	O
+141	,	O
+142	Elena	O
+143	Mikulich	O
+144	,	O
+145	Larisa	O
+146	Merkulova	O
+147	,	O
+148	and	O
+149	Natalya	O
+150	Lukyanchik	O
+151	as	O
+152	coxswain	O
+153	)	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Men's Field Hockey event at the 1996 olympic games?I do not have information on the medal winners of the Men's Field Hockey event at the 1996 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	I	O
+20	do	O
+21	not	O
+22	have	O
+23	information	O
+24	on	O
+25	the	O
+26	medal	O
+27	winners	O
+28	of	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Field	O
+34	Hockey	O
+35	event	O
+36	at	O
+37	the	O
+38	1996	O
+39	Olympic	O
+40	Games	O
+41	.	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Women's Field Hockey event at the 1996 olympic games?The Women's Field Hockey event at the 1996 Summer Olympics was won by:
+* Gold Medal: Australia
+* Silver Medal: South Korea
+* Bronze Medal: Netherlands
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	1996	O
+29	Summer	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	:	O
+35	*	O
+36	Gold	O
+37	Medal	O
+38	:	O
+39	Australia	B-Gold
+40	*	O
+41	Silver	O
+42	Medal	O
+43	:	O
+44	South	B-Silver
+45	Korea	I-Silver
+46	*	O
+47	Bronze	O
+48	Medal	O
+49	:	O
+50	Netherlands	B-Bronze
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 1996 olympic games?The medal winners in the Men's Fencing Foil, Team event at the 1996 Olympic Games in Atlanta, Georgia, were:
+* Gold Medal: Italy ( Alessandro Puccini, Marco Arpino, Francesco Attolico, and Daniele Crosta)
+* Silver Medal: Russia (Dmitriy Shevchenko, Ilgar Mamedov, and Vladimir Samsonov)
+* Bronze Medal: Germany (Uwe Römer, Alexander Koch, and Roland Schlosser)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	medal	O
+23	winners	O
+24	in	O
+25	the	O
+26	Men	O
+27	'	O
+28	s	O
+29	Fencing	O
+30	Foil	O
+31	,	O
+32	Team	O
+33	event	O
+34	at	O
+35	the	O
+36	1996	O
+37	Olympic	O
+38	Games	O
+39	in	O
+40	Atlanta	O
+41	,	O
+42	Georgia	O
+43	,	O
+44	were	O
+45	:	O
+46	*	O
+47	Gold	O
+48	Medal	O
+49	:	O
+50	Italy	B-Gold
+51	(	O
+52	Alessandro	O
+53	Puccini	O
+54	,	O
+55	Marco	O
+56	Arpino	O
+57	,	O
+58	Francesco	O
+59	Attolico	O
+60	,	O
+61	and	O
+62	Daniele	O
+63	Crosta	O
+64	)	O
+65	*	O
+66	Silver	O
+67	Medal	O
+68	:	O
+69	Russia	B-Silver
+70	(	O
+71	Dmitriy	O
+72	Shevchenko	O
+73	,	O
+74	Ilgar	O
+75	Mamedov	O
+76	,	O
+77	and	O
+78	Vladimir	O
+79	Samsonov	O
+80	)	O
+81	*	O
+82	Bronze	O
+83	Medal	O
+84	:	O
+85	Germany	B-Bronze
+86	(	O
+87	Uwe	O
+88	Römer	O
+89	,	O
+90	Alexander	O
+91	Koch	O
+92	,	O
+93	and	O
+94	Roland	O
+95	Schlosser	O
+96	)	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medal winners in the Women's Fencing Foil, Team event were:
+* Gold: Italy (Francesca Bortolozzi, Giovanna Trillini, Valentina Vezzali)
+* Silver: Romania (Laura Badea, Roxana Scarlat, Reka Szabo)
+* Bronze: Germany (Sabine Bau, Anja Fichtel-Maurer, Monika Weber-Koszto)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medal	O
+31	winners	O
+32	in	O
+33	the	O
+34	Women	O
+35	'	O
+36	s	O
+37	Fencing	O
+38	Foil	O
+39	,	O
+40	Team	O
+41	event	O
+42	were	O
+43	:	O
+44	*	O
+45	Gold	O
+46	:	O
+47	Italy	B-Gold
+48	(	O
+49	Francesca	O
+50	Bortolozzi	O
+51	,	O
+52	Giovanna	O
+53	Trillini	O
+54	,	O
+55	Valentina	O
+56	Vezzali	O
+57	)	O
+58	*	O
+59	Silver	O
+60	:	O
+61	Romania	B-Silver
+62	(	O
+63	Laura	O
+64	Badea	O
+65	,	O
+66	Roxana	O
+67	Scarlat	O
+68	,	O
+69	Reka	O
+70	Szabo	O
+71	)	O
+72	*	O
+73	Bronze	O
+74	:	O
+75	Germany	B-Bronze
+76	(	O
+77	Sabine	O
+78	Bau	O
+79	,	O
+80	Anja	O
+81	Fichtel-Maurer	O
+82	,	O
+83	Monika	O
+84	Weber-Koszto	O
+85	)	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Men's Football event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals in the Men's Football event were awarded as follows:
+* Gold Medal: Nigeria
+* Silver Medal: Argentina
+* Bronze Medal: Brazil
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Atlanta	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Football	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Nigeria	B-Gold
+45	*	O
+46	Silver	O
+47	Medal	O
+48	:	O
+49	Argentina	B-Silver
+50	*	O
+51	Bronze	O
+52	Medal	O
+53	:	O
+54	Brazil	B-Bronze
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Women's Football event at the 1996 olympic games?The United States won the gold medal, China won the silver medal, and Norway won the bronze medal in the Women's Football event at the 1996 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	United	B-Gold
+20	States	I-Gold
+21	won	O
+22	the	O
+23	gold	O
+24	medal	O
+25	,	O
+26	China	B-Silver
+27	won	O
+28	the	O
+29	silver	O
+30	medal	O
+31	,	O
+32	and	O
+33	Norway	B-Bronze
+34	won	O
+35	the	O
+36	bronze	O
+37	medal	O
+38	in	O
+39	the	O
+40	Women	O
+41	'	O
+42	s	O
+43	Football	O
+44	event	O
+45	at	O
+46	the	O
+47	1996	O
+48	Olympic	O
+49	Games	O
+50	.	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Men's Handball event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medals in the Men's Handball event were awarded as follows:
+* Gold Medal: Croatia
+* Silver Medal: Sweden
+* Bronze Medal: Spain
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Summer	O
+22	Olympics	O
+23	in	O
+24	Atlanta	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Handball	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Croatia	B-Gold
+45	*	O
+46	Silver	O
+47	Medal	O
+48	:	O
+49	Sweden	B-Silver
+50	*	O
+51	Bronze	O
+52	Medal	O
+53	:	O
+54	Spain	B-Bronze
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Women's Handball event at the 1996 olympic games?Denmark won the gold medal in the Women's Handball event at the 1996 Olympic Games, South Korea won the silver medal, and Hungary won the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	Denmark	B-Gold
+19	won	O
+20	the	O
+21	gold	O
+22	medal	O
+23	in	O
+24	the	O
+25	Women	O
+26	'	O
+27	s	O
+28	Handball	O
+29	event	O
+30	at	O
+31	the	O
+32	1996	O
+33	Olympic	O
+34	Games	O
+35	,	O
+36	South	B-Silver
+37	Korea	I-Silver
+38	won	O
+39	the	O
+40	silver	O
+41	medal	O
+42	,	O
+43	and	O
+44	Hungary	B-Bronze
+45	won	O
+46	the	O
+47	bronze	O
+48	medal	O
+49	.	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Men's Indoor Volleyball event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medal winners in the Men's Indoor Volleyball event were:
+* Gold Medal: Netherlands
+* Silver Medal: Italy
+* Bronze Medal: Yugoslavia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	1996	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	Atlanta	O
+26	,	O
+27	the	O
+28	medal	O
+29	winners	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Indoor	O
+36	Volleyball	O
+37	event	O
+38	were	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Netherlands	B-Gold
+45	*	O
+46	Silver	O
+47	Medal	O
+48	:	O
+49	Italy	B-Silver
+50	*	O
+51	Bronze	O
+52	Medal	O
+53	:	O
+54	Yugoslavia	B-Bronze
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Women's Indoor Volleyball event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the Women's Indoor Volleyball event medals were awarded as follows:
+* Gold Medal: Cuba
+* Silver Medal: China
+* Bronze Medal: Brazil
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	1996	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	Atlanta	O
+26	,	O
+27	the	O
+28	Women	O
+29	'	O
+30	s	O
+31	Indoor	O
+32	Volleyball	O
+33	event	O
+34	medals	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Cuba	B-Gold
+45	*	O
+46	Silver	O
+47	Medal	O
+48	:	O
+49	China	B-Silver
+50	*	O
+51	Bronze	O
+52	Medal	O
+53	:	O
+54	Brazil	B-Bronze
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the Men's Rowing Quadruple Sculls event was won by:
+* Gold Medal: Germany (Andreas Hajek, Stephan Volkert, André Steiner, and André Willms)
+* Silver Medal: United States (Tim Young, Eric Mueller, Brian Jamieson, and Jason Gailes)
+* Bronze Medal: Australia (Janusz Hooker, Boden Hanson, Duncan Free, and Ronald Snook)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1996	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Atlanta	O
+27	,	O
+28	the	O
+29	Men	O
+30	'	O
+31	s	O
+32	Rowing	O
+33	Quadruple	O
+34	Sculls	O
+35	event	O
+36	was	O
+37	won	O
+38	by	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Germany	B-Gold
+45	(	O
+46	Andreas	O
+47	Hajek	O
+48	,	O
+49	Stephan	O
+50	Volkert	O
+51	,	O
+52	André	O
+53	Steiner	O
+54	,	O
+55	and	O
+56	André	O
+57	Willms	O
+58	)	O
+59	*	O
+60	Silver	O
+61	Medal	O
+62	:	O
+63	United	B-Silver
+64	States	I-Silver
+65	(	O
+66	Tim	O
+67	Young	O
+68	,	O
+69	Eric	O
+70	Mueller	O
+71	,	O
+72	Brian	O
+73	Jamieson	O
+74	,	O
+75	and	O
+76	Jason	O
+77	Gailes	O
+78	)	O
+79	*	O
+80	Bronze	O
+81	Medal	O
+82	:	O
+83	Australia	B-Bronze
+84	(	O
+85	Janusz	O
+86	Hooker	O
+87	,	O
+88	Boden	O
+89	Hanson	O
+90	,	O
+91	Duncan	O
+92	Free	O
+93	,	O
+94	and	O
+95	Ronald	O
+96	Snook	O
+97	)	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 1996 olympic games?The German team won the gold medal in the Women's Rowing Quadruple Sculls event at the 1996 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	German	B-Gold
+22	team	O
+23	won	O
+24	the	O
+25	gold	O
+26	medal	O
+27	in	O
+28	the	O
+29	Women	O
+30	'	O
+31	s	O
+32	Rowing	O
+33	Quadruple	O
+34	Sculls	O
+35	event	O
+36	at	O
+37	the	O
+38	1996	O
+39	Olympic	O
+40	Games	O
+41	.	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Men's Archery Team event at the 1996 olympic games?I am unable to verify the medal winners for the Men's Archery Team event at the 1996 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	I	O
+20	am	O
+21	unable	O
+22	to	O
+23	verify	O
+24	the	O
+25	medal	O
+26	winners	O
+27	for	O
+28	the	O
+29	Men	O
+30	'	O
+31	s	O
+32	Archery	O
+33	Team	O
+34	event	O
+35	at	O
+36	the	O
+37	1996	O
+38	Olympic	O
+39	Games	O
+40	.	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Women's Archery Team event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the Women's Archery Team event medals were awarded as follows:
+* Gold Medal: South Korea (Hee-Jung Kim, Hye-Young Kim, Jang Yong-Ok)
+* Silver Medal: Germany (Cornelia Pfohl, Sandra Wagner-Sachse, Hanka Kuprijanowa)
+* Bronze Medal: Poland (Iwona Dzięcioł, Katarzyna Klata, Joanna Nowicka)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	1996	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	1996	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	Atlanta	O
+26	,	O
+27	the	O
+28	Women	O
+29	'	O
+30	s	O
+31	Archery	O
+32	Team	O
+33	event	O
+34	medals	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	South	B-Gold
+45	Korea	I-Gold
+46	(	O
+47	Hee-Jung	O
+48	Kim	O
+49	,	O
+50	Hye-Young	O
+51	Kim	O
+52	,	O
+53	Jang	O
+54	Yong-Ok	O
+55	)	O
+56	*	O
+57	Silver	O
+58	Medal	O
+59	:	O
+60	Germany	B-Silver
+61	(	O
+62	Cornelia	O
+63	Pfohl	O
+64	,	O
+65	Sandra	O
+66	Wagner-Sachse	O
+67	,	O
+68	Hanka	O
+69	Kuprijanowa	O
+70	)	O
+71	*	O
+72	Bronze	O
+73	Medal	O
+74	:	O
+75	Poland	B-Bronze
+76	(	O
+77	Iwona	O
+78	Dzięcioł	O
+79	,	O
+80	Katarzyna	O
+81	Klata	O
+82	,	O
+83	Joanna	O
+84	Nowicka	O
+85	)	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals in the Men's Artistic Gymnastics Team All-Around event were awarded as follows:
+* Gold Medal: Russia (Alexei Nemov, Sergei Kharkov, Nikolai Kryukov, Ivan Ivankov, Evgeni Podgorny, Alexei Voropaev)
+* Silver Medal: China (Fan Bin, Huang Huadong, Huang Liping, Li Xiaoshuang, Shen Jian, Zhang Jinjing)
+* Bronze Medal: Japan (Yoshihiro Saito, Koji Gushiken, Toshiharu Sato, Kenichi Fujita, Daisuke Nishikawa, Masayuki Matsunaga)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Artistic	O
+37	Gymnastics	O
+38	Team	O
+39	All-Around	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	*	O
+47	Gold	O
+48	Medal	O
+49	:	O
+50	Russia	B-Gold
+51	(	O
+52	Alexei	O
+53	Nemov	O
+54	,	O
+55	Sergei	O
+56	Kharkov	O
+57	,	O
+58	Nikolai	O
+59	Kryukov	O
+60	,	O
+61	Ivan	O
+62	Ivankov	O
+63	,	O
+64	Evgeni	O
+65	Podgorny	O
+66	,	O
+67	Alexei	O
+68	Voropaev	O
+69	)	O
+70	*	O
+71	Silver	O
+72	Medal	O
+73	:	O
+74	China	B-Silver
+75	(	O
+76	Fan	O
+77	Bin	O
+78	,	O
+79	Huang	O
+80	Huadong	O
+81	,	O
+82	Huang	O
+83	Liping	O
+84	,	O
+85	Li	O
+86	Xiaoshuang	O
+87	,	O
+88	Shen	O
+89	Jian	O
+90	,	O
+91	Zhang	O
+92	Jinjing	O
+93	)	O
+94	*	O
+95	Bronze	O
+96	Medal	O
+97	:	O
+98	Japan	B-Bronze
+99	(	O
+100	Yoshihiro	O
+101	Saito	O
+102	,	O
+103	Koji	O
+104	Gushiken	O
+105	,	O
+106	Toshiharu	O
+107	Sato	O
+108	,	O
+109	Kenichi	O
+110	Fujita	O
+111	,	O
+112	Daisuke	O
+113	Nishikawa	O
+114	,	O
+115	Masayuki	O
+116	Matsunaga	O
+117	)	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 1996 olympic games?The United States won the gold medal in the Women's Artistic Gymnastics Team All-Around event at the 1996 Olympic Games, which were held in Atlanta, Georgia. The team members were:
+* Shannon Miller
+* Dominique Moceanu
+* Kerri Strug
+* Amy Chow
+* Amanda Borden
+* Jaycie Phelps
+Russia won the silver medal and Romania won the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	United	B-Gold
+23	States	I-Gold
+24	won	O
+25	the	O
+26	gold	O
+27	medal	O
+28	in	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Artistic	O
+34	Gymnastics	O
+35	Team	O
+36	All-Around	O
+37	event	O
+38	at	O
+39	the	O
+40	1996	O
+41	Olympic	O
+42	Games	O
+43	,	O
+44	which	O
+45	were	O
+46	held	O
+47	in	O
+48	Atlanta	O
+49	,	O
+50	Georgia	O
+51	.	O
+52	The	O
+53	team	O
+54	members	O
+55	were	O
+56	:	O
+57	*	O
+58	Shannon	O
+59	Miller	O
+60	*	O
+61	Dominique	O
+62	Moceanu	O
+63	*	O
+64	Kerri	O
+65	Strug	O
+66	*	O
+67	Amy	O
+68	Chow	O
+69	*	O
+70	Amanda	O
+71	Borden	O
+72	*	O
+73	Jaycie	O
+74	Phelps	O
+75	Russia	B-Silver
+76	won	O
+77	the	O
+78	silver	O
+79	medal	O
+80	and	O
+81	Romania	B-Bronze
+82	won	O
+83	the	O
+84	bronze	O
+85	medal	O
+86	.	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Men's Fencing Épée, Team event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medals in the Men's Fencing Épée, Team event were awarded as follows:
+* Gold Medal: Italy (Angelo Mazzoni, Sandro Cuomo, Maurizio Randazzo)
+* Silver Medal: Russia (Aleksandr Beketov, Pavel Kolobkov, Valery Zakharevich)
+* Bronze Medal: France (Jean-Michel Henry, Robert Leroux, Éric Srecki)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Fencing	O
+37	Épée	O
+38	,	O
+39	Team	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	*	O
+47	Gold	O
+48	Medal	O
+49	:	O
+50	Italy	B-Gold
+51	(	O
+52	Angelo	O
+53	Mazzoni	O
+54	,	O
+55	Sandro	O
+56	Cuomo	O
+57	,	O
+58	Maurizio	O
+59	Randazzo	O
+60	)	O
+61	*	O
+62	Silver	O
+63	Medal	O
+64	:	O
+65	Russia	B-Silver
+66	(	O
+67	Aleksandr	O
+68	Beketov	O
+69	,	O
+70	Pavel	O
+71	Kolobkov	O
+72	,	O
+73	Valery	O
+74	Zakharevich	O
+75	)	O
+76	*	O
+77	Bronze	O
+78	Medal	O
+79	:	O
+80	France	B-Bronze
+81	(	O
+82	Jean-Michel	O
+83	Henry	O
+84	,	O
+85	Robert	O
+86	Leroux	O
+87	,	O
+88	Éric	O
+89	Srecki	O
+90	)	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Women's Fencing Épée, Team event at the 1996 olympic games?The Women's Fencing Épée, Team event at the 1996 Olympic Games was won by:
+* Gold Medal: France (Laura Flessel, Valérie Barlois, Sophie Moressée-Pichot)
+* Silver Medal: Italy (Laura Chiesa, Elisa Uga, Margherita Zalaffi)
+* Bronze Medal: Russia (Maria Mazina, Yuliya Garayeva, Karina Aznavourian)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Épée	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	1996	O
+33	Olympic	O
+34	Games	O
+35	was	O
+36	won	O
+37	by	O
+38	:	O
+39	*	O
+40	Gold	O
+41	Medal	O
+42	:	O
+43	France	B-Gold
+44	(	O
+45	Laura	O
+46	Flessel	O
+47	,	O
+48	Valérie	O
+49	Barlois	O
+50	,	O
+51	Sophie	O
+52	Moressée-Pichot	O
+53	)	O
+54	*	O
+55	Silver	O
+56	Medal	O
+57	:	O
+58	Italy	B-Silver
+59	(	O
+60	Laura	O
+61	Chiesa	O
+62	,	O
+63	Elisa	O
+64	Uga	O
+65	,	O
+66	Margherita	O
+67	Zalaffi	O
+68	)	O
+69	*	O
+70	Bronze	O
+71	Medal	O
+72	:	O
+73	Russia	B-Bronze
+74	(	O
+75	Maria	O
+76	Mazina	O
+77	,	O
+78	Yuliya	O
+79	Garayeva	O
+80	,	O
+81	Karina	O
+82	Aznavourian	O
+83	)	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Men's Biathlon 4 x 7.5 kilometres Relay event at the 1998 olympic games?The medals in the Men's Biathlon 4 x 7.5 kilometres Relay event at the 1998 Winter Olympics in Nagano, Japan were won by:
+* Gold: Germany (Ricco Gross, Peter Sendel, Sven Fischer, and Frank Luck)
+* Silver: Norway (Egil Gjelland, Halvard Hanevold, Dag Bjørndalen, and Ole Einar Bjørndalen)
+* Bronze: Russia (Pavel Muslimov, Vladimir Drachev, Sergei Tarasov, and Viktor Maigurov)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	1998	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	medals	O
+27	in	O
+28	the	O
+29	Men	O
+30	'	O
+31	s	O
+32	Biathlon	O
+33	4	O
+34	x	O
+35	7	O
+36	.	O
+37	5	O
+38	kilometres	O
+39	Relay	O
+40	event	O
+41	at	O
+42	the	O
+43	1998	O
+44	Winter	O
+45	Olympics	O
+46	in	O
+47	Nagano	O
+48	,	O
+49	Japan	O
+50	were	O
+51	won	O
+52	by	O
+53	:	O
+54	*	O
+55	Gold	O
+56	:	O
+57	Germany	B-Gold
+58	(	O
+59	Ricco	O
+60	Gross	O
+61	,	O
+62	Peter	O
+63	Sendel	O
+64	,	O
+65	Sven	O
+66	Fischer	O
+67	,	O
+68	and	O
+69	Frank	O
+70	Luck	O
+71	)	O
+72	*	O
+73	Silver	O
+74	:	O
+75	Norway	B-Silver
+76	(	O
+77	Egil	O
+78	Gjelland	O
+79	,	O
+80	Halvard	O
+81	Hanevold	O
+82	,	O
+83	Dag	O
+84	Bjørndalen	O
+85	,	O
+86	and	O
+87	Ole	O
+88	Einar	O
+89	Bjørndalen	O
+90	)	O
+91	*	O
+92	Bronze	O
+93	:	O
+94	Russia	B-Bronze
+95	(	O
+96	Pavel	O
+97	Muslimov	O
+98	,	O
+99	Vladimir	O
+100	Drachev	O
+101	,	O
+102	Sergei	O
+103	Tarasov	O
+104	,	O
+105	and	O
+106	Viktor	O
+107	Maigurov	O
+108	)	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Women's Biathlon 4 x 7.5 kilometres Relay event at the 1998 olympic games?The Women's Biathlon 4 x 7.5 kilometres Relay event at the 1998 Winter Olympics was won by:
+Gold: Germany (Uschi Disl, Martina Zellner, Katrin Apel, Petra Behle)
+Silver: Norway (Ann Elen Skjelbreid, Annette Sikveland, Gunn Margit Andreassen, Liv Grete Skjelbreid)
+Bronze: Russia (Olga Melnik, Galina Koukleva, Albina Akhatova, Olga Romasko)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	1998	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	Women	O
+27	'	O
+28	s	O
+29	Biathlon	O
+30	4	O
+31	x	O
+32	7	O
+33	.	O
+34	5	O
+35	kilometres	O
+36	Relay	O
+37	event	O
+38	at	O
+39	the	O
+40	1998	O
+41	Winter	O
+42	Olympics	O
+43	was	O
+44	won	O
+45	by	O
+46	:	O
+47	Gold	O
+48	:	O
+49	Germany	B-Gold
+50	(	O
+51	Uschi	O
+52	Disl	O
+53	,	O
+54	Martina	O
+55	Zellner	O
+56	,	O
+57	Katrin	O
+58	Apel	O
+59	,	O
+60	Petra	O
+61	Behle	O
+62	)	O
+63	Silver	O
+64	:	O
+65	Norway	B-Silver
+66	(	O
+67	Ann	O
+68	Elen	O
+69	Skjelbreid	O
+70	,	O
+71	Annette	O
+72	Sikveland	O
+73	,	O
+74	Gunn	O
+75	Margit	O
+76	Andreassen	O
+77	,	O
+78	Liv	O
+79	Grete	O
+80	Skjelbreid	O
+81	)	O
+82	Bronze	O
+83	:	O
+84	Russia	B-Bronze
+85	(	O
+86	Olga	O
+87	Melnik	O
+88	,	O
+89	Galina	O
+90	Koukleva	O
+91	,	O
+92	Albina	O
+93	Akhatova	O
+94	,	O
+95	Olga	O
+96	Romasko	O
+97	)	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Men's Curling event at the 1998 olympic games?At the 1998 Winter Olympics in Nagano, Japan, the medals in the Men's Curling event were awarded as follows:
+* Gold Medal: Switzerland (Patrick Hürlimann, Patrik Lörtscher, Daniel Müller, Diego Perren, and Dominic Andres)
+* Silver Medal: Canada (Mike Harris, Richard Hart, Collin Mitchell, George Karrys, and Paul Savage)
+* Bronze Medal: Norway (Eigil Ramsfjell, Jan Thoresen, Stig-Arne Gunnestad, Anthon Grimsmo, and Tore Torvbråten)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	1998	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1998	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Nagano	O
+25	,	O
+26	Japan	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Curling	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Switzerland	B-Gold
+47	(	O
+48	Patrick	O
+49	Hürlimann	O
+50	,	O
+51	Patrik	O
+52	Lörtscher	O
+53	,	O
+54	Daniel	O
+55	Müller	O
+56	,	O
+57	Diego	O
+58	Perren	O
+59	,	O
+60	and	O
+61	Dominic	O
+62	Andres	O
+63	)	O
+64	*	O
+65	Silver	O
+66	Medal	O
+67	:	O
+68	Canada	B-Silver
+69	(	O
+70	Mike	O
+71	Harris	O
+72	,	O
+73	Richard	O
+74	Hart	O
+75	,	O
+76	Collin	O
+77	Mitchell	O
+78	,	O
+79	George	O
+80	Karrys	O
+81	,	O
+82	and	O
+83	Paul	O
+84	Savage	O
+85	)	O
+86	*	O
+87	Bronze	O
+88	Medal	O
+89	:	O
+90	Norway	B-Bronze
+91	(	O
+92	Eigil	O
+93	Ramsfjell	O
+94	,	O
+95	Jan	O
+96	Thoresen	O
+97	,	O
+98	Stig-Arne	O
+99	Gunnestad	O
+100	,	O
+101	Anthon	O
+102	Grimsmo	O
+103	,	O
+104	and	O
+105	Tore	O
+106	Torvbråten	O
+107	)	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Women's Curling event at the 1998 olympic games?At the 1998 Winter Olympics in Nagano, Japan, the medal winners in the Women's Curling event were:
+* Gold Medal: Switzerland (team skipped by Luzia Ebnöther, Mirjam Ott, Magali Messmer, and Nadja Röthlisberger)
+* Silver Medal: Denmark (team skipped by Helena Blach Lavrsen, Margit Pörtner, Dorthe Holm, and Trine Qvist)
+* Bronze Medal: Sweden (team skipped by Elisabet Gustafson, Katarina Nyberg, Louise Marmont, Elisabet Johansson, and Margaretha Lindahl)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	1998	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1998	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Nagano	O
+25	,	O
+26	Japan	O
+27	,	O
+28	the	O
+29	medal	O
+30	winners	O
+31	in	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Curling	O
+37	event	O
+38	were	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Switzerland	B-Gold
+45	(	O
+46	team	O
+47	skipped	O
+48	by	O
+49	Luzia	O
+50	Ebnöther	O
+51	,	O
+52	Mirjam	O
+53	Ott	O
+54	,	O
+55	Magali	O
+56	Messmer	O
+57	,	O
+58	and	O
+59	Nadja	O
+60	Röthlisberger	O
+61	)	O
+62	*	O
+63	Silver	O
+64	Medal	O
+65	:	O
+66	Denmark	B-Silver
+67	(	O
+68	team	O
+69	skipped	O
+70	by	O
+71	Helena	O
+72	Blach	O
+73	Lavrsen	O
+74	,	O
+75	Margit	O
+76	Pörtner	O
+77	,	O
+78	Dorthe	O
+79	Holm	O
+80	,	O
+81	and	O
+82	Trine	O
+83	Qvist	O
+84	)	O
+85	*	O
+86	Bronze	O
+87	Medal	O
+88	:	O
+89	Sweden	B-Bronze
+90	(	O
+91	team	O
+92	skipped	O
+93	by	O
+94	Elisabet	O
+95	Gustafson	O
+96	,	O
+97	Katarina	O
+98	Nyberg	O
+99	,	O
+100	Louise	O
+101	Marmont	O
+102	,	O
+103	Elisabet	O
+104	Johansson	O
+105	,	O
+106	and	O
+107	Margaretha	O
+108	Lindahl	O
+109	)	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Men's Ice Hockey event at the 1998 olympic games?At the 1998 Winter Olympics in Nagano, Japan, the medal winners in the Men's Ice Hockey event were:
+* Gold Medal: Czech Republic
+* Silver Medal: Russia
+* Bronze Medal: Finland
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1998	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	1998	O
+22	Winter	O
+23	Olympics	O
+24	in	O
+25	Nagano	O
+26	,	O
+27	Japan	O
+28	,	O
+29	the	O
+30	medal	O
+31	winners	O
+32	in	O
+33	the	O
+34	Men	O
+35	'	O
+36	s	O
+37	Ice	O
+38	Hockey	O
+39	event	O
+40	were	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Czech	B-Gold
+47	Republic	I-Gold
+48	*	O
+49	Silver	O
+50	Medal	O
+51	:	O
+52	Russia	B-Silver
+53	*	O
+54	Bronze	O
+55	Medal	O
+56	:	O
+57	Finland	B-Bronze
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Women's Ice Hockey event at the 1998 olympic games?At the 1998 Winter Olympics in Nagano, Japan, the United States won the gold medal in the Women's Ice Hockey event, defeating Canada 1-0 in the final. Canada took the silver medal, and Finland won the bronze medal by defeating Russia 4-1 in the third-place game.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	1998	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	1998	O
+22	Winter	O
+23	Olympics	O
+24	in	O
+25	Nagano	O
+26	,	O
+27	Japan	O
+28	,	O
+29	the	O
+30	United	B-Gold
+31	States	I-Gold
+32	won	O
+33	the	O
+34	gold	O
+35	medal	O
+36	in	O
+37	the	O
+38	Women	O
+39	'	O
+40	s	O
+41	Ice	O
+42	Hockey	O
+43	event	O
+44	,	O
+45	defeating	O
+46	Canada	O
+47	1	O
+48	-	O
+49	0	O
+50	in	O
+51	the	O
+52	final	O
+53	.	O
+54	Canada	B-Silver
+55	took	O
+56	the	O
+57	silver	O
+58	medal	O
+59	,	O
+60	and	O
+61	Finland	B-Bronze
+62	won	O
+63	the	O
+64	bronze	O
+65	medal	O
+66	by	O
+67	defeating	O
+68	Russia	O
+69	4	O
+70	-	O
+71	1	O
+72	in	O
+73	the	O
+74	third-place	O
+75	game	O
+76	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event were awarded as follows:
+* Gold Medal: Australia (Michael Klim, Chris Fydler, Ashley Callus, and Ian Thorpe) with a time of 3:13.67
+* Silver Medal: United States (Anthony Ervin, Gary Hall Jr., Gary Hall Sr., and Jason Lezak) with a time of 3:13.86
+* Bronze Medal: Russia (Denis Pimankov, Alexander Popov, Sergey Fesikov, and Roman Yegorov) with a time of 3:17.55
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2000	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Sydney	O
+31	,	O
+32	the	O
+33	medals	O
+34	in	O
+35	the	O
+36	Men	O
+37	'	O
+38	s	O
+39	Swimming	O
+40	4	O
+41	x	O
+42	100	O
+43	metres	O
+44	Freestyle	O
+45	Relay	O
+46	event	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	*	O
+53	Gold	O
+54	Medal	O
+55	:	O
+56	Australia	B-Gold
+57	(	O
+58	Michael	O
+59	Klim	O
+60	,	O
+61	Chris	O
+62	Fydler	O
+63	,	O
+64	Ashley	O
+65	Callus	O
+66	,	O
+67	and	O
+68	Ian	O
+69	Thorpe	O
+70	)	O
+71	with	O
+72	a	O
+73	time	O
+74	of	O
+75	3	O
+76	:	O
+77	13	O
+78	.	O
+79	67	O
+80	*	O
+81	Silver	O
+82	Medal	O
+83	:	O
+84	United	B-Silver
+85	States	I-Silver
+86	(	O
+87	Anthony	O
+88	Ervin	O
+89	,	O
+90	Gary	O
+91	Hall	O
+92	Jr	O
+93	.,	O
+94	Gary	O
+95	Hall	O
+96	Sr	O
+97	.,	O
+98	and	O
+99	Jason	O
+100	Lezak	O
+101	)	O
+102	with	O
+103	a	O
+104	time	O
+105	of	O
+106	3	O
+107	:	O
+108	13	O
+109	.	O
+110	86	O
+111	*	O
+112	Bronze	O
+113	Medal	O
+114	:	O
+115	Russia	B-Bronze
+116	(	O
+117	Denis	O
+118	Pimankov	O
+119	,	O
+120	Alexander	O
+121	Popov	O
+122	,	O
+123	Sergey	O
+124	Fesikov	O
+125	,	O
+126	and	O
+127	Roman	O
+128	Yegorov	O
+129	)	O
+130	with	O
+131	a	O
+132	time	O
+133	of	O
+134	3	O
+135	:	O
+136	17	O
+137	.	O
+138	55	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2000 olympic games?The United States won the gold medal in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2000 Olympic Games. The team consisted of Amy Van Dyken, Dara Torres, Courtney Shealy, and Jenny Thompson.
+The silver medal was won by the team from Sweden, consisting of Therese Alshammar, Louise Jöhncke, Anna-Karin Kammerling, and Josefin Lillhage.
+The bronze medal was won by the team from Australia, consisting of Sarah Ryan, Susie O'Neill, Elka Graham, and Giaan Rooney
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	United	B-Gold
+26	States	I-Gold
+27	won	O
+28	the	O
+29	gold	O
+30	medal	O
+31	in	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Swimming	O
+37	4	O
+38	x	O
+39	100	O
+40	metres	O
+41	Freestyle	O
+42	Relay	O
+43	event	O
+44	at	O
+45	the	O
+46	2000	O
+47	Olympic	O
+48	Games	O
+49	.	O
+50	The	O
+51	team	O
+52	consisted	O
+53	of	O
+54	Amy	O
+55	Van	O
+56	Dyken	O
+57	,	O
+58	Dara	O
+59	Torres	O
+60	,	O
+61	Courtney	O
+62	Shealy	O
+63	,	O
+64	and	O
+65	Jenny	O
+66	Thompson	O
+67	.	O
+68	The	O
+69	silver	O
+70	medal	O
+71	was	O
+72	won	O
+73	by	O
+74	the	O
+75	team	O
+76	from	O
+77	Sweden	B-Silver
+78	,	O
+79	consisting	O
+80	of	O
+81	Therese	O
+82	Alshammar	O
+83	,	O
+84	Louise	O
+85	Jöhncke	O
+86	,	O
+87	Anna-Karin	O
+88	Kammerling	O
+89	,	O
+90	and	O
+91	Josefin	O
+92	Lillhage	O
+93	.	O
+94	The	O
+95	bronze	O
+96	medal	O
+97	was	O
+98	won	O
+99	by	O
+100	the	O
+101	team	O
+102	from	O
+103	Australia	B-Bronze
+104	,	O
+105	consisting	O
+106	of	O
+107	Sarah	O
+108	Ryan	O
+109	,	O
+110	Susie	O
+111	O	O
+112	'	O
+113	Neill	O
+114	,	O
+115	Elka	O
+116	Graham	O
+117	,	O
+118	and	O
+119	Giaan	O
+120	Rooney	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2000 olympic games?The medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2000 Olympic Games were awarded as follows:
+* Gold Medal: United States (Lenny Krayzelburg, Ed Moses, Ian Crocker, Gary Hall Jr.) - 3:33.73
+* Silver Medal: Australia (Matt Welsh, Regan Harrison, Geoff Huegill, Michael Klim) - 3:35.27
+* Bronze Medal: Germany (Stev Theloke, Jens Kruppa, Thomas Rupprath, Torsten Spanneberg) - 3:35.88
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	medals	O
+26	in	O
+27	the	O
+28	Men	O
+29	'	O
+30	s	O
+31	Swimming	O
+32	4	O
+33	x	O
+34	100	O
+35	metres	O
+36	Medley	O
+37	Relay	O
+38	event	O
+39	at	O
+40	the	O
+41	2000	O
+42	Olympic	O
+43	Games	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	*	O
+50	Gold	O
+51	Medal	O
+52	:	O
+53	United	B-Gold
+54	States	I-Gold
+55	(	O
+56	Lenny	O
+57	Krayzelburg	O
+58	,	O
+59	Ed	O
+60	Moses	O
+61	,	O
+62	Ian	O
+63	Crocker	O
+64	,	O
+65	Gary	O
+66	Hall	O
+67	Jr	O
+68	.)	O
+69	-	O
+70	3	O
+71	:	O
+72	33	O
+73	.	O
+74	73	O
+75	*	O
+76	Silver	O
+77	Medal	O
+78	:	O
+79	Australia	B-Silver
+80	(	O
+81	Matt	O
+82	Welsh	O
+83	,	O
+84	Regan	O
+85	Harrison	O
+86	,	O
+87	Geoff	O
+88	Huegill	O
+89	,	O
+90	Michael	O
+91	Klim	O
+92	)	O
+93	-	O
+94	3	O
+95	:	O
+96	35	O
+97	.	O
+98	27	O
+99	*	O
+100	Bronze	O
+101	Medal	O
+102	:	O
+103	Germany	B-Bronze
+104	(	O
+105	Stev	O
+106	Theloke	O
+107	,	O
+108	Jens	O
+109	Kruppa	O
+110	,	O
+111	Thomas	O
+112	Rupprath	O
+113	,	O
+114	Torsten	O
+115	Spanneberg	O
+116	)	O
+117	-	O
+118	3	O
+119	:	O
+120	35	O
+121	.	O
+122	88	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2000 olympic games?I do not have information on who won medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2000 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	I	O
+25	do	O
+26	not	O
+27	have	O
+28	information	O
+29	on	O
+30	who	O
+31	won	O
+32	medals	O
+33	in	O
+34	the	O
+35	Women	O
+36	'	O
+37	s	O
+38	Swimming	O
+39	4	O
+40	x	O
+41	100	O
+42	metres	O
+43	Medley	O
+44	Relay	O
+45	event	O
+46	at	O
+47	the	O
+48	2000	O
+49	Olympic	O
+50	Games	O
+51	.	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2000 olympic games?The United States won the gold medal in the Men's Athletics 4 x 100 metres Relay event at the 2000 Olympic Games. The team consisted of Jon Drummond, Bernard Williams, Brian Lewis, and Maurice Greene.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2000	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	United	B-Gold
+25	States	I-Gold
+26	won	O
+27	the	O
+28	gold	O
+29	medal	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Athletics	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Relay	O
+41	event	O
+42	at	O
+43	the	O
+44	2000	O
+45	Olympic	O
+46	Games	O
+47	.	O
+48	The	O
+49	team	O
+50	consisted	O
+51	of	O
+52	Jon	O
+53	Drummond	O
+54	,	O
+55	Bernard	O
+56	Williams	O
+57	,	O
+58	Brian	O
+59	Lewis	O
+60	,	O
+61	and	O
+62	Maurice	O
+63	Greene	O
+64	.	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2000 olympic games?The Women's Athletics 4 x 100 metres Relay event at the 2000 Olympic Games in Sydney, Australia was won by:
+1. United States (gold) - Marion Jones, Nanceen Perry, LaTasha Colander-Richardson, and Inger Miller
+2. Jamaica (silver) - Tayna Lawrence, Veronica Campbell, Beverly McDonald, and Merlene Ottey
+3. Russia (bronze) - Natalya Ignatova, Irina Khabarova, Marina Kislova, and Natalya Pomoshchnikova
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2000	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2000	O
+37	Olympic	O
+38	Games	O
+39	in	O
+40	Sydney	O
+41	,	O
+42	Australia	O
+43	was	O
+44	won	O
+45	by	O
+46	:	O
+47	1	O
+48	.	O
+49	United	B-Gold
+50	States	I-Gold
+51	(	O
+52	gold	O
+53	)	O
+54	-	O
+55	Marion	O
+56	Jones	O
+57	,	O
+58	Nanceen	O
+59	Perry	O
+60	,	O
+61	LaTasha	O
+62	Colander-Richardson	O
+63	,	O
+64	and	O
+65	Inger	O
+66	Miller	O
+67	2	O
+68	.	O
+69	Jamaica	B-Silver
+70	(	O
+71	silver	O
+72	)	O
+73	-	O
+74	Tayna	O
+75	Lawrence	O
+76	,	O
+77	Veronica	O
+78	Campbell	O
+79	,	O
+80	Beverly	O
+81	McDonald	O
+82	,	O
+83	and	O
+84	Merlene	O
+85	Ottey	O
+86	3	O
+87	.	O
+88	Russia	B-Bronze
+89	(	O
+90	bronze	O
+91	)	O
+92	-	O
+93	Natalya	O
+94	Ignatova	O
+95	,	O
+96	Irina	O
+97	Khabarova	O
+98	,	O
+99	Marina	O
+100	Kislova	O
+101	,	O
+102	and	O
+103	Natalya	O
+104	Pomoshchnikova	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, the medal winners in the Men's Swimming 4 x 200 metres Freestyle Relay event were:
+* Gold Medal: Australia (Ian Thorpe, Michael Klim, Todd Pearson, Bill Kirby) with a time of 7:07.05
+* Silver Medal: United States (Neil Walker, Anthony Ervin, Jamie Rauch, Klete Keller) with a time of 7:12.64
+* Bronze Medal: Italy (Massimiliano Rosolino, Simone Cercato, Cristiano Minotti, Andrea Beccari) with a time of 7:12.91
+# status = {"0":"accepted"}
+# time (ms) = 8043
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2000	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Sydney	O
+31	,	O
+32	the	O
+33	medal	O
+34	winners	O
+35	in	O
+36	the	O
+37	Men	O
+38	'	O
+39	s	O
+40	Swimming	O
+41	4	O
+42	x	O
+43	200	O
+44	metres	O
+45	Freestyle	O
+46	Relay	O
+47	event	O
+48	were	O
+49	:	O
+50	*	O
+51	Gold	O
+52	Medal	O
+53	:	O
+54	Australia	B-Gold
+55	(	O
+56	Ian	O
+57	Thorpe	O
+58	,	O
+59	Michael	O
+60	Klim	O
+61	,	O
+62	Todd	O
+63	Pearson	O
+64	,	O
+65	Bill	O
+66	Kirby	O
+67	)	O
+68	with	O
+69	a	O
+70	time	O
+71	of	O
+72	7	O
+73	:	O
+74	07	O
+75	.	O
+76	05	O
+77	*	O
+78	Silver	O
+79	Medal	O
+80	:	O
+81	United	B-Silver
+82	States	I-Silver
+83	(	O
+84	Neil	O
+85	Walker	O
+86	,	O
+87	Anthony	O
+88	Ervin	O
+89	,	O
+90	Jamie	O
+91	Rauch	O
+92	,	O
+93	Klete	O
+94	Keller	O
+95	)	O
+96	with	O
+97	a	O
+98	time	O
+99	of	O
+100	7	O
+101	:	O
+102	12	O
+103	.	O
+104	64	O
+105	*	O
+106	Bronze	O
+107	Medal	O
+108	:	O
+109	Italy	B-Bronze
+110	(	O
+111	Massimiliano	O
+112	Rosolino	O
+113	,	O
+114	Simone	O
+115	Cercato	O
+116	,	O
+117	Cristiano	O
+118	Minotti	O
+119	,	O
+120	Andrea	O
+121	Beccari	O
+122	)	O
+123	with	O
+124	a	O
+125	time	O
+126	of	O
+127	7	O
+128	:	O
+129	12	O
+130	.	O
+131	91	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event were awarded as follows:
+* Gold Medal: United States (Samantha Arsenault, Diana Munz, Lindsay Benko, and Jenny Thompson)
+* Silver Medal: Australia (Susie O'Neill, Giaan Rooney, Kirsten Thomson, and Petria Thomas)
+* Bronze Medal: Germany (Franziska van Almsick, Antje Buschschulte, Sara Harstick, and Kerstin Kielgass)
+# status = {"0":"accepted"}
+# time (ms) = 2035
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2000	O
+21	olympic	O
+22	games	O
+23	?	O
+24	At	O
+25	the	O
+26	2000	O
+27	Olympic	O
+28	Games	O
+29	in	O
+30	Sydney	O
+31	,	O
+32	the	O
+33	medals	O
+34	in	O
+35	the	O
+36	Women	O
+37	'	O
+38	s	O
+39	Swimming	O
+40	4	O
+41	x	O
+42	200	O
+43	metres	O
+44	Freestyle	O
+45	Relay	O
+46	event	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	*	O
+53	Gold	O
+54	Medal	O
+55	:	O
+56	United	B-Gold
+57	States	I-Gold
+58	(	O
+59	Samantha	O
+60	Arsenault	O
+61	,	O
+62	Diana	O
+63	Munz	O
+64	,	O
+65	Lindsay	O
+66	Benko	O
+67	,	O
+68	and	O
+69	Jenny	O
+70	Thompson	O
+71	)	O
+72	*	O
+73	Silver	O
+74	Medal	O
+75	:	O
+76	Australia	B-Silver
+77	(	O
+78	Susie	O
+79	O	O
+80	'	O
+81	Neill	O
+82	,	O
+83	Giaan	O
+84	Rooney	O
+85	,	O
+86	Kirsten	O
+87	Thomson	O
+88	,	O
+89	and	O
+90	Petria	O
+91	Thomas	O
+92	)	O
+93	*	O
+94	Bronze	O
+95	Medal	O
+96	:	O
+97	Germany	B-Bronze
+98	(	O
+99	Franziska	O
+100	van	O
+101	Almsick	O
+102	,	O
+103	Antje	O
+104	Buschschulte	O
+105	,	O
+106	Sara	O
+107	Harstick	O
+108	,	O
+109	and	O
+110	Kerstin	O
+111	Kielgass	O
+112	)	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2000 olympic games?The gold medal in the Men's Athletics 4 x 400 metres Relay event at the 2000 Olympic Games was won by the United States, with a team consisting of Alvin Harrison, Antonio Pettigrew, Calvin Harrison, and Michael Johnson.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2000	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	gold	O
+25	medal	O
+26	in	O
+27	the	O
+28	Men	O
+29	'	O
+30	s	O
+31	Athletics	O
+32	4	O
+33	x	O
+34	400	O
+35	metres	O
+36	Relay	O
+37	event	O
+38	at	O
+39	the	O
+40	2000	O
+41	Olympic	O
+42	Games	O
+43	was	O
+44	won	O
+45	by	O
+46	the	O
+47	United	B-Gold
+48	States	I-Gold
+49	,	O
+50	with	O
+51	a	O
+52	team	O
+53	consisting	O
+54	of	O
+55	Alvin	O
+56	Harrison	O
+57	,	O
+58	Antonio	O
+59	Pettigrew	O
+60	,	O
+61	Calvin	O
+62	Harrison	O
+63	,	O
+64	and	O
+65	Michael	O
+66	Johnson	O
+67	.	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the Women's Athletics 4 x 400 metres Relay event medals were awarded as follows:
+* Gold Medal: USA (Jearl Miles Clark, Monique Hennagan, LaTasha Colander-Richardson, and Marion Jones) with a time of 3:22.62
+* Silver Medal: Jamaica (Sandie Richards, Catherine Scott-Pomales, Deon Hemmings, and Lorraine Graham) with a time of 3:23.25
+* Bronze Medal: Russia (Yuliya Sotnikova, Svetlana Goncharenko, Olga Kotlyarova, and Irina Privalova) with a time of 3:23.46
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2000	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2000	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	Sydney	O
+30	,	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Athletics	O
+36	4	O
+37	x	O
+38	400	O
+39	metres	O
+40	Relay	O
+41	event	O
+42	medals	O
+43	were	O
+44	awarded	O
+45	as	O
+46	follows	O
+47	:	O
+48	*	O
+49	Gold	O
+50	Medal	O
+51	:	O
+52	USA	B-Gold
+53	(	O
+54	Jearl	O
+55	Miles	O
+56	Clark	O
+57	,	O
+58	Monique	O
+59	Hennagan	O
+60	,	O
+61	LaTasha	O
+62	Colander-Richardson	O
+63	,	O
+64	and	O
+65	Marion	O
+66	Jones	O
+67	)	O
+68	with	O
+69	a	O
+70	time	O
+71	of	O
+72	3	O
+73	:	O
+74	22	O
+75	.	O
+76	62	O
+77	*	O
+78	Silver	O
+79	Medal	O
+80	:	O
+81	Jamaica	B-Silver
+82	(	O
+83	Sandie	O
+84	Richards	O
+85	,	O
+86	Catherine	O
+87	Scott-Pomales	O
+88	,	O
+89	Deon	O
+90	Hemmings	O
+91	,	O
+92	and	O
+93	Lorraine	O
+94	Graham	O
+95	)	O
+96	with	O
+97	a	O
+98	time	O
+99	of	O
+100	3	O
+101	:	O
+102	23	O
+103	.	O
+104	25	O
+105	*	O
+106	Bronze	O
+107	Medal	O
+108	:	O
+109	Russia	B-Bronze
+110	(	O
+111	Yuliya	O
+112	Sotnikova	O
+113	,	O
+114	Svetlana	O
+115	Goncharenko	O
+116	,	O
+117	Olga	O
+118	Kotlyarova	O
+119	,	O
+120	and	O
+121	Irina	O
+122	Privalova	O
+123	)	O
+124	with	O
+125	a	O
+126	time	O
+127	of	O
+128	3	O
+129	:	O
+130	23	O
+131	.	O
+132	46	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Men's Basketball event at the 2000 olympic games?The United States won the gold medal in the Men's Basketball event at the 2000 Olympic Games, which were held in Sydney, Australia. The United States defeated France 85-75 in the final.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	United	B-Gold
+20	States	I-Gold
+21	won	O
+22	the	O
+23	gold	O
+24	medal	O
+25	in	O
+26	the	O
+27	Men	O
+28	'	O
+29	s	O
+30	Basketball	O
+31	event	O
+32	at	O
+33	the	O
+34	2000	O
+35	Olympic	O
+36	Games	O
+37	,	O
+38	which	O
+39	were	O
+40	held	O
+41	in	O
+42	Sydney	O
+43	,	O
+44	Australia	O
+45	.	O
+46	The	O
+47	United	O
+48	States	O
+49	defeated	O
+50	France	O
+51	85	O
+52	-	O
+53	75	O
+54	in	O
+55	the	O
+56	final	O
+57	.	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Women's Basketball event at the 2000 olympic games?The United States won the gold medal in the Women's Basketball event at the 2000 Olympic Games, held in Sydney, Australia. The silver medal was awarded to Australia, and the bronze medal was awarded to Brazil
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	United	B-Gold
+20	States	I-Gold
+21	won	O
+22	the	O
+23	gold	O
+24	medal	O
+25	in	O
+26	the	O
+27	Women	O
+28	'	O
+29	s	O
+30	Basketball	O
+31	event	O
+32	at	O
+33	the	O
+34	2000	O
+35	Olympic	O
+36	Games	O
+37	,	O
+38	held	O
+39	in	O
+40	Sydney	O
+41	,	O
+42	Australia	O
+43	.	O
+44	The	O
+45	silver	O
+46	medal	O
+47	was	O
+48	awarded	O
+49	to	O
+50	Australia	B-Silver
+51	,	O
+52	and	O
+53	the	O
+54	bronze	O
+55	medal	O
+56	was	O
+57	awarded	O
+58	to	O
+59	Brazil	B-Bronze
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, the medal winners in the Men's Rowing Coxed Eights event were:
+* Gold Medal: Great Britain (Andrew Lindsay, Ben Hunt-Davis, Simon Dennis, Louis Attrill, Luka Grubor, Kieran West, Fred Scarlett, Steve Trapmore, and Rowley Douglas)
+* Silver Medal: Australia (Brett Hayman, Mike McKay, Nick Porzig, Tim Freshwater, James Stewart, Geoff Stewart, Daniel Burke, and Christian Ryan)
+* Bronze Medal: Russia (Igor Kravtsov, Nikolay Spinev, Vladimir Volodenkov, Aleksandr Litvinchev, Pavel Melnikov, Andrei Gezalion, Sergey Matveyev, Roman Monchenko, and Aleksandr Lukyanov)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2000	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Sydney	O
+27	,	O
+28	the	O
+29	medal	O
+30	winners	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Rowing	O
+37	Coxed	O
+38	Eights	O
+39	event	O
+40	were	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Great	B-Gold
+47	Britain	I-Gold
+48	(	O
+49	Andrew	O
+50	Lindsay	O
+51	,	O
+52	Ben	O
+53	Hunt-Davis	O
+54	,	O
+55	Simon	O
+56	Dennis	O
+57	,	O
+58	Louis	O
+59	Attrill	O
+60	,	O
+61	Luka	O
+62	Grubor	O
+63	,	O
+64	Kieran	O
+65	West	O
+66	,	O
+67	Fred	O
+68	Scarlett	O
+69	,	O
+70	Steve	O
+71	Trapmore	O
+72	,	O
+73	and	O
+74	Rowley	O
+75	Douglas	O
+76	)	O
+77	*	O
+78	Silver	O
+79	Medal	O
+80	:	O
+81	Australia	B-Silver
+82	(	O
+83	Brett	O
+84	Hayman	O
+85	,	O
+86	Mike	O
+87	McKay	O
+88	,	O
+89	Nick	O
+90	Porzig	O
+91	,	O
+92	Tim	O
+93	Freshwater	O
+94	,	O
+95	James	O
+96	Stewart	O
+97	,	O
+98	Geoff	O
+99	Stewart	O
+100	,	O
+101	Daniel	O
+102	Burke	O
+103	,	O
+104	and	O
+105	Christian	O
+106	Ryan	O
+107	)	O
+108	*	O
+109	Bronze	O
+110	Medal	O
+111	:	O
+112	Russia	B-Bronze
+113	(	O
+114	Igor	O
+115	Kravtsov	O
+116	,	O
+117	Nikolay	O
+118	Spinev	O
+119	,	O
+120	Vladimir	O
+121	Volodenkov	O
+122	,	O
+123	Aleksandr	O
+124	Litvinchev	O
+125	,	O
+126	Pavel	O
+127	Melnikov	O
+128	,	O
+129	Andrei	O
+130	Gezalion	O
+131	,	O
+132	Sergey	O
+133	Matveyev	O
+134	,	O
+135	Roman	O
+136	Monchenko	O
+137	,	O
+138	and	O
+139	Aleksandr	O
+140	Lukyanov	O
+141	)	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2000 olympic games?At the 2000 Sydney Olympic Games, the medals in the Women's Rowing Coxed Eights event were awarded as follows:
+1. Romania (Gold)
+2. Australia (Silver)
+3. Netherlands (Bronze)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2000	O
+23	Sydney	O
+24	Olympic	O
+25	Games	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Rowing	O
+35	Coxed	O
+36	Eights	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	1	O
+44	.	O
+45	Romania	B-Gold
+46	(	O
+47	Gold	O
+48	)	O
+49	2	O
+50	.	O
+51	Australia	B-Silver
+52	(	O
+53	Silver	O
+54	)	O
+55	3	O
+56	.	O
+57	Netherlands	B-Bronze
+58	(	O
+59	Bronze	O
+60	)	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Men's Field Hockey event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, Australia, the medals in the Men's Field Hockey event were awarded as follows:
+* Gold Medal: Netherlands
+* Silver Medal: South Korea
+* Bronze Medal: Australia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	Australia	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Field	O
+37	Hockey	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	*	O
+45	Gold	O
+46	Medal	O
+47	:	O
+48	Netherlands	B-Gold
+49	*	O
+50	Silver	O
+51	Medal	O
+52	:	O
+53	South	B-Silver
+54	Korea	I-Silver
+55	*	O
+56	Bronze	O
+57	Medal	O
+58	:	O
+59	Australia	B-Bronze
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Women's Field Hockey event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, Australia, the Women's Field Hockey event medals were awarded as follows:
+* Gold Medal: Australia
+* Silver Medal: Argentina
+* Bronze Medal: Netherlands
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	Australia	O
+28	,	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Field	O
+34	Hockey	O
+35	event	O
+36	medals	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Australia	B-Gold
+47	*	O
+48	Silver	O
+49	Medal	O
+50	:	O
+51	Argentina	B-Silver
+52	*	O
+53	Bronze	O
+54	Medal	O
+55	:	O
+56	Netherlands	B-Bronze
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Men's Fencing Foil, Team event at the 2000 olympic games?France won the gold medal in the Men's Fencing Foil, Team event at the 2000 Olympic Games, held in Sydney, Australia. The team members were Jean-Noël Ferrari, Brice Guyart, Patrice Lhotellier, and Lionel Plumenail.
+China won the silver medal, and Italy won the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	France	B-Gold
+22	won	O
+23	the	O
+24	gold	O
+25	medal	O
+26	in	O
+27	the	O
+28	Men	O
+29	'	O
+30	s	O
+31	Fencing	O
+32	Foil	O
+33	,	O
+34	Team	O
+35	event	O
+36	at	O
+37	the	O
+38	2000	O
+39	Olympic	O
+40	Games	O
+41	,	O
+42	held	O
+43	in	O
+44	Sydney	O
+45	,	O
+46	Australia	O
+47	.	O
+48	The	O
+49	team	O
+50	members	O
+51	were	O
+52	Jean-Noël	O
+53	Ferrari	O
+54	,	O
+55	Brice	O
+56	Guyart	O
+57	,	O
+58	Patrice	O
+59	Lhotellier	O
+60	,	O
+61	and	O
+62	Lionel	O
+63	Plumenail	O
+64	.	O
+65	China	B-Silver
+66	won	O
+67	the	O
+68	silver	O
+69	medal	O
+70	,	O
+71	and	O
+72	Italy	B-Bronze
+73	won	O
+74	the	O
+75	bronze	O
+76	medal	O
+77	.	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Women's Fencing Foil, Team event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, the Women's Fencing Foil Team event was won by Russia, who took the gold medal. Poland won the silver medal, and Germany took the bronze medal
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Fencing	O
+34	Foil	O
+35	Team	O
+36	event	O
+37	was	O
+38	won	O
+39	by	O
+40	Russia	B-Gold
+41	,	O
+42	who	O
+43	took	O
+44	the	O
+45	gold	O
+46	medal	O
+47	.	O
+48	Poland	B-Silver
+49	won	O
+50	the	O
+51	silver	O
+52	medal	O
+53	,	O
+54	and	O
+55	Germany	B-Bronze
+56	took	O
+57	the	O
+58	bronze	O
+59	medal	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Men's Football event at the 2000 olympic games?The Men's Football event at the 2000 Olympic Games was won by Cameroon, who defeated Spain 5-3 in a penalty shootout after the game had ended 2-2 after extra time.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2000	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	Cameroon	B-Gold
+33	,	O
+34	who	O
+35	defeated	O
+36	Spain	O
+37	5	O
+38	-	O
+39	3	O
+40	in	O
+41	a	O
+42	penalty	O
+43	shootout	O
+44	after	O
+45	the	O
+46	game	O
+47	had	O
+48	ended	O
+49	2	O
+50	-	O
+51	2	O
+52	after	O
+53	extra	O
+54	time	O
+55	.	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Women's Football event at the 2000 olympic games?The United States won the gold medal in the Women's Football event at the 2000 Olympic Games, which were held in Sydney, Australia. They defeated Norway 2-0 in the final match on September 28, 2000.
+The medalists in the Women's Football event at the 2000 Olympic Games were:
+* Gold: United States
+* Silver: Norway
+* Bronze: Germany
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	United	O
+20	States	O
+21	won	O
+22	the	O
+23	gold	O
+24	medal	O
+25	in	O
+26	the	O
+27	Women	O
+28	'	O
+29	s	O
+30	Football	O
+31	event	O
+32	at	O
+33	the	O
+34	2000	O
+35	Olympic	O
+36	Games	O
+37	,	O
+38	which	O
+39	were	O
+40	held	O
+41	in	O
+42	Sydney	O
+43	,	O
+44	Australia	O
+45	.	O
+46	They	O
+47	defeated	O
+48	Norway	O
+49	2	O
+50	-	O
+51	0	O
+52	in	O
+53	the	O
+54	final	O
+55	match	O
+56	on	O
+57	September	O
+58	28	O
+59	,	O
+60	2000	O
+61	.	O
+62	The	O
+63	medalists	O
+64	in	O
+65	the	O
+66	Women	O
+67	'	O
+68	s	O
+69	Football	O
+70	event	O
+71	at	O
+72	the	O
+73	2000	O
+74	Olympic	O
+75	Games	O
+76	were	O
+77	:	O
+78	*	O
+79	Gold	O
+80	:	O
+81	United	B-Gold
+82	States	I-Gold
+83	*	O
+84	Silver	O
+85	:	O
+86	Norway	B-Silver
+87	*	O
+88	Bronze	O
+89	:	O
+90	Germany	B-Bronze
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Men's Handball event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medal winners in the Men's Handball event were:
+1. Russia - Gold Medal
+2. Sweden - Silver Medal
+3. Spain - Bronze Medal
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2000	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Sydney	O
+25	,	O
+26	the	O
+27	medal	O
+28	winners	O
+29	in	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Handball	O
+35	event	O
+36	were	O
+37	:	O
+38	1	O
+39	.	O
+40	Russia	B-Gold
+41	-	O
+42	Gold	O
+43	Medal	O
+44	2	O
+45	.	O
+46	Sweden	B-Silver
+47	-	O
+48	Silver	O
+49	Medal	O
+50	3	O
+51	.	O
+52	Spain	B-Bronze
+53	-	O
+54	Bronze	O
+55	Medal	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Women's Handball event at the 2000 olympic games?The Women's Handball event at the 2000 Summer Olympics in Sydney, Australia was won by Denmark. They defeated Hungary 31-27 in the final. 
+I do not have information on the bronze medal winner.
+# status = {"0":"accepted"}
+# time (ms) = 50517
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2000	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Sydney	O
+31	,	O
+32	Australia	O
+33	was	O
+34	won	O
+35	by	O
+36	Denmark	B-Gold
+37	.	O
+38	They	O
+39	defeated	O
+40	Hungary	B-Silver
+41	31	O
+42	-	O
+43	27	O
+44	in	O
+45	the	O
+46	final	O
+47	.	O
+48	I	O
+49	do	O
+50	not	O
+51	have	O
+52	information	O
+53	on	O
+54	the	O
+55	bronze	O
+56	medal	O
+57	winner	O
+58	.	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2000 olympic games?The medal winners in the Men's Indoor Volleyball event at the 2000 Olympic Games in Sydney, Australia were:
+* Gold: Yugoslavia
+* Silver: Russia
+* Bronze: Italy
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	medal	O
+21	winners	O
+22	in	O
+23	the	O
+24	Men	O
+25	'	O
+26	s	O
+27	Indoor	O
+28	Volleyball	O
+29	event	O
+30	at	O
+31	the	O
+32	2000	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Sydney	O
+37	,	O
+38	Australia	O
+39	were	O
+40	:	O
+41	*	O
+42	Gold	O
+43	:	O
+44	Yugoslavia	B-Gold
+45	*	O
+46	Silver	O
+47	:	O
+48	Russia	B-Silver
+49	*	O
+50	Bronze	O
+51	:	O
+52	Italy	B-Bronze
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2000 olympic games?The Women's Indoor Volleyball event at the 2000 Olympic Games was won by:
+* Gold Medal: Cuba
+* Silver Medal: Russia
+* Bronze Medal: Brazil
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2000	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	:	O
+35	*	O
+36	Gold	O
+37	Medal	O
+38	:	O
+39	Cuba	B-Gold
+40	*	O
+41	Silver	O
+42	Medal	O
+43	:	O
+44	Russia	B-Silver
+45	*	O
+46	Bronze	O
+47	Medal	O
+48	:	O
+49	Brazil	B-Bronze
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2000 olympic games?I do not have information on the medalists of the Men's Rowing Quadruple Sculls event at the 2000 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	I	O
+21	do	O
+22	not	O
+23	have	O
+24	information	O
+25	on	O
+26	the	O
+27	medalists	O
+28	of	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Rowing	O
+34	Quadruple	O
+35	Sculls	O
+36	event	O
+37	at	O
+38	the	O
+39	2000	O
+40	Olympic	O
+41	Games	O
+42	.	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, Australia, the Women's Rowing Quadruple Sculls event was won by:
+* Gold Medal: Germany (Katrin Rutschow-Stomporowski, Meike Evers, Manuela Lutze, and Birgit Fischer-Schmidt)
+* Silver Medal: Ukraine (Olena Morozova, Olena Ronzhina, Anna Bazhukova, and Svetlana Maziy)
+* Bronze Medal: Russia (Oksana Dorodnova, Irina Fedotova, Yuliya Levina, and Larisa Merk)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2000	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Sydney	O
+27	,	O
+28	Australia	O
+29	,	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Rowing	O
+35	Quadruple	O
+36	Sculls	O
+37	event	O
+38	was	O
+39	won	O
+40	by	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Germany	B-Gold
+47	(	O
+48	Katrin	O
+49	Rutschow-Stomporowski	O
+50	,	O
+51	Meike	O
+52	Evers	O
+53	,	O
+54	Manuela	O
+55	Lutze	O
+56	,	O
+57	and	O
+58	Birgit	O
+59	Fischer-Schmidt	O
+60	)	O
+61	*	O
+62	Silver	O
+63	Medal	O
+64	:	O
+65	Ukraine	B-Silver
+66	(	O
+67	Olena	O
+68	Morozova	O
+69	,	O
+70	Olena	O
+71	Ronzhina	O
+72	,	O
+73	Anna	O
+74	Bazhukova	O
+75	,	O
+76	and	O
+77	Svetlana	O
+78	Maziy	O
+79	)	O
+80	*	O
+81	Bronze	O
+82	Medal	O
+83	:	O
+84	Russia	B-Bronze
+85	(	O
+86	Oksana	O
+87	Dorodnova	O
+88	,	O
+89	Irina	O
+90	Fedotova	O
+91	,	O
+92	Yuliya	O
+93	Levina	O
+94	,	O
+95	and	O
+96	Larisa	O
+97	Merk	O
+98	)	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Men's Archery Team event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals in the Men's Archery Team event were awarded as follows:
+* Gold Medal: South Korea (Jang Yong-Ho, Kim Chung-Tae, Oh Kyo-Moon)
+* Silver Medal: Italy (Matteo Bisiani, Ilario Di Buò, Michele Frangilli)
+* Bronze Medal: United States (Butch Johnson, Rod White, Vic Wunderle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Archery	O
+35	Team	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	South	B-Gold
+47	Korea	I-Gold
+48	(	O
+49	Jang	O
+50	Yong-Ho	O
+51	,	O
+52	Kim	O
+53	Chung-Tae	O
+54	,	O
+55	Oh	O
+56	Kyo-Moon	O
+57	)	O
+58	*	O
+59	Silver	O
+60	Medal	O
+61	:	O
+62	Italy	B-Silver
+63	(	O
+64	Matteo	O
+65	Bisiani	O
+66	,	O
+67	Ilario	O
+68	Di	O
+69	Buò	O
+70	,	O
+71	Michele	O
+72	Frangilli	O
+73	)	O
+74	*	O
+75	Bronze	O
+76	Medal	O
+77	:	O
+78	United	B-Bronze
+79	States	I-Bronze
+80	(	O
+81	Butch	O
+82	Johnson	O
+83	,	O
+84	Rod	O
+85	White	O
+86	,	O
+87	Vic	O
+88	Wunderle	O
+89	)	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Women's Archery Team event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, Australia, the medals in the Women's Archery Team event were awarded as follows:
+* Gold: South Korea (Yun Mi-Jin, Kim Jo-Sun, and Kim Soo-Nyung)
+* Silver: Ukraine (Nataliya Burdeyna, Olena Sadovnycha, and Kateryna Serdyuk)
+* Bronze: Germany (Barbara Mensing, Cornelia Pfohl, and Sandra Wagner-Sachse)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	Australia	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	Archery	O
+37	Team	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	*	O
+45	Gold	O
+46	:	O
+47	South	B-Gold
+48	Korea	I-Gold
+49	(	O
+50	Yun	O
+51	Mi-Jin	O
+52	,	O
+53	Kim	O
+54	Jo-Sun	O
+55	,	O
+56	and	O
+57	Kim	O
+58	Soo-Nyung	O
+59	)	O
+60	*	O
+61	Silver	O
+62	:	O
+63	Ukraine	B-Silver
+64	(	O
+65	Nataliya	O
+66	Burdeyna	O
+67	,	O
+68	Olena	O
+69	Sadovnycha	O
+70	,	O
+71	and	O
+72	Kateryna	O
+73	Serdyuk	O
+74	)	O
+75	*	O
+76	Bronze	O
+77	:	O
+78	Germany	B-Bronze
+79	(	O
+80	Barbara	O
+81	Mensing	O
+82	,	O
+83	Cornelia	O
+84	Pfohl	O
+85	,	O
+86	and	O
+87	Sandra	O
+88	Wagner-Sachse	O
+89	)	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, the medals in the Men's Artistic Gymnastics Team All-Around event were awarded as follows:
+* Gold: Russia (Alexei Nemov, Maxim Aleshin, Gennady Sveshnikov, Alexei Bondarenko, Nikolai Kryukov, and Yevgeny Podgorny)
+* Silver: China (Zhang Jingin, Xing Aowei, Li Xiaopeng, Xiong Jingbin, Huang Xu, and Yang Wei)
+* Bronze: United States (John Roethlisberger, Stephen McCain, Sean Townsend, Blaine Wilson, Morgan Hamm, and Paul Hamm)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Artistic	O
+37	Gymnastics	O
+38	Team	O
+39	All-Around	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	*	O
+47	Gold	O
+48	:	O
+49	Russia	B-Gold
+50	(	O
+51	Alexei	O
+52	Nemov	O
+53	,	O
+54	Maxim	O
+55	Aleshin	O
+56	,	O
+57	Gennady	O
+58	Sveshnikov	O
+59	,	O
+60	Alexei	O
+61	Bondarenko	O
+62	,	O
+63	Nikolai	O
+64	Kryukov	O
+65	,	O
+66	and	O
+67	Yevgeny	O
+68	Podgorny	O
+69	)	O
+70	*	O
+71	Silver	O
+72	:	O
+73	China	B-Silver
+74	(	O
+75	Zhang	O
+76	Jingin	O
+77	,	O
+78	Xing	O
+79	Aowei	O
+80	,	O
+81	Li	O
+82	Xiaopeng	O
+83	,	O
+84	Xiong	O
+85	Jingbin	O
+86	,	O
+87	Huang	O
+88	Xu	O
+89	,	O
+90	and	O
+91	Yang	O
+92	Wei	O
+93	)	O
+94	*	O
+95	Bronze	O
+96	:	O
+97	United	B-Bronze
+98	States	I-Bronze
+99	(	O
+100	John	O
+101	Roethlisberger	O
+102	,	O
+103	Stephen	O
+104	McCain	O
+105	,	O
+106	Sean	O
+107	Townsend	O
+108	,	O
+109	Blaine	O
+110	Wilson	O
+111	,	O
+112	Morgan	O
+113	Hamm	O
+114	,	O
+115	and	O
+116	Paul	O
+117	Hamm	O
+118	)	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, Australia, the medals in the Women's Artistic Gymnastics Team All-Around event were awarded as follows:
+* Gold: Romania (Simona Amânar, Loredana Boboc, Andreea Isărescu, Maria Olaru, Claudia Presăcan, and Andreea Răducan)
+* Silver: Russia (Anna Chepeleva, Svetlana Khorkina, Anastasia Kolesnikova, Yekaterina Lobaznyuk, Yelena Produnova, and Elena Zamolodchikova)
+* Bronze: United States (Amy Chow, Jamie Dantzscher, Dominique Dawes, Kristen Maloney, Elvire Teza, and Tasha Schwikert)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	Australia	O
+30	,	O
+31	the	O
+32	medals	O
+33	in	O
+34	the	O
+35	Women	O
+36	'	O
+37	s	O
+38	Artistic	O
+39	Gymnastics	O
+40	Team	O
+41	All-Around	O
+42	event	O
+43	were	O
+44	awarded	O
+45	as	O
+46	follows	O
+47	:	O
+48	*	O
+49	Gold	O
+50	:	O
+51	Romania	B-Gold
+52	(	O
+53	Simona	O
+54	Amânar	O
+55	,	O
+56	Loredana	O
+57	Boboc	O
+58	,	O
+59	Andreea	O
+60	Isărescu	O
+61	,	O
+62	Maria	O
+63	Olaru	O
+64	,	O
+65	Claudia	O
+66	Presăcan	O
+67	,	O
+68	and	O
+69	Andreea	O
+70	Răducan	O
+71	)	O
+72	*	O
+73	Silver	O
+74	:	O
+75	Russia	B-Silver
+76	(	O
+77	Anna	O
+78	Chepeleva	O
+79	,	O
+80	Svetlana	O
+81	Khorkina	O
+82	,	O
+83	Anastasia	O
+84	Kolesnikova	O
+85	,	O
+86	Yekaterina	O
+87	Lobaznyuk	O
+88	,	O
+89	Yelena	O
+90	Produnova	O
+91	,	O
+92	and	O
+93	Elena	O
+94	Zamolodchikova	O
+95	)	O
+96	*	O
+97	Bronze	O
+98	:	O
+99	United	B-Bronze
+100	States	I-Bronze
+101	(	O
+102	Amy	O
+103	Chow	O
+104	,	O
+105	Jamie	O
+106	Dantzscher	O
+107	,	O
+108	Dominique	O
+109	Dawes	O
+110	,	O
+111	Kristen	O
+112	Maloney	O
+113	,	O
+114	Elvire	O
+115	Teza	O
+116	,	O
+117	and	O
+118	Tasha	O
+119	Schwikert	O
+120	)	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Men's Water Polo event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, Australia, the medals in the Men's Water Polo event were awarded as follows:
+* Gold Medal: Hungary
+* Silver Medal: Russia
+* Bronze Medal: Yugoslavia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Olympic	O
+23	Games	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	Australia	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Water	O
+37	Polo	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	*	O
+45	Gold	O
+46	Medal	O
+47	:	O
+48	Hungary	B-Gold
+49	*	O
+50	Silver	O
+51	Medal	O
+52	:	O
+53	Russia	B-Silver
+54	*	O
+55	Bronze	O
+56	Medal	O
+57	:	O
+58	Yugoslavia	B-Bronze
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Women's Water Polo event at the 2000 olympic games?At the 2000 Summer Olympics in Sydney, Australia, the Women's Water Polo event was won by:
+* Gold Medal: Australia
+* Silver Medal: Russia
+* Bronze Medal: Netherlands
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2000	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2000	O
+22	Summer	O
+23	Olympics	O
+24	in	O
+25	Sydney	O
+26	,	O
+27	Australia	O
+28	,	O
+29	the	O
+30	Women	O
+31	'	O
+32	s	O
+33	Water	O
+34	Polo	O
+35	event	O
+36	was	O
+37	won	O
+38	by	O
+39	:	O
+40	*	O
+41	Gold	O
+42	Medal	O
+43	:	O
+44	Australia	B-Gold
+45	*	O
+46	Silver	O
+47	Medal	O
+48	:	O
+49	Russia	B-Silver
+50	*	O
+51	Bronze	O
+52	Medal	O
+53	:	O
+54	Netherlands	B-Bronze
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Men's Fencing Épée, Team event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals in the Men's Fencing Épée, Team event were awarded as follows:
+* Gold: Italy (Angelo Mazzoni, Paolo Milanoli, Maurizio Randazzo, Alfredo Rota)
+* Silver: France (Jean-François Di Martino, Robert Leroux, Hugues Obry, Éric Srecki)
+* Bronze: Cuba (Nelson Loyola, Carlos Pedro Noa, Iván Trevejo, Rolando Tucker)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	Fencing	O
+37	Épée	O
+38	,	O
+39	Team	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	*	O
+47	Gold	O
+48	:	O
+49	Italy	B-Gold
+50	(	O
+51	Angelo	O
+52	Mazzoni	O
+53	,	O
+54	Paolo	O
+55	Milanoli	O
+56	,	O
+57	Maurizio	O
+58	Randazzo	O
+59	,	O
+60	Alfredo	O
+61	Rota	O
+62	)	O
+63	*	O
+64	Silver	O
+65	:	O
+66	France	B-Silver
+67	(	O
+68	Jean-François	O
+69	Di	O
+70	Martino	O
+71	,	O
+72	Robert	O
+73	Leroux	O
+74	,	O
+75	Hugues	O
+76	Obry	O
+77	,	O
+78	Éric	O
+79	Srecki	O
+80	)	O
+81	*	O
+82	Bronze	O
+83	:	O
+84	Cuba	B-Bronze
+85	(	O
+86	Nelson	O
+87	Loyola	O
+88	,	O
+89	Carlos	O
+90	Pedro	O
+91	Noa	O
+92	,	O
+93	Iván	O
+94	Trevejo	O
+95	,	O
+96	Rolando	O
+97	Tucker	O
+98	)	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Women's Fencing Épée, Team event at the 2000 olympic games?I do not have information on the winners of the Women's Fencing Épée, Team event at the 2000 Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	I	O
+22	do	O
+23	not	O
+24	have	O
+25	information	O
+26	on	O
+27	the	O
+28	winners	O
+29	of	O
+30	the	O
+31	Women	O
+32	'	O
+33	s	O
+34	Fencing	O
+35	Épée	O
+36	,	O
+37	Team	O
+38	event	O
+39	at	O
+40	the	O
+41	2000	O
+42	Olympic	O
+43	Games	O
+44	.	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Men's Biathlon 4 x 7.5 kilometres Relay event at the 2002 olympic games?The medals in the Men's Biathlon 4 x 7.5 kilometres Relay event at the 2002 Winter Olympics in Salt Lake City were awarded as follows:
+* Gold: Norway (Halvard Hanevold, Frode Andresen, Egil Gjelland, Ole Einar Bjørndalen)
+* Silver: Germany (Ricco Gross, Peter Sendel, Sven Fischer, Frank Luck)
+* Bronze: France (Gilles Marguet, Vincent Defrasne, Julien Robert, Raphaël Poirée)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	2002	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	medals	O
+27	in	O
+28	the	O
+29	Men	O
+30	'	O
+31	s	O
+32	Biathlon	O
+33	4	O
+34	x	O
+35	7	O
+36	.	O
+37	5	O
+38	kilometres	O
+39	Relay	O
+40	event	O
+41	at	O
+42	the	O
+43	2002	O
+44	Winter	O
+45	Olympics	O
+46	in	O
+47	Salt	O
+48	Lake	O
+49	City	O
+50	were	O
+51	awarded	O
+52	as	O
+53	follows	O
+54	:	O
+55	*	O
+56	Gold	O
+57	:	O
+58	Norway	B-Gold
+59	(	O
+60	Halvard	O
+61	Hanevold	O
+62	,	O
+63	Frode	O
+64	Andresen	O
+65	,	O
+66	Egil	O
+67	Gjelland	O
+68	,	O
+69	Ole	O
+70	Einar	O
+71	Bjørndalen	O
+72	)	O
+73	*	O
+74	Silver	O
+75	:	O
+76	Germany	B-Silver
+77	(	O
+78	Ricco	O
+79	Gross	O
+80	,	O
+81	Peter	O
+82	Sendel	O
+83	,	O
+84	Sven	O
+85	Fischer	O
+86	,	O
+87	Frank	O
+88	Luck	O
+89	)	O
+90	*	O
+91	Bronze	O
+92	:	O
+93	France	B-Bronze
+94	(	O
+95	Gilles	O
+96	Marguet	O
+97	,	O
+98	Vincent	O
+99	Defrasne	O
+100	,	O
+101	Julien	O
+102	Robert	O
+103	,	O
+104	Raphaël	O
+105	Poirée	O
+106	)	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Women's Biathlon 4 x 7.5 kilometres Relay event at the 2002 olympic games?The Women's Biathlon 4 x 7.5 kilometres Relay event at the 2002 Winter Olympics in Salt Lake City was won by:
+* Gold: Germany (Katrin Apel, Uschi Disl, Andrea Henkel, Kati Wilhelm)
+* Silver: Norway (Ann Elen Skjelbreid, Linda Tjørhom, Gunn Margit Andreassen, Liv Grete Skjelbreid Poirée)
+* Bronze: Russia (Olga Pyleva, Anna Bogaliy, Galina Kukleva, Svetlana Ishmuratova)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Biathlon	O
+11	4	O
+12	x	O
+13	7	O
+14	.	O
+15	5	O
+16	kilometres	O
+17	Relay	O
+18	event	O
+19	at	O
+20	the	O
+21	2002	O
+22	olympic	O
+23	games	O
+24	?	O
+25	The	O
+26	Women	O
+27	'	O
+28	s	O
+29	Biathlon	O
+30	4	O
+31	x	O
+32	7	O
+33	.	O
+34	5	O
+35	kilometres	O
+36	Relay	O
+37	event	O
+38	at	O
+39	the	O
+40	2002	O
+41	Winter	O
+42	Olympics	O
+43	in	O
+44	Salt	O
+45	Lake	O
+46	City	O
+47	was	O
+48	won	O
+49	by	O
+50	:	O
+51	*	O
+52	Gold	O
+53	:	O
+54	Germany	B-Gold
+55	(	O
+56	Katrin	O
+57	Apel	O
+58	,	O
+59	Uschi	O
+60	Disl	O
+61	,	O
+62	Andrea	O
+63	Henkel	O
+64	,	O
+65	Kati	O
+66	Wilhelm	O
+67	)	O
+68	*	O
+69	Silver	O
+70	:	O
+71	Norway	B-Silver
+72	(	O
+73	Ann	O
+74	Elen	O
+75	Skjelbreid	O
+76	,	O
+77	Linda	O
+78	Tjørhom	O
+79	,	O
+80	Gunn	O
+81	Margit	O
+82	Andreassen	O
+83	,	O
+84	Liv	O
+85	Grete	O
+86	Skjelbreid	O
+87	Poirée	O
+88	)	O
+89	*	O
+90	Bronze	O
+91	:	O
+92	Russia	B-Bronze
+93	(	O
+94	Olga	O
+95	Pyleva	O
+96	,	O
+97	Anna	O
+98	Bogaliy	O
+99	,	O
+100	Galina	O
+101	Kukleva	O
+102	,	O
+103	Svetlana	O
+104	Ishmuratova	O
+105	)	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Men's Curling event at the 2002 olympic games?At the 2002 Winter Olympics in Salt Lake City, the medals in the Men's Curling event were awarded as follows:
+* Gold Medal: Norway (Pål Trulsen, Lars Vågberg, Flemming Davanger, Bent Ånund Ramsfjell, and Torger Nergård)
+* Silver Medal: Canada (Kevin Martin, Don Walchuk, Carter Rycroft, Don Bartlett, and Ken Trulsen)
+* Bronze Medal: Switzerland (Andreas Schwaller, Christof Schwaller, Robert Hürlimann, Urs Bircher, and Marco Ramstein)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2002	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2002	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Salt	O
+25	Lake	O
+26	City	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Curling	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Norway	B-Gold
+47	(	O
+48	Pål	O
+49	Trulsen	O
+50	,	O
+51	Lars	O
+52	Vågberg	O
+53	,	O
+54	Flemming	O
+55	Davanger	O
+56	,	O
+57	Bent	O
+58	Ånund	O
+59	Ramsfjell	O
+60	,	O
+61	and	O
+62	Torger	O
+63	Nergård	O
+64	)	O
+65	*	O
+66	Silver	O
+67	Medal	O
+68	:	O
+69	Canada	B-Silver
+70	(	O
+71	Kevin	O
+72	Martin	O
+73	,	O
+74	Don	O
+75	Walchuk	O
+76	,	O
+77	Carter	O
+78	Rycroft	O
+79	,	O
+80	Don	O
+81	Bartlett	O
+82	,	O
+83	and	O
+84	Ken	O
+85	Trulsen	O
+86	)	O
+87	*	O
+88	Bronze	O
+89	Medal	O
+90	:	O
+91	Switzerland	B-Bronze
+92	(	O
+93	Andreas	O
+94	Schwaller	O
+95	,	O
+96	Christof	O
+97	Schwaller	O
+98	,	O
+99	Robert	O
+100	Hürlimann	O
+101	,	O
+102	Urs	O
+103	Bircher	O
+104	,	O
+105	and	O
+106	Marco	O
+107	Ramstein	O
+108	)	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Women's Curling event at the 2002 olympic games?At the 2002 Winter Olympics in Salt Lake City, the medals in the Women's Curling event were awarded as follows:
+* Gold Medal: Great Britain (Skip: Rhona Martin)
+* Silver Medal: Switzerland (Skip: Luzia Ebnöther)
+* Bronze Medal: Canada (Skip: Kelley Law)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2002	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2002	O
+21	Winter	O
+22	Olympics	O
+23	in	O
+24	Salt	O
+25	Lake	O
+26	City	O
+27	,	O
+28	the	O
+29	medals	O
+30	in	O
+31	the	O
+32	Women	O
+33	'	O
+34	s	O
+35	Curling	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Great	B-Gold
+47	Britain	I-Gold
+48	(	O
+49	Skip	O
+50	:	O
+51	Rhona	O
+52	Martin	O
+53	)	O
+54	*	O
+55	Silver	O
+56	Medal	O
+57	:	O
+58	Switzerland	B-Silver
+59	(	O
+60	Skip	O
+61	:	O
+62	Luzia	O
+63	Ebnöther	O
+64	)	O
+65	*	O
+66	Bronze	O
+67	Medal	O
+68	:	O
+69	Canada	B-Bronze
+70	(	O
+71	Skip	O
+72	:	O
+73	Kelley	O
+74	Law	O
+75	)	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Men's Ice Hockey event at the 2002 olympic games?The medal winners in the Men's Ice Hockey event at the 2002 Winter Olympic Games in Salt Lake City, Utah, were:
+* Gold Medal: Canada
+* Silver Medal: United States
+* Bronze Medal: Russia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2002	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	medal	O
+21	winners	O
+22	in	O
+23	the	O
+24	Men	O
+25	'	O
+26	s	O
+27	Ice	O
+28	Hockey	O
+29	event	O
+30	at	O
+31	the	O
+32	2002	O
+33	Winter	O
+34	Olympic	O
+35	Games	O
+36	in	O
+37	Salt	O
+38	Lake	O
+39	City	O
+40	,	O
+41	Utah	O
+42	,	O
+43	were	O
+44	:	O
+45	*	O
+46	Gold	O
+47	Medal	O
+48	:	O
+49	Canada	B-Gold
+50	*	O
+51	Silver	O
+52	Medal	O
+53	:	O
+54	United	B-Silver
+55	States	I-Silver
+56	*	O
+57	Bronze	O
+58	Medal	O
+59	:	O
+60	Russia	B-Bronze
+
+
+
+# sent_id = 67
+# text = Who won the medals in the Women's Ice Hockey event at the 2002 olympic games?At the 2002 Winter Olympics in Salt Lake City, the medal winners in the Women's Ice Hockey event were:
+* Gold Medal: Canada
+* Silver Medal: United States
+* Bronze Medal: Sweden
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2002	O
+16	olympic	O
+17	games	O
+18	?	O
+19	At	O
+20	the	O
+21	2002	O
+22	Winter	O
+23	Olympics	O
+24	in	O
+25	Salt	O
+26	Lake	O
+27	City	O
+28	,	O
+29	the	O
+30	medal	O
+31	winners	O
+32	in	O
+33	the	O
+34	Women	O
+35	'	O
+36	s	O
+37	Ice	O
+38	Hockey	O
+39	event	O
+40	were	O
+41	:	O
+42	*	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Canada	B-Gold
+47	*	O
+48	Silver	O
+49	Medal	O
+50	:	O
+51	United	B-Silver
+52	States	I-Silver
+53	*	O
+54	Bronze	O
+55	Medal	O
+56	:	O
+57	Sweden	B-Bronze
+
+

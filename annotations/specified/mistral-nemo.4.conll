@@ -1,0 +1,11056 @@
+# sent_id = 0
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2016 olympic games?The Women's Rowing Quadruple Sculls event at the 2016 Olympic Games in Rio de Janeiro was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Emily Regan, Kerry Simmonds, Amanda Elmore, Lauren Schmetterling)
+2. **Silver Medal**: Germany (Annekatrin Thiele, Carina Bär, Julia Lier, Lisa Schmidla)
+3. **Bronze Medal**: Netherlands (Chantal Achterberg, Stephanie de Gooijer, Inge Janssen, Carline Bouw)
+# status = {"0":"accepted"}
+# time (ms) = 2783
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	team	O
+42	from	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	(	O
+61	Emily	O
+62	Regan	O
+63	,	O
+64	Kerry	O
+65	Simmonds	O
+66	,	O
+67	Amanda	O
+68	Elmore	O
+69	,	O
+70	Lauren	O
+71	Schmetterling	O
+72	)	O
+73	2	O
+74	.	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	**:	O
+79	Germany	B-Silver
+80	(	O
+81	Annekatrin	O
+82	Thiele	O
+83	,	O
+84	Carina	O
+85	Bär	O
+86	,	O
+87	Julia	O
+88	Lier	O
+89	,	O
+90	Lisa	O
+91	Schmidla	O
+92	)	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Netherlands	B-Bronze
+100	(	O
+101	Chantal	O
+102	Achterberg	O
+103	,	O
+104	Stephanie	O
+105	de	O
+106	Gooijer	O
+107	,	O
+108	Inge	O
+109	Janssen	O
+110	,	O
+111	Carline	O
+112	Bouw	O
+113	)	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Men's Rugby Rugby Sevens event at the 2016 olympic games?The Men's Rugby Sevens event at the 2016 Olympic Games was won by Fiji. Here are the medalists:
+1. **Gold Medal**: Fiji
+   - Players: Osea Kolinisau, Jerry Tuwai, Josua Vakurunabili, Masivesi Dakuwaqa, Semi Kunatani, Leone Nakarawa, Viliame Mata, Kitione Taliga, Samisoni Viriviri, Asaeli Tikoirotuma, Jasa Veremalua, Vatemo Ravouvou, Savenaca Rawaca
+2. **Silver Medal**: Great Britain
+   - Players: Dan Norton, James Rodwell, Mark Bennett, Phil Burgess, Sam Cross, Ollie Lindsay-Hague, Ruaridh McConnochie, Tom Mitchell, Dan Bibby, Sam Egerton, James Davies, Marcus Watson, Mike Friday (Coach)
+3. **Bronze Medal**: South Africa
+   - Players: Cheslin Kolbe, Seabelo Senatla, Dylan Sage, Kwagga Smith, Philip Snyman, Tim Agaba, Werner Kok, Francois Hougaard, Cecil Afrika, Justin Geduld, Rosko Specman, Juan de Jongh, Neil Powell (Coach)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rugby	O
+11	Rugby	O
+12	Sevens	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rugby	O
+25	Sevens	O
+26	event	O
+27	at	O
+28	the	O
+29	2016	O
+30	Olympic	O
+31	Games	O
+32	was	O
+33	won	O
+34	by	O
+35	Fiji	O
+36	.	O
+37	Here	O
+38	are	O
+39	the	O
+40	medalists	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Fiji	B-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Osea	O
+53	Kolinisau	O
+54	,	O
+55	Jerry	O
+56	Tuwai	O
+57	,	O
+58	Josua	O
+59	Vakurunabili	O
+60	,	O
+61	Masivesi	O
+62	Dakuwaqa	O
+63	,	O
+64	Semi	O
+65	Kunatani	O
+66	,	O
+67	Leone	O
+68	Nakarawa	O
+69	,	O
+70	Viliame	O
+71	Mata	O
+72	,	O
+73	Kitione	O
+74	Taliga	O
+75	,	O
+76	Samisoni	O
+77	Viriviri	O
+78	,	O
+79	Asaeli	O
+80	Tikoirotuma	O
+81	,	O
+82	Jasa	O
+83	Veremalua	O
+84	,	O
+85	Vatemo	O
+86	Ravouvou	O
+87	,	O
+88	Savenaca	O
+89	Rawaca	O
+90	2	O
+91	.	O
+92	**	O
+93	Silver	O
+94	Medal	O
+95	**:	O
+96	Great	B-Silver
+97	Britain	I-Silver
+98	-	O
+99	Players	O
+100	:	O
+101	Dan	O
+102	Norton	O
+103	,	O
+104	James	O
+105	Rodwell	O
+106	,	O
+107	Mark	O
+108	Bennett	O
+109	,	O
+110	Phil	O
+111	Burgess	O
+112	,	O
+113	Sam	O
+114	Cross	O
+115	,	O
+116	Ollie	O
+117	Lindsay-Hague	O
+118	,	O
+119	Ruaridh	O
+120	McConnochie	O
+121	,	O
+122	Tom	O
+123	Mitchell	O
+124	,	O
+125	Dan	O
+126	Bibby	O
+127	,	O
+128	Sam	O
+129	Egerton	O
+130	,	O
+131	James	O
+132	Davies	O
+133	,	O
+134	Marcus	O
+135	Watson	O
+136	,	O
+137	Mike	O
+138	Friday	O
+139	(	O
+140	Coach	O
+141	)	O
+142	3	O
+143	.	O
+144	**	O
+145	Bronze	O
+146	Medal	O
+147	**:	O
+148	South	B-Bronze
+149	Africa	I-Bronze
+150	-	O
+151	Players	O
+152	:	O
+153	Cheslin	O
+154	Kolbe	O
+155	,	O
+156	Seabelo	O
+157	Senatla	O
+158	,	O
+159	Dylan	O
+160	Sage	O
+161	,	O
+162	Kwagga	O
+163	Smith	O
+164	,	O
+165	Philip	O
+166	Snyman	O
+167	,	O
+168	Tim	O
+169	Agaba	O
+170	,	O
+171	Werner	O
+172	Kok	O
+173	,	O
+174	Francois	O
+175	Hougaard	O
+176	,	O
+177	Cecil	O
+178	Afrika	O
+179	,	O
+180	Justin	O
+181	Geduld	O
+182	,	O
+183	Rosko	O
+184	Specman	O
+185	,	O
+186	Juan	O
+187	de	O
+188	Jongh	O
+189	,	O
+190	Neil	O
+191	Powell	O
+192	(	O
+193	Coach	O
+194	)	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Women's Rugby Rugby Sevens event at the 2016 olympic games?The Women's Rugby Sevens event at the 2016 Olympic Games was won by Australia. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Players: Shannon Parry, Emilee Cherry, Alicia Quirk, Chloe Dalton, Ellia Green, Amy Turner, Emma Tonegato, Georgina Friedrichs, Evania Pelite, Sharni Williams, Charlotte Caslick, Alicia Ostwald
+2. **Silver Medal**: New Zealand
+   - Players: Sarah Goss, Gayle Broughton, Tyla Nathan-Wong, Kelly Brazier, Huriana Manuel, Kayla McAlister, Terina Te Tamaki, Ruby Tui, Niall Williams, Portia Woodman, Shakira Baker, Michaela Blyde
+3. **Bronze Medal**: Canada
+   - Players: Ghislaine Landry, Kayla Moleschi, Megan Lukan, Karen Paquin, Brittany Benn, Ashley Steacy, Kelly Russell, Bianca Farella, Natasha Watcham-Roy, Charity Williams, Jen Kish, Julia Greenshields
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rugby	O
+11	Rugby	O
+12	Sevens	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rugby	O
+25	Sevens	O
+26	event	O
+27	at	O
+28	the	O
+29	2016	O
+30	Olympic	O
+31	Games	O
+32	was	O
+33	won	O
+34	by	O
+35	Australia	O
+36	.	O
+37	Here	O
+38	are	O
+39	the	O
+40	medalists	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Australia	B-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Shannon	O
+53	Parry	O
+54	,	O
+55	Emilee	O
+56	Cherry	O
+57	,	O
+58	Alicia	O
+59	Quirk	O
+60	,	O
+61	Chloe	O
+62	Dalton	O
+63	,	O
+64	Ellia	O
+65	Green	O
+66	,	O
+67	Amy	O
+68	Turner	O
+69	,	O
+70	Emma	O
+71	Tonegato	O
+72	,	O
+73	Georgina	O
+74	Friedrichs	O
+75	,	O
+76	Evania	O
+77	Pelite	O
+78	,	O
+79	Sharni	O
+80	Williams	O
+81	,	O
+82	Charlotte	O
+83	Caslick	O
+84	,	O
+85	Alicia	O
+86	Ostwald	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	New	B-Silver
+94	Zealand	I-Silver
+95	-	O
+96	Players	O
+97	:	O
+98	Sarah	O
+99	Goss	O
+100	,	O
+101	Gayle	O
+102	Broughton	O
+103	,	O
+104	Tyla	O
+105	Nathan-Wong	O
+106	,	O
+107	Kelly	O
+108	Brazier	O
+109	,	O
+110	Huriana	O
+111	Manuel	O
+112	,	O
+113	Kayla	O
+114	McAlister	O
+115	,	O
+116	Terina	O
+117	Te	O
+118	Tamaki	O
+119	,	O
+120	Ruby	O
+121	Tui	O
+122	,	O
+123	Niall	O
+124	Williams	O
+125	,	O
+126	Portia	O
+127	Woodman	O
+128	,	O
+129	Shakira	O
+130	Baker	O
+131	,	O
+132	Michaela	O
+133	Blyde	O
+134	3	O
+135	.	O
+136	**	O
+137	Bronze	O
+138	Medal	O
+139	**:	O
+140	Canada	B-Bronze
+141	-	O
+142	Players	O
+143	:	O
+144	Ghislaine	O
+145	Landry	O
+146	,	O
+147	Kayla	O
+148	Moleschi	O
+149	,	O
+150	Megan	O
+151	Lukan	O
+152	,	O
+153	Karen	O
+154	Paquin	O
+155	,	O
+156	Brittany	O
+157	Benn	O
+158	,	O
+159	Ashley	O
+160	Steacy	O
+161	,	O
+162	Kelly	O
+163	Russell	O
+164	,	O
+165	Bianca	O
+166	Farella	O
+167	,	O
+168	Natasha	O
+169	Watcham-Roy	O
+170	,	O
+171	Charity	O
+172	Williams	O
+173	,	O
+174	Jen	O
+175	Kish	O
+176	,	O
+177	Julia	O
+178	Greenshields	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Men's Archery Team event at the 2016 olympic games?The Men's Archery Team event at the 2016 Olympic Games was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea (Kim Woo-jin, Ku Bon-chan, Lee Seung-yun)
+2. **Silver Medal**: United States (Brady Ellison, Zach Garrett, Jake Kaminski)
+3. **Bronze Medal**: Australia (Alec Potts, Ryan Tyack, Taylor Worth)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	team	O
+36	from	O
+37	South	O
+38	Korea	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	South	B-Gold
+52	Korea	I-Gold
+53	(	O
+54	Kim	O
+55	Woo-jin	O
+56	,	O
+57	Ku	O
+58	Bon-chan	O
+59	,	O
+60	Lee	O
+61	Seung-yun	O
+62	)	O
+63	2	O
+64	.	O
+65	**	O
+66	Silver	O
+67	Medal	O
+68	**:	O
+69	United	B-Silver
+70	States	I-Silver
+71	(	O
+72	Brady	O
+73	Ellison	O
+74	,	O
+75	Zach	O
+76	Garrett	O
+77	,	O
+78	Jake	O
+79	Kaminski	O
+80	)	O
+81	3	O
+82	.	O
+83	**	O
+84	Bronze	O
+85	Medal	O
+86	**:	O
+87	Australia	B-Bronze
+88	(	O
+89	Alec	O
+90	Potts	O
+91	,	O
+92	Ryan	O
+93	Tyack	O
+94	,	O
+95	Taylor	O
+96	Worth	O
+97	)	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Women's Archery Team event at the 2016 olympic games?The Women's Archery Team event at the 2016 Olympic Games in Rio de Janeiro was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea (Ki Bo-bae, Choi Mi-sun, Chang Hye-jin)
+2. **Silver Medal**: Russia (Tuiana Dashidorzhieva, Ksenia Perova, Inna Stepanova)
+3. **Bronze Medal**: Chinese Taipei (Le Chien-ying, Lin Shih-chia, Tan Ya-ting)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	South	O
+42	Korea	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	South	B-Gold
+56	Korea	I-Gold
+57	(	O
+58	Ki	O
+59	Bo-bae	O
+60	,	O
+61	Choi	O
+62	Mi-sun	O
+63	,	O
+64	Chang	O
+65	Hye-jin	O
+66	)	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Russia	B-Silver
+74	(	O
+75	Tuiana	O
+76	Dashidorzhieva	O
+77	,	O
+78	Ksenia	O
+79	Perova	O
+80	,	O
+81	Inna	O
+82	Stepanova	O
+83	)	O
+84	3	O
+85	.	O
+86	**	O
+87	Bronze	O
+88	Medal	O
+89	**:	O
+90	Chinese	B-Bronze
+91	Taipei	I-Bronze
+92	(	O
+93	Le	O
+94	Chien-ying	O
+95	,	O
+96	Lin	O
+97	Shih-chia	O
+98	,	O
+99	Tan	O
+100	Ya-ting	O
+101	)	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Men's Table Tennis Team event at the 2016 olympic games?The Men's Table Tennis Team event at the 2016 Olympic Games in Rio de Janeiro was won by China. Here are the medalists:
+1. **Gold Medal**: China
+   - Zhang Jike
+   - Ma Long
+   - Xu Xin
+2. **Silver Medal**: Japan
+   - Jun Mizutani
+   - Koki Niwa
+   - Maharu Yoshimura
+3. **Bronze Medal**: Germany
+   - Timo Boll
+   - Dimitrij Ovtcharov
+   - Patrick Franziska
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	China	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	China	B-Gold
+54	-	O
+55	Zhang	O
+56	Jike	O
+57	-	O
+58	Ma	O
+59	Long	O
+60	-	O
+61	Xu	O
+62	Xin	O
+63	2	O
+64	.	O
+65	**	O
+66	Silver	O
+67	Medal	O
+68	**:	O
+69	Japan	B-Silver
+70	-	O
+71	Jun	O
+72	Mizutani	O
+73	-	O
+74	Koki	O
+75	Niwa	O
+76	-	O
+77	Maharu	O
+78	Yoshimura	O
+79	3	O
+80	.	O
+81	**	O
+82	Bronze	O
+83	Medal	O
+84	**:	O
+85	Germany	B-Bronze
+86	-	O
+87	Timo	O
+88	Boll	O
+89	-	O
+90	Dimitrij	O
+91	Ovtcharov	O
+92	-	O
+93	Patrick	O
+94	Franziska	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Women's Table Tennis Team event at the 2016 olympic games?The Women's Table Tennis Team event at the 2016 Olympic Games in Rio de Janeiro was won by China. Here are the medalists:
+1. **Gold Medal**: China
+   - Ding Ning
+   - Li Xiaoxia
+   - Liu Shiwen
+2. **Silver Medal**: Germany
+   - Han Ying
+   - Petrissa Solja
+   - Shan Xiaona
+3. **Bronze Medal**: Japan
+   - Ai Fukuhara
+   - Kasumi Ishikawa
+   - Mima Ito
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2016	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Rio	O
+35	de	O
+36	Janeiro	O
+37	was	O
+38	won	O
+39	by	O
+40	China	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	China	B-Gold
+54	-	O
+55	Ding	O
+56	Ning	O
+57	-	O
+58	Li	O
+59	Xiaoxia	O
+60	-	O
+61	Liu	O
+62	Shiwen	O
+63	2	O
+64	.	O
+65	**	O
+66	Silver	O
+67	Medal	O
+68	**:	O
+69	Germany	B-Silver
+70	-	O
+71	Han	O
+72	Ying	O
+73	-	O
+74	Petrissa	O
+75	Solja	O
+76	-	O
+77	Shan	O
+78	Xiaona	O
+79	3	O
+80	.	O
+81	**	O
+82	Bronze	O
+83	Medal	O
+84	**:	O
+85	Japan	B-Bronze
+86	-	O
+87	Ai	O
+88	Fukuhara	O
+89	-	O
+90	Kasumi	O
+91	Ishikawa	O
+92	-	O
+93	Mima	O
+94	Ito	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2016 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 2016 Olympic Games in Rio de Janeiro was won by the following teams:
+1. **Gold Medal**: Japan
+   - Kohei Uchimura
+   - Ryohei Kato
+   - Kenzō Shirai
+   - Yusuke Tanaka
+   - Naoto Sugiyama
+2. **Silver Medal**: Russia
+   - Denis Ablyazin
+   - Ivan Stretovich
+   - Nikolai Kuksenkov
+   - David Belyavskiy
+   - Nikita Nagornyy
+3. **Bronze Medal**: China
+   - Deng Shudi
+   - Lin Chaopeng
+   - Zhang Chenglong
+   - Liu Yang
+   - You Hao
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2016	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Rio	O
+37	de	O
+38	Janeiro	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	following	O
+44	teams	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Japan	B-Gold
+53	-	O
+54	Kohei	O
+55	Uchimura	O
+56	-	O
+57	Ryohei	O
+58	Kato	O
+59	-	O
+60	Kenzō	O
+61	Shirai	O
+62	-	O
+63	Yusuke	O
+64	Tanaka	O
+65	-	O
+66	Naoto	O
+67	Sugiyama	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	Russia	B-Silver
+75	-	O
+76	Denis	O
+77	Ablyazin	O
+78	-	O
+79	Ivan	O
+80	Stretovich	O
+81	-	O
+82	Nikolai	O
+83	Kuksenkov	O
+84	-	O
+85	David	O
+86	Belyavskiy	O
+87	-	O
+88	Nikita	O
+89	Nagornyy	O
+90	3	O
+91	.	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	China	B-Bronze
+97	-	O
+98	Deng	O
+99	Shudi	O
+100	-	O
+101	Lin	O
+102	Chaopeng	O
+103	-	O
+104	Zhang	O
+105	Chenglong	O
+106	-	O
+107	Liu	O
+108	Yang	O
+109	-	O
+110	You	O
+111	Hao	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2016 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 2016 Olympic Games in Rio de Janeiro was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Simone Biles
+   - Gabby Douglas
+   - Laurie Hernandez
+   - Madison Kocian
+   - Aly Raisman
+2. **Silver Medal**: Russia
+   - Angelina Melnikova
+   - Aliya Mustafina
+   - Daria Spiridonova
+   - Maria Paseka
+   - Seda Tutkhalyan
+3. **Bronze Medal**: China
+   - Fan Yilin
+   - Mao Yi
+   - Shang Chunsong
+   - Wang Yan
+   - Zhou Shuang
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2016	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Rio	O
+37	de	O
+38	Janeiro	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	United	O
+44	States	O
+45	team	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Simone	O
+62	Biles	O
+63	-	O
+64	Gabby	O
+65	Douglas	O
+66	-	O
+67	Laurie	O
+68	Hernandez	O
+69	-	O
+70	Madison	O
+71	Kocian	O
+72	-	O
+73	Aly	O
+74	Raisman	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Russia	B-Silver
+82	-	O
+83	Angelina	O
+84	Melnikova	O
+85	-	O
+86	Aliya	O
+87	Mustafina	O
+88	-	O
+89	Daria	O
+90	Spiridonova	O
+91	-	O
+92	Maria	O
+93	Paseka	O
+94	-	O
+95	Seda	O
+96	Tutkhalyan	O
+97	3	O
+98	.	O
+99	**	O
+100	Bronze	O
+101	Medal	O
+102	**:	O
+103	China	B-Bronze
+104	-	O
+105	Fan	O
+106	Yilin	O
+107	-	O
+108	Mao	O
+109	Yi	O
+110	-	O
+111	Shang	O
+112	Chunsong	O
+113	-	O
+114	Wang	O
+115	Yan	O
+116	-	O
+117	Zhou	O
+118	Shuang	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Men's Cycling Track Team Pursuit, 4,000 metres event at the 2016 olympic games?The Men's Cycling Track Team Pursuit, 4,000 metres event at the 2016 Olympic Games in Rio de Janeiro was won by the team from Great Britain. Here are the medalists:
+1. **Gold Medal**: Great Britain
+   - Steven Burke
+   - Owain Doull
+   - Edward Clancy
+   - Bradley Wiggins
+2. **Silver Medal**: Australia
+   - Rohan Dennis
+   - Michael Hepburn
+   - Alexander Edmondson
+   - Jack Bobridge
+3. **Bronze Medal**: Denmark
+   - Lasse Norman Hansen
+   - Niklas Larsen
+   - Casper von Folsach
+   - Rasmus Quaade
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Cycling	O
+11	Track	O
+12	Team	O
+13	Pursuit	O
+14	,	O
+15	4	O
+16	,	O
+17	000	O
+18	metres	O
+19	event	O
+20	at	O
+21	the	O
+22	2016	O
+23	olympic	O
+24	games	O
+25	?	O
+26	The	O
+27	Men	O
+28	'	O
+29	s	O
+30	Cycling	O
+31	Track	O
+32	Team	O
+33	Pursuit	O
+34	,	O
+35	4	O
+36	,	O
+37	000	O
+38	metres	O
+39	event	O
+40	at	O
+41	the	O
+42	2016	O
+43	Olympic	O
+44	Games	O
+45	in	O
+46	Rio	O
+47	de	O
+48	Janeiro	O
+49	was	O
+50	won	O
+51	by	O
+52	the	O
+53	team	O
+54	from	O
+55	Great	O
+56	Britain	O
+57	.	O
+58	Here	O
+59	are	O
+60	the	O
+61	medalists	O
+62	:	O
+63	1	O
+64	.	O
+65	**	O
+66	Gold	O
+67	Medal	O
+68	**:	O
+69	Great	B-Gold
+70	Britain	I-Gold
+71	-	O
+72	Steven	O
+73	Burke	O
+74	-	O
+75	Owain	O
+76	Doull	O
+77	-	O
+78	Edward	O
+79	Clancy	O
+80	-	O
+81	Bradley	O
+82	Wiggins	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	Australia	B-Silver
+90	-	O
+91	Rohan	O
+92	Dennis	O
+93	-	O
+94	Michael	O
+95	Hepburn	O
+96	-	O
+97	Alexander	O
+98	Edmondson	O
+99	-	O
+100	Jack	O
+101	Bobridge	O
+102	3	O
+103	.	O
+104	**	O
+105	Bronze	O
+106	Medal	O
+107	**:	O
+108	Denmark	B-Bronze
+109	-	O
+110	Lasse	O
+111	Norman	O
+112	Hansen	O
+113	-	O
+114	Niklas	O
+115	Larsen	O
+116	-	O
+117	Casper	O
+118	von	O
+119	Folsach	O
+120	-	O
+121	Rasmus	O
+122	Quaade	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Women's Cycling Track Team Pursuit, 4,000 metres event at the 2016 olympic games?The Women's Cycling Track Team Pursuit, 4,000 metres event at the 2016 Olympic Games was won by the team from Great Britain. Here are the medalists:
+1. **Gold Medal**: Great Britain
+   - Katie Archibald
+   - Laura Trott
+   - Elinor Barker
+   - Joanna Rowsell Shand
+2. **Silver Medal**: United States
+   - Sarah Hammer
+   - Jennifer Valente
+   - Chloe Dygert
+   - Kelly Catlin
+3. **Bronze Medal**: Canada
+   - Allison Beveridge
+   - Jasmin Glaesser
+   - Laura Brown
+   - Kirsti Lay
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Cycling	O
+11	Track	O
+12	Team	O
+13	Pursuit	O
+14	,	O
+15	4	O
+16	,	O
+17	000	O
+18	metres	O
+19	event	O
+20	at	O
+21	the	O
+22	2016	O
+23	olympic	O
+24	games	O
+25	?	O
+26	The	O
+27	Women	O
+28	'	O
+29	s	O
+30	Cycling	O
+31	Track	O
+32	Team	O
+33	Pursuit	O
+34	,	O
+35	4	O
+36	,	O
+37	000	O
+38	metres	O
+39	event	O
+40	at	O
+41	the	O
+42	2016	O
+43	Olympic	O
+44	Games	O
+45	was	O
+46	won	O
+47	by	O
+48	the	O
+49	team	O
+50	from	O
+51	Great	O
+52	Britain	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	Great	B-Gold
+66	Britain	I-Gold
+67	-	O
+68	Katie	O
+69	Archibald	O
+70	-	O
+71	Laura	O
+72	Trott	O
+73	-	O
+74	Elinor	O
+75	Barker	O
+76	-	O
+77	Joanna	O
+78	Rowsell	O
+79	Shand	O
+80	2	O
+81	.	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	United	B-Silver
+87	States	I-Silver
+88	-	O
+89	Sarah	O
+90	Hammer	O
+91	-	O
+92	Jennifer	O
+93	Valente	O
+94	-	O
+95	Chloe	O
+96	Dygert	O
+97	-	O
+98	Kelly	O
+99	Catlin	O
+100	3	O
+101	.	O
+102	**	O
+103	Bronze	O
+104	Medal	O
+105	**:	O
+106	Canada	B-Bronze
+107	-	O
+108	Allison	O
+109	Beveridge	O
+110	-	O
+111	Jasmin	O
+112	Glaesser	O
+113	-	O
+114	Laura	O
+115	Brown	O
+116	-	O
+117	Kirsti	O
+118	Lay	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Men's Water Polo event at the 2016 olympic games?The Men's Water Polo event at the 2016 Olympic Games in Rio de Janeiro was won by the Serbian team. Here are the medalists:
+1. **Gold Medal**: Serbia
+   - Players: Gojko Pijetlović, Dušan Mandić, Filip Filipović, Andrija Prlainović, Stefan Mitrović, Duško Pijetlović, Gojko Degenek, Živko Gocić, Slobodan Nikić, Miloš Ćuk, Dušan Martić, Nikola Jandić, Branislav Mitrović
+2. **Silver Medal**: Croatia
+   - Players: Josip Pavić, Frano Karač, Maro Joković, Andro Bušlje, Xavi García, Luka Lončar, Frano Vićan, Ivan Krapić, Anđelo Šetka, Lovre Miloš, Ivan Marcelić, Marko Bijač, Josip Šutalo
+3. **Bronze Medal**: Hungary
+   - Players: Viktor Nagy, Balázs Hárai, Dénes Varga, Norbert Hosnyánszky, Krisztián Manhercz, Dániel Varga, Balázs Erdélyi, Marton Szivós, Tamás Mezei, Gergő Zalánki, Nándor Fahed, Soma Vogel, Soma Horti
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	Serbian	O
+40	team	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Serbia	B-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Gojko	O
+58	Pijetlović	O
+59	,	O
+60	Dušan	O
+61	Mandić	O
+62	,	O
+63	Filip	O
+64	Filipović	O
+65	,	O
+66	Andrija	O
+67	Prlainović	O
+68	,	O
+69	Stefan	O
+70	Mitrović	O
+71	,	O
+72	Duško	O
+73	Pijetlović	O
+74	,	O
+75	Gojko	O
+76	Degenek	O
+77	,	O
+78	Živko	O
+79	Gocić	O
+80	,	O
+81	Slobodan	O
+82	Nikić	O
+83	,	O
+84	Miloš	O
+85	Ćuk	O
+86	,	O
+87	Dušan	O
+88	Martić	O
+89	,	O
+90	Nikola	O
+91	Jandić	O
+92	,	O
+93	Branislav	O
+94	Mitrović	O
+95	2	O
+96	.	O
+97	**	O
+98	Silver	O
+99	Medal	O
+100	**:	O
+101	Croatia	B-Silver
+102	-	O
+103	Players	O
+104	:	O
+105	Josip	O
+106	Pavić	O
+107	,	O
+108	Frano	O
+109	Karač	O
+110	,	O
+111	Maro	O
+112	Joković	O
+113	,	O
+114	Andro	O
+115	Bušlje	O
+116	,	O
+117	Xavi	O
+118	García	O
+119	,	O
+120	Luka	O
+121	Lončar	O
+122	,	O
+123	Frano	O
+124	Vićan	O
+125	,	O
+126	Ivan	O
+127	Krapić	O
+128	,	O
+129	Anđelo	O
+130	Šetka	O
+131	,	O
+132	Lovre	O
+133	Miloš	O
+134	,	O
+135	Ivan	O
+136	Marcelić	O
+137	,	O
+138	Marko	O
+139	Bijač	O
+140	,	O
+141	Josip	O
+142	Šutalo	O
+143	3	O
+144	.	O
+145	**	O
+146	Bronze	O
+147	Medal	O
+148	**:	O
+149	Hungary	B-Bronze
+150	-	O
+151	Players	O
+152	:	O
+153	Viktor	O
+154	Nagy	O
+155	,	O
+156	Balázs	O
+157	Hárai	O
+158	,	O
+159	Dénes	O
+160	Varga	O
+161	,	O
+162	Norbert	O
+163	Hosnyánszky	O
+164	,	O
+165	Krisztián	O
+166	Manhercz	O
+167	,	O
+168	Dániel	O
+169	Varga	O
+170	,	O
+171	Balázs	O
+172	Erdélyi	O
+173	,	O
+174	Marton	O
+175	Szivós	O
+176	,	O
+177	Tamás	O
+178	Mezei	O
+179	,	O
+180	Gergő	O
+181	Zalánki	O
+182	,	O
+183	Nándor	O
+184	Fahed	O
+185	,	O
+186	Soma	O
+187	Vogel	O
+188	,	O
+189	Soma	O
+190	Horti	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Women's Water Polo event at the 2016 olympic games?The Women's Water Polo tournament at the 2016 Olympic Games in Rio de Janeiro was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Ashleigh Johnson (GK), Kaleigh Gilchrist, Melissa Seidemann, Rachel Fattal, Maggie Steffens, Courtney Mathewson, Kiley Neushul, Maddie Musselman, Makenzie Fischer, Aria Fischer, and Amy Ridge.
+2. **Silver Medal**: Italy
+   - Giula Gorlero (GK), Rosaria Aiello, Chiara Tabani, Federica Radicchi, Roberta Bianconi, Arianna Garibotti, Tania Di Mario, Elena Linari, Giulia Emmolo, Valeria Palmieri, and Laura Teani.
+3. **Bronze Medal**: Russia
+   - Anna Ustyukhina (GK), Evgeniya Ivanova, Evgeniya Soboleva, Elvina Karimova, Olga Gorbunova, Nadezhda Fedotova, Anna Timofeeva, Ekaterina Prokofyeva, Anna Grineva, Anna Karnaukh, and Maria Borisova.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2016	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	tournament	O
+26	at	O
+27	the	O
+28	2016	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Rio	O
+33	de	O
+34	Janeiro	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Ashleigh	O
+57	Johnson	O
+58	(	O
+59	GK	O
+60	),	O
+61	Kaleigh	O
+62	Gilchrist	O
+63	,	O
+64	Melissa	O
+65	Seidemann	O
+66	,	O
+67	Rachel	O
+68	Fattal	O
+69	,	O
+70	Maggie	O
+71	Steffens	O
+72	,	O
+73	Courtney	O
+74	Mathewson	O
+75	,	O
+76	Kiley	O
+77	Neushul	O
+78	,	O
+79	Maddie	O
+80	Musselman	O
+81	,	O
+82	Makenzie	O
+83	Fischer	O
+84	,	O
+85	Aria	O
+86	Fischer	O
+87	,	O
+88	and	O
+89	Amy	O
+90	Ridge	O
+91	.	O
+92	2	O
+93	.	O
+94	**	O
+95	Silver	O
+96	Medal	O
+97	**:	O
+98	Italy	B-Silver
+99	-	O
+100	Giula	O
+101	Gorlero	O
+102	(	O
+103	GK	O
+104	),	O
+105	Rosaria	O
+106	Aiello	O
+107	,	O
+108	Chiara	O
+109	Tabani	O
+110	,	O
+111	Federica	O
+112	Radicchi	O
+113	,	O
+114	Roberta	O
+115	Bianconi	O
+116	,	O
+117	Arianna	O
+118	Garibotti	O
+119	,	O
+120	Tania	O
+121	Di	O
+122	Mario	O
+123	,	O
+124	Elena	O
+125	Linari	O
+126	,	O
+127	Giulia	O
+128	Emmolo	O
+129	,	O
+130	Valeria	O
+131	Palmieri	O
+132	,	O
+133	and	O
+134	Laura	O
+135	Teani	O
+136	.	O
+137	3	O
+138	.	O
+139	**	O
+140	Bronze	O
+141	Medal	O
+142	**:	O
+143	Russia	B-Bronze
+144	-	O
+145	Anna	O
+146	Ustyukhina	O
+147	(	O
+148	GK	O
+149	),	O
+150	Evgeniya	O
+151	Ivanova	O
+152	,	O
+153	Evgeniya	O
+154	Soboleva	O
+155	,	O
+156	Elvina	O
+157	Karimova	O
+158	,	O
+159	Olga	O
+160	Gorbunova	O
+161	,	O
+162	Nadezhda	O
+163	Fedotova	O
+164	,	O
+165	Anna	O
+166	Timofeeva	O
+167	,	O
+168	Ekaterina	O
+169	Prokofyeva	O
+170	,	O
+171	Anna	O
+172	Grineva	O
+173	,	O
+174	Anna	O
+175	Karnaukh	O
+176	,	O
+177	and	O
+178	Maria	O
+179	Borisova	O
+180	.	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Men's Fencing Épée, Team event at the 2016 olympic games?The Men's Fencing Épée, Team event at the 2016 Olympic Games was won by the team from France. Here are the medalists:
+1. **Gold Medal**: France
+   - Gauthier Grumier
+   - Daniel Jerent
+   - Yannick Borel
+   - Jean-Michel Lucenay
+2. **Silver Medal**: Italy
+   - Andrea Cassarà
+   - Marco Fichera
+   - Paolo Pizzo
+   - Andrea Santarelli
+3. **Bronze Medal**: Switzerland
+   - Benjamin Steffen
+   - Max Heinzer
+   - Michael Kauter
+   - Fabian Kauter
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Épée	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	2016	O
+33	Olympic	O
+34	Games	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	France	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	France	B-Gold
+55	-	O
+56	Gauthier	O
+57	Grumier	O
+58	-	O
+59	Daniel	O
+60	Jerent	O
+61	-	O
+62	Yannick	O
+63	Borel	O
+64	-	O
+65	Jean-Michel	O
+66	Lucenay	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Italy	B-Silver
+74	-	O
+75	Andrea	O
+76	Cassarà	O
+77	-	O
+78	Marco	O
+79	Fichera	O
+80	-	O
+81	Paolo	O
+82	Pizzo	O
+83	-	O
+84	Andrea	O
+85	Santarelli	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Switzerland	B-Bronze
+93	-	O
+94	Benjamin	O
+95	Steffen	O
+96	-	O
+97	Max	O
+98	Heinzer	O
+99	-	O
+100	Michael	O
+101	Kauter	O
+102	-	O
+103	Fabian	O
+104	Kauter	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Women's Fencing Épée, Team event at the 2016 olympic games?The Women's Fencing Épée, Team event at the 2016 Olympic Games was won by the team from Romania. Here are the medalists:
+1. **Gold Medal**: Romania
+   - Ana Maria Brânză
+   - Simona Gherman
+   - Loredana Dinu
+   - Siranush Tovmasyan
+2. **Silver Medal**: Russia
+   - Olga Kharlan
+   - Yana Shemyakina
+   - Tatyana Andryushina
+   - Violetta Kolobova
+3. **Bronze Medal**: China
+   - Sun Yiwen
+   - Hao Jialu
+   - Zhu Mingye
+   - Xu Anqi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Épée	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	2016	O
+33	Olympic	O
+34	Games	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Romania	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Romania	B-Gold
+55	-	O
+56	Ana	O
+57	Maria	O
+58	Brânză	O
+59	-	O
+60	Simona	O
+61	Gherman	O
+62	-	O
+63	Loredana	O
+64	Dinu	O
+65	-	O
+66	Siranush	O
+67	Tovmasyan	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	Russia	B-Silver
+75	-	O
+76	Olga	O
+77	Kharlan	O
+78	-	O
+79	Yana	O
+80	Shemyakina	O
+81	-	O
+82	Tatyana	O
+83	Andryushina	O
+84	-	O
+85	Violetta	O
+86	Kolobova	O
+87	3	O
+88	.	O
+89	**	O
+90	Bronze	O
+91	Medal	O
+92	**:	O
+93	China	B-Bronze
+94	-	O
+95	Sun	O
+96	Yiwen	O
+97	-	O
+98	Hao	O
+99	Jialu	O
+100	-	O
+101	Zhu	O
+102	Mingye	O
+103	-	O
+104	Xu	O
+105	Anqi	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Men's Curling event at the 2018 olympic games?The Men's Curling event at the 2018 Winter Olympics in PyeongChang, South Korea, was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Team Shuster)
+   - John Shuster (Skip)
+   - Tyler George (Third)
+   - Matt Hamilton (Second)
+   - John Landsteiner (Lead)
+   - Joe Polo (Alternate)
+2. **Silver Medal**: Sweden (Team Edin)
+   - Niklas Edin (Skip)
+   - Oskar Eriksson (Third)
+   - Rasmus Wranå (Second)
+   - Christoffer Sundgren (Lead)
+   - Henrik Leek (Alternate)
+3. **Bronze Medal**: Switzerland (Team Schwaller)
+   - Peter de Cruz (Skip)
+   - Benoit Schwarz (Third)
+   - Claudio Pätz (Second)
+   - Valentin Tanner (Lead)
+   - Sven Michel (Alternate)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2018	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2018	O
+27	Winter	O
+28	Olympics	O
+29	in	O
+30	PyeongChang	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	the	O
+42	United	O
+43	States	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	(	O
+59	Team	O
+60	Shuster	O
+61	)	O
+62	-	O
+63	John	O
+64	Shuster	O
+65	(	O
+66	Skip	O
+67	)	O
+68	-	O
+69	Tyler	O
+70	George	O
+71	(	O
+72	Third	O
+73	)	O
+74	-	O
+75	Matt	O
+76	Hamilton	O
+77	(	O
+78	Second	O
+79	)	O
+80	-	O
+81	John	O
+82	Landsteiner	O
+83	(	O
+84	Lead	O
+85	)	O
+86	-	O
+87	Joe	O
+88	Polo	O
+89	(	O
+90	Alternate	O
+91	)	O
+92	2	O
+93	.	O
+94	**	O
+95	Silver	O
+96	Medal	O
+97	**:	O
+98	Sweden	B-Silver
+99	(	O
+100	Team	O
+101	Edin	O
+102	)	O
+103	-	O
+104	Niklas	O
+105	Edin	O
+106	(	O
+107	Skip	O
+108	)	O
+109	-	O
+110	Oskar	O
+111	Eriksson	O
+112	(	O
+113	Third	O
+114	)	O
+115	-	O
+116	Rasmus	O
+117	Wranå	O
+118	(	O
+119	Second	O
+120	)	O
+121	-	O
+122	Christoffer	O
+123	Sundgren	O
+124	(	O
+125	Lead	O
+126	)	O
+127	-	O
+128	Henrik	O
+129	Leek	O
+130	(	O
+131	Alternate	O
+132	)	O
+133	3	O
+134	.	O
+135	**	O
+136	Bronze	O
+137	Medal	O
+138	**:	O
+139	Switzerland	B-Bronze
+140	(	O
+141	Team	O
+142	Schwaller	O
+143	)	O
+144	-	O
+145	Peter	O
+146	de	O
+147	Cruz	O
+148	(	O
+149	Skip	O
+150	)	O
+151	-	O
+152	Benoit	O
+153	Schwarz	O
+154	(	O
+155	Third	O
+156	)	O
+157	-	O
+158	Claudio	O
+159	Pätz	O
+160	(	O
+161	Second	O
+162	)	O
+163	-	O
+164	Valentin	O
+165	Tanner	O
+166	(	O
+167	Lead	O
+168	)	O
+169	-	O
+170	Sven	O
+171	Michel	O
+172	(	O
+173	Alternate	O
+174	)	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Women's Curling event at the 2018 olympic games?The Women's Curling event at the 2018 Winter Olympics in PyeongChang, South Korea, was won by the team from Sweden. Here are the medalists:
+1. **Gold Medal**: Sweden (Skip: Anna Hasselborg, Third: Sara McManus, Second: Agnes Knochenhauer, Lead: Sofia Mabergs, Alternate: Jennie Wåhlin)
+2. **Silver Medal**: South Korea (Skip: Kim Eun-jung, Third: Kim Kyeong-ae, Second: Kim Seon-yeong, Lead: Kim Yeong-mi, Alternate: Kim Cho-hi)
+3. **Bronze Medal**: Japan (Skip: Satsuki Fujisawa, Third: Chinami Yoshida, Second: Yumi Suzuki, Lead: Mari Motohashi, Alternate: Two-time Olympic champion Ayumi Ogasawara)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2018	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2018	O
+27	Winter	O
+28	Olympics	O
+29	in	O
+30	PyeongChang	O
+31	,	O
+32	South	O
+33	Korea	O
+34	,	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Sweden	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Sweden	B-Gold
+55	(	O
+56	Skip	O
+57	:	O
+58	Anna	O
+59	Hasselborg	O
+60	,	O
+61	Third	O
+62	:	O
+63	Sara	O
+64	McManus	O
+65	,	O
+66	Second	O
+67	:	O
+68	Agnes	O
+69	Knochenhauer	O
+70	,	O
+71	Lead	O
+72	:	O
+73	Sofia	O
+74	Mabergs	O
+75	,	O
+76	Alternate	O
+77	:	O
+78	Jennie	O
+79	Wåhlin	O
+80	)	O
+81	2	O
+82	.	O
+83	**	O
+84	Silver	O
+85	Medal	O
+86	**:	O
+87	South	B-Silver
+88	Korea	I-Silver
+89	(	O
+90	Skip	O
+91	:	O
+92	Kim	O
+93	Eun-jung	O
+94	,	O
+95	Third	O
+96	:	O
+97	Kim	O
+98	Kyeong-ae	O
+99	,	O
+100	Second	O
+101	:	O
+102	Kim	O
+103	Seon-yeong	O
+104	,	O
+105	Lead	O
+106	:	O
+107	Kim	O
+108	Yeong-mi	O
+109	,	O
+110	Alternate	O
+111	:	O
+112	Kim	O
+113	Cho-hi	O
+114	)	O
+115	3	O
+116	.	O
+117	**	O
+118	Bronze	O
+119	Medal	O
+120	**:	O
+121	Japan	B-Bronze
+122	(	O
+123	Skip	O
+124	:	O
+125	Satsuki	O
+126	Fujisawa	O
+127	,	O
+128	Third	O
+129	:	O
+130	Chinami	O
+131	Yoshida	O
+132	,	O
+133	Second	O
+134	:	O
+135	Yumi	O
+136	Suzuki	O
+137	,	O
+138	Lead	O
+139	:	O
+140	Mari	O
+141	Motohashi	O
+142	,	O
+143	Alternate	O
+144	:	O
+145	Two-time	O
+146	Olympic	O
+147	champion	O
+148	Ayumi	O
+149	Ogasawara	O
+150	)	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Men's Ice Hockey event at the 2018 olympic games?The Men's Ice Hockey event at the 2018 Winter Olympics in PyeongChang, South Korea, was won by the Olympic Athletes from Russia (OAR). Here are the medalists:
+- Gold: Olympic Athletes from Russia (OAR)
+  - Goaltenders: Vasily Koshechkin, Igor Shestyorkin
+  - Defensemen: Artyom Zub, Bogdan Kiselevich, Vladimir Bryukvin, Nikita Nesterov, Igor Ozhiganov, Andrei Mironov
+  - Forwards: Ilya Kovalchuk, Pavel Datsyuk, Sergei Mozyakin, Kirill Kaprizov, Alexander Barabanov, Alexander Perezhogin, Nikolai Prokhorkin, Ivan Telegin, Alexander Svitov, Vladimir Tkachyov, Alexander Dergachyov, Alexander Barabanov, Sergei Andronov, Alexander Kalinin, Igor Shestyorkin
+- Silver: Canada
+  - Goaltenders: Kevin Poulin, Darcy Kuemper
+  - Defensemen: Maxim Noreau, Chris Lee, Marc-Edouard Vlasic, Cody Goloubef, Renat Mamashev, Mat Robinson
+  - Forwards: Derek Roy, Mason Raymond, Maxim Lapierre, Gilbert Brulé, Rob Klinkhammer, Chris Kelly, Andrew Ebbett, Brandon Kozun, Wojtek Wolski, Justin Kirkland, Eric O'Dell, Marc-André Grassi, René Bourque, Maxim Noreau, Derek Roy
+- Bronze: Czech Republic
+  - Goaltenders: Pavel Francouz, Patrick Bartošák
+  - Defensemen: Michal Jordan, Ondřej Kaše, Tomáš Kundrátek, Radovan Pavlík, Michal Řepík, David Musil, Jan Kolář, Filip Pyrochta
+  - Forwards: Martin Růžička, Roman Červenka, Michael Frolík, Tomáš Plekanec, Roman Horák, Jan Kovář, Radek Faksa, Tomáš Zohorna, Petr Koukal, Roman Will, Jakub Vrána, Michal Řepík, David Krejčí, Martin Nečas, Roman Červenka
+# status = {"0":"accepted"}
+# time (ms) = 20697
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2018	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2018	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	PyeongChang	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	Olympic	O
+42	Athletes	O
+43	from	O
+44	Russia	O
+45	(	O
+46	OAR	O
+47	).	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	-	O
+54	Gold	O
+55	:	O
+56	Olympic	B-Gold
+57	Athletes	I-Gold
+58	from	I-Gold
+59	Russia	I-Gold
+60	(	O
+61	OAR	O
+62	)	O
+63	-	O
+64	Goaltenders	O
+65	:	O
+66	Vasily	O
+67	Koshechkin	O
+68	,	O
+69	Igor	O
+70	Shestyorkin	O
+71	-	O
+72	Defensemen	O
+73	:	O
+74	Artyom	O
+75	Zub	O
+76	,	O
+77	Bogdan	O
+78	Kiselevich	O
+79	,	O
+80	Vladimir	O
+81	Bryukvin	O
+82	,	O
+83	Nikita	O
+84	Nesterov	O
+85	,	O
+86	Igor	O
+87	Ozhiganov	O
+88	,	O
+89	Andrei	O
+90	Mironov	O
+91	-	O
+92	Forwards	O
+93	:	O
+94	Ilya	O
+95	Kovalchuk	O
+96	,	O
+97	Pavel	O
+98	Datsyuk	O
+99	,	O
+100	Sergei	O
+101	Mozyakin	O
+102	,	O
+103	Kirill	O
+104	Kaprizov	O
+105	,	O
+106	Alexander	O
+107	Barabanov	O
+108	,	O
+109	Alexander	O
+110	Perezhogin	O
+111	,	O
+112	Nikolai	O
+113	Prokhorkin	O
+114	,	O
+115	Ivan	O
+116	Telegin	O
+117	,	O
+118	Alexander	O
+119	Svitov	O
+120	,	O
+121	Vladimir	O
+122	Tkachyov	O
+123	,	O
+124	Alexander	O
+125	Dergachyov	O
+126	,	O
+127	Alexander	O
+128	Barabanov	O
+129	,	O
+130	Sergei	O
+131	Andronov	O
+132	,	O
+133	Alexander	O
+134	Kalinin	O
+135	,	O
+136	Igor	O
+137	Shestyorkin	O
+138	-	O
+139	Silver	O
+140	:	O
+141	Canada	B-Silver
+142	-	O
+143	Goaltenders	O
+144	:	O
+145	Kevin	O
+146	Poulin	O
+147	,	O
+148	Darcy	O
+149	Kuemper	O
+150	-	O
+151	Defensemen	O
+152	:	O
+153	Maxim	O
+154	Noreau	O
+155	,	O
+156	Chris	O
+157	Lee	O
+158	,	O
+159	Marc-Edouard	O
+160	Vlasic	O
+161	,	O
+162	Cody	O
+163	Goloubef	O
+164	,	O
+165	Renat	O
+166	Mamashev	O
+167	,	O
+168	Mat	O
+169	Robinson	O
+170	-	O
+171	Forwards	O
+172	:	O
+173	Derek	O
+174	Roy	O
+175	,	O
+176	Mason	O
+177	Raymond	O
+178	,	O
+179	Maxim	O
+180	Lapierre	O
+181	,	O
+182	Gilbert	O
+183	Brulé	O
+184	,	O
+185	Rob	O
+186	Klinkhammer	O
+187	,	O
+188	Chris	O
+189	Kelly	O
+190	,	O
+191	Andrew	O
+192	Ebbett	O
+193	,	O
+194	Brandon	O
+195	Kozun	O
+196	,	O
+197	Wojtek	O
+198	Wolski	O
+199	,	O
+200	Justin	O
+201	Kirkland	O
+202	,	O
+203	Eric	O
+204	O	O
+205	'	O
+206	Dell	O
+207	,	O
+208	Marc-André	O
+209	Grassi	O
+210	,	O
+211	René	O
+212	Bourque	O
+213	,	O
+214	Maxim	O
+215	Noreau	O
+216	,	O
+217	Derek	O
+218	Roy	O
+219	-	O
+220	Bronze	O
+221	:	O
+222	Czech	B-Bronze
+223	Republic	I-Bronze
+224	-	O
+225	Goaltenders	O
+226	:	O
+227	Pavel	O
+228	Francouz	O
+229	,	O
+230	Patrick	O
+231	Bartošák	O
+232	-	O
+233	Defensemen	O
+234	:	O
+235	Michal	O
+236	Jordan	O
+237	,	O
+238	Ondřej	O
+239	Kaše	O
+240	,	O
+241	Tomáš	O
+242	Kundrátek	O
+243	,	O
+244	Radovan	O
+245	Pavlík	O
+246	,	O
+247	Michal	O
+248	Řepík	O
+249	,	O
+250	David	O
+251	Musil	O
+252	,	O
+253	Jan	O
+254	Kolář	O
+255	,	O
+256	Filip	O
+257	Pyrochta	O
+258	-	O
+259	Forwards	O
+260	:	O
+261	Martin	O
+262	Růžička	O
+263	,	O
+264	Roman	O
+265	Červenka	O
+266	,	O
+267	Michael	O
+268	Frolík	O
+269	,	O
+270	Tomáš	O
+271	Plekanec	O
+272	,	O
+273	Roman	O
+274	Horák	O
+275	,	O
+276	Jan	O
+277	Kovář	O
+278	,	O
+279	Radek	O
+280	Faksa	O
+281	,	O
+282	Tomáš	O
+283	Zohorna	O
+284	,	O
+285	Petr	O
+286	Koukal	O
+287	,	O
+288	Roman	O
+289	Will	O
+290	,	O
+291	Jakub	O
+292	Vrána	O
+293	,	O
+294	Michal	O
+295	Řepík	O
+296	,	O
+297	David	O
+298	Krejčí	O
+299	,	O
+300	Martin	O
+301	Nečas	O
+302	,	O
+303	Roman	O
+304	Červenka	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Women's Ice Hockey event at the 2018 olympic games?The Women's Ice Hockey event at the 2018 Winter Olympics in PyeongChang, South Korea, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goaltenders: Nicole Hensley, Maddie Rooney
+   - Defenders: Kacey Bellamy, Emily Pfalzer, Megan Keller, Kali Flanagan, Lee Stecklein, Sidney Morin
+   - Forwards: Hilary Knight, Amanda Kessel, Brianna Decker, Gigi Marvin, Dani Cameranesi, Jocelyne Lamoureux-Davidson, Monique Lamoureux-Morando, Hannah Brandt, Kendall Coyne Schofield, Annie Pankowski, Kelly Pannek, Melissa Samoskevich
+2. **Silver Medal**: Canada
+   - Goaltenders: Shannon Szabados, Ann-Renée Desbiens
+   - Defenders: Laura Fortino, Jocelyne Larocque, Meaghan Mikkelson, Halli Krzyzaniak, Renata Fast, Micah Zandee-Hart
+   - Forwards: Meghan Agosta, Haley Irwin, Brianne Jenner, Rebecca Johnston, Sarah Nurse, Marie-Philip Poulin, Jillian Saulnier, Natalie Spooner, Laura Stacey, Blayre Turnbull, Jennifer Wakefield, Loren Gabel
+3. **Bronze Medal**: Olympic Athletes from Russia
+   - Goaltenders: Nadezhda Morozova, Valeria Tarakanova
+   - Defenders: Yekaterina Lobova, Yekaterina Pashkevich, Yekaterina Smolina, Yekaterina Smolentseva, Anna Shibanova, Yulia Bykova
+   - Forwards: Yekaterina Lebedeva, Yekaterina Nikolayeva, Yekaterina Pylutova, Yekaterina Smolentseva, Yekaterina Smolina, Yekaterina Trubova, Yekaterina Valieva, Yekaterina Vafina, Yekaterina Zhukina, Yelena Dergachyova, Anna Shokhina, Yelena Dergachyova
+# status = {"0":"accepted"}
+# time (ms) = 1122
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2018	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2018	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	PyeongChang	O
+33	,	O
+34	South	O
+35	Korea	O
+36	,	O
+37	was	O
+38	won	O
+39	by	O
+40	the	O
+41	United	O
+42	States	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	United	B-Gold
+56	States	I-Gold
+57	-	O
+58	Goaltenders	O
+59	:	O
+60	Nicole	O
+61	Hensley	O
+62	,	O
+63	Maddie	O
+64	Rooney	O
+65	-	O
+66	Defenders	O
+67	:	O
+68	Kacey	O
+69	Bellamy	O
+70	,	O
+71	Emily	O
+72	Pfalzer	O
+73	,	O
+74	Megan	O
+75	Keller	O
+76	,	O
+77	Kali	O
+78	Flanagan	O
+79	,	O
+80	Lee	O
+81	Stecklein	O
+82	,	O
+83	Sidney	O
+84	Morin	O
+85	-	O
+86	Forwards	O
+87	:	O
+88	Hilary	O
+89	Knight	O
+90	,	O
+91	Amanda	O
+92	Kessel	O
+93	,	O
+94	Brianna	O
+95	Decker	O
+96	,	O
+97	Gigi	O
+98	Marvin	O
+99	,	O
+100	Dani	O
+101	Cameranesi	O
+102	,	O
+103	Jocelyne	O
+104	Lamoureux-Davidson	O
+105	,	O
+106	Monique	O
+107	Lamoureux-Morando	O
+108	,	O
+109	Hannah	O
+110	Brandt	O
+111	,	O
+112	Kendall	O
+113	Coyne	O
+114	Schofield	O
+115	,	O
+116	Annie	O
+117	Pankowski	O
+118	,	O
+119	Kelly	O
+120	Pannek	O
+121	,	O
+122	Melissa	O
+123	Samoskevich	O
+124	2	O
+125	.	O
+126	**	O
+127	Silver	O
+128	Medal	O
+129	**:	O
+130	Canada	B-Silver
+131	-	O
+132	Goaltenders	O
+133	:	O
+134	Shannon	O
+135	Szabados	O
+136	,	O
+137	Ann-Renée	O
+138	Desbiens	O
+139	-	O
+140	Defenders	O
+141	:	O
+142	Laura	O
+143	Fortino	O
+144	,	O
+145	Jocelyne	O
+146	Larocque	O
+147	,	O
+148	Meaghan	O
+149	Mikkelson	O
+150	,	O
+151	Halli	O
+152	Krzyzaniak	O
+153	,	O
+154	Renata	O
+155	Fast	O
+156	,	O
+157	Micah	O
+158	Zandee-Hart	O
+159	-	O
+160	Forwards	O
+161	:	O
+162	Meghan	O
+163	Agosta	O
+164	,	O
+165	Haley	O
+166	Irwin	O
+167	,	O
+168	Brianne	O
+169	Jenner	O
+170	,	O
+171	Rebecca	O
+172	Johnston	O
+173	,	O
+174	Sarah	O
+175	Nurse	O
+176	,	O
+177	Marie-Philip	O
+178	Poulin	O
+179	,	O
+180	Jillian	O
+181	Saulnier	O
+182	,	O
+183	Natalie	O
+184	Spooner	O
+185	,	O
+186	Laura	O
+187	Stacey	O
+188	,	O
+189	Blayre	O
+190	Turnbull	O
+191	,	O
+192	Jennifer	O
+193	Wakefield	O
+194	,	O
+195	Loren	O
+196	Gabel	O
+197	3	O
+198	.	O
+199	**	O
+200	Bronze	O
+201	Medal	O
+202	**:	O
+203	Olympic	B-Bronze
+204	Athletes	I-Bronze
+205	from	I-Bronze
+206	Russia	I-Bronze
+207	-	O
+208	Goaltenders	O
+209	:	O
+210	Nadezhda	O
+211	Morozova	O
+212	,	O
+213	Valeria	O
+214	Tarakanova	O
+215	-	O
+216	Defenders	O
+217	:	O
+218	Yekaterina	O
+219	Lobova	O
+220	,	O
+221	Yekaterina	O
+222	Pashkevich	O
+223	,	O
+224	Yekaterina	O
+225	Smolina	O
+226	,	O
+227	Yekaterina	O
+228	Smolentseva	O
+229	,	O
+230	Anna	O
+231	Shibanova	O
+232	,	O
+233	Yulia	O
+234	Bykova	O
+235	-	O
+236	Forwards	O
+237	:	O
+238	Yekaterina	O
+239	Lebedeva	O
+240	,	O
+241	Yekaterina	O
+242	Nikolayeva	O
+243	,	O
+244	Yekaterina	O
+245	Pylutova	O
+246	,	O
+247	Yekaterina	O
+248	Smolentseva	O
+249	,	O
+250	Yekaterina	O
+251	Smolina	O
+252	,	O
+253	Yekaterina	O
+254	Trubova	O
+255	,	O
+256	Yekaterina	O
+257	Valieva	O
+258	,	O
+259	Yekaterina	O
+260	Vafina	O
+261	,	O
+262	Yekaterina	O
+263	Zhukina	O
+264	,	O
+265	Yelena	O
+266	Dergachyova	O
+267	,	O
+268	Anna	O
+269	Shokhina	O
+270	,	O
+271	Yelena	O
+272	Dergachyova	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Men's 3x3 Basketball event at the 2020 olympic games?The Men's 3x3 Basketball event at the 2020 Tokyo Olympics was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Kareem Maddox, Keifer Sykes, Stacy Davis, and Robbie Hummel)
+2. **Silver Medal**: ROC (Russian Olympic Committee) (Kirill Pisklov, Ilia Karpenkov, Stanislav Sharov, and Alexander Zuev)
+3. **Bronze Medal**: Serbia (Dušan Domović Bulut, Dejan Majstorović,Aleksa Rašić, and Mihailo Vasić)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	3	O
+11	x	O
+12	3	O
+13	Basketball	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	3	O
+26	x	O
+27	3	O
+28	Basketball	O
+29	event	O
+30	at	O
+31	the	O
+32	2020	O
+33	Tokyo	O
+34	Olympics	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	the	O
+42	United	O
+43	States	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	United	B-Gold
+57	States	I-Gold
+58	(	O
+59	Kareem	O
+60	Maddox	O
+61	,	O
+62	Keifer	O
+63	Sykes	O
+64	,	O
+65	Stacy	O
+66	Davis	O
+67	,	O
+68	and	O
+69	Robbie	O
+70	Hummel	O
+71	)	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	ROC	B-Silver
+79	(	O
+80	Russian	O
+81	Olympic	O
+82	Committee	O
+83	)	O
+84	(	O
+85	Kirill	O
+86	Pisklov	O
+87	,	O
+88	Ilia	O
+89	Karpenkov	O
+90	,	O
+91	Stanislav	O
+92	Sharov	O
+93	,	O
+94	and	O
+95	Alexander	O
+96	Zuev	O
+97	)	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Serbia	B-Bronze
+105	(	O
+106	Dušan	O
+107	Domović	O
+108	Bulut	O
+109	,	O
+110	Dejan	O
+111	Majstorović	O
+112	,	O
+113	Aleksa	O
+114	Rašić	O
+115	,	O
+116	and	O
+117	Mihailo	O
+118	Vasić	O
+119	)	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Women's 3x3 Basketball event at the 2020 olympic games?The Women's 3x3 Basketball event at the 2020 Tokyo Olympics was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States (Stefanie Dolson, Allisha Gray, Kelsey Plum, and Jackie Young)
+2. **Silver Medal**: ROC (Olga Frolkina, Evgeniya Frolkina, Yulia Kozik, and Anastasia Logunova)
+3. **Bronze Medal**: China (Wan Jiyuan, Yang Shuyu, Li Yueru, and Huang Hongfei)
+This was the debut of 3x3 Basketball at the Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	3	O
+11	x	O
+12	3	O
+13	Basketball	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	3	O
+26	x	O
+27	3	O
+28	Basketball	O
+29	event	O
+30	at	O
+31	the	O
+32	2020	O
+33	Tokyo	O
+34	Olympics	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	(	O
+56	Stefanie	O
+57	Dolson	O
+58	,	O
+59	Allisha	O
+60	Gray	O
+61	,	O
+62	Kelsey	O
+63	Plum	O
+64	,	O
+65	and	O
+66	Jackie	O
+67	Young	O
+68	)	O
+69	2	O
+70	.	O
+71	**	O
+72	Silver	O
+73	Medal	O
+74	**:	O
+75	ROC	B-Silver
+76	(	O
+77	Olga	O
+78	Frolkina	O
+79	,	O
+80	Evgeniya	O
+81	Frolkina	O
+82	,	O
+83	Yulia	O
+84	Kozik	O
+85	,	O
+86	and	O
+87	Anastasia	O
+88	Logunova	O
+89	)	O
+90	3	O
+91	.	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	China	B-Bronze
+97	(	O
+98	Wan	O
+99	Jiyuan	O
+100	,	O
+101	Yang	O
+102	Shuyu	O
+103	,	O
+104	Li	O
+105	Yueru	O
+106	,	O
+107	and	O
+108	Huang	O
+109	Hongfei	O
+110	)	O
+111	This	O
+112	was	O
+113	the	O
+114	debut	O
+115	of	O
+116	3	O
+117	x	O
+118	3	O
+119	Basketball	O
+120	at	O
+121	the	O
+122	Olympic	O
+123	Games	O
+124	.	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Men's Basketball event at the 2020 olympic games?The Men's Basketball event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Bam Adebayo, Devin Booker, Kevin Durant, Jerami Grant, Draymond Green, Jrue Holiday, Khris Middleton, Damian Lillard, Zach LaVine, JaVale McGee, Keldon Johnson, Jayson Tatum
+2. **Silver Medal**: France
+   - Players: Evan Fournier, Rudy Gobert, Nando de Colo, Nicolas Batum, Frank Ntilikina, Timothé Luwawu-Cabarrot, Thomas Heurtel, Vincent Poirier, Moustapha Fall, Andrew Albicy, Petr Cornelie, Guerschon Yabusele
+3. **Bronze Medal**: Australia
+   - Players: Patty Mills, Joe Ingles, Aron Baynes, Mathew Dellavedova, Dante Exum, Chris Goulding, Jock Landale, Duop Reath, Nick Kay, Josh Green, Isaac Humphries, Mitch Creek
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	,	O
+30	which	O
+31	was	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	,	O
+43	was	O
+44	won	O
+45	by	O
+46	the	O
+47	United	O
+48	States	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Players	O
+65	:	O
+66	Bam	O
+67	Adebayo	O
+68	,	O
+69	Devin	O
+70	Booker	O
+71	,	O
+72	Kevin	O
+73	Durant	O
+74	,	O
+75	Jerami	O
+76	Grant	O
+77	,	O
+78	Draymond	O
+79	Green	O
+80	,	O
+81	Jrue	O
+82	Holiday	O
+83	,	O
+84	Khris	O
+85	Middleton	O
+86	,	O
+87	Damian	O
+88	Lillard	O
+89	,	O
+90	Zach	O
+91	LaVine	O
+92	,	O
+93	JaVale	O
+94	McGee	O
+95	,	O
+96	Keldon	O
+97	Johnson	O
+98	,	O
+99	Jayson	O
+100	Tatum	O
+101	2	O
+102	.	O
+103	**	O
+104	Silver	O
+105	Medal	O
+106	**:	O
+107	France	B-Silver
+108	-	O
+109	Players	O
+110	:	O
+111	Evan	O
+112	Fournier	O
+113	,	O
+114	Rudy	O
+115	Gobert	O
+116	,	O
+117	Nando	O
+118	de	O
+119	Colo	O
+120	,	O
+121	Nicolas	O
+122	Batum	O
+123	,	O
+124	Frank	O
+125	Ntilikina	O
+126	,	O
+127	Timothé	O
+128	Luwawu-Cabarrot	O
+129	,	O
+130	Thomas	O
+131	Heurtel	O
+132	,	O
+133	Vincent	O
+134	Poirier	O
+135	,	O
+136	Moustapha	O
+137	Fall	O
+138	,	O
+139	Andrew	O
+140	Albicy	O
+141	,	O
+142	Petr	O
+143	Cornelie	O
+144	,	O
+145	Guerschon	O
+146	Yabusele	O
+147	3	O
+148	.	O
+149	**	O
+150	Bronze	O
+151	Medal	O
+152	**:	O
+153	Australia	B-Bronze
+154	-	O
+155	Players	O
+156	:	O
+157	Patty	O
+158	Mills	O
+159	,	O
+160	Joe	O
+161	Ingles	O
+162	,	O
+163	Aron	O
+164	Baynes	O
+165	,	O
+166	Mathew	O
+167	Dellavedova	O
+168	,	O
+169	Dante	O
+170	Exum	O
+171	,	O
+172	Chris	O
+173	Goulding	O
+174	,	O
+175	Jock	O
+176	Landale	O
+177	,	O
+178	Duop	O
+179	Reath	O
+180	,	O
+181	Nick	O
+182	Kay	O
+183	,	O
+184	Josh	O
+185	Green	O
+186	,	O
+187	Isaac	O
+188	Humphries	O
+189	,	O
+190	Mitch	O
+191	Creek	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Women's Basketball event at the 2020 olympic games?The Women's Basketball event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Squad: Sue Bird, Tina Charles, Sylvia Fowles, Chelsea Gray, Brittney Griner, Jewell Loyd, Ngakoue Diakite, Skylar Diggins-Smith, A'ja Wilson, Diana Taurasi, Breanna Stewart, and Katie Lou Samuelson.
+2. **Silver Medal**: Japan
+   - Squad: Himawari Akaho, Maki Takada, Nako Motohashi, Yuka Mamiya, Naho Miyoshi, Moeko Nagaoka, Rui Machida, Yurina Yamauchi, Saki Hayashi, Nanako Todo, Yumi Kawashima, and Saori Miyazaki.
+3. **Bronze Medal**: France
+   - Squad: Marine Fauthoux, Sarah Michel, Sandrine Gruda, Marine Johannès, Alexia Chartereau, Endéné Miyem, Iliana Rupert, Diandra Tchatchouang, Valériane Vukosavljević, Héléna Ciak, Gabby Williams, and Flora Ouattara.
+# status = {"0":"accepted"}
+# time (ms) = 15254
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	,	O
+30	which	O
+31	was	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	,	O
+43	was	O
+44	won	O
+45	by	O
+46	the	O
+47	United	O
+48	States	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Squad	O
+65	:	O
+66	Sue	O
+67	Bird	O
+68	,	O
+69	Tina	O
+70	Charles	O
+71	,	O
+72	Sylvia	O
+73	Fowles	O
+74	,	O
+75	Chelsea	O
+76	Gray	O
+77	,	O
+78	Brittney	O
+79	Griner	O
+80	,	O
+81	Jewell	O
+82	Loyd	O
+83	,	O
+84	Ngakoue	O
+85	Diakite	O
+86	,	O
+87	Skylar	O
+88	Diggins-Smith	O
+89	,	O
+90	A	O
+91	'	O
+92	ja	O
+93	Wilson	O
+94	,	O
+95	Diana	O
+96	Taurasi	O
+97	,	O
+98	Breanna	O
+99	Stewart	O
+100	,	O
+101	and	O
+102	Katie	O
+103	Lou	O
+104	Samuelson	O
+105	.	O
+106	2	O
+107	.	O
+108	**	O
+109	Silver	O
+110	Medal	O
+111	**:	O
+112	Japan	B-Silver
+113	-	O
+114	Squad	O
+115	:	O
+116	Himawari	O
+117	Akaho	O
+118	,	O
+119	Maki	O
+120	Takada	O
+121	,	O
+122	Nako	O
+123	Motohashi	O
+124	,	O
+125	Yuka	O
+126	Mamiya	O
+127	,	O
+128	Naho	O
+129	Miyoshi	O
+130	,	O
+131	Moeko	O
+132	Nagaoka	O
+133	,	O
+134	Rui	O
+135	Machida	O
+136	,	O
+137	Yurina	O
+138	Yamauchi	O
+139	,	O
+140	Saki	O
+141	Hayashi	O
+142	,	O
+143	Nanako	O
+144	Todo	O
+145	,	O
+146	Yumi	O
+147	Kawashima	O
+148	,	O
+149	and	O
+150	Saori	O
+151	Miyazaki	O
+152	.	O
+153	3	O
+154	.	O
+155	**	O
+156	Bronze	O
+157	Medal	O
+158	**:	O
+159	France	B-Bronze
+160	-	O
+161	Squad	O
+162	:	O
+163	Marine	O
+164	Fauthoux	O
+165	,	O
+166	Sarah	O
+167	Michel	O
+168	,	O
+169	Sandrine	O
+170	Gruda	O
+171	,	O
+172	Marine	O
+173	Johannès	O
+174	,	O
+175	Alexia	O
+176	Chartereau	O
+177	,	O
+178	Endéné	O
+179	Miyem	O
+180	,	O
+181	Iliana	O
+182	Rupert	O
+183	,	O
+184	Diandra	O
+185	Tchatchouang	O
+186	,	O
+187	Valériane	O
+188	Vukosavljević	O
+189	,	O
+190	Héléna	O
+191	Ciak	O
+192	,	O
+193	Gabby	O
+194	Williams	O
+195	,	O
+196	and	O
+197	Flora	O
+198	Ouattara	O
+199	.	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Men's Field Hockey event at the 2020 olympic games?The Men's Field Hockey event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by Belgium. Here are the medalists:
+1. **Gold Medal**: Belgium
+   - Arthur Van Doren, Simon Gougnard, Thomas Briels, Cédric Charlier, Florent van Aubel, Arthur de Sloover, Nicolas Onkelinx, Victor Wegnez, Alexander Hendrickx, Loïck Luypaert, John-John Dohmen, Vincent Vanasch, Felix Denayer, Gauthier Boccard, Tom Boon, and Loïc van Doren.
+2. **Silver Medal**: India
+   - PR Sreejesh, Surender Kumar, Birendra Lakra, Harmanpreet Singh, Rupinder Pal Singh, Manpreet Singh, Hardik Singh, Mandeep Singh, Shamsher Singh, Lalit Upadhyay, Dilpreet Singh, Gurjant Singh, Simranjeet Singh, Nilakanta Sharma, Sumit, and Vivek Prasad.
+3. **Bronze Medal**: Australia
+   - Andrew Charter, Daniel Beale, Joshua Beltz, Tim Brand, Tom Craig, Flynn Ogilvie, Eddie Ockenden, Lachlan Sharp, Blake Govers, Jeremy Hayward, Trent Mitton, Matthew Swann, Jacob Whetton, Tom Wickham, Dylan Martin, and Jack Welch.
+# status = {"0":"accepted"}
+# time (ms) = 1742
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	,	O
+32	which	O
+33	was	O
+34	held	O
+35	in	O
+36	2021	O
+37	due	O
+38	to	O
+39	the	O
+40	COVID	O
+41	-	O
+42	19	O
+43	pandemic	O
+44	,	O
+45	was	O
+46	won	O
+47	by	O
+48	Belgium	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	Belgium	B-Gold
+62	-	O
+63	Arthur	O
+64	Van	O
+65	Doren	O
+66	,	O
+67	Simon	O
+68	Gougnard	O
+69	,	O
+70	Thomas	O
+71	Briels	O
+72	,	O
+73	Cédric	O
+74	Charlier	O
+75	,	O
+76	Florent	O
+77	van	O
+78	Aubel	O
+79	,	O
+80	Arthur	O
+81	de	O
+82	Sloover	O
+83	,	O
+84	Nicolas	O
+85	Onkelinx	O
+86	,	O
+87	Victor	O
+88	Wegnez	O
+89	,	O
+90	Alexander	O
+91	Hendrickx	O
+92	,	O
+93	Loïck	O
+94	Luypaert	O
+95	,	O
+96	John-John	O
+97	Dohmen	O
+98	,	O
+99	Vincent	O
+100	Vanasch	O
+101	,	O
+102	Felix	O
+103	Denayer	O
+104	,	O
+105	Gauthier	O
+106	Boccard	O
+107	,	O
+108	Tom	O
+109	Boon	O
+110	,	O
+111	and	O
+112	Loïc	O
+113	van	O
+114	Doren	O
+115	.	O
+116	2	O
+117	.	O
+118	**	O
+119	Silver	O
+120	Medal	O
+121	**:	O
+122	India	B-Silver
+123	-	O
+124	PR	O
+125	Sreejesh	O
+126	,	O
+127	Surender	O
+128	Kumar	O
+129	,	O
+130	Birendra	O
+131	Lakra	O
+132	,	O
+133	Harmanpreet	O
+134	Singh	O
+135	,	O
+136	Rupinder	O
+137	Pal	O
+138	Singh	O
+139	,	O
+140	Manpreet	O
+141	Singh	O
+142	,	O
+143	Hardik	O
+144	Singh	O
+145	,	O
+146	Mandeep	O
+147	Singh	O
+148	,	O
+149	Shamsher	O
+150	Singh	O
+151	,	O
+152	Lalit	O
+153	Upadhyay	O
+154	,	O
+155	Dilpreet	O
+156	Singh	O
+157	,	O
+158	Gurjant	O
+159	Singh	O
+160	,	O
+161	Simranjeet	O
+162	Singh	O
+163	,	O
+164	Nilakanta	O
+165	Sharma	O
+166	,	O
+167	Sumit	O
+168	,	O
+169	and	O
+170	Vivek	O
+171	Prasad	O
+172	.	O
+173	3	O
+174	.	O
+175	**	O
+176	Bronze	O
+177	Medal	O
+178	**:	O
+179	Australia	B-Bronze
+180	-	O
+181	Andrew	O
+182	Charter	O
+183	,	O
+184	Daniel	O
+185	Beale	O
+186	,	O
+187	Joshua	O
+188	Beltz	O
+189	,	O
+190	Tim	O
+191	Brand	O
+192	,	O
+193	Tom	O
+194	Craig	O
+195	,	O
+196	Flynn	O
+197	Ogilvie	O
+198	,	O
+199	Eddie	O
+200	Ockenden	O
+201	,	O
+202	Lachlan	O
+203	Sharp	O
+204	,	O
+205	Blake	O
+206	Govers	O
+207	,	O
+208	Jeremy	O
+209	Hayward	O
+210	,	O
+211	Trent	O
+212	Mitton	O
+213	,	O
+214	Matthew	O
+215	Swann	O
+216	,	O
+217	Jacob	O
+218	Whetton	O
+219	,	O
+220	Tom	O
+221	Wickham	O
+222	,	O
+223	Dylan	O
+224	Martin	O
+225	,	O
+226	and	O
+227	Jack	O
+228	Welch	O
+229	.	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Women's Field Hockey event at the 2020 olympic games?The Women's Field Hockey event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Squad: Josine Koning, Laura Nunnink, Marloes Keetels, Sanne Koolen, Caia van Maasakker, Kitty van Male, Lidewij Welten, Frederique Matla, Maria Verschoor, Xan de Waard, Margot van Geffen, Eva de Goede, Malou Pheninckx, Frédérique Meijers, Anne Veenendaal, and Anneken van Olphen.
+2. **Silver Medal**: Argentina
+   - Squad: Belén Succi, Noel Barrionuevo, Agustina Gorzelany, Victoria Sauze, Agustina Albertario, María José Granatto, Victoria Granatto, Lucina von der Heyde, Sofía Toccalino, Valeria Mansilla, Julieta Jankunas, María Noel Barrionuevo, Delfina Merino, Victoria Luis, Rocío Sánchez Moccia, and Eugenia Trinchinetti.
+3. **Bronze Medal**: India
+   - Squad: Savita Punia, Deep Grace Ekka, Monika Malik, Gurjit Kaur, Nisha, Udita, Sushila Chanu Pukhrambam, Rani Rampal, Navjot Kaur, Navneet Kaur, Lalremsiami, Vandana Katariya, Sharmila Devi, Salima Tete, Gurpreet Kaur, and Arundhati Huria.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	,	O
+32	which	O
+33	was	O
+34	held	O
+35	in	O
+36	2021	O
+37	due	O
+38	to	O
+39	the	O
+40	COVID	O
+41	-	O
+42	19	O
+43	pandemic	O
+44	,	O
+45	was	O
+46	won	O
+47	by	O
+48	the	O
+49	Netherlands	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	**:	O
+62	Netherlands	B-Gold
+63	-	O
+64	Squad	O
+65	:	O
+66	Josine	O
+67	Koning	O
+68	,	O
+69	Laura	O
+70	Nunnink	O
+71	,	O
+72	Marloes	O
+73	Keetels	O
+74	,	O
+75	Sanne	O
+76	Koolen	O
+77	,	O
+78	Caia	O
+79	van	O
+80	Maasakker	O
+81	,	O
+82	Kitty	O
+83	van	O
+84	Male	O
+85	,	O
+86	Lidewij	O
+87	Welten	O
+88	,	O
+89	Frederique	O
+90	Matla	O
+91	,	O
+92	Maria	O
+93	Verschoor	O
+94	,	O
+95	Xan	O
+96	de	O
+97	Waard	O
+98	,	O
+99	Margot	O
+100	van	O
+101	Geffen	O
+102	,	O
+103	Eva	O
+104	de	O
+105	Goede	O
+106	,	O
+107	Malou	O
+108	Pheninckx	O
+109	,	O
+110	Frédérique	O
+111	Meijers	O
+112	,	O
+113	Anne	O
+114	Veenendaal	O
+115	,	O
+116	and	O
+117	Anneken	O
+118	van	O
+119	Olphen	O
+120	.	O
+121	2	O
+122	.	O
+123	**	O
+124	Silver	O
+125	Medal	O
+126	**:	O
+127	Argentina	B-Silver
+128	-	O
+129	Squad	O
+130	:	O
+131	Belén	O
+132	Succi	O
+133	,	O
+134	Noel	O
+135	Barrionuevo	O
+136	,	O
+137	Agustina	O
+138	Gorzelany	O
+139	,	O
+140	Victoria	O
+141	Sauze	O
+142	,	O
+143	Agustina	O
+144	Albertario	O
+145	,	O
+146	María	O
+147	José	O
+148	Granatto	O
+149	,	O
+150	Victoria	O
+151	Granatto	O
+152	,	O
+153	Lucina	O
+154	von	O
+155	der	O
+156	Heyde	O
+157	,	O
+158	Sofía	O
+159	Toccalino	O
+160	,	O
+161	Valeria	O
+162	Mansilla	O
+163	,	O
+164	Julieta	O
+165	Jankunas	O
+166	,	O
+167	María	O
+168	Noel	O
+169	Barrionuevo	O
+170	,	O
+171	Delfina	O
+172	Merino	O
+173	,	O
+174	Victoria	O
+175	Luis	O
+176	,	O
+177	Rocío	O
+178	Sánchez	O
+179	Moccia	O
+180	,	O
+181	and	O
+182	Eugenia	O
+183	Trinchinetti	O
+184	.	O
+185	3	O
+186	.	O
+187	**	O
+188	Bronze	O
+189	Medal	O
+190	**:	O
+191	India	B-Bronze
+192	-	O
+193	Squad	O
+194	:	O
+195	Savita	O
+196	Punia	O
+197	,	O
+198	Deep	O
+199	Grace	O
+200	Ekka	O
+201	,	O
+202	Monika	O
+203	Malik	O
+204	,	O
+205	Gurjit	O
+206	Kaur	O
+207	,	O
+208	Nisha	O
+209	,	O
+210	Udita	O
+211	,	O
+212	Sushila	O
+213	Chanu	O
+214	Pukhrambam	O
+215	,	O
+216	Rani	O
+217	Rampal	O
+218	,	O
+219	Navjot	O
+220	Kaur	O
+221	,	O
+222	Navneet	O
+223	Kaur	O
+224	,	O
+225	Lalremsiami	O
+226	,	O
+227	Vandana	O
+228	Katariya	O
+229	,	O
+230	Sharmila	O
+231	Devi	O
+232	,	O
+233	Salima	O
+234	Tete	O
+235	,	O
+236	Gurpreet	O
+237	Kaur	O
+238	,	O
+239	and	O
+240	Arundhati	O
+241	Huria	O
+242	.	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Men's Football event at the 2020 olympic games?The Men's Football event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by Brazil. Here are the medalists:
+1. **Gold Medal**: Brazil
+   - Players: Dani Alves, Arana, Gabriel Menino, Diego Carlos, Richarlison, Antony, Bruno Guimarães, Matheus Cunha, Claudinho, Gabriel Martinelli, Reinier, Paulinho, Bruno Fuchs, Abner, Douglas Luiz, Gabriel Menino, Malcom, Matheus Henrique, Brenner, Lucão, Fernando, Yan Couto, Martinelli, Matheus Cunha, Reinier, Claudinho
+2. **Silver Medal**: Spain
+   - Players: Unai Simón, Óscar Mingueza, Marc Cucurella, Pau Torres, Eric García, Pedri, Rodri, Mikel Merino, Marco Asensio, Rafa Mir, Carlos Soler, Bryan Gil, Juan Miranda, Dani Ceballos, Mikel Oyarzabal, Pablo Sarabia, Iago Herrerín, Bryan Gil, Pedri, Eric García, Pau Torres, Rodri, Mikel Merino, Rafa Mir, Carlos Soler, Marco Asensio, Dani Ceballos, Mikel Oyarzabal, Pablo Sarabia
+3. **Bronze Medal**: Mexico
+   - Players: Guillermo Ochoa, Jorge Sánchez, César Montes, Jesús Gallardo, Johan Vásquez, Luis Romo, Edson Álvarez, Carlos Rodríguez, Uriel Antuna, Alexis Vega, Henry Martín, Sebastián Córdova, Diego Lainez, Fernando Beltrán, Roberto Alvarado, José Juan Macías, Adrián Mora, Luis Malagón, Érick Aguirre, Vladimir Loroña, José Joaquín Esquivel, Sebastián Córdova, Diego Lainez, Fernando Beltrán, Roberto Alvarado, José Juan Macías, Adrián Mora, Luis Malagón, Érick Aguirre, Vladimir Loroña, José Joaquín Esquivel
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	,	O
+30	which	O
+31	was	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	,	O
+43	was	O
+44	won	O
+45	by	O
+46	Brazil	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Brazil	B-Gold
+60	-	O
+61	Players	O
+62	:	O
+63	Dani	O
+64	Alves	O
+65	,	O
+66	Arana	O
+67	,	O
+68	Gabriel	O
+69	Menino	O
+70	,	O
+71	Diego	O
+72	Carlos	O
+73	,	O
+74	Richarlison	O
+75	,	O
+76	Antony	O
+77	,	O
+78	Bruno	O
+79	Guimarães	O
+80	,	O
+81	Matheus	O
+82	Cunha	O
+83	,	O
+84	Claudinho	O
+85	,	O
+86	Gabriel	O
+87	Martinelli	O
+88	,	O
+89	Reinier	O
+90	,	O
+91	Paulinho	O
+92	,	O
+93	Bruno	O
+94	Fuchs	O
+95	,	O
+96	Abner	O
+97	,	O
+98	Douglas	O
+99	Luiz	O
+100	,	O
+101	Gabriel	O
+102	Menino	O
+103	,	O
+104	Malcom	O
+105	,	O
+106	Matheus	O
+107	Henrique	O
+108	,	O
+109	Brenner	O
+110	,	O
+111	Lucão	O
+112	,	O
+113	Fernando	O
+114	,	O
+115	Yan	O
+116	Couto	O
+117	,	O
+118	Martinelli	O
+119	,	O
+120	Matheus	O
+121	Cunha	O
+122	,	O
+123	Reinier	O
+124	,	O
+125	Claudinho	O
+126	2	O
+127	.	O
+128	**	O
+129	Silver	O
+130	Medal	O
+131	**:	O
+132	Spain	B-Silver
+133	-	O
+134	Players	O
+135	:	O
+136	Unai	O
+137	Simón	O
+138	,	O
+139	Óscar	O
+140	Mingueza	O
+141	,	O
+142	Marc	O
+143	Cucurella	O
+144	,	O
+145	Pau	O
+146	Torres	O
+147	,	O
+148	Eric	O
+149	García	O
+150	,	O
+151	Pedri	O
+152	,	O
+153	Rodri	O
+154	,	O
+155	Mikel	O
+156	Merino	O
+157	,	O
+158	Marco	O
+159	Asensio	O
+160	,	O
+161	Rafa	O
+162	Mir	O
+163	,	O
+164	Carlos	O
+165	Soler	O
+166	,	O
+167	Bryan	O
+168	Gil	O
+169	,	O
+170	Juan	O
+171	Miranda	O
+172	,	O
+173	Dani	O
+174	Ceballos	O
+175	,	O
+176	Mikel	O
+177	Oyarzabal	O
+178	,	O
+179	Pablo	O
+180	Sarabia	O
+181	,	O
+182	Iago	O
+183	Herrerín	O
+184	,	O
+185	Bryan	O
+186	Gil	O
+187	,	O
+188	Pedri	O
+189	,	O
+190	Eric	O
+191	García	O
+192	,	O
+193	Pau	O
+194	Torres	O
+195	,	O
+196	Rodri	O
+197	,	O
+198	Mikel	O
+199	Merino	O
+200	,	O
+201	Rafa	O
+202	Mir	O
+203	,	O
+204	Carlos	O
+205	Soler	O
+206	,	O
+207	Marco	O
+208	Asensio	O
+209	,	O
+210	Dani	O
+211	Ceballos	O
+212	,	O
+213	Mikel	O
+214	Oyarzabal	O
+215	,	O
+216	Pablo	O
+217	Sarabia	O
+218	3	O
+219	.	O
+220	**	O
+221	Bronze	O
+222	Medal	O
+223	**:	O
+224	Mexico	B-Bronze
+225	-	O
+226	Players	O
+227	:	O
+228	Guillermo	O
+229	Ochoa	O
+230	,	O
+231	Jorge	O
+232	Sánchez	O
+233	,	O
+234	César	O
+235	Montes	O
+236	,	O
+237	Jesús	O
+238	Gallardo	O
+239	,	O
+240	Johan	O
+241	Vásquez	O
+242	,	O
+243	Luis	O
+244	Romo	O
+245	,	O
+246	Edson	O
+247	Álvarez	O
+248	,	O
+249	Carlos	O
+250	Rodríguez	O
+251	,	O
+252	Uriel	O
+253	Antuna	O
+254	,	O
+255	Alexis	O
+256	Vega	O
+257	,	O
+258	Henry	O
+259	Martín	O
+260	,	O
+261	Sebastián	O
+262	Córdova	O
+263	,	O
+264	Diego	O
+265	Lainez	O
+266	,	O
+267	Fernando	O
+268	Beltrán	O
+269	,	O
+270	Roberto	O
+271	Alvarado	O
+272	,	O
+273	José	O
+274	Juan	O
+275	Macías	O
+276	,	O
+277	Adrián	O
+278	Mora	O
+279	,	O
+280	Luis	O
+281	Malagón	O
+282	,	O
+283	Érick	O
+284	Aguirre	O
+285	,	O
+286	Vladimir	O
+287	Loroña	O
+288	,	O
+289	José	O
+290	Joaquín	O
+291	Esquivel	O
+292	,	O
+293	Sebastián	O
+294	Córdova	O
+295	,	O
+296	Diego	O
+297	Lainez	O
+298	,	O
+299	Fernando	O
+300	Beltrán	O
+301	,	O
+302	Roberto	O
+303	Alvarado	O
+304	,	O
+305	José	O
+306	Juan	O
+307	Macías	O
+308	,	O
+309	Adrián	O
+310	Mora	O
+311	,	O
+312	Luis	O
+313	Malagón	O
+314	,	O
+315	Érick	O
+316	Aguirre	O
+317	,	O
+318	Vladimir	O
+319	Loroña	O
+320	,	O
+321	José	O
+322	Joaquín	O
+323	Esquivel	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Women's Football event at the 2020 olympic games?The Women's Football event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by Canada. Here are the medalists:
+1. **Gold Medal:** Canada
+   - Goalkeeper: Stephanie Labbé
+   - Defenders: Kadeisha Buchanan, Allysha Chapman, Gabrielle Carle, Ashley Lawrence, Shelina Zadorsky, Vanessa Gilles
+   - Midfielders: Jessie Fleming, Julia Grosso, Quinn, Desiree Scott, Sophie Schmidt
+   - Forwards: Janine Beckie, Adriana Leon, Nichelle Prince, Christine Sinclair (captain), Evelyne Viens
+2. **Silver Medal:** Sweden
+   - Goalkeepers: Hedvig Lindahl, Jennifer Falk
+   - Defenders: Amanda Ilestedt, Magdalena Eriksson, Nilla Fischer, Hanna Glas, Jonna Andersson, Emma Kullberg
+   - Midfielders: Caroline Seger (captain), Elin Rubensson, Filippa Angeldahl, Kosovare Asllani, Lina Hurtig, Olivia Schough
+   - Forwards: Stina Blackstenius, Fridolina Rolfö, Sofia Jakobsson
+3. **Bronze Medal:** United States
+   - Goalkeepers: Alyssa Naeher, Adrianna Franch
+   - Defenders: Crystal Dunn, Tierna Davidson, Becky Sauerbrunn, Kelley O'Hara, Emily Sonnett, Casey Krueger
+   - Midfielders: Julie Ertz, Lindsey Horan, Samantha Mewis, Kristie Mewis, Rose Lavelle, Megan Rapinoe
+   - Forwards: Tobin Heath, Alex Morgan, Carli Lloyd, Christen Press, Lynn Williams
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	,	O
+30	which	O
+31	was	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	,	O
+43	was	O
+44	won	O
+45	by	O
+46	Canada	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	:**	O
+59	Canada	B-Gold
+60	-	O
+61	Goalkeeper	O
+62	:	O
+63	Stephanie	O
+64	Labbé	O
+65	-	O
+66	Defenders	O
+67	:	O
+68	Kadeisha	O
+69	Buchanan	O
+70	,	O
+71	Allysha	O
+72	Chapman	O
+73	,	O
+74	Gabrielle	O
+75	Carle	O
+76	,	O
+77	Ashley	O
+78	Lawrence	O
+79	,	O
+80	Shelina	O
+81	Zadorsky	O
+82	,	O
+83	Vanessa	O
+84	Gilles	O
+85	-	O
+86	Midfielders	O
+87	:	O
+88	Jessie	O
+89	Fleming	O
+90	,	O
+91	Julia	O
+92	Grosso	O
+93	,	O
+94	Quinn	O
+95	,	O
+96	Desiree	O
+97	Scott	O
+98	,	O
+99	Sophie	O
+100	Schmidt	O
+101	-	O
+102	Forwards	O
+103	:	O
+104	Janine	O
+105	Beckie	O
+106	,	O
+107	Adriana	O
+108	Leon	O
+109	,	O
+110	Nichelle	O
+111	Prince	O
+112	,	O
+113	Christine	O
+114	Sinclair	O
+115	(	O
+116	captain	O
+117	),	O
+118	Evelyne	O
+119	Viens	O
+120	2	O
+121	.	O
+122	**	O
+123	Silver	O
+124	Medal	O
+125	:**	O
+126	Sweden	B-Silver
+127	-	O
+128	Goalkeepers	O
+129	:	O
+130	Hedvig	O
+131	Lindahl	O
+132	,	O
+133	Jennifer	O
+134	Falk	O
+135	-	O
+136	Defenders	O
+137	:	O
+138	Amanda	O
+139	Ilestedt	O
+140	,	O
+141	Magdalena	O
+142	Eriksson	O
+143	,	O
+144	Nilla	O
+145	Fischer	O
+146	,	O
+147	Hanna	O
+148	Glas	O
+149	,	O
+150	Jonna	O
+151	Andersson	O
+152	,	O
+153	Emma	O
+154	Kullberg	O
+155	-	O
+156	Midfielders	O
+157	:	O
+158	Caroline	O
+159	Seger	O
+160	(	O
+161	captain	O
+162	),	O
+163	Elin	O
+164	Rubensson	O
+165	,	O
+166	Filippa	O
+167	Angeldahl	O
+168	,	O
+169	Kosovare	O
+170	Asllani	O
+171	,	O
+172	Lina	O
+173	Hurtig	O
+174	,	O
+175	Olivia	O
+176	Schough	O
+177	-	O
+178	Forwards	O
+179	:	O
+180	Stina	O
+181	Blackstenius	O
+182	,	O
+183	Fridolina	O
+184	Rolfö	O
+185	,	O
+186	Sofia	O
+187	Jakobsson	O
+188	3	O
+189	.	O
+190	**	O
+191	Bronze	O
+192	Medal	O
+193	:**	O
+194	United	B-Bronze
+195	States	I-Bronze
+196	-	O
+197	Goalkeepers	O
+198	:	O
+199	Alyssa	O
+200	Naeher	O
+201	,	O
+202	Adrianna	O
+203	Franch	O
+204	-	O
+205	Defenders	O
+206	:	O
+207	Crystal	O
+208	Dunn	O
+209	,	O
+210	Tierna	O
+211	Davidson	O
+212	,	O
+213	Becky	O
+214	Sauerbrunn	O
+215	,	O
+216	Kelley	O
+217	O	O
+218	'	O
+219	Hara	O
+220	,	O
+221	Emily	O
+222	Sonnett	O
+223	,	O
+224	Casey	O
+225	Krueger	O
+226	-	O
+227	Midfielders	O
+228	:	O
+229	Julie	O
+230	Ertz	O
+231	,	O
+232	Lindsey	O
+233	Horan	O
+234	,	O
+235	Samantha	O
+236	Mewis	O
+237	,	O
+238	Kristie	O
+239	Mewis	O
+240	,	O
+241	Rose	O
+242	Lavelle	O
+243	,	O
+244	Megan	O
+245	Rapinoe	O
+246	-	O
+247	Forwards	O
+248	:	O
+249	Tobin	O
+250	Heath	O
+251	,	O
+252	Alex	O
+253	Morgan	O
+254	,	O
+255	Carli	O
+256	Lloyd	O
+257	,	O
+258	Christen	O
+259	Press	O
+260	,	O
+261	Lynn	O
+262	Williams	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Men's Handball event at the 2020 olympic games?The Men's Handball event at the 2020 Tokyo Olympics (held in 2021 due to the COVID-19 pandemic) was won by France. Here are the medalists:
+1. **Gold Medal**: France
+   - Team: Nikola Karabatic, Luka Karabatic, Kentin Mahe, Melvyn Richardson, Hugo Descat, Nedim Remili, Vincent Gerard, Luc Abalo, Nicolas Tournat, Dika Mem, Yann Genty, Valentin Porte, Ludovic Fabregas, and Hugo Pellerin.
+2. **Silver Medal**: Denmark
+   - Team: Niklas Landin Jacobsen, Emil Jakobsen, Lasse Svan, Magnus Landin Jacobsen, Mads Mensah Larsen, Henrik Møllgaard, Magnus Saugstrup, Lasse Andersson, Simon Hald, Jacob Holm, Rasmus Lauge Schmidt, Kevin Møller, Mathias Gidsel, and Jóhannesson Jóhannesson.
+3. **Bronze Medal**: Spain
+   - Team: Rodrigo Corrales, Julen Aguinagalde, Gedeón Guardiola, Alex Dujshebaev, Antonio García Robledo, Ferrán Solé, Aitor Ariño, Ángel Fernández Pérez, Eduardo Gurbindo, Jorge Maqueda, Daniel Dujshebaev, Adrià Figueras, Iosu Goñi, and Francisco Fernández Pérez.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	(	O
+30	held	O
+31	in	O
+32	2021	O
+33	due	O
+34	to	O
+35	the	O
+36	COVID	O
+37	-	O
+38	19	O
+39	pandemic	O
+40	)	O
+41	was	O
+42	won	O
+43	by	O
+44	France	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	France	B-Gold
+58	-	O
+59	Team	O
+60	:	O
+61	Nikola	O
+62	Karabatic	O
+63	,	O
+64	Luka	O
+65	Karabatic	O
+66	,	O
+67	Kentin	O
+68	Mahe	O
+69	,	O
+70	Melvyn	O
+71	Richardson	O
+72	,	O
+73	Hugo	O
+74	Descat	O
+75	,	O
+76	Nedim	O
+77	Remili	O
+78	,	O
+79	Vincent	O
+80	Gerard	O
+81	,	O
+82	Luc	O
+83	Abalo	O
+84	,	O
+85	Nicolas	O
+86	Tournat	O
+87	,	O
+88	Dika	O
+89	Mem	O
+90	,	O
+91	Yann	O
+92	Genty	O
+93	,	O
+94	Valentin	O
+95	Porte	O
+96	,	O
+97	Ludovic	O
+98	Fabregas	O
+99	,	O
+100	and	O
+101	Hugo	O
+102	Pellerin	O
+103	.	O
+104	2	O
+105	.	O
+106	**	O
+107	Silver	O
+108	Medal	O
+109	**:	O
+110	Denmark	B-Silver
+111	-	O
+112	Team	O
+113	:	O
+114	Niklas	O
+115	Landin	O
+116	Jacobsen	O
+117	,	O
+118	Emil	O
+119	Jakobsen	O
+120	,	O
+121	Lasse	O
+122	Svan	O
+123	,	O
+124	Magnus	O
+125	Landin	O
+126	Jacobsen	O
+127	,	O
+128	Mads	O
+129	Mensah	O
+130	Larsen	O
+131	,	O
+132	Henrik	O
+133	Møllgaard	O
+134	,	O
+135	Magnus	O
+136	Saugstrup	O
+137	,	O
+138	Lasse	O
+139	Andersson	O
+140	,	O
+141	Simon	O
+142	Hald	O
+143	,	O
+144	Jacob	O
+145	Holm	O
+146	,	O
+147	Rasmus	O
+148	Lauge	O
+149	Schmidt	O
+150	,	O
+151	Kevin	O
+152	Møller	O
+153	,	O
+154	Mathias	O
+155	Gidsel	O
+156	,	O
+157	and	O
+158	Jóhannesson	O
+159	Jóhannesson	O
+160	.	O
+161	3	O
+162	.	O
+163	**	O
+164	Bronze	O
+165	Medal	O
+166	**:	O
+167	Spain	B-Bronze
+168	-	O
+169	Team	O
+170	:	O
+171	Rodrigo	O
+172	Corrales	O
+173	,	O
+174	Julen	O
+175	Aguinagalde	O
+176	,	O
+177	Gedeón	O
+178	Guardiola	O
+179	,	O
+180	Alex	O
+181	Dujshebaev	O
+182	,	O
+183	Antonio	O
+184	García	O
+185	Robledo	O
+186	,	O
+187	Ferrán	O
+188	Solé	O
+189	,	O
+190	Aitor	O
+191	Ariño	O
+192	,	O
+193	Ángel	O
+194	Fernández	O
+195	Pérez	O
+196	,	O
+197	Eduardo	O
+198	Gurbindo	O
+199	,	O
+200	Jorge	O
+201	Maqueda	O
+202	,	O
+203	Daniel	O
+204	Dujshebaev	O
+205	,	O
+206	Adrià	O
+207	Figueras	O
+208	,	O
+209	Iosu	O
+210	Goñi	O
+211	,	O
+212	and	O
+213	Francisco	O
+214	Fernández	O
+215	Pérez	O
+216	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Women's Handball event at the 2020 olympic games?The Women's Handball event at the 2020 Tokyo Olympics (held in 2021 due to the COVID-19 pandemic) was won by the French team. Here are the medalists:
+1. **Gold Medal**: France
+   - Players: Méline Nocandy, Blandine Dancette, Laura Flippes, Chloé Valentini, Pauletta Foppa, Kalidiatou Niakaté, Orlane Kanor, Cléopâtre Darleux, Marie Prouvensier, Allison Pineau, Laura Glauser, Gnonsiane Niombla, Astride N'Gouan, Béatrice Edwige, Paulina Skorupinska, Océane Sercien-Ugolin
+2. **Silver Medal**: Russia Olympic Committee (ROC)
+   - Players: Polina Kuznetsova, Anna Sen, Polina Vedekhina, Daria Dmitrieva, Yulia Managarova, Anna Vyakhireva, Polina Gorshkova, Yana Samokhina, Anna Sedoykina, Vladlena Bobrovnikova, Kseniya Makeeva, Yulia Skorobogatchenko, Anna Kochetova, Victoria Kalinina, Daria Durova, Olga Fomina
+3. **Bronze Medal**: Norway
+   - Players: Henny Reistad, Stine Bredal Oftedal, Veronica Kristiansen, Nora Mørk, Stine Skogrand, Marit Malm Frafjord, Silje Solberg, Kari Brattset Dale, Katrine Lunde, Sanna Solberg, Marit Røsberg Jacobsen, Camilla Herrem, Kristine Breistøl, Vilde Ingstad, Hanni Leger, Silje Sen
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2020	O
+27	Tokyo	O
+28	Olympics	O
+29	(	O
+30	held	O
+31	in	O
+32	2021	O
+33	due	O
+34	to	O
+35	the	O
+36	COVID	O
+37	-	O
+38	19	O
+39	pandemic	O
+40	)	O
+41	was	O
+42	won	O
+43	by	O
+44	the	O
+45	French	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	France	B-Gold
+60	-	O
+61	Players	O
+62	:	O
+63	Méline	O
+64	Nocandy	O
+65	,	O
+66	Blandine	O
+67	Dancette	O
+68	,	O
+69	Laura	O
+70	Flippes	O
+71	,	O
+72	Chloé	O
+73	Valentini	O
+74	,	O
+75	Pauletta	O
+76	Foppa	O
+77	,	O
+78	Kalidiatou	O
+79	Niakaté	O
+80	,	O
+81	Orlane	O
+82	Kanor	O
+83	,	O
+84	Cléopâtre	O
+85	Darleux	O
+86	,	O
+87	Marie	O
+88	Prouvensier	O
+89	,	O
+90	Allison	O
+91	Pineau	O
+92	,	O
+93	Laura	O
+94	Glauser	O
+95	,	O
+96	Gnonsiane	O
+97	Niombla	O
+98	,	O
+99	Astride	O
+100	N	O
+101	'	O
+102	Gouan	O
+103	,	O
+104	Béatrice	O
+105	Edwige	O
+106	,	O
+107	Paulina	O
+108	Skorupinska	O
+109	,	O
+110	Océane	O
+111	Sercien-Ugolin	O
+112	2	O
+113	.	O
+114	**	O
+115	Silver	O
+116	Medal	O
+117	**:	O
+118	Russia	B-Silver
+119	Olympic	I-Silver
+120	Committee	I-Silver
+121	(	O
+122	ROC	O
+123	)	O
+124	-	O
+125	Players	O
+126	:	O
+127	Polina	O
+128	Kuznetsova	O
+129	,	O
+130	Anna	O
+131	Sen	O
+132	,	O
+133	Polina	O
+134	Vedekhina	O
+135	,	O
+136	Daria	O
+137	Dmitrieva	O
+138	,	O
+139	Yulia	O
+140	Managarova	O
+141	,	O
+142	Anna	O
+143	Vyakhireva	O
+144	,	O
+145	Polina	O
+146	Gorshkova	O
+147	,	O
+148	Yana	O
+149	Samokhina	O
+150	,	O
+151	Anna	O
+152	Sedoykina	O
+153	,	O
+154	Vladlena	O
+155	Bobrovnikova	O
+156	,	O
+157	Kseniya	O
+158	Makeeva	O
+159	,	O
+160	Yulia	O
+161	Skorobogatchenko	O
+162	,	O
+163	Anna	O
+164	Kochetova	O
+165	,	O
+166	Victoria	O
+167	Kalinina	O
+168	,	O
+169	Daria	O
+170	Durova	O
+171	,	O
+172	Olga	O
+173	Fomina	O
+174	3	O
+175	.	O
+176	**	O
+177	Bronze	O
+178	Medal	O
+179	**:	O
+180	Norway	B-Bronze
+181	-	O
+182	Players	O
+183	:	O
+184	Henny	O
+185	Reistad	O
+186	,	O
+187	Stine	O
+188	Bredal	O
+189	Oftedal	O
+190	,	O
+191	Veronica	O
+192	Kristiansen	O
+193	,	O
+194	Nora	O
+195	Mørk	O
+196	,	O
+197	Stine	O
+198	Skogrand	O
+199	,	O
+200	Marit	O
+201	Malm	O
+202	Frafjord	O
+203	,	O
+204	Silje	O
+205	Solberg	O
+206	,	O
+207	Kari	O
+208	Brattset	O
+209	Dale	O
+210	,	O
+211	Katrine	O
+212	Lunde	O
+213	,	O
+214	Sanna	O
+215	Solberg	O
+216	,	O
+217	Marit	O
+218	Røsberg	O
+219	Jacobsen	O
+220	,	O
+221	Camilla	O
+222	Herrem	O
+223	,	O
+224	Kristine	O
+225	Breistøl	O
+226	,	O
+227	Vilde	O
+228	Ingstad	O
+229	,	O
+230	Hanni	O
+231	Leger	O
+232	,	O
+233	Silje	O
+234	Sen	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2020 olympic games?The 2020 Olympic Games, also known as Tokyo 2020, were held in 2021 due to the COVID-19 pandemic. Here are the medalists in the Men's Indoor Volleyball event:
+1. **Gold Medal**: Poland
+   - Players: Bartosz Kurek, Wilfredo León, Fabian Drzyzga, Mateusz Bieniek, Łukasz Kaczmarek, Łukasz Kacprzak, Grzegorz Łomacz, Michał Kubiak, Łukasz Wiśniewski, Łukasz Perłowski, Łukasz Żygadło, Artur Szalpuk
+2. **Silver Medal**: France
+   - Players: Stephen Boyer, Antoine Brizard, Daryl Bultor, Trévor Clévenot, Benjamin Toniutti, Jenia Grebennikov, Earvin Ngapeth, Jean Patry, Kevin Tillie, Yacine Louati, Nicolas Le Goff, Kévin Le Roux
+3. **Bronze Medal**: Argentina
+   - Players: Facundo Conte, Santiago Danani, Ezequiel Palacios, Agustín Loser, Nicolás Méndez, Bruno Lima, Martín Ramos, Luciano De Cecco, Sebastián Solé, Matías Sánchez, Cristian Poglajen, Ezequiel Palacios
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	2020	O
+21	Olympic	O
+22	Games	O
+23	,	O
+24	also	O
+25	known	O
+26	as	O
+27	Tokyo	O
+28	2020	O
+29	,	O
+30	were	O
+31	held	O
+32	in	O
+33	2021	O
+34	due	O
+35	to	O
+36	the	O
+37	COVID	O
+38	-	O
+39	19	O
+40	pandemic	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	in	O
+47	the	O
+48	Men	O
+49	'	O
+50	s	O
+51	Indoor	O
+52	Volleyball	O
+53	event	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	Poland	B-Gold
+62	-	O
+63	Players	O
+64	:	O
+65	Bartosz	O
+66	Kurek	O
+67	,	O
+68	Wilfredo	O
+69	León	O
+70	,	O
+71	Fabian	O
+72	Drzyzga	O
+73	,	O
+74	Mateusz	O
+75	Bieniek	O
+76	,	O
+77	Łukasz	O
+78	Kaczmarek	O
+79	,	O
+80	Łukasz	O
+81	Kacprzak	O
+82	,	O
+83	Grzegorz	O
+84	Łomacz	O
+85	,	O
+86	Michał	O
+87	Kubiak	O
+88	,	O
+89	Łukasz	O
+90	Wiśniewski	O
+91	,	O
+92	Łukasz	O
+93	Perłowski	O
+94	,	O
+95	Łukasz	O
+96	Żygadło	O
+97	,	O
+98	Artur	O
+99	Szalpuk	O
+100	2	O
+101	.	O
+102	**	O
+103	Silver	O
+104	Medal	O
+105	**:	O
+106	France	B-Silver
+107	-	O
+108	Players	O
+109	:	O
+110	Stephen	O
+111	Boyer	O
+112	,	O
+113	Antoine	O
+114	Brizard	O
+115	,	O
+116	Daryl	O
+117	Bultor	O
+118	,	O
+119	Trévor	O
+120	Clévenot	O
+121	,	O
+122	Benjamin	O
+123	Toniutti	O
+124	,	O
+125	Jenia	O
+126	Grebennikov	O
+127	,	O
+128	Earvin	O
+129	Ngapeth	O
+130	,	O
+131	Jean	O
+132	Patry	O
+133	,	O
+134	Kevin	O
+135	Tillie	O
+136	,	O
+137	Yacine	O
+138	Louati	O
+139	,	O
+140	Nicolas	O
+141	Le	O
+142	Goff	O
+143	,	O
+144	Kévin	O
+145	Le	O
+146	Roux	O
+147	3	O
+148	.	O
+149	**	O
+150	Bronze	O
+151	Medal	O
+152	**:	O
+153	Argentina	B-Bronze
+154	-	O
+155	Players	O
+156	:	O
+157	Facundo	O
+158	Conte	O
+159	,	O
+160	Santiago	O
+161	Danani	O
+162	,	O
+163	Ezequiel	O
+164	Palacios	O
+165	,	O
+166	Agustín	O
+167	Loser	O
+168	,	O
+169	Nicolás	O
+170	Méndez	O
+171	,	O
+172	Bruno	O
+173	Lima	O
+174	,	O
+175	Martín	O
+176	Ramos	O
+177	,	O
+178	Luciano	O
+179	De	O
+180	Cecco	O
+181	,	O
+182	Sebastián	O
+183	Solé	O
+184	,	O
+185	Matías	O
+186	Sánchez	O
+187	,	O
+188	Cristian	O
+189	Poglajen	O
+190	,	O
+191	Ezequiel	O
+192	Palacios	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2020 olympic games?The 2020 Olympic Games, also known as Tokyo 2020, were held in 2021 due to the COVID-19 pandemic. Here are the medalists in the Women's Indoor Volleyball event:
+1. **Gold Medal**: United States
+   - Team: Jordan Larson, Micha Hancock, Jordyn Poulter, Michelle Bartsch-Hackley, Kim Hill, Foluke Akinradewo, Jordan Thompson, Chiaka Ogbogu, Annie Drews, Kelsey Robinson, Haleigh Washington, and Justine Wong-Orantes
+2. **Silver Medal**: Brazil
+   - Team: Rosamaria Montibeller, Ana Carolina da Silva, Carol Gattaz, Roberta Ratzke, Tandara Caixeta, Ana Beatriz Correa, Natália Pereira, Fabiana Claudino, Drussyla Costa, Gabi Guimarães, Roberta Lee, and Fernanda Garay
+3. **Bronze Medal**: South Korea
+   - Team: Kim Yeon-koung, Lee Jae-yeong, Kim Hee-jin, Yang Hyo-jin, Park Jeong-ah, Kim Su-ji, Lee Da-yeong, Kim Mi-yeon, Jeong Ho-young, Bae Yoo-na, Lee Ja-eun, and Kim Seong-ok
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	2020	O
+21	Olympic	O
+22	Games	O
+23	,	O
+24	also	O
+25	known	O
+26	as	O
+27	Tokyo	O
+28	2020	O
+29	,	O
+30	were	O
+31	held	O
+32	in	O
+33	2021	O
+34	due	O
+35	to	O
+36	the	O
+37	COVID	O
+38	-	O
+39	19	O
+40	pandemic	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	in	O
+47	the	O
+48	Women	O
+49	'	O
+50	s	O
+51	Indoor	O
+52	Volleyball	O
+53	event	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Team	O
+65	:	O
+66	Jordan	O
+67	Larson	O
+68	,	O
+69	Micha	O
+70	Hancock	O
+71	,	O
+72	Jordyn	O
+73	Poulter	O
+74	,	O
+75	Michelle	O
+76	Bartsch-Hackley	O
+77	,	O
+78	Kim	O
+79	Hill	O
+80	,	O
+81	Foluke	O
+82	Akinradewo	O
+83	,	O
+84	Jordan	O
+85	Thompson	O
+86	,	O
+87	Chiaka	O
+88	Ogbogu	O
+89	,	O
+90	Annie	O
+91	Drews	O
+92	,	O
+93	Kelsey	O
+94	Robinson	O
+95	,	O
+96	Haleigh	O
+97	Washington	O
+98	,	O
+99	and	O
+100	Justine	O
+101	Wong-Orantes	O
+102	2	O
+103	.	O
+104	**	O
+105	Silver	O
+106	Medal	O
+107	**:	O
+108	Brazil	B-Silver
+109	-	O
+110	Team	O
+111	:	O
+112	Rosamaria	O
+113	Montibeller	O
+114	,	O
+115	Ana	O
+116	Carolina	O
+117	da	O
+118	Silva	O
+119	,	O
+120	Carol	O
+121	Gattaz	O
+122	,	O
+123	Roberta	O
+124	Ratzke	O
+125	,	O
+126	Tandara	O
+127	Caixeta	O
+128	,	O
+129	Ana	O
+130	Beatriz	O
+131	Correa	O
+132	,	O
+133	Natália	O
+134	Pereira	O
+135	,	O
+136	Fabiana	O
+137	Claudino	O
+138	,	O
+139	Drussyla	O
+140	Costa	O
+141	,	O
+142	Gabi	O
+143	Guimarães	O
+144	,	O
+145	Roberta	O
+146	Lee	O
+147	,	O
+148	and	O
+149	Fernanda	O
+150	Garay	O
+151	3	O
+152	.	O
+153	**	O
+154	Bronze	O
+155	Medal	O
+156	**:	O
+157	South	B-Bronze
+158	Korea	I-Bronze
+159	-	O
+160	Team	O
+161	:	O
+162	Kim	O
+163	Yeon-koung	O
+164	,	O
+165	Lee	O
+166	Jae-yeong	O
+167	,	O
+168	Kim	O
+169	Hee-jin	O
+170	,	O
+171	Yang	O
+172	Hyo-jin	O
+173	,	O
+174	Park	O
+175	Jeong-ah	O
+176	,	O
+177	Kim	O
+178	Su-ji	O
+179	,	O
+180	Lee	O
+181	Da-yeong	O
+182	,	O
+183	Kim	O
+184	Mi-yeon	O
+185	,	O
+186	Jeong	O
+187	Ho-young	O
+188	,	O
+189	Bae	O
+190	Yoo-na	O
+191	,	O
+192	Lee	O
+193	Ja-eun	O
+194	,	O
+195	and	O
+196	Kim	O
+197	Seong-ok	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Men's Rugby Sevens event at the 2020 olympic games?The Men's Rugby Sevens event at the 2020 Olympic Games (held in 2021 due to the COVID-19 pandemic) took place from July 26 to August 1, 2021, at the Tokyo Stadium in Tokyo, Japan. Here are the medal winners:
+1. **Gold Medal**: Fiji
+   - Squad: Jerry Tuwai, Asaeli Tuivuaka, Waisea Nacuqu, Semi Radradra, Josua Vakurunabili, Meli Derenalagi, Vilimoni Botitu, Iosefo Masi, Sireli Maqala, Kalione Nasoko, Jiuta Wainiqolo, Aminiasi Tuimaba, Napolioni Bolaca
+2. **Silver Medal**: New Zealand
+   - Squad: Scott Curry, Kurt Baker, Dylan Collier, Ngarohi McGarvey-Black, Andrew Knewstubb, Tim Mikkelson, Tone Ng Shiu, Sione Molia, Etene Nanai-Seturo, William Warbrick, Akuila Rokolisoa, Regan Ware, Joe Ravouvou
+3. **Bronze Medal**: Argentina
+   - Squad: Santiago Álvarez, Rodrigo Isgro, Lautaro Bazán, Felipe del Mestre, Germán Schulz, Rodrigo Etchart, Matías Osadczuk, Santiago Mare, Lucio Cinti, Ignacio Mendy, Matías Moroni, Juan Cruz Mallía, Francisco Urdapilleta
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rugby	O
+11	Sevens	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Rugby	O
+24	Sevens	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Olympic	O
+30	Games	O
+31	(	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	)	O
+43	took	O
+44	place	O
+45	from	O
+46	July	O
+47	26	O
+48	to	O
+49	August	O
+50	1	O
+51	,	O
+52	2021	O
+53	,	O
+54	at	O
+55	the	O
+56	Tokyo	O
+57	Stadium	O
+58	in	O
+59	Tokyo	O
+60	,	O
+61	Japan	O
+62	.	O
+63	Here	O
+64	are	O
+65	the	O
+66	medal	O
+67	winners	O
+68	:	O
+69	1	O
+70	.	O
+71	**	O
+72	Gold	O
+73	Medal	O
+74	**:	O
+75	Fiji	B-Gold
+76	-	O
+77	Squad	O
+78	:	O
+79	Jerry	O
+80	Tuwai	O
+81	,	O
+82	Asaeli	O
+83	Tuivuaka	O
+84	,	O
+85	Waisea	O
+86	Nacuqu	O
+87	,	O
+88	Semi	O
+89	Radradra	O
+90	,	O
+91	Josua	O
+92	Vakurunabili	O
+93	,	O
+94	Meli	O
+95	Derenalagi	O
+96	,	O
+97	Vilimoni	O
+98	Botitu	O
+99	,	O
+100	Iosefo	O
+101	Masi	O
+102	,	O
+103	Sireli	O
+104	Maqala	O
+105	,	O
+106	Kalione	O
+107	Nasoko	O
+108	,	O
+109	Jiuta	O
+110	Wainiqolo	O
+111	,	O
+112	Aminiasi	O
+113	Tuimaba	O
+114	,	O
+115	Napolioni	O
+116	Bolaca	O
+117	2	O
+118	.	O
+119	**	O
+120	Silver	O
+121	Medal	O
+122	**:	O
+123	New	B-Silver
+124	Zealand	I-Silver
+125	-	O
+126	Squad	O
+127	:	O
+128	Scott	O
+129	Curry	O
+130	,	O
+131	Kurt	O
+132	Baker	O
+133	,	O
+134	Dylan	O
+135	Collier	O
+136	,	O
+137	Ngarohi	O
+138	McGarvey-Black	O
+139	,	O
+140	Andrew	O
+141	Knewstubb	O
+142	,	O
+143	Tim	O
+144	Mikkelson	O
+145	,	O
+146	Tone	O
+147	Ng	O
+148	Shiu	O
+149	,	O
+150	Sione	O
+151	Molia	O
+152	,	O
+153	Etene	O
+154	Nanai-Seturo	O
+155	,	O
+156	William	O
+157	Warbrick	O
+158	,	O
+159	Akuila	O
+160	Rokolisoa	O
+161	,	O
+162	Regan	O
+163	Ware	O
+164	,	O
+165	Joe	O
+166	Ravouvou	O
+167	3	O
+168	.	O
+169	**	O
+170	Bronze	O
+171	Medal	O
+172	**:	O
+173	Argentina	B-Bronze
+174	-	O
+175	Squad	O
+176	:	O
+177	Santiago	O
+178	Álvarez	O
+179	,	O
+180	Rodrigo	O
+181	Isgro	O
+182	,	O
+183	Lautaro	O
+184	Bazán	O
+185	,	O
+186	Felipe	O
+187	del	O
+188	Mestre	O
+189	,	O
+190	Germán	O
+191	Schulz	O
+192	,	O
+193	Rodrigo	O
+194	Etchart	O
+195	,	O
+196	Matías	O
+197	Osadczuk	O
+198	,	O
+199	Santiago	O
+200	Mare	O
+201	,	O
+202	Lucio	O
+203	Cinti	O
+204	,	O
+205	Ignacio	O
+206	Mendy	O
+207	,	O
+208	Matías	O
+209	Moroni	O
+210	,	O
+211	Juan	O
+212	Cruz	O
+213	Mallía	O
+214	,	O
+215	Francisco	O
+216	Urdapilleta	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Women's Rugby Sevens event at the 2020 olympic games?The Women's Rugby Sevens event at the 2020 Olympic Games (held in 2021 due to the COVID-19 pandemic) took place from July 26 to August 1, 2021, at the Tokyo Stadium in Tokyo, Japan. Here are the medal winners:
+1. **Gold Medal**: New Zealand
+   - Squad: Michaela Blyde, Kelly Brazier, Gayle Broughton, Theresa Fitzpatrick, Sarah Hirini (C), Stacey Fluhler, Alena Saili, Tyla Nathan-Wong, Risi Pouri-Lane, Portia Woodman, Ruby Tui, Shiray Kaka, Tenika Willison
+2. **Silver Medal**: France
+   - Squad: Coralie Bertrand, Anne-Cécile Ciofani, Caroline Drouin, Camille Grassineau, Lina Guérin, Fanny Horta, Shannon Izar, Chloé Jacquet, Carla Neisen, Séraphine Okemba, Jade Ulutule, Jessy Trémoulière (C), Élodie Poublan
+3. **Bronze Medal**: Fiji
+   - Squad: Lavena Cavuru, Raijieli Daveua, Sesenieli Donu, Laisana Likuceva, Rusila Nagasau, Ana Naimasi, Alowesi Nakoci, Roela Radiniyavuni, Viniana Riwai, Vasiti Solikoviti, Lavenia Tinai, Reapi Ulunisau, Ana Maria Naimasi (C)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rugby	O
+11	Sevens	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Rugby	O
+24	Sevens	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Olympic	O
+30	Games	O
+31	(	O
+32	held	O
+33	in	O
+34	2021	O
+35	due	O
+36	to	O
+37	the	O
+38	COVID	O
+39	-	O
+40	19	O
+41	pandemic	O
+42	)	O
+43	took	O
+44	place	O
+45	from	O
+46	July	O
+47	26	O
+48	to	O
+49	August	O
+50	1	O
+51	,	O
+52	2021	O
+53	,	O
+54	at	O
+55	the	O
+56	Tokyo	O
+57	Stadium	O
+58	in	O
+59	Tokyo	O
+60	,	O
+61	Japan	O
+62	.	O
+63	Here	O
+64	are	O
+65	the	O
+66	medal	O
+67	winners	O
+68	:	O
+69	1	O
+70	.	O
+71	**	O
+72	Gold	O
+73	Medal	O
+74	**:	O
+75	New	B-Gold
+76	Zealand	I-Gold
+77	-	O
+78	Squad	O
+79	:	O
+80	Michaela	O
+81	Blyde	O
+82	,	O
+83	Kelly	O
+84	Brazier	O
+85	,	O
+86	Gayle	O
+87	Broughton	O
+88	,	O
+89	Theresa	O
+90	Fitzpatrick	O
+91	,	O
+92	Sarah	O
+93	Hirini	O
+94	(	O
+95	C	O
+96	),	O
+97	Stacey	O
+98	Fluhler	O
+99	,	O
+100	Alena	O
+101	Saili	O
+102	,	O
+103	Tyla	O
+104	Nathan-Wong	O
+105	,	O
+106	Risi	O
+107	Pouri-Lane	O
+108	,	O
+109	Portia	O
+110	Woodman	O
+111	,	O
+112	Ruby	O
+113	Tui	O
+114	,	O
+115	Shiray	O
+116	Kaka	O
+117	,	O
+118	Tenika	O
+119	Willison	O
+120	2	O
+121	.	O
+122	**	O
+123	Silver	O
+124	Medal	O
+125	**:	O
+126	France	B-Silver
+127	-	O
+128	Squad	O
+129	:	O
+130	Coralie	O
+131	Bertrand	O
+132	,	O
+133	Anne-Cécile	O
+134	Ciofani	O
+135	,	O
+136	Caroline	O
+137	Drouin	O
+138	,	O
+139	Camille	O
+140	Grassineau	O
+141	,	O
+142	Lina	O
+143	Guérin	O
+144	,	O
+145	Fanny	O
+146	Horta	O
+147	,	O
+148	Shannon	O
+149	Izar	O
+150	,	O
+151	Chloé	O
+152	Jacquet	O
+153	,	O
+154	Carla	O
+155	Neisen	O
+156	,	O
+157	Séraphine	O
+158	Okemba	O
+159	,	O
+160	Jade	O
+161	Ulutule	O
+162	,	O
+163	Jessy	O
+164	Trémoulière	O
+165	(	O
+166	C	O
+167	),	O
+168	Élodie	O
+169	Poublan	O
+170	3	O
+171	.	O
+172	**	O
+173	Bronze	O
+174	Medal	O
+175	**:	O
+176	Fiji	B-Bronze
+177	-	O
+178	Squad	O
+179	:	O
+180	Lavena	O
+181	Cavuru	O
+182	,	O
+183	Raijieli	O
+184	Daveua	O
+185	,	O
+186	Sesenieli	O
+187	Donu	O
+188	,	O
+189	Laisana	O
+190	Likuceva	O
+191	,	O
+192	Rusila	O
+193	Nagasau	O
+194	,	O
+195	Ana	O
+196	Naimasi	O
+197	,	O
+198	Alowesi	O
+199	Nakoci	O
+200	,	O
+201	Roela	O
+202	Radiniyavuni	O
+203	,	O
+204	Viniana	O
+205	Riwai	O
+206	,	O
+207	Vasiti	O
+208	Solikoviti	O
+209	,	O
+210	Lavenia	O
+211	Tinai	O
+212	,	O
+213	Reapi	O
+214	Ulunisau	O
+215	,	O
+216	Ana	O
+217	Maria	O
+218	Naimasi	O
+219	(	O
+220	C	O
+221	)	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Men's Water Polo event at the 2020 olympic games?The Men's Water Polo event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the Serbian team. Here are the medalists:
+1. **Gold Medal**: Serbia
+   - Players: Gojko Pijetlović, Dušan Mandić, Strahinja Rašović, Duško Pijetlović, Filip Filipović, Andrija Prlainović, Stefan Mitrović, Nemanja Ubović, Dušan Mandić, Nikola Jandić, Miloš Ćuk, Gojko Degenek, Branislav Mitrović
+2. **Silver Medal**: Croatia
+   - Players: Josip Pavić, Frano Karač, Maro Joković, Luka Bukić, Andro Bušlje, Xavi García, Anđelo Šetka, Lovre Miloš, Ivan Marcelić, Fran Paškvalin, Antonio Petković, Marko Bijač, Ivan Krapić
+3. **Bronze Medal**: Hungary
+   - Players: Viktor Nagy, Soma Vogel, Krisztián Manhercz, Nándor Fahed, Dénes Varga, Szilárd Jansik, Ádám Decker, Tamás Mezei, Balázs Erdélyi, Dániel Angyal, Márton Vámos, Soma Furjes, Soma Leleki
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	,	O
+32	which	O
+33	was	O
+34	held	O
+35	in	O
+36	2021	O
+37	due	O
+38	to	O
+39	the	O
+40	COVID	O
+41	-	O
+42	19	O
+43	pandemic	O
+44	,	O
+45	was	O
+46	won	O
+47	by	O
+48	the	O
+49	Serbian	O
+50	team	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	Serbia	B-Gold
+64	-	O
+65	Players	O
+66	:	O
+67	Gojko	O
+68	Pijetlović	O
+69	,	O
+70	Dušan	O
+71	Mandić	O
+72	,	O
+73	Strahinja	O
+74	Rašović	O
+75	,	O
+76	Duško	O
+77	Pijetlović	O
+78	,	O
+79	Filip	O
+80	Filipović	O
+81	,	O
+82	Andrija	O
+83	Prlainović	O
+84	,	O
+85	Stefan	O
+86	Mitrović	O
+87	,	O
+88	Nemanja	O
+89	Ubović	O
+90	,	O
+91	Dušan	O
+92	Mandić	O
+93	,	O
+94	Nikola	O
+95	Jandić	O
+96	,	O
+97	Miloš	O
+98	Ćuk	O
+99	,	O
+100	Gojko	O
+101	Degenek	O
+102	,	O
+103	Branislav	O
+104	Mitrović	O
+105	2	O
+106	.	O
+107	**	O
+108	Silver	O
+109	Medal	O
+110	**:	O
+111	Croatia	B-Silver
+112	-	O
+113	Players	O
+114	:	O
+115	Josip	O
+116	Pavić	O
+117	,	O
+118	Frano	O
+119	Karač	O
+120	,	O
+121	Maro	O
+122	Joković	O
+123	,	O
+124	Luka	O
+125	Bukić	O
+126	,	O
+127	Andro	O
+128	Bušlje	O
+129	,	O
+130	Xavi	O
+131	García	O
+132	,	O
+133	Anđelo	O
+134	Šetka	O
+135	,	O
+136	Lovre	O
+137	Miloš	O
+138	,	O
+139	Ivan	O
+140	Marcelić	O
+141	,	O
+142	Fran	O
+143	Paškvalin	O
+144	,	O
+145	Antonio	O
+146	Petković	O
+147	,	O
+148	Marko	O
+149	Bijač	O
+150	,	O
+151	Ivan	O
+152	Krapić	O
+153	3	O
+154	.	O
+155	**	O
+156	Bronze	O
+157	Medal	O
+158	**:	O
+159	Hungary	B-Bronze
+160	-	O
+161	Players	O
+162	:	O
+163	Viktor	O
+164	Nagy	O
+165	,	O
+166	Soma	O
+167	Vogel	O
+168	,	O
+169	Krisztián	O
+170	Manhercz	O
+171	,	O
+172	Nándor	O
+173	Fahed	O
+174	,	O
+175	Dénes	O
+176	Varga	O
+177	,	O
+178	Szilárd	O
+179	Jansik	O
+180	,	O
+181	Ádám	O
+182	Decker	O
+183	,	O
+184	Tamás	O
+185	Mezei	O
+186	,	O
+187	Balázs	O
+188	Erdélyi	O
+189	,	O
+190	Dániel	O
+191	Angyal	O
+192	,	O
+193	Márton	O
+194	Vámos	O
+195	,	O
+196	Soma	O
+197	Furjes	O
+198	,	O
+199	Soma	O
+200	Leleki	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Women's Water Polo event at the 2020 olympic games?The Women's Water Polo tournament at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goalkeepers: Ashleigh Johnson, Amanda Longan
+   - Field Players: Rachel Fattal, Aria Fischer, Makenzie Fischer, Kiley Neushul, Stephanie Haralabidis, Jamie Neushul, Alys Williams, Paige Hauschild, Emily Ausmus, Maddie Musselman, Kaleigh Gilchrist, Stephanie Peacock
+2. **Silver Medal**: Spain
+   - Goalkeepers: Laura Ester, Anna Espar, María del Pilar Peña
+   - Field Players: Marta Bach, Anni Espar, Clara Espar, Maica García, Irene González, Paula Leiton, Lorena Miranda, Elena Ruiz, Roser Tarragó, Judith Forca, María del Pino Martín, Laura López
+3. **Bronze Medal**: Hungary
+   - Goalkeepers: Edina Gangl, Szabina Szilágyi
+   - Field Players: Dóra Czigány, Krisztina Garda, Szabina Szűcs, Dorottya Szilágyi, Rita Keszthelyi, Gréta Gurisatti, Anna Illés, Rebecca Parkes, Dóra Lőwy, Nataša Rybanská, Anna Timian, Dorottya Szucs
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	tournament	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	,	O
+32	which	O
+33	was	O
+34	held	O
+35	in	O
+36	2021	O
+37	due	O
+38	to	O
+39	the	O
+40	COVID	O
+41	-	O
+42	19	O
+43	pandemic	O
+44	,	O
+45	was	O
+46	won	O
+47	by	O
+48	the	O
+49	United	O
+50	States	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Goalkeepers	O
+67	:	O
+68	Ashleigh	O
+69	Johnson	O
+70	,	O
+71	Amanda	O
+72	Longan	O
+73	-	O
+74	Field	O
+75	Players	O
+76	:	O
+77	Rachel	O
+78	Fattal	O
+79	,	O
+80	Aria	O
+81	Fischer	O
+82	,	O
+83	Makenzie	O
+84	Fischer	O
+85	,	O
+86	Kiley	O
+87	Neushul	O
+88	,	O
+89	Stephanie	O
+90	Haralabidis	O
+91	,	O
+92	Jamie	O
+93	Neushul	O
+94	,	O
+95	Alys	O
+96	Williams	O
+97	,	O
+98	Paige	O
+99	Hauschild	O
+100	,	O
+101	Emily	O
+102	Ausmus	O
+103	,	O
+104	Maddie	O
+105	Musselman	O
+106	,	O
+107	Kaleigh	O
+108	Gilchrist	O
+109	,	O
+110	Stephanie	O
+111	Peacock	O
+112	2	O
+113	.	O
+114	**	O
+115	Silver	O
+116	Medal	O
+117	**:	O
+118	Spain	B-Silver
+119	-	O
+120	Goalkeepers	O
+121	:	O
+122	Laura	O
+123	Ester	O
+124	,	O
+125	Anna	O
+126	Espar	O
+127	,	O
+128	María	O
+129	del	O
+130	Pilar	O
+131	Peña	O
+132	-	O
+133	Field	O
+134	Players	O
+135	:	O
+136	Marta	O
+137	Bach	O
+138	,	O
+139	Anni	O
+140	Espar	O
+141	,	O
+142	Clara	O
+143	Espar	O
+144	,	O
+145	Maica	O
+146	García	O
+147	,	O
+148	Irene	O
+149	González	O
+150	,	O
+151	Paula	O
+152	Leiton	O
+153	,	O
+154	Lorena	O
+155	Miranda	O
+156	,	O
+157	Elena	O
+158	Ruiz	O
+159	,	O
+160	Roser	O
+161	Tarragó	O
+162	,	O
+163	Judith	O
+164	Forca	O
+165	,	O
+166	María	O
+167	del	O
+168	Pino	O
+169	Martín	O
+170	,	O
+171	Laura	O
+172	López	O
+173	3	O
+174	.	O
+175	**	O
+176	Bronze	O
+177	Medal	O
+178	**:	O
+179	Hungary	B-Bronze
+180	-	O
+181	Goalkeepers	O
+182	:	O
+183	Edina	O
+184	Gangl	O
+185	,	O
+186	Szabina	O
+187	Szilágyi	O
+188	-	O
+189	Field	O
+190	Players	O
+191	:	O
+192	Dóra	O
+193	Czigány	O
+194	,	O
+195	Krisztina	O
+196	Garda	O
+197	,	O
+198	Szabina	O
+199	Szűcs	O
+200	,	O
+201	Dorottya	O
+202	Szilágyi	O
+203	,	O
+204	Rita	O
+205	Keszthelyi	O
+206	,	O
+207	Gréta	O
+208	Gurisatti	O
+209	,	O
+210	Anna	O
+211	Illés	O
+212	,	O
+213	Rebecca	O
+214	Parkes	O
+215	,	O
+216	Dóra	O
+217	Lőwy	O
+218	,	O
+219	Nataša	O
+220	Rybanská	O
+221	,	O
+222	Anna	O
+223	Timian	O
+224	,	O
+225	Dorottya	O
+226	Szucs	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Men's Swimming 4 x 100m Freestyle Relay event at the 2020 olympic games?The Men's 4 x 100m Freestyle Relay event at the 2020 Tokyo Olympics was won by the team from Great Britain. Here are the medalists:
+1. **Gold Medal**: Great Britain
+   - Duncan Scott
+   - Tom Dean
+   - Matthew Richards
+   - James Guy
+2. **Silver Medal**: United States
+   - Caeleb Dressel
+   - Blake Pieroni
+   - Brooks Curry
+   - Zach Apple
+3. **Bronze Medal**: Italy
+   - Alessandro Miressi
+   - Thomas Ceccon
+   - Lorenzo Zazzeri
+   - Manuel Frigo
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	m	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	Great	O
+47	Britain	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	Great	B-Gold
+61	Britain	I-Gold
+62	-	O
+63	Duncan	O
+64	Scott	O
+65	-	O
+66	Tom	O
+67	Dean	O
+68	-	O
+69	Matthew	O
+70	Richards	O
+71	-	O
+72	James	O
+73	Guy	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	United	B-Silver
+81	States	I-Silver
+82	-	O
+83	Caeleb	O
+84	Dressel	O
+85	-	O
+86	Blake	O
+87	Pieroni	O
+88	-	O
+89	Brooks	O
+90	Curry	O
+91	-	O
+92	Zach	O
+93	Apple	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Italy	B-Bronze
+101	-	O
+102	Alessandro	O
+103	Miressi	O
+104	-	O
+105	Thomas	O
+106	Ceccon	O
+107	-	O
+108	Lorenzo	O
+109	Zazzeri	O
+110	-	O
+111	Manuel	O
+112	Frigo	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Women's Swimming 4 x 100m Freestyle Relay event at the 2020 olympic games?The Women's 4 x 100m Freestyle Relay event at the 2020 Tokyo Olympics was won by the team from Australia. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Emma McKeon
+   - Bronte Campbell
+   - Meg Harris
+   - Cate Campbell
+2. **Silver Medal**: Canada
+   - Margaret MacNeil
+   - Taylor Ruck
+   - Kayla Sanchez
+   - Penny Oleksiak
+3. **Bronze Medal**: China
+   - Yang Junxu
+   - Tang Muhan
+   - Zhang Yufei
+   - Li Bingjie
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	m	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	Australia	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Australia	B-Gold
+60	-	O
+61	Emma	O
+62	McKeon	O
+63	-	O
+64	Bronte	O
+65	Campbell	O
+66	-	O
+67	Meg	O
+68	Harris	O
+69	-	O
+70	Cate	O
+71	Campbell	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Canada	B-Silver
+79	-	O
+80	Margaret	O
+81	MacNeil	O
+82	-	O
+83	Taylor	O
+84	Ruck	O
+85	-	O
+86	Kayla	O
+87	Sanchez	O
+88	-	O
+89	Penny	O
+90	Oleksiak	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	China	B-Bronze
+98	-	O
+99	Yang	O
+100	Junxu	O
+101	-	O
+102	Tang	O
+103	Muhan	O
+104	-	O
+105	Zhang	O
+106	Yufei	O
+107	-	O
+108	Li	O
+109	Bingjie	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Men's Swimming 4 x 100m Medley Relay event at the 2020 olympic games?The Men's 4 x 100m Medley Relay event at the 2020 Tokyo Olympics was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Ryan Murphy (Backstroke)
+   - Michael Andrew (Breaststroke)
+   - Caeleb Dressel (Butterfly)
+   - Zach Apple (Freestyle)
+2. **Silver Medal**: Great Britain
+   - Luke Greenbank (Backstroke)
+   - James Wilby (Breaststroke)
+   - Duncan Scott (Butterfly)
+   - Tom Dean (Freestyle)
+3. **Bronze Medal**: Italy
+   - Thomas Ceccon (Backstroke)
+   - Nicolò Martinenghi (Breaststroke)
+   - Federico Burdisso (Butterfly)
+   - Alessandro Miressi (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	m	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Ryan	O
+62	Murphy	O
+63	(	O
+64	Backstroke	O
+65	)	O
+66	-	O
+67	Michael	O
+68	Andrew	O
+69	(	O
+70	Breaststroke	O
+71	)	O
+72	-	O
+73	Caeleb	O
+74	Dressel	O
+75	(	O
+76	Butterfly	O
+77	)	O
+78	-	O
+79	Zach	O
+80	Apple	O
+81	(	O
+82	Freestyle	O
+83	)	O
+84	2	O
+85	.	O
+86	**	O
+87	Silver	O
+88	Medal	O
+89	**:	O
+90	Great	B-Silver
+91	Britain	I-Silver
+92	-	O
+93	Luke	O
+94	Greenbank	O
+95	(	O
+96	Backstroke	O
+97	)	O
+98	-	O
+99	James	O
+100	Wilby	O
+101	(	O
+102	Breaststroke	O
+103	)	O
+104	-	O
+105	Duncan	O
+106	Scott	O
+107	(	O
+108	Butterfly	O
+109	)	O
+110	-	O
+111	Tom	O
+112	Dean	O
+113	(	O
+114	Freestyle	O
+115	)	O
+116	3	O
+117	.	O
+118	**	O
+119	Bronze	O
+120	Medal	O
+121	**:	O
+122	Italy	B-Bronze
+123	-	O
+124	Thomas	O
+125	Ceccon	O
+126	(	O
+127	Backstroke	O
+128	)	O
+129	-	O
+130	Nicolò	O
+131	Martinenghi	O
+132	(	O
+133	Breaststroke	O
+134	)	O
+135	-	O
+136	Federico	O
+137	Burdisso	O
+138	(	O
+139	Butterfly	O
+140	)	O
+141	-	O
+142	Alessandro	O
+143	Miressi	O
+144	(	O
+145	Freestyle	O
+146	)	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Women's Swimming 4 x 100m Medley Relay event at the 2020 olympic games?The Women's 4 x 100m Medley Relay event at the 2020 Tokyo Olympics was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Regan Smith
+   - Lydia Jacoby
+   - Torri Huske
+   - Abbey Weitzeil
+   - Time: 3:51.92
+2. **Silver Medal**: Canada
+   - Kylie Masse
+   - Sydney Pickrem
+   - Maggie Mac Neil
+   - Penny Oleksiak
+   - Time: 3:52.60
+3. **Bronze Medal**: Australia
+   - Kaylee McKeown
+   - Chelsea Hodges
+   - Emma McKeon
+   - Cate Campbell
+   - Time: 3:54.25
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	m	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	the	O
+47	United	O
+48	States	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Regan	O
+65	Smith	O
+66	-	O
+67	Lydia	O
+68	Jacoby	O
+69	-	O
+70	Torri	O
+71	Huske	O
+72	-	O
+73	Abbey	O
+74	Weitzeil	O
+75	-	O
+76	Time	O
+77	:	O
+78	3	O
+79	:	O
+80	51	O
+81	.	O
+82	92	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	Canada	B-Silver
+90	-	O
+91	Kylie	O
+92	Masse	O
+93	-	O
+94	Sydney	O
+95	Pickrem	O
+96	-	O
+97	Maggie	O
+98	Mac	O
+99	Neil	O
+100	-	O
+101	Penny	O
+102	Oleksiak	O
+103	-	O
+104	Time	O
+105	:	O
+106	3	O
+107	:	O
+108	52	O
+109	.	O
+110	60	O
+111	3	O
+112	.	O
+113	**	O
+114	Bronze	O
+115	Medal	O
+116	**:	O
+117	Australia	B-Bronze
+118	-	O
+119	Kaylee	O
+120	McKeown	O
+121	-	O
+122	Chelsea	O
+123	Hodges	O
+124	-	O
+125	Emma	O
+126	McKeon	O
+127	-	O
+128	Cate	O
+129	Campbell	O
+130	-	O
+131	Time	O
+132	:	O
+133	3	O
+134	:	O
+135	54	O
+136	.	O
+137	25	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Men's Athletics 4 x 100m Relay event at the 2020 olympic games?The Men's Athletics 4 x 100m Relay event at the 2020 Tokyo Olympics was won by the team from Italy. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Lamont Marcell Jacobs, Lorenzo Patta, Filippo Tortu, and Marcell Jacobs (anchor)
+2. **Silver Medal**: Great Britain
+   - Chijindu Ujah, Zharnel Hughes, Richard Kilty, and Nethaneel Mitchell-Blake (anchor)
+3. **Bronze Medal**: Canada
+   - Aaron Brown, Jerome Blake, Brendon Rodney, and Andre De Grasse (anchor)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	100	O
+31	m	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2020	O
+37	Tokyo	O
+38	Olympics	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	Italy	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	Italy	B-Gold
+59	-	O
+60	Lamont	O
+61	Marcell	O
+62	Jacobs	O
+63	,	O
+64	Lorenzo	O
+65	Patta	O
+66	,	O
+67	Filippo	O
+68	Tortu	O
+69	,	O
+70	and	O
+71	Marcell	O
+72	Jacobs	O
+73	(	O
+74	anchor	O
+75	)	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Great	B-Silver
+83	Britain	I-Silver
+84	-	O
+85	Chijindu	O
+86	Ujah	O
+87	,	O
+88	Zharnel	O
+89	Hughes	O
+90	,	O
+91	Richard	O
+92	Kilty	O
+93	,	O
+94	and	O
+95	Nethaneel	O
+96	Mitchell-Blake	O
+97	(	O
+98	anchor	O
+99	)	O
+100	3	O
+101	.	O
+102	**	O
+103	Bronze	O
+104	Medal	O
+105	**:	O
+106	Canada	B-Bronze
+107	-	O
+108	Aaron	O
+109	Brown	O
+110	,	O
+111	Jerome	O
+112	Blake	O
+113	,	O
+114	Brendon	O
+115	Rodney	O
+116	,	O
+117	and	O
+118	Andre	O
+119	De	O
+120	Grasse	O
+121	(	O
+122	anchor	O
+123	)	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Women's Athletics 4 x 100m Relay event at the 2020 olympic games?The Women's 4 x 100m Relay event at the 2020 Tokyo Olympics was won by the team from Jamaica. Here are the medalists:
+1. **Gold Medal**: Jamaica
+   - Elaine Thompson-Herah
+   - Shelly-Ann Fraser-Pryce
+   - Shericka Jackson
+   - Briana Williams
+2. **Silver Medal**: United States
+   - Javianne Oliver
+   - Teahna Daniels
+   - Jenna Prandini
+   - Gabrielle Thomas
+3. **Bronze Medal**: Great Britain
+   - Asha Philip
+   - Imani-Lara Lansiquot
+   - Dina Asher-Smith
+   - Daryll Neita
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	m	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	m	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2020	O
+36	Tokyo	O
+37	Olympics	O
+38	was	O
+39	won	O
+40	by	O
+41	the	O
+42	team	O
+43	from	O
+44	Jamaica	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	Jamaica	B-Gold
+58	-	O
+59	Elaine	O
+60	Thompson-Herah	O
+61	-	O
+62	Shelly-Ann	O
+63	Fraser-Pryce	O
+64	-	O
+65	Shericka	O
+66	Jackson	O
+67	-	O
+68	Briana	O
+69	Williams	O
+70	2	O
+71	.	O
+72	**	O
+73	Silver	O
+74	Medal	O
+75	**:	O
+76	United	B-Silver
+77	States	I-Silver
+78	-	O
+79	Javianne	O
+80	Oliver	O
+81	-	O
+82	Teahna	O
+83	Daniels	O
+84	-	O
+85	Jenna	O
+86	Prandini	O
+87	-	O
+88	Gabrielle	O
+89	Thomas	O
+90	3	O
+91	.	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	Great	B-Bronze
+97	Britain	I-Bronze
+98	-	O
+99	Asha	O
+100	Philip	O
+101	-	O
+102	Imani-Lara	O
+103	Lansiquot	O
+104	-	O
+105	Dina	O
+106	Asher-Smith	O
+107	-	O
+108	Daryll	O
+109	Neita	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Men's Swimming 4 x 200m Freestyle Relay event at the 2020 olympic games?The Men's 4 x 200m Freestyle Relay event at the 2020 Tokyo Olympics was won by the team from Great Britain. Here are the medalists:
+1. **Gold Medal**: Great Britain
+   - Thomas Dean
+   - James Guy
+   - Matthew Richards
+   - Duncan Scott
+2. **Silver Medal**: United States
+   - Kieran Smith
+   - Blake Pieroni
+   - Drew Kibler
+   - Townley Haas
+3. **Bronze Medal**: Australia
+   - Elijah Winnington
+   - Zac Incerti
+   - Alexander Graham
+   - Thomas Neill
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	m	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	m	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	Great	O
+47	Britain	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	Great	B-Gold
+61	Britain	I-Gold
+62	-	O
+63	Thomas	O
+64	Dean	O
+65	-	O
+66	James	O
+67	Guy	O
+68	-	O
+69	Matthew	O
+70	Richards	O
+71	-	O
+72	Duncan	O
+73	Scott	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	United	B-Silver
+81	States	I-Silver
+82	-	O
+83	Kieran	O
+84	Smith	O
+85	-	O
+86	Blake	O
+87	Pieroni	O
+88	-	O
+89	Drew	O
+90	Kibler	O
+91	-	O
+92	Townley	O
+93	Haas	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Australia	B-Bronze
+101	-	O
+102	Elijah	O
+103	Winnington	O
+104	-	O
+105	Zac	O
+106	Incerti	O
+107	-	O
+108	Alexander	O
+109	Graham	O
+110	-	O
+111	Thomas	O
+112	Neill	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Women's Swimming 4 x 200m Freestyle Relay event at the 2020 olympic games?The Women's 4 x 200m Freestyle Relay event at the 2020 Tokyo Olympics was won by the team from China. Here are the medalists:
+1. **Gold Medal**: China
+   - Yang Junxu
+   - Tang Muhan
+   - Zhang Yufei
+   - Li Bingjie
+2. **Silver Medal**: United States
+   - Allison Schmitt
+   - Paige Madden
+   - Katie Ledecky
+   - Erica Sullivan
+3. **Bronze Medal**: Australia
+   - Ariarne Titmus
+   - Emma McKeon
+   - Meg Harris
+   - Madison Wilson
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	m	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2020	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	m	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2020	O
+38	Tokyo	O
+39	Olympics	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	China	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	China	B-Gold
+60	-	O
+61	Yang	O
+62	Junxu	O
+63	-	O
+64	Tang	O
+65	Muhan	O
+66	-	O
+67	Zhang	O
+68	Yufei	O
+69	-	O
+70	Li	O
+71	Bingjie	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	United	B-Silver
+79	States	I-Silver
+80	-	O
+81	Allison	O
+82	Schmitt	O
+83	-	O
+84	Paige	O
+85	Madden	O
+86	-	O
+87	Katie	O
+88	Ledecky	O
+89	-	O
+90	Erica	O
+91	Sullivan	O
+92	3	O
+93	.	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Australia	B-Bronze
+99	-	O
+100	Ariarne	O
+101	Titmus	O
+102	-	O
+103	Emma	O
+104	McKeon	O
+105	-	O
+106	Meg	O
+107	Harris	O
+108	-	O
+109	Madison	O
+110	Wilson	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Men's Athletics 4 x 400m Relay event at the 2020 olympic games?The Men's Athletics 4 x 400m Relay event at the 2020 Tokyo Olympics was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Michael Cherry, Michael Norman, Bryce Deadmon, Rai Benjamin)
+2. **Silver Medal**: Dominican Republic (Alexander Ogando, Lidio Andrés Feliz, Anensio Andy Oropeza, Félix Anthony Sánchez)
+3. **Bronze Medal**: Botswana (Karabo Sibanda, Bayapo Ndori, Zibane Ngozi, Isaac Makwala)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	m	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Athletics	O
+28	4	O
+29	x	O
+30	400	O
+31	m	O
+32	Relay	O
+33	event	O
+34	at	O
+35	the	O
+36	2020	O
+37	Tokyo	O
+38	Olympics	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	(	O
+63	Michael	O
+64	Cherry	O
+65	,	O
+66	Michael	O
+67	Norman	O
+68	,	O
+69	Bryce	O
+70	Deadmon	O
+71	,	O
+72	Rai	O
+73	Benjamin	O
+74	)	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Dominican	B-Silver
+82	Republic	I-Silver
+83	(	O
+84	Alexander	O
+85	Ogando	O
+86	,	O
+87	Lidio	O
+88	Andrés	O
+89	Feliz	O
+90	,	O
+91	Anensio	O
+92	Andy	O
+93	Oropeza	O
+94	,	O
+95	Félix	O
+96	Anthony	O
+97	Sánchez	O
+98	)	O
+99	3	O
+100	.	O
+101	**	O
+102	Bronze	O
+103	Medal	O
+104	**:	O
+105	Botswana	B-Bronze
+106	(	O
+107	Karabo	O
+108	Sibanda	O
+109	,	O
+110	Bayapo	O
+111	Ndori	O
+112	,	O
+113	Zibane	O
+114	Ngozi	O
+115	,	O
+116	Isaac	O
+117	Makwala	O
+118	)	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Women's Athletics 4 x 400m Relay event at the 2020 olympic games?The Women's 4x400m Relay event at the 2020 Tokyo Olympics was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States (Sydney McLaughlin, Allyson Felix, Dalilah Muhammad, Athing Mu)
+2. **Silver Medal**: Poland (Natalia Kaczmarek, Iga Baumgart-Witan, Justyna Święty-Ersetic, Anna Kiełbasińska)
+3. **Bronze Medal**: Jamaica (Stona Gray, Janieve Russell, Shericka Jackson, Candice McLeod)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	m	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	m	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2020	O
+36	Tokyo	O
+37	Olympics	O
+38	was	O
+39	won	O
+40	by	O
+41	the	O
+42	team	O
+43	from	O
+44	the	O
+45	United	O
+46	States	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	(	O
+62	Sydney	O
+63	McLaughlin	O
+64	,	O
+65	Allyson	O
+66	Felix	O
+67	,	O
+68	Dalilah	O
+69	Muhammad	O
+70	,	O
+71	Athing	O
+72	Mu	O
+73	)	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Poland	B-Silver
+81	(	O
+82	Natalia	O
+83	Kaczmarek	O
+84	,	O
+85	Iga	O
+86	Baumgart-Witan	O
+87	,	O
+88	Justyna	O
+89	Święty-Ersetic	O
+90	,	O
+91	Anna	O
+92	Kiełbasińska	O
+93	)	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Jamaica	B-Bronze
+101	(	O
+102	Stona	O
+103	Gray	O
+104	,	O
+105	Janieve	O
+106	Russell	O
+107	,	O
+108	Shericka	O
+109	Jackson	O
+110	,	O
+111	Candice	O
+112	McLeod	O
+113	)	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Men's Rowing Eight event at the 2020 olympic games?The Men's Rowing Eight event at the 2020 Tokyo Olympics was won by the German team. Here are the top three medalists:
+1. **Gold Medal**: Germany
+   - Tim Ole Naske
+   - Johannes Weißenfeld
+   - Laurits Follert
+   - Olaf Roggensack
+   - Richard Schmidt
+   - Hanno Wienhausen
+   - Torben Johannesen
+   - Jakob Schneider
+   - Martin Sauer (cox)
+2. **Silver Medal**: Great Britain
+   - Josh Bugajski
+   - Jacob Dawson
+   - Thomas Ford
+   - Harry Leask
+   - Matthew Rossiter
+   - Charles Elwes
+   - Oliver Wynne-Griffith
+   - James Rudkin
+   - Henry Fieldman (cox)
+3. **Bronze Medal**: Australia
+   - Spencer Turrin
+   - Jack Hargreaves
+   - Alexander Purnell
+   - Joshua Booth
+   - Simon Keenan
+   - Jackson Kench
+   - Nicholas Purnell
+   - Luke Letcher
+   - James Rook (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Eight	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Rowing	O
+24	Eight	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	German	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	top	O
+42	three	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	Germany	B-Gold
+52	-	O
+53	Tim	O
+54	Ole	O
+55	Naske	O
+56	-	O
+57	Johannes	O
+58	Weißenfeld	O
+59	-	O
+60	Laurits	O
+61	Follert	O
+62	-	O
+63	Olaf	O
+64	Roggensack	O
+65	-	O
+66	Richard	O
+67	Schmidt	O
+68	-	O
+69	Hanno	O
+70	Wienhausen	O
+71	-	O
+72	Torben	O
+73	Johannesen	O
+74	-	O
+75	Jakob	O
+76	Schneider	O
+77	-	O
+78	Martin	O
+79	Sauer	O
+80	(	O
+81	cox	O
+82	)	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	Great	B-Silver
+90	Britain	I-Silver
+91	-	O
+92	Josh	O
+93	Bugajski	O
+94	-	O
+95	Jacob	O
+96	Dawson	O
+97	-	O
+98	Thomas	O
+99	Ford	O
+100	-	O
+101	Harry	O
+102	Leask	O
+103	-	O
+104	Matthew	O
+105	Rossiter	O
+106	-	O
+107	Charles	O
+108	Elwes	O
+109	-	O
+110	Oliver	O
+111	Wynne-Griffith	O
+112	-	O
+113	James	O
+114	Rudkin	O
+115	-	O
+116	Henry	O
+117	Fieldman	O
+118	(	O
+119	cox	O
+120	)	O
+121	3	O
+122	.	O
+123	**	O
+124	Bronze	O
+125	Medal	O
+126	**:	O
+127	Australia	B-Bronze
+128	-	O
+129	Spencer	O
+130	Turrin	O
+131	-	O
+132	Jack	O
+133	Hargreaves	O
+134	-	O
+135	Alexander	O
+136	Purnell	O
+137	-	O
+138	Joshua	O
+139	Booth	O
+140	-	O
+141	Simon	O
+142	Keenan	O
+143	-	O
+144	Jackson	O
+145	Kench	O
+146	-	O
+147	Nicholas	O
+148	Purnell	O
+149	-	O
+150	Luke	O
+151	Letcher	O
+152	-	O
+153	James	O
+154	Rook	O
+155	(	O
+156	cox	O
+157	)	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Women's Rowing Eight event at the 2020 olympic games?The Women's Rowing Eight event at the 2020 Tokyo Olympics was won by the Canadian team. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Lisa Roman
+   - Kasia Gruchalla-Wesierski
+   - Christine Roper
+   - Andrea Proske
+   - Susanne Grainger
+   - Madison Mailey
+   - Sydney Payne
+   - Avalon Wasteneys
+   - Kristen Kit
+2. **Silver Medal**: New Zealand
+   - Emma Dyke
+   - Lucy Spoors
+   - Kelsey Bevan
+   - Grace Prendergast
+   - Kerri Gowler
+   - Beth Ross
+   - Bonnie Booth
+   - Ella Greenslade
+   - Ruby Tew
+3. **Bronze Medal**: Australia
+   - Annabelle McIntyre
+   - Jess Morrison
+   - Leah Saunders
+   - Jacinta Edmunds
+   - Katrina Werry
+   - Lucy Stephan
+   - Rosemary Popa
+   - Molly Goodman
+   - James Rook (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Eight	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Rowing	O
+24	Eight	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Canadian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Canada	B-Gold
+50	-	O
+51	Lisa	O
+52	Roman	O
+53	-	O
+54	Kasia	O
+55	Gruchalla-Wesierski	O
+56	-	O
+57	Christine	O
+58	Roper	O
+59	-	O
+60	Andrea	O
+61	Proske	O
+62	-	O
+63	Susanne	O
+64	Grainger	O
+65	-	O
+66	Madison	O
+67	Mailey	O
+68	-	O
+69	Sydney	O
+70	Payne	O
+71	-	O
+72	Avalon	O
+73	Wasteneys	O
+74	-	O
+75	Kristen	O
+76	Kit	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	New	B-Silver
+84	Zealand	I-Silver
+85	-	O
+86	Emma	O
+87	Dyke	O
+88	-	O
+89	Lucy	O
+90	Spoors	O
+91	-	O
+92	Kelsey	O
+93	Bevan	O
+94	-	O
+95	Grace	O
+96	Prendergast	O
+97	-	O
+98	Kerri	O
+99	Gowler	O
+100	-	O
+101	Beth	O
+102	Ross	O
+103	-	O
+104	Bonnie	O
+105	Booth	O
+106	-	O
+107	Ella	O
+108	Greenslade	O
+109	-	O
+110	Ruby	O
+111	Tew	O
+112	3	O
+113	.	O
+114	**	O
+115	Bronze	O
+116	Medal	O
+117	**:	O
+118	Australia	B-Bronze
+119	-	O
+120	Annabelle	O
+121	McIntyre	O
+122	-	O
+123	Jess	O
+124	Morrison	O
+125	-	O
+126	Leah	O
+127	Saunders	O
+128	-	O
+129	Jacinta	O
+130	Edmunds	O
+131	-	O
+132	Katrina	O
+133	Werry	O
+134	-	O
+135	Lucy	O
+136	Stephan	O
+137	-	O
+138	Rosemary	O
+139	Popa	O
+140	-	O
+141	Molly	O
+142	Goodman	O
+143	-	O
+144	James	O
+145	Rook	O
+146	(	O
+147	cox	O
+148	)	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Men's Fencing Epée Team event at the 2020 olympic games?The Men's Fencing Épée Team event at the 2020 Tokyo Olympics was won by the team from France. Here are the medalists:
+1. **Gold Medal**: France
+   - Yannick Borel
+   - Romain Cannone
+   - Daniel Jerent
+   - Alexandre Bardenet
+2. **Silver Medal**: ROC (Russian Olympic Committee)
+   - Sergey Bida
+   - Nikita Glazkov
+   - Pavlo Karandaev
+   - Sergey Khodos
+3. **Bronze Medal**: South Korea
+   - Park Sang-young
+   - Ma Se-geon
+   - Kweon Young-jun
+   - Jung Jin-sun
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Epée	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Épée	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	France	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	France	B-Gold
+53	-	O
+54	Yannick	O
+55	Borel	O
+56	-	O
+57	Romain	O
+58	Cannone	O
+59	-	O
+60	Daniel	O
+61	Jerent	O
+62	-	O
+63	Alexandre	O
+64	Bardenet	O
+65	2	O
+66	.	O
+67	**	O
+68	Silver	O
+69	Medal	O
+70	**:	O
+71	ROC	B-Silver
+72	(	O
+73	Russian	O
+74	Olympic	O
+75	Committee	O
+76	)	O
+77	-	O
+78	Sergey	O
+79	Bida	O
+80	-	O
+81	Nikita	O
+82	Glazkov	O
+83	-	O
+84	Pavlo	O
+85	Karandaev	O
+86	-	O
+87	Sergey	O
+88	Khodos	O
+89	3	O
+90	.	O
+91	**	O
+92	Bronze	O
+93	Medal	O
+94	**:	O
+95	South	B-Bronze
+96	Korea	I-Bronze
+97	-	O
+98	Park	O
+99	Sang-young	O
+100	-	O
+101	Ma	O
+102	Se-geon	O
+103	-	O
+104	Kweon	O
+105	Young-jun	O
+106	-	O
+107	Jung	O
+108	Jin-sun	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Women's Fencing Epée Team event at the 2020 olympic games?The Women's Fencing Épée Team event at the 2020 Tokyo Olympics was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea
+   - Choi In-jeong
+   - Kang Young-mi
+   - Lee Hye-in
+   - Song Se-ra
+2. **Silver Medal**: Italy
+   - Rossella Fiamingo
+   - Federica Isola
+   - Marta Martelli
+   - Alberta Santuccio
+3. **Bronze Medal**: Estonia
+   - Irina Embrich
+   - Erika Kirpu
+   - Julia Beljajeva
+   - Katrina Lehis
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Epée	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Épée	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	South	O
+40	Korea	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	South	B-Gold
+54	Korea	I-Gold
+55	-	O
+56	Choi	O
+57	In-jeong	O
+58	-	O
+59	Kang	O
+60	Young-mi	O
+61	-	O
+62	Lee	O
+63	Hye-in	O
+64	-	O
+65	Song	O
+66	Se-ra	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Italy	B-Silver
+74	-	O
+75	Rossella	O
+76	Fiamingo	O
+77	-	O
+78	Federica	O
+79	Isola	O
+80	-	O
+81	Marta	O
+82	Martelli	O
+83	-	O
+84	Alberta	O
+85	Santuccio	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Estonia	B-Bronze
+93	-	O
+94	Irina	O
+95	Embrich	O
+96	-	O
+97	Erika	O
+98	Kirpu	O
+99	-	O
+100	Julia	O
+101	Beljajeva	O
+102	-	O
+103	Katrina	O
+104	Lehis	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Men's Fencing Foil Team event at the 2020 olympic games?The Men's Fencing Foil Team event at the 2020 Tokyo Olympics was won by the Russian Olympic Committee (ROC). Here are the medalists:
+- Gold: Russian Olympic Committee (ROC)
+  - Kirill Borodachev
+  - Timur Safin
+  - Dmitriy Zherebchenko
+  - Vladislav Mylnikov
+- Silver: France
+  - Enzo Lefort
+  - Julien Mertine
+  - Erwan Le Péchoux
+  - Alexandre Sido
+- Bronze: United States
+  - Race Imboden
+  - Nick Itkin
+  - Alexander Massialas
+  - Gerek Meinhardt
+# status = {"0":"accepted"}
+# time (ms) = 64253
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Foil	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Russian	O
+38	Olympic	O
+39	Committee	O
+40	(	O
+41	ROC	O
+42	).	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	-	O
+49	Gold	O
+50	:	O
+51	Russian	B-Gold
+52	Olympic	I-Gold
+53	Committee	I-Gold
+54	(	O
+55	ROC	O
+56	)	O
+57	-	O
+58	Kirill	O
+59	Borodachev	O
+60	-	O
+61	Timur	O
+62	Safin	O
+63	-	O
+64	Dmitriy	O
+65	Zherebchenko	O
+66	-	O
+67	Vladislav	O
+68	Mylnikov	O
+69	-	O
+70	Silver	O
+71	:	O
+72	France	B-Silver
+73	-	O
+74	Enzo	O
+75	Lefort	O
+76	-	O
+77	Julien	O
+78	Mertine	O
+79	-	O
+80	Erwan	O
+81	Le	O
+82	Péchoux	O
+83	-	O
+84	Alexandre	O
+85	Sido	O
+86	-	O
+87	Bronze	O
+88	:	O
+89	United	B-Bronze
+90	States	I-Bronze
+91	-	O
+92	Race	O
+93	Imboden	O
+94	-	O
+95	Nick	O
+96	Itkin	O
+97	-	O
+98	Alexander	O
+99	Massialas	O
+100	-	O
+101	Gerek	O
+102	Meinhardt	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Women's Fencing Foil Team event at the 2020 olympic games?The Women's Fencing Foil Team event at the 2020 Tokyo Olympics was won by the Russian Olympic Committee (ROC) team. Here are the medalists:
+1. **Gold Medal**: Russian Olympic Committee (ROC)
+   - Inna Deriglazova
+   - Lavrinenko Marta
+   - Shutova Adelina
+   - Yakovleva Sofya
+2. **Silver Medal**: Italy
+   - Arianna Errigo
+   - Alice Volpi
+   - Martina Batini
+   - Erica Cipressa
+3. **Bronze Medal**: France
+   - Ysaora Thibus
+   - Anita Blaze
+   - Pauline Ranvier
+   - Astrid Guyart
+# status = {"0":"accepted"}
+# time (ms) = 1465
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Foil	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Foil	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Russian	O
+38	Olympic	O
+39	Committee	O
+40	(	O
+41	ROC	O
+42	)	O
+43	team	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	Russian	B-Gold
+57	Olympic	I-Gold
+58	Committee	I-Gold
+59	(	O
+60	ROC	O
+61	)	O
+62	-	O
+63	Inna	O
+64	Deriglazova	O
+65	-	O
+66	Lavrinenko	O
+67	Marta	O
+68	-	O
+69	Shutova	O
+70	Adelina	O
+71	-	O
+72	Yakovleva	O
+73	Sofya	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Italy	B-Silver
+81	-	O
+82	Arianna	O
+83	Errigo	O
+84	-	O
+85	Alice	O
+86	Volpi	O
+87	-	O
+88	Martina	O
+89	Batini	O
+90	-	O
+91	Erica	O
+92	Cipressa	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	France	B-Bronze
+100	-	O
+101	Ysaora	O
+102	Thibus	O
+103	-	O
+104	Anita	O
+105	Blaze	O
+106	-	O
+107	Pauline	O
+108	Ranvier	O
+109	-	O
+110	Astrid	O
+111	Guyart	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Men's Rowing Four event at the 2020 olympic games?The Men's Rowing Four event at the 2020 Tokyo Olympics was won by the Australian team. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Alexander Purnell
+   - Spencer Turrin
+   - Jack Hargreaves
+   - Alexander Hill
+2. **Silver Medal**: Romania
+   - Mihăiță Țigănescu
+   - Mugurel Semciuc
+   - Ștefan Constantin Berariu
+   - Cosmin Pascari
+3. **Bronze Medal**: Italy
+   - Matteo Castaldo
+   - Marco Di Costanzo
+   - Mario Paonessa
+   - Giuseppe Di Mare
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Four	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Rowing	O
+24	Four	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Australian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Australia	B-Gold
+50	-	O
+51	Alexander	O
+52	Purnell	O
+53	-	O
+54	Spencer	O
+55	Turrin	O
+56	-	O
+57	Jack	O
+58	Hargreaves	O
+59	-	O
+60	Alexander	O
+61	Hill	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	Romania	B-Silver
+69	-	O
+70	Mihăiță	O
+71	Țigănescu	O
+72	-	O
+73	Mugurel	O
+74	Semciuc	O
+75	-	O
+76	Ștefan	O
+77	Constantin	O
+78	Berariu	O
+79	-	O
+80	Cosmin	O
+81	Pascari	O
+82	3	O
+83	.	O
+84	**	O
+85	Bronze	O
+86	Medal	O
+87	**:	O
+88	Italy	B-Bronze
+89	-	O
+90	Matteo	O
+91	Castaldo	O
+92	-	O
+93	Marco	O
+94	Di	O
+95	Costanzo	O
+96	-	O
+97	Mario	O
+98	Paonessa	O
+99	-	O
+100	Giuseppe	O
+101	Di	O
+102	Mare	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Women's Rowing Four event at the 2020 olympic games?The Women's Rowing Four event at the 2020 Tokyo Olympics was won by the Australian team. Here are the medalists:
+1. **Gold Medal**: Australia
+   - Lucy Stephan
+   - Katrina Werry
+   - Ria Thompson
+   - Jessica Morrison
+2. **Silver Medal**: Romania
+   - Maria Tivodariu
+   - Ioana Vrinceanu
+   - Adelina Bogus
+   - Laura Oprea
+3. **Bronze Medal**: Ireland
+   - Aifric Keogh
+   - Eimear Lambe
+   - Fiona Murtagh
+   - Emily Hegarty
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Four	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Rowing	O
+24	Four	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Australian	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Australia	B-Gold
+50	-	O
+51	Lucy	O
+52	Stephan	O
+53	-	O
+54	Katrina	O
+55	Werry	O
+56	-	O
+57	Ria	O
+58	Thompson	O
+59	-	O
+60	Jessica	O
+61	Morrison	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	Romania	B-Silver
+69	-	O
+70	Maria	O
+71	Tivodariu	O
+72	-	O
+73	Ioana	O
+74	Vrinceanu	O
+75	-	O
+76	Adelina	O
+77	Bogus	O
+78	-	O
+79	Laura	O
+80	Oprea	O
+81	3	O
+82	.	O
+83	**	O
+84	Bronze	O
+85	Medal	O
+86	**:	O
+87	Ireland	B-Bronze
+88	-	O
+89	Aifric	O
+90	Keogh	O
+91	-	O
+92	Eimear	O
+93	Lambe	O
+94	-	O
+95	Fiona	O
+96	Murtagh	O
+97	-	O
+98	Emily	O
+99	Hegarty	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Men's Canoe Sprint Kayak Four 500m event at the 2020 olympic games?The Men's Canoe Sprint Kayak Four 500m event at the 2020 Tokyo Olympics was won by the German team. Here are the medalists:
+1. Gold: Germany (Max Rendschmidt, Ronny Rauhe, Tom Liebscher, Max Lemke)
+2. Silver: Spain (Marcus Walz, Carlos Arévalo, Rodrigo Germade, Saúl Craviotto)
+3. Bronze: Slovakia (Samuel Baláž, Denis Myšák, Adam Botek, Martin Fuksa)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Canoe	O
+11	Sprint	O
+12	Kayak	O
+13	Four	O
+14	500	O
+15	m	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	Canoe	O
+28	Sprint	O
+29	Kayak	O
+30	Four	O
+31	500	O
+32	m	O
+33	event	O
+34	at	O
+35	the	O
+36	2020	O
+37	Tokyo	O
+38	Olympics	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	German	O
+44	team	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	Gold	O
+54	:	O
+55	Germany	B-Gold
+56	(	O
+57	Max	O
+58	Rendschmidt	O
+59	,	O
+60	Ronny	O
+61	Rauhe	O
+62	,	O
+63	Tom	O
+64	Liebscher	O
+65	,	O
+66	Max	O
+67	Lemke	O
+68	)	O
+69	2	O
+70	.	O
+71	Silver	O
+72	:	O
+73	Spain	B-Silver
+74	(	O
+75	Marcus	O
+76	Walz	O
+77	,	O
+78	Carlos	O
+79	Arévalo	O
+80	,	O
+81	Rodrigo	O
+82	Germade	O
+83	,	O
+84	Saúl	O
+85	Craviotto	O
+86	)	O
+87	3	O
+88	.	O
+89	Bronze	O
+90	:	O
+91	Slovakia	B-Bronze
+92	(	O
+93	Samuel	O
+94	Baláž	O
+95	,	O
+96	Denis	O
+97	Myšák	O
+98	,	O
+99	Adam	O
+100	Botek	O
+101	,	O
+102	Martin	O
+103	Fuksa	O
+104	)	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Women's Canoe Sprint Kayak Four 500m event at the 2020 olympic games?The Women's Canoe Sprint Kayak Four 500m event at the 2020 Tokyo Olympics was won by the team from Hungary. Here are the medalists:
+1. Gold: Hungary
+   - Time: 1:35.428
+   - Team: Danuta Kozák, Anna Kárász, Tamara Csipes, and Erika Medveczky
+2. Silver: Germany
+   - Time: 1:36.231
+   - Team: Sabrina Hering, Stephanie Scheibe, Tina Dietze, and Franziska John
+3. Bronze: Poland
+   - Time: 1:36.791
+   - Team: Karolina Naja, Anna Puławska, Justyna Iskrzycka, and Helena Wiśniewska
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Canoe	O
+11	Sprint	O
+12	Kayak	O
+13	Four	O
+14	500	O
+15	m	O
+16	event	O
+17	at	O
+18	the	O
+19	2020	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	Canoe	O
+28	Sprint	O
+29	Kayak	O
+30	Four	O
+31	500	O
+32	m	O
+33	event	O
+34	at	O
+35	the	O
+36	2020	O
+37	Tokyo	O
+38	Olympics	O
+39	was	O
+40	won	O
+41	by	O
+42	the	O
+43	team	O
+44	from	O
+45	Hungary	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	Gold	O
+55	:	O
+56	Hungary	B-Gold
+57	-	O
+58	Time	O
+59	:	O
+60	1	O
+61	:	O
+62	35	O
+63	.	O
+64	428	O
+65	-	O
+66	Team	O
+67	:	O
+68	Danuta	O
+69	Kozák	O
+70	,	O
+71	Anna	O
+72	Kárász	O
+73	,	O
+74	Tamara	O
+75	Csipes	O
+76	,	O
+77	and	O
+78	Erika	O
+79	Medveczky	O
+80	2	O
+81	.	O
+82	Silver	O
+83	:	O
+84	Germany	B-Silver
+85	-	O
+86	Time	O
+87	:	O
+88	1	O
+89	:	O
+90	36	O
+91	.	O
+92	231	O
+93	-	O
+94	Team	O
+95	:	O
+96	Sabrina	O
+97	Hering	O
+98	,	O
+99	Stephanie	O
+100	Scheibe	O
+101	,	O
+102	Tina	O
+103	Dietze	O
+104	,	O
+105	and	O
+106	Franziska	O
+107	John	O
+108	3	O
+109	.	O
+110	Bronze	O
+111	:	O
+112	Poland	B-Bronze
+113	-	O
+114	Time	O
+115	:	O
+116	1	O
+117	:	O
+118	36	O
+119	.	O
+120	791	O
+121	-	O
+122	Team	O
+123	:	O
+124	Karolina	O
+125	Naja	O
+126	,	O
+127	Anna	O
+128	Puławska	O
+129	,	O
+130	Justyna	O
+131	Iskrzycka	O
+132	,	O
+133	and	O
+134	Helena	O
+135	Wiśniewska	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2020 olympic games?The Men's Rowing Quadruple Sculls event at the 2020 Tokyo Olympics was won by the Netherlands. Here are the medalists:
+1. Gold: Netherlands (Dirk Uittenbogaard, Abe Wiersma, Tone Wieten, Koen Metsemakers)
+2. Silver: Australia (Jack Hargreaves, Caleb Antill, Cameron Girdlestone, Luke Letcher)
+3. Bronze: Italy (Matteo Castaldo, Bruno Rosetti, Matteo Lodo, Giuseppe Di Mare)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Netherlands	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	Gold	O
+47	:	O
+48	Netherlands	B-Gold
+49	(	O
+50	Dirk	O
+51	Uittenbogaard	O
+52	,	O
+53	Abe	O
+54	Wiersma	O
+55	,	O
+56	Tone	O
+57	Wieten	O
+58	,	O
+59	Koen	O
+60	Metsemakers	O
+61	)	O
+62	2	O
+63	.	O
+64	Silver	O
+65	:	O
+66	Australia	B-Silver
+67	(	O
+68	Jack	O
+69	Hargreaves	O
+70	,	O
+71	Caleb	O
+72	Antill	O
+73	,	O
+74	Cameron	O
+75	Girdlestone	O
+76	,	O
+77	Luke	O
+78	Letcher	O
+79	)	O
+80	3	O
+81	.	O
+82	Bronze	O
+83	:	O
+84	Italy	B-Bronze
+85	(	O
+86	Matteo	O
+87	Castaldo	O
+88	,	O
+89	Bruno	O
+90	Rosetti	O
+91	,	O
+92	Matteo	O
+93	Lodo	O
+94	,	O
+95	Giuseppe	O
+96	Di	O
+97	Mare	O
+98	)	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2020 olympic games?The Women's Rowing Quadruple Sculls event at the 2020 Tokyo Olympics was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China (Liu Xiaoyu, Zhang Ling, Chen Yunxia, Zhang Shuxian)
+2. **Silver Medal**: Poland (Agnieszka Kobus, Marta Wieliczko, Maria Springwald, Katarzyna Zillmann)
+3. **Bronze Medal**: Australia (Ria Thompson, Rowena Meredith, Harriet Hudson, Caitlin Cronin)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Chinese	O
+38	team	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	China	B-Gold
+52	(	O
+53	Liu	O
+54	Xiaoyu	O
+55	,	O
+56	Zhang	O
+57	Ling	O
+58	,	O
+59	Chen	O
+60	Yunxia	O
+61	,	O
+62	Zhang	O
+63	Shuxian	O
+64	)	O
+65	2	O
+66	.	O
+67	**	O
+68	Silver	O
+69	Medal	O
+70	**:	O
+71	Poland	B-Silver
+72	(	O
+73	Agnieszka	O
+74	Kobus	O
+75	,	O
+76	Marta	O
+77	Wieliczko	O
+78	,	O
+79	Maria	O
+80	Springwald	O
+81	,	O
+82	Katarzyna	O
+83	Zillmann	O
+84	)	O
+85	3	O
+86	.	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Australia	B-Bronze
+92	(	O
+93	Ria	O
+94	Thompson	O
+95	,	O
+96	Rowena	O
+97	Meredith	O
+98	,	O
+99	Harriet	O
+100	Hudson	O
+101	,	O
+102	Caitlin	O
+103	Cronin	O
+104	)	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Men's Fencing Sabre Team event at the 2020 olympic games?The Men's Fencing Sabre Team event at the 2020 Tokyo Olympics was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea
+   - Gu Bon-gil
+   - Kim Jun-ho
+   - Oh Sang-uk
+   - Kim Jung-hwan
+2. **Silver Medal**: Italy
+   - Luigi Samele
+   - Enrico Berrè
+   - Luca Curatoli
+   - Aldo Montano
+3. **Bronze Medal**: Hungary
+   - Áron Szilágyi
+   - Tamás Decsi
+   - Csanád Gémesi
+   - András Szatmári
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Sabre	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Sabre	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	South	O
+40	Korea	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	South	B-Gold
+54	Korea	I-Gold
+55	-	O
+56	Gu	O
+57	Bon-gil	O
+58	-	O
+59	Kim	O
+60	Jun-ho	O
+61	-	O
+62	Oh	O
+63	Sang-uk	O
+64	-	O
+65	Kim	O
+66	Jung-hwan	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Italy	B-Silver
+74	-	O
+75	Luigi	O
+76	Samele	O
+77	-	O
+78	Enrico	O
+79	Berrè	O
+80	-	O
+81	Luca	O
+82	Curatoli	O
+83	-	O
+84	Aldo	O
+85	Montano	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Hungary	B-Bronze
+93	-	O
+94	Áron	O
+95	Szilágyi	O
+96	-	O
+97	Tamás	O
+98	Decsi	O
+99	-	O
+100	Csanád	O
+101	Gémesi	O
+102	-	O
+103	András	O
+104	Szatmári	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Women's Fencing Sabre Team event at the 2020 olympic games?The Women's Fencing Sabre Team event at the 2020 Tokyo Olympics was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea
+   - Kim Ji-yeon
+   - Choi Soo-yeon
+   - Kim Hye-eun
+   - Youth Olympic Games winner Lee Hye-in
+2. **Silver Medal**: France
+   - Manon Brunet
+   - Charlotte Lembach
+   - Sara Balzer
+   - Caroline Queroli
+3. **Bronze Medal**: Italy
+   - Rossella Fiamingo
+   - Federica Isola
+   - Irene Vecchi
+   - Martina Criscio
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Sabre	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Fencing	O
+25	Sabre	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	South	O
+40	Korea	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	South	B-Gold
+54	Korea	I-Gold
+55	-	O
+56	Kim	O
+57	Ji-yeon	O
+58	-	O
+59	Choi	O
+60	Soo-yeon	O
+61	-	O
+62	Kim	O
+63	Hye-eun	O
+64	-	O
+65	Youth	O
+66	Olympic	O
+67	Games	O
+68	winner	O
+69	Lee	O
+70	Hye-in	O
+71	2	O
+72	.	O
+73	**	O
+74	Silver	O
+75	Medal	O
+76	**:	O
+77	France	B-Silver
+78	-	O
+79	Manon	O
+80	Brunet	O
+81	-	O
+82	Charlotte	O
+83	Lembach	O
+84	-	O
+85	Sara	O
+86	Balzer	O
+87	-	O
+88	Caroline	O
+89	Queroli	O
+90	3	O
+91	.	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	**:	O
+96	Italy	B-Bronze
+97	-	O
+98	Rossella	O
+99	Fiamingo	O
+100	-	O
+101	Federica	O
+102	Isola	O
+103	-	O
+104	Irene	O
+105	Vecchi	O
+106	-	O
+107	Martina	O
+108	Criscio	O
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Men's Archery Team event at the 2020 olympic games?The Men's Archery Team event at the 2020 Tokyo Olympics was won by the South Korean team. Here are the medalists:
+1. **Gold Medal**: South Korea (Kim Je-deok, Oh Jin-hyek, Kim Woo-jin)
+2. **Silver Medal**: United States (Brady Ellison, Jack Williams, Tom Stanwood)
+3. **Bronze Medal**: Netherlands (Steve Wijler, Sjef van den Berg, Gijs Broeksma)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	South	O
+36	Korean	O
+37	team	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	South	B-Gold
+51	Korea	I-Gold
+52	(	O
+53	Kim	O
+54	Je-deok	O
+55	,	O
+56	Oh	O
+57	Jin-hyek	O
+58	,	O
+59	Kim	O
+60	Woo-jin	O
+61	)	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	United	B-Silver
+69	States	I-Silver
+70	(	O
+71	Brady	O
+72	Ellison	O
+73	,	O
+74	Jack	O
+75	Williams	O
+76	,	O
+77	Tom	O
+78	Stanwood	O
+79	)	O
+80	3	O
+81	.	O
+82	**	O
+83	Bronze	O
+84	Medal	O
+85	**:	O
+86	Netherlands	B-Bronze
+87	(	O
+88	Steve	O
+89	Wijler	O
+90	,	O
+91	Sjef	O
+92	van	O
+93	den	O
+94	Berg	O
+95	,	O
+96	Gijs	O
+97	Broeksma	O
+98	)	O
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Women's Archery Team event at the 2020 olympic games?The Women's Archery Team event at the 2020 Tokyo Olympics was won by the Korean team. Here are the medalists:
+1. **Gold Medal**: Korea (An San, Jang Min-hee, Kang Chae-young)
+2. **Silver Medal**: ROC (Svetlana Gomboeva, Ksenia Perova, Elena Osipova)
+3. **Bronze Medal**: Germany (Michelle Kroppen, Lisa Unruh, Charline Schwarz)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2020	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2020	O
+29	Tokyo	O
+30	Olympics	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Korean	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Korea	B-Gold
+50	(	O
+51	An	O
+52	San	O
+53	,	O
+54	Jang	O
+55	Min-hee	O
+56	,	O
+57	Kang	O
+58	Chae-young	O
+59	)	O
+60	2	O
+61	.	O
+62	**	O
+63	Silver	O
+64	Medal	O
+65	**:	O
+66	ROC	B-Silver
+67	(	O
+68	Svetlana	O
+69	Gomboeva	O
+70	,	O
+71	Ksenia	O
+72	Perova	O
+73	,	O
+74	Elena	O
+75	Osipova	O
+76	)	O
+77	3	O
+78	.	O
+79	**	O
+80	Bronze	O
+81	Medal	O
+82	**:	O
+83	Germany	B-Bronze
+84	(	O
+85	Michelle	O
+86	Kroppen	O
+87	,	O
+88	Lisa	O
+89	Unruh	O
+90	,	O
+91	Charline	O
+92	Schwarz	O
+93	)	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Men's Artistic Gymnastics Team event at the 2020 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 2020 Tokyo Olympics was won by the Russian Olympic Committee (ROC). Here are the medalists:
+- Gold: Russian Olympic Committee (ROC) - 262.500
+  - Denis Ablyazin
+  - David Belyavskiy
+  - Artur Dalaloyan
+  - Nikita Nagornyy
+  - Ivan Stretovich
+- Silver: Japan - 262.397
+  - Daiki Hashimoto
+  - Kazuma Kaya
+  - Takeru Kitazono
+  - Wataru Tanigawa
+  - Hiroki Ishikawa
+- Bronze: China - 261.894
+  - Lin Chaopeng
+  - Sun Wei
+  - Xiao Ruoteng
+  - Zou Jingyuan
+  - Adonis Zhang
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Artistic	O
+25	Gymnastics	O
+26	Team	O
+27	All-Around	O
+28	event	O
+29	at	O
+30	the	O
+31	2020	O
+32	Tokyo	O
+33	Olympics	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	Russian	O
+39	Olympic	O
+40	Committee	O
+41	(	O
+42	ROC	O
+43	).	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	-	O
+50	Gold	O
+51	:	O
+52	Russian	B-Gold
+53	Olympic	I-Gold
+54	Committee	I-Gold
+55	(	O
+56	ROC	O
+57	)	O
+58	-	O
+59	262	O
+60	.	O
+61	500	O
+62	-	O
+63	Denis	O
+64	Ablyazin	O
+65	-	O
+66	David	O
+67	Belyavskiy	O
+68	-	O
+69	Artur	O
+70	Dalaloyan	O
+71	-	O
+72	Nikita	O
+73	Nagornyy	O
+74	-	O
+75	Ivan	O
+76	Stretovich	O
+77	-	O
+78	Silver	O
+79	:	O
+80	Japan	B-Silver
+81	-	O
+82	262	O
+83	.	O
+84	397	O
+85	-	O
+86	Daiki	O
+87	Hashimoto	O
+88	-	O
+89	Kazuma	O
+90	Kaya	O
+91	-	O
+92	Takeru	O
+93	Kitazono	O
+94	-	O
+95	Wataru	O
+96	Tanigawa	O
+97	-	O
+98	Hiroki	O
+99	Ishikawa	O
+100	-	O
+101	Bronze	O
+102	:	O
+103	China	B-Bronze
+104	-	O
+105	261	O
+106	.	O
+107	894	O
+108	-	O
+109	Lin	O
+110	Chaopeng	O
+111	-	O
+112	Sun	O
+113	Wei	O
+114	-	O
+115	Xiao	O
+116	Ruoteng	O
+117	-	O
+118	Zou	O
+119	Jingyuan	O
+120	-	O
+121	Adonis	O
+122	Zhang	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Women's Artistic Gymnastics Team event at the 2020 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 2020 Tokyo Olympics was won by the Russian Olympic Committee (ROC) team. Here are the medalists:
+1. **Gold Medal**: Russian Olympic Committee (ROC)
+   - Angelina Melnikova
+   - Vladislava Urazova
+   - Lilia Akhaimova
+   - Daria Spiridonova
+   - Anastasia Ilyankova
+2. **Silver Medal**: United States
+   - Simone Biles
+   - Jordan Chiles
+   - Sunisa Lee
+   - Grace McCallum
+   - Jade Carey
+3. **Bronze Medal**: United Kingdom
+   - Jennifer Gadirova
+   - Jessica Gadirova
+   - Alice Kinsella
+   - Amelie Morgan
+   - Ellie Downie
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Artistic	O
+25	Gymnastics	O
+26	Team	O
+27	All-Around	O
+28	event	O
+29	at	O
+30	the	O
+31	2020	O
+32	Tokyo	O
+33	Olympics	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	Russian	O
+39	Olympic	O
+40	Committee	O
+41	(	O
+42	ROC	O
+43	)	O
+44	team	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	Russian	B-Gold
+58	Olympic	I-Gold
+59	Committee	I-Gold
+60	(	O
+61	ROC	O
+62	)	O
+63	-	O
+64	Angelina	O
+65	Melnikova	O
+66	-	O
+67	Vladislava	O
+68	Urazova	O
+69	-	O
+70	Lilia	O
+71	Akhaimova	O
+72	-	O
+73	Daria	O
+74	Spiridonova	O
+75	-	O
+76	Anastasia	O
+77	Ilyankova	O
+78	2	O
+79	.	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	United	B-Silver
+85	States	I-Silver
+86	-	O
+87	Simone	O
+88	Biles	O
+89	-	O
+90	Jordan	O
+91	Chiles	O
+92	-	O
+93	Sunisa	O
+94	Lee	O
+95	-	O
+96	Grace	O
+97	McCallum	O
+98	-	O
+99	Jade	O
+100	Carey	O
+101	3	O
+102	.	O
+103	**	O
+104	Bronze	O
+105	Medal	O
+106	**:	O
+107	United	B-Bronze
+108	Kingdom	I-Bronze
+109	-	O
+110	Jennifer	O
+111	Gadirova	O
+112	-	O
+113	Jessica	O
+114	Gadirova	O
+115	-	O
+116	Alice	O
+117	Kinsella	O
+118	-	O
+119	Amelie	O
+120	Morgan	O
+121	-	O
+122	Ellie	O
+123	Downie	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Men's Table Tennis Team event at the 2020 olympic games?The Men's Table Tennis Team event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Ma Long
+   - Fan Zhendong
+   - Xu Xin
+2. **Silver Medal**: Germany
+   - Timo Boll
+   - Dorian Wang
+   - Patrick Franziska
+3. **Bronze Medal**: Japan
+   - Jun Mizutani
+   - Koki Niwa
+   - Tomokazu Harimoto
+4. **Bronze Medal**: South Korea
+   - Jang Woo-jin
+   - Lim Jong-hoon
+   - An Jae-hyun
+# status = {"0":"accepted"}
+# time (ms) = 31318
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	,	O
+34	which	O
+35	was	O
+36	held	O
+37	in	O
+38	2021	O
+39	due	O
+40	to	O
+41	the	O
+42	COVID	O
+43	-	O
+44	19	O
+45	pandemic	O
+46	,	O
+47	was	O
+48	won	O
+49	by	O
+50	the	O
+51	Chinese	O
+52	team	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	China	B-Gold
+66	-	O
+67	Ma	O
+68	Long	O
+69	-	O
+70	Fan	O
+71	Zhendong	O
+72	-	O
+73	Xu	O
+74	Xin	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Germany	B-Silver
+82	-	O
+83	Timo	O
+84	Boll	O
+85	-	O
+86	Dorian	O
+87	Wang	O
+88	-	O
+89	Patrick	O
+90	Franziska	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	Japan	B-Bronze
+98	-	O
+99	Jun	O
+100	Mizutani	O
+101	-	O
+102	Koki	O
+103	Niwa	O
+104	-	O
+105	Tomokazu	O
+106	Harimoto	O
+107	4	O
+108	.	O
+109	**	O
+110	Bronze	O
+111	Medal	O
+112	**:	O
+113	South	B-Bronze
+114	Korea	I-Bronze
+115	-	O
+116	Jang	O
+117	Woo-jin	O
+118	-	O
+119	Lim	O
+120	Jong-hoon	O
+121	-	O
+122	An	O
+123	Jae-hyun	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Women's Table Tennis Team event at the 2020 olympic games?The Women's Table Tennis Team event at the 2020 Tokyo Olympics, which was held in 2021 due to the COVID-19 pandemic, was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Ding Ning
+   - Liu Shiwen
+   - Sun Yingsha
+2. **Silver Medal**: Japan
+   - Mima Ito
+   - Kasumi Ishikawa
+   - Miu Hirano
+3. **Bronze Medal**: Hong Kong
+   - Doo Hoi Kem
+   - Lee Ho Ching
+   - Mak Tze Wing
+4. **Bronze Medal**: Singapore
+   - Feng Tianwei
+   - Yu Mengyu
+   - Zhou Yihan
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2020	O
+31	Tokyo	O
+32	Olympics	O
+33	,	O
+34	which	O
+35	was	O
+36	held	O
+37	in	O
+38	2021	O
+39	due	O
+40	to	O
+41	the	O
+42	COVID	O
+43	-	O
+44	19	O
+45	pandemic	O
+46	,	O
+47	was	O
+48	won	O
+49	by	O
+50	the	O
+51	Chinese	O
+52	team	O
+53	.	O
+54	Here	O
+55	are	O
+56	the	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	**:	O
+65	China	B-Gold
+66	-	O
+67	Ding	O
+68	Ning	O
+69	-	O
+70	Liu	O
+71	Shiwen	O
+72	-	O
+73	Sun	O
+74	Yingsha	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Japan	B-Silver
+82	-	O
+83	Mima	O
+84	Ito	O
+85	-	O
+86	Kasumi	O
+87	Ishikawa	O
+88	-	O
+89	Miu	O
+90	Hirano	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	Hong	B-Bronze
+98	Kong	I-Bronze
+99	-	O
+100	Doo	O
+101	Hoi	O
+102	Kem	O
+103	-	O
+104	Lee	O
+105	Ho	O
+106	Ching	O
+107	-	O
+108	Mak	O
+109	Tze	O
+110	Wing	O
+111	4	O
+112	.	O
+113	**	O
+114	Bronze	O
+115	Medal	O
+116	**:	O
+117	Singapore	B-Bronze
+118	-	O
+119	Feng	O
+120	Tianwei	O
+121	-	O
+122	Yu	O
+123	Mengyu	O
+124	-	O
+125	Zhou	O
+126	Yihan	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Men's Cycling Track Team Pursuit event at the 2020 olympic games?The Men's Cycling Track Team Pursuit event at the 2020 Tokyo Olympics was won by the team from Italy. Here are the medalists:
+1. **Gold Medal**: Italy (Simone Consonni, Filippo Ganna, Francesco Lamon, Jonathan Milan)
+2. **Silver Medal**: Denmark (Niklas Larsen, Lasse Norman Hansen, Rasmus Pedersen, Frederik Madsen)
+3. **Bronze Medal**: Australia (Leigh Howard, Kell O'Brien, Luke Plapp, Alexander Porter, Rohan Dennis)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Cycling	O
+11	Track	O
+12	Team	O
+13	Pursuit	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Cycling	O
+26	Track	O
+27	Team	O
+28	Pursuit	O
+29	event	O
+30	at	O
+31	the	O
+32	2020	O
+33	Tokyo	O
+34	Olympics	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Italy	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Gold
+55	(	O
+56	Simone	O
+57	Consonni	O
+58	,	O
+59	Filippo	O
+60	Ganna	O
+61	,	O
+62	Francesco	O
+63	Lamon	O
+64	,	O
+65	Jonathan	O
+66	Milan	O
+67	)	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	Denmark	B-Silver
+75	(	O
+76	Niklas	O
+77	Larsen	O
+78	,	O
+79	Lasse	O
+80	Norman	O
+81	Hansen	O
+82	,	O
+83	Rasmus	O
+84	Pedersen	O
+85	,	O
+86	Frederik	O
+87	Madsen	O
+88	)	O
+89	3	O
+90	.	O
+91	**	O
+92	Bronze	O
+93	Medal	O
+94	**:	O
+95	Australia	B-Bronze
+96	(	O
+97	Leigh	O
+98	Howard	O
+99	,	O
+100	Kell	O
+101	O	O
+102	'	O
+103	Brien	O
+104	,	O
+105	Luke	O
+106	Plapp	O
+107	,	O
+108	Alexander	O
+109	Porter	O
+110	,	O
+111	Rohan	O
+112	Dennis	O
+113	)	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Women's Cycling Track Team Pursuit event at the 2020 olympic games?The Women's Cycling Track Team Pursuit event at the 2020 Tokyo Olympics was won by the team from Germany. Here are the medalists:
+1. **Gold Medal**: Germany (Franziska Brauße, Lisa Brennauer, Lisa Klein, Mieke Kröger)
+2. **Silver Medal**: United States (Chloé Dygert, Megan Jastrab, Jennifer Valente, Emma White)
+3. **Bronze Medal**: Canada (Allison Beveridge, Ariane Bonhomme, Annie Foreman-Mackey, Georgia Simmerling)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Cycling	O
+11	Track	O
+12	Team	O
+13	Pursuit	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Cycling	O
+26	Track	O
+27	Team	O
+28	Pursuit	O
+29	event	O
+30	at	O
+31	the	O
+32	2020	O
+33	Tokyo	O
+34	Olympics	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Germany	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Germany	B-Gold
+55	(	O
+56	Franziska	O
+57	Brauße	O
+58	,	O
+59	Lisa	O
+60	Brennauer	O
+61	,	O
+62	Lisa	O
+63	Klein	O
+64	,	O
+65	Mieke	O
+66	Kröger	O
+67	)	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	United	B-Silver
+75	States	I-Silver
+76	(	O
+77	Chloé	O
+78	Dygert	O
+79	,	O
+80	Megan	O
+81	Jastrab	O
+82	,	O
+83	Jennifer	O
+84	Valente	O
+85	,	O
+86	Emma	O
+87	White	O
+88	)	O
+89	3	O
+90	.	O
+91	**	O
+92	Bronze	O
+93	Medal	O
+94	**:	O
+95	Canada	B-Bronze
+96	(	O
+97	Allison	O
+98	Beveridge	O
+99	,	O
+100	Ariane	O
+101	Bonhomme	O
+102	,	O
+103	Annie	O
+104	Foreman-Mackey	O
+105	,	O
+106	Georgia	O
+107	Simmerling	O
+108	)	O
+
+

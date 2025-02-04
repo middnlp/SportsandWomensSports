@@ -1,0 +1,6234 @@
+# sent_id = 0
+# text = Who won the medals in the Fencing Foil, Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Men's Foil Team event were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: South Korea
+- **Bronze Medal**: United States
+For the Women's Foil Team event:
+- **Gold Medal**: Italy
+- **Silver Medal**: Russia
+- **Bronze Medal**: France
+If you need more detailed information about the events or the athletes, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 3630
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Foil	O
+34	Team	O
+35	event	O
+36	were	O
+37	awarded	O
+38	as	O
+39	follows	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	Italy	B-Male/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	South	B-Male/Silver
+53	Korea	I-Male/Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	United	B-Male/Bronze
+60	States	I-Male/Bronze
+61	For	O
+62	the	O
+63	Women	O
+64	'	O
+65	s	O
+66	Foil	O
+67	Team	O
+68	event	O
+69	:	O
+70	-	O
+71	**	O
+72	Gold	O
+73	Medal	O
+74	**:	O
+75	Italy	B-Female/Gold
+76	-	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Russia	B-Female/Silver
+82	-	O
+83	**	O
+84	Bronze	O
+85	Medal	O
+86	**:	O
+87	France	B-Female/Bronze
+88	If	O
+89	you	O
+90	need	O
+91	more	O
+92	detailed	O
+93	information	O
+94	about	O
+95	the	O
+96	events	O
+97	or	O
+98	the	O
+99	athletes	O
+100	,	O
+101	feel	O
+102	free	O
+103	to	O
+104	ask	O
+105	!	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Football event at the 2012 olympic games?At the 2012 Olympic Games in London, the medal winners in the men's and women's football events were as follows:
+**Men's Football:**
+- **Gold Medal:** Mexico
+- **Silver Medal:** Brazil
+- **Bronze Medal:** South Korea
+**Women's Football:**
+- **Gold Medal:** United States
+- **Silver Medal:** Japan
+- **Bronze Medal:** France
+The men's tournament concluded with Mexico defeating Brazil in the final, while the women's tournament saw the United States triumph over Japan.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Football	O
+8	event	O
+9	at	O
+10	the	O
+11	2012	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2012	O
+18	Olympic	O
+19	Games	O
+20	in	O
+21	London	O
+22	,	O
+23	the	O
+24	medal	O
+25	winners	O
+26	in	O
+27	the	O
+28	men	O
+29	'	O
+30	s	O
+31	and	O
+32	women	O
+33	'	O
+34	s	O
+35	football	O
+36	events	O
+37	were	O
+38	as	O
+39	follows	O
+40	:	O
+41	**	O
+42	Men	O
+43	'	O
+44	s	O
+45	Football	O
+46	:**	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	:**	O
+52	Mexico	B-Male/Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	:**	O
+58	Brazil	B-Male/Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	Medal	O
+63	:**	O
+64	South	B-Male/Bronze
+65	Korea	I-Male/Bronze
+66	**	O
+67	Women	O
+68	'	O
+69	s	O
+70	Football	O
+71	:**	O
+72	-	O
+73	**	O
+74	Gold	O
+75	Medal	O
+76	:**	O
+77	United	B-Female/Gold
+78	States	I-Female/Gold
+79	-	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	:**	O
+84	Japan	B-Female/Silver
+85	-	O
+86	**	O
+87	Bronze	O
+88	Medal	O
+89	:**	O
+90	France	B-Female/Bronze
+91	The	O
+92	men	O
+93	'	O
+94	s	O
+95	tournament	O
+96	concluded	O
+97	with	O
+98	Mexico	O
+99	defeating	O
+100	Brazil	O
+101	in	O
+102	the	O
+103	final	O
+104	,	O
+105	while	O
+106	the	O
+107	women	O
+108	'	O
+109	s	O
+110	tournament	O
+111	saw	O
+112	the	O
+113	United	O
+114	States	O
+115	triumph	O
+116	over	O
+117	Japan	O
+118	.	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Handball event at the 2012 olympic games?At the 2012 Olympic Games held in London, the medal winners in the handball event were as follows:
+**Men's Handball:**
+- **Gold Medal:** France
+- **Silver Medal:** Sweden
+- **Bronze Medal:** Spain
+**Women's Handball:**
+- **Gold Medal:** Norway
+- **Silver Medal:** Montenegro
+- **Bronze Medal:** Great Britain
+These teams showcased outstanding performances during the tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	2012	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2012	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	London	O
+23	,	O
+24	the	O
+25	medal	O
+26	winners	O
+27	in	O
+28	the	O
+29	handball	O
+30	event	O
+31	were	O
+32	as	O
+33	follows	O
+34	:	O
+35	**	O
+36	Men	O
+37	'	O
+38	s	O
+39	Handball	O
+40	:**	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	:**	O
+46	France	B-Male/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	:**	O
+52	Sweden	B-Male/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	:**	O
+58	Spain	B-Male/Bronze
+59	**	O
+60	Women	O
+61	'	O
+62	s	O
+63	Handball	O
+64	:**	O
+65	-	O
+66	**	O
+67	Gold	O
+68	Medal	O
+69	:**	O
+70	Norway	B-Female/Gold
+71	-	O
+72	**	O
+73	Silver	O
+74	Medal	O
+75	:**	O
+76	Montenegro	B-Female/Silver
+77	-	O
+78	**	O
+79	Bronze	O
+80	Medal	O
+81	:**	O
+82	Great	B-Female/Bronze
+83	Britain	I-Female/Bronze
+84	These	O
+85	teams	O
+86	showcased	O
+87	outstanding	O
+88	performances	O
+89	during	O
+90	the	O
+91	tournament	O
+92	.	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Indoor Volleyball event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Indoor Volleyball events were awarded as follows:
+**Men's Indoor Volleyball:**
+- **Gold Medal:** Russia
+- **Silver Medal:** Brazil
+- **Bronze Medal:** Italy
+**Women's Indoor Volleyball:**
+- **Gold Medal:** USA
+- **Silver Medal:** Russia
+- **Bronze Medal:** Japan
+These results reflect the performances of the teams during the tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	2012	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2012	O
+19	Olympic	O
+20	Games	O
+21	in	O
+22	London	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	Indoor	O
+29	Volleyball	O
+30	events	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	**	O
+37	Men	O
+38	'	O
+39	s	O
+40	Indoor	O
+41	Volleyball	O
+42	:**	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	:**	O
+48	Russia	B-Male/Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	:**	O
+54	Brazil	B-Male/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	:**	O
+60	Italy	B-Male/Bronze
+61	**	O
+62	Women	O
+63	'	O
+64	s	O
+65	Indoor	O
+66	Volleyball	O
+67	:**	O
+68	-	O
+69	**	O
+70	Gold	O
+71	Medal	O
+72	:**	O
+73	USA	B-Female/Gold
+74	-	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	:**	O
+79	Russia	B-Female/Silver
+80	-	O
+81	**	O
+82	Bronze	O
+83	Medal	O
+84	:**	O
+85	Japan	B-Female/Bronze
+86	These	O
+87	results	O
+88	reflect	O
+89	the	O
+90	performances	O
+91	of	O
+92	the	O
+93	teams	O
+94	during	O
+95	the	O
+96	tournament	O
+97	.	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Rowing Quadruple Sculls event were awarded to the following teams:
+- **Gold Medal**: Germany
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Netherlands
+This event featured a competitive field, with strong performances from these countries.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	2012	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2012	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	London	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Rowing	O
+30	Quadruple	O
+31	Sculls	O
+32	event	O
+33	were	O
+34	awarded	O
+35	to	O
+36	the	O
+37	following	O
+38	teams	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Germany	B-Unknown/Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Great	B-Unknown/Silver
+52	Britain	I-Unknown/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	Netherlands	B-Unknown/Bronze
+59	This	O
+60	event	O
+61	featured	O
+62	a	O
+63	competitive	O
+64	field	O
+65	,	O
+66	with	O
+67	strong	O
+68	performances	O
+69	from	O
+70	these	O
+71	countries	O
+72	.	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Archery Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea (for both men's and women's team events)
+- **Silver Medal**: United States (both men's and women's team events)
+- **Bronze Medal**: Japan (women's team event) and Italy (men's team event)
+The South Korean archery teams were particularly dominant, winning gold in both categories.
+# status = {"0":"rejected"}
+# time (ms) = 47193
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	2012	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2012	O
+19	Olympic	O
+20	Games	O
+21	in	O
+22	London	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	Archery	O
+29	Team	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	South	O
+42	Korea	O
+43	(	O
+44	for	O
+45	both	O
+46	men	O
+47	'	O
+48	s	O
+49	and	O
+50	women	O
+51	'	O
+52	s	O
+53	team	O
+54	events	O
+55	)	O
+56	-	O
+57	**	O
+58	Silver	O
+59	Medal	O
+60	**:	O
+61	United	O
+62	States	O
+63	(	O
+64	both	O
+65	men	O
+66	'	O
+67	s	O
+68	and	O
+69	women	O
+70	'	O
+71	s	O
+72	team	O
+73	events	O
+74	)	O
+75	-	O
+76	**	O
+77	Bronze	O
+78	Medal	O
+79	**:	O
+80	Japan	B-Female/Bronze
+81	(	O
+82	women	O
+83	'	O
+84	s	O
+85	team	O
+86	event	O
+87	)	O
+88	and	O
+89	Italy	B-Male/Bronze
+90	(	O
+91	men	O
+92	'	O
+93	s	O
+94	team	O
+95	event	O
+96	)	O
+97	The	O
+98	South	O
+99	Korean	O
+100	archery	O
+101	teams	O
+102	were	O
+103	particularly	O
+104	dominant	O
+105	,	O
+106	winning	O
+107	gold	O
+108	in	O
+109	both	O
+110	categories	O
+111	.	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Table Tennis Team event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals in the Table Tennis Team event were awarded as follows:
+- **Gold Medal:** China
+- **Silver Medal:** South Korea
+- **Bronze Medal:** Japan
+China dominated the table tennis events, continuing their strong tradition in the sport.
+# status = {"0":"accepted"}
+# time (ms) = 9424
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Table	O
+8	Tennis	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2012	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2012	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	London	O
+24	,	O
+25	the	O
+26	medals	O
+27	in	O
+28	the	O
+29	Table	O
+30	Tennis	O
+31	Team	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	:**	O
+43	China	B-Unknown/Gold
+44	-	O
+45	**	O
+46	Silver	O
+47	Medal	O
+48	:**	O
+49	South	B-Unknown/Silver
+50	Korea	I-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	:**	O
+56	Japan	B-Unknown/Bronze
+57	China	O
+58	dominated	O
+59	the	O
+60	table	O
+61	tennis	O
+62	events	O
+63	,	O
+64	continuing	O
+65	their	O
+66	strong	O
+67	tradition	O
+68	in	O
+69	the	O
+70	sport	O
+71	.	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Artistic Gymnastics Team All-Around event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: Romania
+The U.S. women's team victory was particularly notable as it was their first Olympic gold medal win in the team event since 1996.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	All-Around	O
+11	event	O
+12	at	O
+13	the	O
+14	2012	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2012	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	London	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Artistic	O
+31	Gymnastics	O
+32	Team	O
+33	All-Around	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	United	B-Female/Gold
+46	States	I-Female/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	Russia	B-Female/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	Romania	B-Female/Bronze
+59	The	O
+60	U	O
+61	.	O
+62	S	O
+63	.	O
+64	women	O
+65	'	O
+66	s	O
+67	team	O
+68	victory	O
+69	was	O
+70	particularly	O
+71	notable	O
+72	as	O
+73	it	O
+74	was	O
+75	their	O
+76	first	O
+77	Olympic	O
+78	gold	O
+79	medal	O
+80	win	O
+81	in	O
+82	the	O
+83	team	O
+84	event	O
+85	since	O
+86	1996	O
+87	.	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Water Polo event at the 2012 olympic games?At the 2012 Olympic Games in London, the medals for the men's and women's water polo events were awarded as follows:
+**Men's Water Polo:**
+- **Gold Medal:** Croatia
+- **Silver Medal:** Spain
+- **Bronze Medal:** Hungary
+**Women's Water Polo:**
+- **Gold Medal:** USA
+- **Silver Medal:** Spain
+- **Bronze Medal:** Australia
+The women's competition saw the USA win their first gold medal in water polo at the Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Water	O
+8	Polo	O
+9	event	O
+10	at	O
+11	the	O
+12	2012	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2012	O
+19	Olympic	O
+20	Games	O
+21	in	O
+22	London	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	men	O
+29	'	O
+30	s	O
+31	and	O
+32	women	O
+33	'	O
+34	s	O
+35	water	O
+36	polo	O
+37	events	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	**	O
+44	Men	O
+45	'	O
+46	s	O
+47	Water	O
+48	Polo	O
+49	:**	O
+50	-	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	:**	O
+55	Croatia	B-Male/Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	Medal	O
+60	:**	O
+61	Spain	B-Male/Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	:**	O
+67	Hungary	B-Male/Bronze
+68	**	O
+69	Women	O
+70	'	O
+71	s	O
+72	Water	O
+73	Polo	O
+74	:**	O
+75	-	O
+76	**	O
+77	Gold	O
+78	Medal	O
+79	:**	O
+80	USA	B-Female/Gold
+81	-	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	:**	O
+86	Spain	B-Female/Silver
+87	-	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	:**	O
+92	Australia	B-Female/Bronze
+93	The	O
+94	women	O
+95	'	O
+96	s	O
+97	competition	O
+98	saw	O
+99	the	O
+100	USA	O
+101	win	O
+102	their	O
+103	first	O
+104	gold	O
+105	medal	O
+106	in	O
+107	water	O
+108	polo	O
+109	at	O
+110	the	O
+111	Olympics	O
+112	.	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Curling event at the 2014 olympic games?At the 2014 Winter Olympics in Sochi, the medals in the curling events were awarded as follows:
+### Men's Curling:
+- **Gold**: Canada
+- **Silver**: Sweden
+- **Bronze**: Great Britain
+### Women's Curling:
+- **Gold**: Canada
+- **Silver**: Sweden
+- **Bronze**: Japan
+Canada had a successful tournament, winning gold medals in both the men's and women's events.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Curling	O
+8	event	O
+9	at	O
+10	the	O
+11	2014	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2014	O
+18	Winter	O
+19	Olympics	O
+20	in	O
+21	Sochi	O
+22	,	O
+23	the	O
+24	medals	O
+25	in	O
+26	the	O
+27	curling	O
+28	events	O
+29	were	O
+30	awarded	O
+31	as	O
+32	follows	O
+33	:	O
+34	###	O
+35	Men	O
+36	'	O
+37	s	O
+38	Curling	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	**:	O
+44	Canada	B-Male/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	**:	O
+49	Sweden	B-Male/Silver
+50	-	O
+51	**	O
+52	Bronze	O
+53	**:	O
+54	Great	B-Male/Bronze
+55	Britain	I-Male/Bronze
+56	###	O
+57	Women	O
+58	'	O
+59	s	O
+60	Curling	O
+61	:	O
+62	-	O
+63	**	O
+64	Gold	O
+65	**:	O
+66	Canada	B-Female/Gold
+67	-	O
+68	**	O
+69	Silver	O
+70	**:	O
+71	Sweden	B-Female/Silver
+72	-	O
+73	**	O
+74	Bronze	O
+75	**:	O
+76	Japan	B-Female/Bronze
+77	Canada	O
+78	had	O
+79	a	O
+80	successful	O
+81	tournament	O
+82	,	O
+83	winning	O
+84	gold	O
+85	medals	O
+86	in	O
+87	both	O
+88	the	O
+89	men	O
+90	'	O
+91	s	O
+92	and	O
+93	women	O
+94	'	O
+95	s	O
+96	events	O
+97	.	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Ice Hockey event at the 2014 olympic games?At the 2014 Winter Olympics held in Sochi, Russia, the medals for the men's and women's ice hockey events were awarded as follows:
+**Men's Ice Hockey:**
+- Gold Medal: Canada
+- Silver Medal: Sweden
+- Bronze Medal: Finland
+**Women's Ice Hockey:**
+- Gold Medal: United States
+- Silver Medal: Canada
+- Bronze Medal: Switzerland
+Canada won the men's tournament, while the United States secured the women's title.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Ice	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	2014	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2014	O
+19	Winter	O
+20	Olympics	O
+21	held	O
+22	in	O
+23	Sochi	O
+24	,	O
+25	Russia	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	men	O
+32	'	O
+33	s	O
+34	and	O
+35	women	O
+36	'	O
+37	s	O
+38	ice	O
+39	hockey	O
+40	events	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	**	O
+47	Men	O
+48	'	O
+49	s	O
+50	Ice	O
+51	Hockey	O
+52	:**	O
+53	-	O
+54	Gold	O
+55	Medal	O
+56	:	O
+57	Canada	B-Male/Gold
+58	-	O
+59	Silver	O
+60	Medal	O
+61	:	O
+62	Sweden	B-Male/Silver
+63	-	O
+64	Bronze	O
+65	Medal	O
+66	:	O
+67	Finland	B-Male/Bronze
+68	**	O
+69	Women	O
+70	'	O
+71	s	O
+72	Ice	O
+73	Hockey	O
+74	:**	O
+75	-	O
+76	Gold	O
+77	Medal	O
+78	:	O
+79	United	B-Female/Gold
+80	States	I-Female/Gold
+81	-	O
+82	Silver	O
+83	Medal	O
+84	:	O
+85	Canada	B-Female/Silver
+86	-	O
+87	Bronze	O
+88	Medal	O
+89	:	O
+90	Switzerland	B-Female/Bronze
+91	Canada	O
+92	won	O
+93	the	O
+94	men	O
+95	'	O
+96	s	O
+97	tournament	O
+98	,	O
+99	while	O
+100	the	O
+101	United	O
+102	States	O
+103	secured	O
+104	the	O
+105	women	O
+106	'	O
+107	s	O
+108	title	O
+109	.	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Swimming 4 x 100 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Men's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: France
+- **Bronze**: Australia
+The U.S. team set a new Olympic record in this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2016	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Rio	O
+28	de	O
+29	Janeiro	O
+30	,	O
+31	the	O
+32	medals	O
+33	for	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	100	O
+41	metres	O
+42	Freestyle	O
+43	Relay	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	United	B-Male/Gold
+54	States	I-Male/Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	**:	O
+59	France	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	**:	O
+64	Australia	B-Male/Bronze
+65	The	O
+66	U	O
+67	.	O
+68	S	O
+69	.	O
+70	team	O
+71	set	O
+72	a	O
+73	new	O
+74	Olympic	O
+75	record	O
+76	in	O
+77	this	O
+78	event	O
+79	.	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Swimming 4 x 100 metres Medley Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Men's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Great Britain
+- **Bronze**: Australia
+The U.S. team won the event with a strong performance, solidifying their dominance in swimming at the Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2016	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Rio	O
+28	de	O
+29	Janeiro	O
+30	,	O
+31	the	O
+32	medals	O
+33	in	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	100	O
+41	metres	O
+42	Medley	O
+43	Relay	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	United	B-Male/Gold
+54	States	I-Male/Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	**:	O
+59	Great	B-Male/Silver
+60	Britain	I-Male/Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	**:	O
+65	Australia	B-Male/Bronze
+66	The	O
+67	U	O
+68	.	O
+69	S	O
+70	.	O
+71	team	O
+72	won	O
+73	the	O
+74	event	O
+75	with	O
+76	a	O
+77	strong	O
+78	performance	O
+79	,	O
+80	solidifying	O
+81	their	O
+82	dominance	O
+83	in	O
+84	swimming	O
+85	at	O
+86	the	O
+87	Olympics	O
+88	.	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Athletics 4 x 100 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the men's 4 x 100 metres relay were awarded as follows:
+- **Gold**: Jamaica
+- **Silver**: United States
+- **Bronze**: Canada
+In the women's 4 x 100 metres relay, the medals were awarded as follows:
+- **Gold**: United States
+- **Silver**: Jamaica
+- **Bronze**: Great Britain
+These events showcased some of the fastest sprinters in the world and were part of a highly competitive athletics schedule at the Games.
+# status = {"0":"accepted"}
+# time (ms) = 24030
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2016	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	for	O
+33	the	O
+34	men	O
+35	'	O
+36	s	O
+37	4	O
+38	x	O
+39	100	O
+40	metres	O
+41	relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	Jamaica	B-Male/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	**:	O
+56	United	B-Male/Silver
+57	States	I-Male/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Canada	B-Male/Bronze
+63	In	O
+64	the	O
+65	women	O
+66	'	O
+67	s	O
+68	4	O
+69	x	O
+70	100	O
+71	metres	O
+72	relay	O
+73	,	O
+74	the	O
+75	medals	O
+76	were	O
+77	awarded	O
+78	as	O
+79	follows	O
+80	:	O
+81	-	O
+82	**	O
+83	Gold	O
+84	**:	O
+85	United	B-Female/Gold
+86	States	I-Female/Gold
+87	-	O
+88	**	O
+89	Silver	O
+90	**:	O
+91	Jamaica	B-Female/Silver
+92	-	O
+93	**	O
+94	Bronze	O
+95	**:	O
+96	Great	B-Female/Bronze
+97	Britain	I-Female/Bronze
+98	These	O
+99	events	O
+100	showcased	O
+101	some	O
+102	of	O
+103	the	O
+104	fastest	O
+105	sprinters	O
+106	in	O
+107	the	O
+108	world	O
+109	and	O
+110	were	O
+111	part	O
+112	of	O
+113	a	O
+114	highly	O
+115	competitive	O
+116	athletics	O
+117	schedule	O
+118	at	O
+119	the	O
+120	Games	O
+121	.	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Swimming 4 x 200 metres Freestyle Relay event at the 2016 olympic games?At the 2016 Summer Olympics in Rio de Janeiro, the medals for the Men's 4 x 200 metres Freestyle Relay event were awarded as follows:
+- **Gold**: United States
+- **Silver**: Great Britain
+- **Bronze**: Australia
+The American team, which included swimmers like Michael Phelps and Ryan Lochte, won the event.
+# status = {"0":"accepted"}
+# time (ms) = 2675
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	200	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2016	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2016	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Rio	O
+28	de	O
+29	Janeiro	O
+30	,	O
+31	the	O
+32	medals	O
+33	for	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	200	O
+41	metres	O
+42	Freestyle	O
+43	Relay	O
+44	event	O
+45	were	O
+46	awarded	O
+47	as	O
+48	follows	O
+49	:	O
+50	-	O
+51	**	O
+52	Gold	O
+53	**:	O
+54	United	B-Male/Gold
+55	States	I-Male/Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	**:	O
+60	Great	B-Male/Silver
+61	Britain	I-Male/Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	**:	O
+66	Australia	B-Male/Bronze
+67	The	O
+68	American	O
+69	team	O
+70	,	O
+71	which	O
+72	included	O
+73	swimmers	O
+74	like	O
+75	Michael	O
+76	Phelps	O
+77	and	O
+78	Ryan	O
+79	Lochte	O
+80	,	O
+81	won	O
+82	the	O
+83	event	O
+84	.	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Athletics 4 x 400 metres Relay event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Athletics 4 x 400 metres Relay event were won by the following teams:
+- **Gold Medal**: United States
+- **Silver Medal**: Bahamas
+- **Bronze Medal**: Botswana
+These medals were awarded to the teams based on their performances in the final of the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2016	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2016	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Rio	O
+27	de	O
+28	Janeiro	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Athletics	O
+35	4	O
+36	x	O
+37	400	O
+38	metres	O
+39	Relay	O
+40	event	O
+41	were	O
+42	won	O
+43	by	O
+44	the	O
+45	following	O
+46	teams	O
+47	:	O
+48	-	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Unknown/Gold
+54	States	I-Unknown/Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	**:	O
+60	Bahamas	B-Unknown/Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	Medal	O
+65	**:	O
+66	Botswana	B-Unknown/Bronze
+67	These	O
+68	medals	O
+69	were	O
+70	awarded	O
+71	to	O
+72	the	O
+73	teams	O
+74	based	O
+75	on	O
+76	their	O
+77	performances	O
+78	in	O
+79	the	O
+80	final	O
+81	of	O
+82	the	O
+83	event	O
+84	.	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Basketball event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the basketball events were awarded as follows:
+**Men's Basketball:**
+- **Gold Medal:** USA
+- **Silver Medal:** Spain
+- **Bronze Medal:** Australia
+**Women's Basketball:**
+- **Gold Medal:** USA
+- **Silver Medal:** Spain
+- **Bronze Medal:** Serbia
+The USA dominated both the men's and women's tournaments, securing gold in both events.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	2016	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2016	O
+18	Olympic	O
+19	Games	O
+20	in	O
+21	Rio	O
+22	de	O
+23	Janeiro	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	basketball	O
+30	events	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	**	O
+37	Men	O
+38	'	O
+39	s	O
+40	Basketball	O
+41	:**	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	:**	O
+47	USA	B-Male/Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	:**	O
+53	Spain	B-Male/Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	:**	O
+59	Australia	B-Male/Bronze
+60	**	O
+61	Women	O
+62	'	O
+63	s	O
+64	Basketball	O
+65	:**	O
+66	-	O
+67	**	O
+68	Gold	O
+69	Medal	O
+70	:**	O
+71	USA	B-Female/Gold
+72	-	O
+73	**	O
+74	Silver	O
+75	Medal	O
+76	:**	O
+77	Spain	B-Female/Silver
+78	-	O
+79	**	O
+80	Bronze	O
+81	Medal	O
+82	:**	O
+83	Serbia	B-Female/Bronze
+84	The	O
+85	USA	O
+86	dominated	O
+87	both	O
+88	the	O
+89	men	O
+90	'	O
+91	s	O
+92	and	O
+93	women	O
+94	'	O
+95	s	O
+96	tournaments	O
+97	,	O
+98	securing	O
+99	gold	O
+100	in	O
+101	both	O
+102	events	O
+103	.	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Rowing Coxed Eights event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal:** Great Britain
+- **Silver Medal:** Germany
+- **Bronze Medal:** The Netherlands
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Eights	O
+10	event	O
+11	at	O
+12	the	O
+13	2016	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2016	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	Rio	O
+24	de	O
+25	Janeiro	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Rowing	O
+32	Coxed	O
+33	Eights	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	:**	O
+45	Great	B-Unknown/Gold
+46	Britain	I-Unknown/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	:**	O
+52	Germany	B-Unknown/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	:**	O
+58	The	B-Unknown/Bronze
+59	Netherlands	I-Unknown/Bronze
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Field Hockey event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medals for the Field Hockey events were awarded as follows:
+**Men's Field Hockey:**
+- **Gold Medal:** Argentina
+- **Silver Medal:** Belgium
+- **Bronze Medal:** Germany
+**Women's Field Hockey:**
+- **Gold Medal:** Great Britain
+- **Silver Medal:** The Netherlands
+- **Bronze Medal:** Germany
+These results marked significant achievements for the teams involved, particularly for Argentina in the men's event and Great Britain in the women's event, as both secured their first Olympic gold medals in their respective categories.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	2016	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2016	O
+19	Olympic	O
+20	Games	O
+21	held	O
+22	in	O
+23	Rio	O
+24	de	O
+25	Janeiro	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Field	O
+32	Hockey	O
+33	events	O
+34	were	O
+35	awarded	O
+36	as	O
+37	follows	O
+38	:	O
+39	**	O
+40	Men	O
+41	'	O
+42	s	O
+43	Field	O
+44	Hockey	O
+45	:**	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	:**	O
+51	Argentina	B-Male/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	:**	O
+57	Belgium	B-Male/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	:**	O
+63	Germany	B-Male/Bronze
+64	**	O
+65	Women	O
+66	'	O
+67	s	O
+68	Field	O
+69	Hockey	O
+70	:**	O
+71	-	O
+72	**	O
+73	Gold	O
+74	Medal	O
+75	:**	O
+76	Great	B-Female/Gold
+77	Britain	I-Female/Gold
+78	-	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	:**	O
+83	The	B-Female/Silver
+84	Netherlands	I-Female/Silver
+85	-	O
+86	**	O
+87	Bronze	O
+88	Medal	O
+89	:**	O
+90	Germany	B-Female/Bronze
+91	These	O
+92	results	O
+93	marked	O
+94	significant	O
+95	achievements	O
+96	for	O
+97	the	O
+98	teams	O
+99	involved	O
+100	,	O
+101	particularly	O
+102	for	O
+103	Argentina	O
+104	in	O
+105	the	O
+106	men	O
+107	'	O
+108	s	O
+109	event	O
+110	and	O
+111	Great	O
+112	Britain	O
+113	in	O
+114	the	O
+115	women	O
+116	'	O
+117	s	O
+118	event	O
+119	,	O
+120	as	O
+121	both	O
+122	secured	O
+123	their	O
+124	first	O
+125	Olympic	O
+126	gold	O
+127	medals	O
+128	in	O
+129	their	O
+130	respective	O
+131	categories	O
+132	.	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Football event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the men's football event was won by Brazil, which secured the gold medal by defeating Germany in the final. The match ended in a 1-1 draw after extra time, and Brazil won 5-4 in the penalty shootout. 
+For the women's football event, Germany won the gold medal by defeating Sweden 2-1 in the final.
+So, the medal winners were:
+- Men's Football:
+  - Gold: Brazil
+  - Silver: Germany
+  - Bronze: Nigeria (defeated Honduras in the bronze medal match)
+- Women's Football:
+  - Gold: Germany
+  - Silver: Sweden
+  - Bronze: Canada (defeated Brazil in the bronze medal match)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Football	O
+8	event	O
+9	at	O
+10	the	O
+11	2016	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2016	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	Rio	O
+23	de	O
+24	Janeiro	O
+25	,	O
+26	the	O
+27	men	O
+28	'	O
+29	s	O
+30	football	O
+31	event	O
+32	was	O
+33	won	O
+34	by	O
+35	Brazil	O
+36	,	O
+37	which	O
+38	secured	O
+39	the	O
+40	gold	O
+41	medal	O
+42	by	O
+43	defeating	O
+44	Germany	O
+45	in	O
+46	the	O
+47	final	O
+48	.	O
+49	The	O
+50	match	O
+51	ended	O
+52	in	O
+53	a	O
+54	1	O
+55	-	O
+56	1	O
+57	draw	O
+58	after	O
+59	extra	O
+60	time	O
+61	,	O
+62	and	O
+63	Brazil	O
+64	won	O
+65	5	O
+66	-	O
+67	4	O
+68	in	O
+69	the	O
+70	penalty	O
+71	shootout	O
+72	.	O
+73	For	O
+74	the	O
+75	women	O
+76	'	O
+77	s	O
+78	football	O
+79	event	O
+80	,	O
+81	Germany	O
+82	won	O
+83	the	O
+84	gold	O
+85	medal	O
+86	by	O
+87	defeating	O
+88	Sweden	O
+89	2	O
+90	-	O
+91	1	O
+92	in	O
+93	the	O
+94	final	O
+95	.	O
+96	So	O
+97	,	O
+98	the	O
+99	medal	O
+100	winners	O
+101	were	O
+102	:	O
+103	-	O
+104	Men	O
+105	'	O
+106	s	O
+107	Football	O
+108	:	O
+109	-	O
+110	Gold	O
+111	:	O
+112	Brazil	B-Male/Gold
+113	-	O
+114	Silver	O
+115	:	O
+116	Germany	B-Male/Silver
+117	-	O
+118	Bronze	O
+119	:	O
+120	Nigeria	B-Male/Bronze
+121	(	O
+122	defeated	O
+123	Honduras	O
+124	in	O
+125	the	O
+126	bronze	O
+127	medal	O
+128	match	O
+129	)	O
+130	-	O
+131	Women	O
+132	'	O
+133	s	O
+134	Football	O
+135	:	O
+136	-	O
+137	Gold	O
+138	:	O
+139	Germany	B-Female/Gold
+140	-	O
+141	Silver	O
+142	:	O
+143	Sweden	B-Female/Silver
+144	-	O
+145	Bronze	O
+146	:	O
+147	Canada	B-Female/Bronze
+148	(	O
+149	defeated	O
+150	Brazil	O
+151	in	O
+152	the	O
+153	bronze	O
+154	medal	O
+155	match	O
+156	)	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Handball event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the results for the handball events were as follows:
+**Men's Handball:**
+- Gold Medal: Denmark
+- Silver Medal: France
+- Bronze Medal: Germany
+**Women's Handball:**
+- Gold Medal: Russia
+- Silver Medal: Norway
+- Bronze Medal: Spain
+These teams performed exceptionally well in their respective tournaments to secure their medals.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	2016	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2016	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	Rio	O
+23	de	O
+24	Janeiro	O
+25	,	O
+26	the	O
+27	results	O
+28	for	O
+29	the	O
+30	handball	O
+31	events	O
+32	were	O
+33	as	O
+34	follows	O
+35	:	O
+36	**	O
+37	Men	O
+38	'	O
+39	s	O
+40	Handball	O
+41	:**	O
+42	-	O
+43	Gold	O
+44	Medal	O
+45	:	O
+46	Denmark	B-Male/Gold
+47	-	O
+48	Silver	O
+49	Medal	O
+50	:	O
+51	France	B-Male/Silver
+52	-	O
+53	Bronze	O
+54	Medal	O
+55	:	O
+56	Germany	B-Male/Bronze
+57	**	O
+58	Women	O
+59	'	O
+60	s	O
+61	Handball	O
+62	:**	O
+63	-	O
+64	Gold	O
+65	Medal	O
+66	:	O
+67	Russia	B-Female/Gold
+68	-	O
+69	Silver	O
+70	Medal	O
+71	:	O
+72	Norway	B-Female/Silver
+73	-	O
+74	Bronze	O
+75	Medal	O
+76	:	O
+77	Spain	B-Female/Bronze
+78	These	O
+79	teams	O
+80	performed	O
+81	exceptionally	O
+82	well	O
+83	in	O
+84	their	O
+85	respective	O
+86	tournaments	O
+87	to	O
+88	secure	O
+89	their	O
+90	medals	O
+91	.	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Indoor Volleyball event at the 2016 olympic games?At the 2016 Olympic Games held in Rio de Janeiro, the medal winners for Indoor Volleyball were:
+**Men's Indoor Volleyball:**
+- Gold: Brazil
+- Silver: Italy
+- Bronze: United States
+**Women's Indoor Volleyball:**
+- Gold: China
+- Silver: Serbia
+- Bronze: Netherlands
+If you need more information or details about the matches, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	2016	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2016	O
+19	Olympic	O
+20	Games	O
+21	held	O
+22	in	O
+23	Rio	O
+24	de	O
+25	Janeiro	O
+26	,	O
+27	the	O
+28	medal	O
+29	winners	O
+30	for	O
+31	Indoor	O
+32	Volleyball	O
+33	were	O
+34	:	O
+35	**	O
+36	Men	O
+37	'	O
+38	s	O
+39	Indoor	O
+40	Volleyball	O
+41	:**	O
+42	-	O
+43	Gold	O
+44	:	O
+45	Brazil	B-Male/Gold
+46	-	O
+47	Silver	O
+48	:	O
+49	Italy	B-Male/Silver
+50	-	O
+51	Bronze	O
+52	:	O
+53	United	B-Male/Bronze
+54	States	I-Male/Bronze
+55	**	O
+56	Women	O
+57	'	O
+58	s	O
+59	Indoor	O
+60	Volleyball	O
+61	:**	O
+62	-	O
+63	Gold	O
+64	:	O
+65	China	B-Female/Gold
+66	-	O
+67	Silver	O
+68	:	O
+69	Serbia	B-Female/Silver
+70	-	O
+71	Bronze	O
+72	:	O
+73	Netherlands	B-Female/Bronze
+74	If	O
+75	you	O
+76	need	O
+77	more	O
+78	information	O
+79	or	O
+80	details	O
+81	about	O
+82	the	O
+83	matches	O
+84	,	O
+85	feel	O
+86	free	O
+87	to	O
+88	ask	O
+89	!	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: Germany
+- **Silver Medal**: Netherlands
+- **Bronze Medal**: Great Britain
+If you need more detailed information about the event or the athletes involved, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	2016	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2016	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	Rio	O
+24	de	O
+25	Janeiro	O
+26	,	O
+27	the	O
+28	medals	O
+29	in	O
+30	the	O
+31	Rowing	O
+32	Quadruple	O
+33	Sculls	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Germany	B-Unknown/Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Netherlands	B-Unknown/Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	Great	B-Unknown/Bronze
+58	Britain	I-Unknown/Bronze
+59	If	O
+60	you	O
+61	need	O
+62	more	O
+63	detailed	O
+64	information	O
+65	about	O
+66	the	O
+67	event	O
+68	or	O
+69	the	O
+70	athletes	O
+71	involved	O
+72	,	O
+73	feel	O
+74	free	O
+75	to	O
+76	ask	O
+77	!	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Rugby Rugby Sevens event at the 2016 olympic games?At the 2016 Olympics in Rio de Janeiro, the Rugby Sevens event resulted in the following medal winners:
+- **Gold Medal**: Fiji (Men's tournament)
+- **Silver Medal**: Great Britain (Men's tournament)
+- **Bronze Medal**: South Africa (Men's tournament)
+For the Women's tournament:
+- **Gold Medal**: Australia
+- **Silver Medal**: New Zealand
+- **Bronze Medal**: Canada
+Fiji's victory was particularly historic, as it was the country's first-ever Olympic gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rugby	O
+8	Rugby	O
+9	Sevens	O
+10	event	O
+11	at	O
+12	the	O
+13	2016	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2016	O
+20	Olympics	O
+21	in	O
+22	Rio	O
+23	de	O
+24	Janeiro	O
+25	,	O
+26	the	O
+27	Rugby	O
+28	Sevens	O
+29	event	O
+30	resulted	O
+31	in	O
+32	the	O
+33	following	O
+34	medal	O
+35	winners	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	Medal	O
+41	**:	O
+42	Fiji	B-Male/Gold
+43	(	O
+44	Men	O
+45	'	O
+46	s	O
+47	tournament	O
+48	)	O
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Great	B-Male/Silver
+55	Britain	I-Male/Silver
+56	(	O
+57	Men	O
+58	'	O
+59	s	O
+60	tournament	O
+61	)	O
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	**:	O
+67	South	B-Male/Bronze
+68	Africa	I-Male/Bronze
+69	(	O
+70	Men	O
+71	'	O
+72	s	O
+73	tournament	O
+74	)	O
+75	For	O
+76	the	O
+77	Women	O
+78	'	O
+79	s	O
+80	tournament	O
+81	:	O
+82	-	O
+83	**	O
+84	Gold	O
+85	Medal	O
+86	**:	O
+87	Australia	B-Female/Gold
+88	-	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	New	B-Female/Silver
+94	Zealand	I-Female/Silver
+95	-	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Canada	B-Female/Bronze
+101	Fiji	O
+102	'	O
+103	s	O
+104	victory	O
+105	was	O
+106	particularly	O
+107	historic	O
+108	,	O
+109	as	O
+110	it	O
+111	was	O
+112	the	O
+113	country	O
+114	'	O
+115	s	O
+116	first-ever	O
+117	Olympic	O
+118	gold	O
+119	medal	O
+120	.	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Archery Team event at the 2016 olympic games?At the 2016 Summer Olympics in Rio de Janeiro, the medals for the Archery Team event were awarded as follows:
+- **Gold Medal:** South Korea
+- **Silver Medal:** United States
+- **Bronze Medal:** Japan
+The South Korean team continued their dominance in archery by winning the gold medal in both men's and women's team events at these Olympics.
+# status = {"0":"rejected"}
+# time (ms) = 77845
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	2016	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2016	O
+19	Summer	O
+20	Olympics	O
+21	in	O
+22	Rio	O
+23	de	O
+24	Janeiro	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Archery	O
+31	Team	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	:**	O
+43	South	B-Unknown/Gold
+44	Korea	I-Unknown/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	:**	O
+50	United	B-Unknown/Silver
+51	States	I-Unknown/Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	:**	O
+57	Japan	B-Unknown/Bronze
+58	The	O
+59	South	O
+60	Korean	O
+61	team	O
+62	continued	O
+63	their	O
+64	dominance	O
+65	in	O
+66	archery	O
+67	by	O
+68	winning	O
+69	the	O
+70	gold	O
+71	medal	O
+72	in	O
+73	both	O
+74	men	O
+75	'	O
+76	s	O
+77	and	O
+78	women	O
+79	'	O
+80	s	O
+81	team	O
+82	events	O
+83	at	O
+84	these	O
+85	Olympics	O
+86	.	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Table Tennis Team event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the results for the Table Tennis Team event were as follows:
+- **Gold Medal**: China (Men's and Women's Team)
+- **Silver Medal**: Japan (Men's Team) and Germany (Women's Team)
+- **Bronze Medals**: South Korea (Men's Team) and Hong Kong (Women's Team)
+China dominated the table tennis events, continuing their strong tradition in the sport.
+# status = {"0":"rejected"}
+# time (ms) = 24707
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Table	O
+8	Tennis	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2016	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2016	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	Rio	O
+24	de	O
+25	Janeiro	O
+26	,	O
+27	the	O
+28	results	O
+29	for	O
+30	the	O
+31	Table	O
+32	Tennis	O
+33	Team	O
+34	event	O
+35	were	O
+36	as	O
+37	follows	O
+38	:	O
+39	-	O
+40	**	O
+41	Gold	O
+42	Medal	O
+43	**:	O
+44	China	O
+45	(	O
+46	Men	O
+47	'	O
+48	s	O
+49	and	O
+50	Women	O
+51	'	O
+52	s	O
+53	Team	O
+54	)	O
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	**:	O
+60	Japan	B-Male/Silver
+61	(	O
+62	Men	O
+63	'	O
+64	s	O
+65	Team	O
+66	)	O
+67	and	O
+68	Germany	B-Female/Silver
+69	(	O
+70	Women	O
+71	'	O
+72	s	O
+73	Team	O
+74	)	O
+75	-	O
+76	**	O
+77	Bronze	O
+78	Medals	O
+79	**:	O
+80	South	B-Male/Bronze
+81	Korea	I-Male/Bronze
+82	(	O
+83	Men	O
+84	'	O
+85	s	O
+86	Team	O
+87	)	O
+88	and	O
+89	Hong	B-Female/Bronze
+90	Kong	I-Female/Bronze
+91	(	O
+92	Women	O
+93	'	O
+94	s	O
+95	Team	O
+96	)	O
+97	China	O
+98	dominated	O
+99	the	O
+100	table	O
+101	tennis	O
+102	events	O
+103	,	O
+104	continuing	O
+105	their	O
+106	strong	O
+107	tradition	O
+108	in	O
+109	the	O
+110	sport	O
+111	.	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Artistic Gymnastics Team All-Around event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: Great Britain
+The U.S. women's team, often referred to as the "Final Five," delivered an outstanding performance to secure the gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 29613
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	All-Around	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Rio	O
+25	de	O
+26	Janeiro	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Artistic	O
+33	Gymnastics	O
+34	Team	O
+35	All-Around	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Female/Gold
+48	States	I-Female/Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Russia	B-Female/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Great	B-Female/Bronze
+61	Britain	I-Female/Bronze
+62	The	O
+63	U	O
+64	.	O
+65	S	O
+66	.	O
+67	women	O
+68	'	O
+69	s	O
+70	team	O
+71	,	O
+72	often	O
+73	referred	O
+74	to	O
+75	as	O
+76	the	O
+77	"	O
+78	Final	O
+79	Five	O
+80	,"	O
+81	delivered	O
+82	an	O
+83	outstanding	O
+84	performance	O
+85	to	O
+86	secure	O
+87	the	O
+88	gold	O
+89	medal	O
+90	.	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Cycling Track Team Pursuit, 4,000 metres event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals in the Cycling Track Team Pursuit, 4,000 metres event were won by:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: Australia
+- **Bronze Medal**: Italy
+Great Britain's team set a new world record during the event.
+# status = {"0":"accepted"}
+# time (ms) = 1870
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Cycling	O
+8	Track	O
+9	Team	O
+10	Pursuit	O
+11	,	O
+12	4	O
+13	,	O
+14	000	O
+15	metres	O
+16	event	O
+17	at	O
+18	the	O
+19	2016	O
+20	olympic	O
+21	games	O
+22	?	O
+23	At	O
+24	the	O
+25	2016	O
+26	Olympic	O
+27	Games	O
+28	in	O
+29	Rio	O
+30	de	O
+31	Janeiro	O
+32	,	O
+33	the	O
+34	medals	O
+35	in	O
+36	the	O
+37	Cycling	O
+38	Track	O
+39	Team	O
+40	Pursuit	O
+41	,	O
+42	4	O
+43	,	O
+44	000	O
+45	metres	O
+46	event	O
+47	were	O
+48	won	O
+49	by	O
+50	:	O
+51	-	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	Great	B-Unknown/Gold
+57	Britain	I-Unknown/Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	Medal	O
+62	**:	O
+63	Australia	B-Unknown/Silver
+64	-	O
+65	**	O
+66	Bronze	O
+67	Medal	O
+68	**:	O
+69	Italy	B-Unknown/Bronze
+70	Great	O
+71	Britain	O
+72	'	O
+73	s	O
+74	team	O
+75	set	O
+76	a	O
+77	new	O
+78	world	O
+79	record	O
+80	during	O
+81	the	O
+82	event	O
+83	.	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Water Polo event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Water Polo event were awarded as follows:
+- **Men's Water Polo:**
+  - Gold Medal: Serbia
+  - Silver Medal: Hungary
+  - Bronze Medal: Croatia
+- **Women's Water Polo:**
+  - Gold Medal: USA
+  - Silver Medal: Italy
+  - Bronze Medal: Spain
+Serbia's men's team successfully defended their title, while the USA women's team continued their dominance in the sport by winning their second consecutive Olympic gold.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Water	O
+8	Polo	O
+9	event	O
+10	at	O
+11	the	O
+12	2016	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2016	O
+19	Olympic	O
+20	Games	O
+21	in	O
+22	Rio	O
+23	de	O
+24	Janeiro	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Water	O
+31	Polo	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Men	O
+41	'	O
+42	s	O
+43	Water	O
+44	Polo	O
+45	:**	O
+46	-	O
+47	Gold	O
+48	Medal	O
+49	:	O
+50	Serbia	B-Male/Gold
+51	-	O
+52	Silver	O
+53	Medal	O
+54	:	O
+55	Hungary	B-Male/Silver
+56	-	O
+57	Bronze	O
+58	Medal	O
+59	:	O
+60	Croatia	B-Male/Bronze
+61	-	O
+62	**	O
+63	Women	O
+64	'	O
+65	s	O
+66	Water	O
+67	Polo	O
+68	:**	O
+69	-	O
+70	Gold	O
+71	Medal	O
+72	:	O
+73	USA	B-Female/Gold
+74	-	O
+75	Silver	O
+76	Medal	O
+77	:	O
+78	Italy	B-Female/Silver
+79	-	O
+80	Bronze	O
+81	Medal	O
+82	:	O
+83	Spain	B-Female/Bronze
+84	Serbia	O
+85	'	O
+86	s	O
+87	men	O
+88	'	O
+89	s	O
+90	team	O
+91	successfully	O
+92	defended	O
+93	their	O
+94	title	O
+95	,	O
+96	while	O
+97	the	O
+98	USA	O
+99	women	O
+100	'	O
+101	s	O
+102	team	O
+103	continued	O
+104	their	O
+105	dominance	O
+106	in	O
+107	the	O
+108	sport	O
+109	by	O
+110	winning	O
+111	their	O
+112	second	O
+113	consecutive	O
+114	Olympic	O
+115	gold	O
+116	.	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Fencing Épée, Team event at the 2016 olympic games?At the 2016 Olympic Games in Rio de Janeiro, the medals for the Men's Team Épée event were awarded as follows:
+- **Gold Medal**: France
+- **Silver Medal**: Italy
+- **Bronze Medal**: Germany
+France won the event, continuing their strong tradition in fencing.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Épée	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	2016	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2016	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Rio	O
+25	de	O
+26	Janeiro	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Men	O
+33	'	O
+34	s	O
+35	Team	O
+36	Épée	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	France	B-Male/Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Male/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Germany	B-Male/Bronze
+61	France	O
+62	won	O
+63	the	O
+64	event	O
+65	,	O
+66	continuing	O
+67	their	O
+68	strong	O
+69	tradition	O
+70	in	O
+71	fencing	O
+72	.	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Curling event at the 2018 olympic games?At the 2018 Winter Olympics held in Pyeongchang, South Korea, the medal winners in the curling events were as follows:
+**Men's Curling:**
+- **Gold Medal:** Sweden
+- **Silver Medal:** Canada
+- **Bronze Medal:** Switzerland
+**Women's Curling:**
+- **Gold Medal:** Sweden
+- **Silver Medal:** South Korea
+- **Bronze Medal:** Japan
+Sweden had a particularly successful tournament, winning gold medals in both the men's and women's events.
+# status = {"0":"accepted"}
+# time (ms) = 20061
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Curling	O
+8	event	O
+9	at	O
+10	the	O
+11	2018	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2018	O
+18	Winter	O
+19	Olympics	O
+20	held	O
+21	in	O
+22	Pyeongchang	O
+23	,	O
+24	South	O
+25	Korea	O
+26	,	O
+27	the	O
+28	medal	O
+29	winners	O
+30	in	O
+31	the	O
+32	curling	O
+33	events	O
+34	were	O
+35	as	O
+36	follows	O
+37	:	O
+38	**	O
+39	Men	O
+40	'	O
+41	s	O
+42	Curling	O
+43	:**	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	Sweden	B-Male/Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	:**	O
+55	Canada	B-Male/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	:**	O
+61	Switzerland	B-Male/Bronze
+62	**	O
+63	Women	O
+64	'	O
+65	s	O
+66	Curling	O
+67	:**	O
+68	-	O
+69	**	O
+70	Gold	O
+71	Medal	O
+72	:**	O
+73	Sweden	B-Female/Gold
+74	-	O
+75	**	O
+76	Silver	O
+77	Medal	O
+78	:**	O
+79	South	B-Female/Silver
+80	Korea	I-Female/Silver
+81	-	O
+82	**	O
+83	Bronze	O
+84	Medal	O
+85	:**	O
+86	Japan	B-Female/Bronze
+87	Sweden	O
+88	had	O
+89	a	O
+90	particularly	O
+91	successful	O
+92	tournament	O
+93	,	O
+94	winning	O
+95	gold	O
+96	medals	O
+97	in	O
+98	both	O
+99	the	O
+100	men	O
+101	'	O
+102	s	O
+103	and	O
+104	women	O
+105	'	O
+106	s	O
+107	events	O
+108	.	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Ice Hockey event at the 2018 olympic games?At the 2018 Winter Olympics in Pyeongchang, the medals for the Ice Hockey event were awarded as follows:
+- **Gold Medal**: **Russia** (competing under the Olympic flag as "Olympic Athletes from Russia")
+- **Silver Medal**: **Germany**
+- **Bronze Medal**: **Canada**
+The tournament featured a notable performance by the Russian team, which secured the gold medal in a tightly contested final against Germany.
+# status = {"0":"accepted"}
+# time (ms) = 1825
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Ice	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	2018	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2018	O
+19	Winter	O
+20	Olympics	O
+21	in	O
+22	Pyeongchang	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	Ice	O
+29	Hockey	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	**	O
+42	Russia	B-Unknown/Gold
+43	**	O
+44	(	O
+45	competing	O
+46	under	O
+47	the	O
+48	Olympic	O
+49	flag	O
+50	as	O
+51	"	O
+52	Olympic	O
+53	Athletes	O
+54	from	O
+55	Russia	O
+56	")	O
+57	-	O
+58	**	O
+59	Silver	O
+60	Medal	O
+61	**:	O
+62	**	O
+63	Germany	B-Unknown/Silver
+64	**	O
+65	-	O
+66	**	O
+67	Bronze	O
+68	Medal	O
+69	**:	O
+70	**	O
+71	Canada	B-Unknown/Bronze
+72	**	O
+73	The	O
+74	tournament	O
+75	featured	O
+76	a	O
+77	notable	O
+78	performance	O
+79	by	O
+80	the	O
+81	Russian	O
+82	team	O
+83	,	O
+84	which	O
+85	secured	O
+86	the	O
+87	gold	O
+88	medal	O
+89	in	O
+90	a	O
+91	tightly	O
+92	contested	O
+93	final	O
+94	against	O
+95	Germany	O
+96	.	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the 3x3 Basketball event at the 2020 olympic games?At the 2020 Olympic Games, which took place in Tokyo in 2021, the medalists in the 3x3 basketball event were:
+- **Men's Event**: 
+  - Gold Medal: France
+  - Silver Medal: Latvia
+  - Bronze Medal: USA
+- **Women's Event**:
+  - Gold Medal: USA
+  - Silver Medal: Russia (ROC)
+  - Bronze Medal: China
+The 3x3 basketball event was held for the first time at the Olympics during these Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	3	O
+8	x	O
+9	3	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2020	O
+21	Olympic	O
+22	Games	O
+23	,	O
+24	which	O
+25	took	O
+26	place	O
+27	in	O
+28	Tokyo	O
+29	in	O
+30	2021	O
+31	,	O
+32	the	O
+33	medalists	O
+34	in	O
+35	the	O
+36	3	O
+37	x	O
+38	3	O
+39	basketball	O
+40	event	O
+41	were	O
+42	:	O
+43	-	O
+44	**	O
+45	Men	O
+46	'	O
+47	s	O
+48	Event	O
+49	**:	O
+50	-	O
+51	Gold	O
+52	Medal	O
+53	:	O
+54	France	B-Male/Gold
+55	-	O
+56	Silver	O
+57	Medal	O
+58	:	O
+59	Latvia	B-Male/Silver
+60	-	O
+61	Bronze	O
+62	Medal	O
+63	:	O
+64	USA	B-Male/Bronze
+65	-	O
+66	**	O
+67	Women	O
+68	'	O
+69	s	O
+70	Event	O
+71	**:	O
+72	-	O
+73	Gold	O
+74	Medal	O
+75	:	O
+76	USA	B-Female/Gold
+77	-	O
+78	Silver	O
+79	Medal	O
+80	:	O
+81	Russia	B-Female/Silver
+82	(	O
+83	ROC	O
+84	)	O
+85	-	O
+86	Bronze	O
+87	Medal	O
+88	:	O
+89	China	B-Female/Bronze
+90	The	O
+91	3	O
+92	x	O
+93	3	O
+94	basketball	O
+95	event	O
+96	was	O
+97	held	O
+98	for	O
+99	the	O
+100	first	O
+101	time	O
+102	at	O
+103	the	O
+104	Olympics	O
+105	during	O
+106	these	O
+107	Games	O
+108	.	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Basketball event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021 due to the COVID-19 pandemic, the medals in the basketball events were awarded as follows:
+**Men's Basketball:**
+- **Gold:** United States
+- **Silver:** France
+- **Bronze:** Australia
+**Women's Basketball:**
+- **Gold:** United States
+- **Silver:** Japan
+- **Bronze:** Australia
+The U.S. women's team continued their dominance in the sport, while the men's team secured gold after a strong performance throughout the tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	2020	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2020	O
+18	Tokyo	O
+19	Olympics	O
+20	,	O
+21	which	O
+22	took	O
+23	place	O
+24	in	O
+25	2021	O
+26	due	O
+27	to	O
+28	the	O
+29	COVID	O
+30	-	O
+31	19	O
+32	pandemic	O
+33	,	O
+34	the	O
+35	medals	O
+36	in	O
+37	the	O
+38	basketball	O
+39	events	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	**	O
+46	Men	O
+47	'	O
+48	s	O
+49	Basketball	O
+50	:**	O
+51	-	O
+52	**	O
+53	Gold	O
+54	:**	O
+55	United	B-Male/Gold
+56	States	I-Male/Gold
+57	-	O
+58	**	O
+59	Silver	O
+60	:**	O
+61	France	B-Male/Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	:**	O
+66	Australia	B-Male/Bronze
+67	**	O
+68	Women	O
+69	'	O
+70	s	O
+71	Basketball	O
+72	:**	O
+73	-	O
+74	**	O
+75	Gold	O
+76	:**	O
+77	United	B-Female/Gold
+78	States	I-Female/Gold
+79	-	O
+80	**	O
+81	Silver	O
+82	:**	O
+83	Japan	B-Female/Silver
+84	-	O
+85	**	O
+86	Bronze	O
+87	:**	O
+88	Australia	B-Female/Bronze
+89	The	O
+90	U	O
+91	.	O
+92	S	O
+93	.	O
+94	women	O
+95	'	O
+96	s	O
+97	team	O
+98	continued	O
+99	their	O
+100	dominance	O
+101	in	O
+102	the	O
+103	sport	O
+104	,	O
+105	while	O
+106	the	O
+107	men	O
+108	'	O
+109	s	O
+110	team	O
+111	secured	O
+112	gold	O
+113	after	O
+114	a	O
+115	strong	O
+116	performance	O
+117	throughout	O
+118	the	O
+119	tournament	O
+120	.	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Field Hockey event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals for the Field Hockey event were awarded as follows:
+**Men's Field Hockey:**
+- Gold: Belgium
+- Silver: Australia
+- Bronze: India
+**Women's Field Hockey:**
+- Gold: Netherlands
+- Silver: Argentina
+- Bronze: Great Britain
+Belgium won their first Olympic gold medal in men's field hockey, while the Netherlands continued their dominance in women's field hockey by securing their gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	the	O
+23	medals	O
+24	for	O
+25	the	O
+26	Field	O
+27	Hockey	O
+28	event	O
+29	were	O
+30	awarded	O
+31	as	O
+32	follows	O
+33	:	O
+34	**	O
+35	Men	O
+36	'	O
+37	s	O
+38	Field	O
+39	Hockey	O
+40	:**	O
+41	-	O
+42	Gold	O
+43	:	O
+44	Belgium	B-Male/Gold
+45	-	O
+46	Silver	O
+47	:	O
+48	Australia	B-Male/Silver
+49	-	O
+50	Bronze	O
+51	:	O
+52	India	B-Male/Bronze
+53	**	O
+54	Women	O
+55	'	O
+56	s	O
+57	Field	O
+58	Hockey	O
+59	:**	O
+60	-	O
+61	Gold	O
+62	:	O
+63	Netherlands	B-Female/Gold
+64	-	O
+65	Silver	O
+66	:	O
+67	Argentina	B-Female/Silver
+68	-	O
+69	Bronze	O
+70	:	O
+71	Great	B-Female/Bronze
+72	Britain	I-Female/Bronze
+73	Belgium	O
+74	won	O
+75	their	O
+76	first	O
+77	Olympic	O
+78	gold	O
+79	medal	O
+80	in	O
+81	men	O
+82	'	O
+83	s	O
+84	field	O
+85	hockey	O
+86	,	O
+87	while	O
+88	the	O
+89	Netherlands	O
+90	continued	O
+91	their	O
+92	dominance	O
+93	in	O
+94	women	O
+95	'	O
+96	s	O
+97	field	O
+98	hockey	O
+99	by	O
+100	securing	O
+101	their	O
+102	gold	O
+103	medal	O
+104	.	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Football event at the 2020 olympic games?At the 2020 Tokyo Olympics, which were held in 2021 due to the COVID-19 pandemic, the medal winners in the football events were:
+**Men's Football:**
+- Gold: Brazil
+- Silver: Spain
+- Bronze: Japan
+**Women's Football:**
+- Gold: Canada
+- Silver: Sweden
+- Bronze: United States
+These events showcased some of the best teams in football, contributing to an exciting Olympic experience.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Football	O
+8	event	O
+9	at	O
+10	the	O
+11	2020	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2020	O
+18	Tokyo	O
+19	Olympics	O
+20	,	O
+21	which	O
+22	were	O
+23	held	O
+24	in	O
+25	2021	O
+26	due	O
+27	to	O
+28	the	O
+29	COVID	O
+30	-	O
+31	19	O
+32	pandemic	O
+33	,	O
+34	the	O
+35	medal	O
+36	winners	O
+37	in	O
+38	the	O
+39	football	O
+40	events	O
+41	were	O
+42	:	O
+43	**	O
+44	Men	O
+45	'	O
+46	s	O
+47	Football	O
+48	:**	O
+49	-	O
+50	Gold	O
+51	:	O
+52	Brazil	B-Male/Gold
+53	-	O
+54	Silver	O
+55	:	O
+56	Spain	B-Male/Silver
+57	-	O
+58	Bronze	O
+59	:	O
+60	Japan	B-Male/Bronze
+61	**	O
+62	Women	O
+63	'	O
+64	s	O
+65	Football	O
+66	:**	O
+67	-	O
+68	Gold	O
+69	:	O
+70	Canada	B-Female/Gold
+71	-	O
+72	Silver	O
+73	:	O
+74	Sweden	B-Female/Silver
+75	-	O
+76	Bronze	O
+77	:	O
+78	United	B-Female/Bronze
+79	States	I-Female/Bronze
+80	These	O
+81	events	O
+82	showcased	O
+83	some	O
+84	of	O
+85	the	O
+86	best	O
+87	teams	O
+88	in	O
+89	football	O
+90	,	O
+91	contributing	O
+92	to	O
+93	an	O
+94	exciting	O
+95	Olympic	O
+96	experience	O
+97	.	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Handball event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021 due to the COVID-19 pandemic, the medals in the handball events were awarded as follows:
+**Men's Handball:**
+- **Gold Medal:** France
+- **Silver Medal:** Sweden
+- **Bronze Medal:** Spain
+**Women's Handball:**
+- **Gold Medal:** France
+- **Silver Medal:** Russia (competing as the Russian Olympic Committee)
+- **Bronze Medal:** Norway
+These competitions showcased some of the best teams in international handball.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	2020	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2020	O
+18	Tokyo	O
+19	Olympics	O
+20	,	O
+21	which	O
+22	took	O
+23	place	O
+24	in	O
+25	2021	O
+26	due	O
+27	to	O
+28	the	O
+29	COVID	O
+30	-	O
+31	19	O
+32	pandemic	O
+33	,	O
+34	the	O
+35	medals	O
+36	in	O
+37	the	O
+38	handball	O
+39	events	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	**	O
+46	Men	O
+47	'	O
+48	s	O
+49	Handball	O
+50	:**	O
+51	-	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	:**	O
+56	France	B-Male/Gold
+57	-	O
+58	**	O
+59	Silver	O
+60	Medal	O
+61	:**	O
+62	Sweden	B-Male/Silver
+63	-	O
+64	**	O
+65	Bronze	O
+66	Medal	O
+67	:**	O
+68	Spain	B-Male/Bronze
+69	**	O
+70	Women	O
+71	'	O
+72	s	O
+73	Handball	O
+74	:**	O
+75	-	O
+76	**	O
+77	Gold	O
+78	Medal	O
+79	:**	O
+80	France	B-Female/Gold
+81	-	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	:**	O
+86	Russia	B-Female/Silver
+87	(	O
+88	competing	O
+89	as	O
+90	the	O
+91	Russian	O
+92	Olympic	O
+93	Committee	O
+94	)	O
+95	-	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	:**	O
+100	Norway	B-Female/Bronze
+101	These	O
+102	competitions	O
+103	showcased	O
+104	some	O
+105	of	O
+106	the	O
+107	best	O
+108	teams	O
+109	in	O
+110	international	O
+111	handball	O
+112	.	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Indoor Volleyball event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021 due to the pandemic, the medals for indoor volleyball were awarded as follows:
+**Men's Indoor Volleyball:**
+- **Gold Medal:** France
+- **Silver Medal:** Russia (competing as the Russian Olympic Committee)
+- **Bronze Medal:** Argentina
+**Women's Indoor Volleyball:**
+- **Gold Medal:** United States
+- **Silver Medal:** Brazil
+- **Bronze Medal:** Serbia
+These results highlight impressive performances from each of the medal-winning teams.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	which	O
+23	took	O
+24	place	O
+25	in	O
+26	2021	O
+27	due	O
+28	to	O
+29	the	O
+30	pandemic	O
+31	,	O
+32	the	O
+33	medals	O
+34	for	O
+35	indoor	O
+36	volleyball	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	**	O
+43	Men	O
+44	'	O
+45	s	O
+46	Indoor	O
+47	Volleyball	O
+48	:**	O
+49	-	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	France	B-Male/Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	:**	O
+60	Russia	B-Male/Silver
+61	(	O
+62	competing	O
+63	as	O
+64	the	O
+65	Russian	O
+66	Olympic	O
+67	Committee	O
+68	)	O
+69	-	O
+70	**	O
+71	Bronze	O
+72	Medal	O
+73	:**	O
+74	Argentina	B-Male/Bronze
+75	**	O
+76	Women	O
+77	'	O
+78	s	O
+79	Indoor	O
+80	Volleyball	O
+81	:**	O
+82	-	O
+83	**	O
+84	Gold	O
+85	Medal	O
+86	:**	O
+87	United	B-Female/Gold
+88	States	I-Female/Gold
+89	-	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	:**	O
+94	Brazil	B-Female/Silver
+95	-	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	:**	O
+100	Serbia	B-Female/Bronze
+101	These	O
+102	results	O
+103	highlight	O
+104	impressive	O
+105	performances	O
+106	from	O
+107	each	O
+108	of	O
+109	the	O
+110	medal-winning	O
+111	teams	O
+112	.	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Rugby Sevens event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021 due to the COVID-19 pandemic, the medals in the Rugby Sevens event were awarded as follows:
+**Men's Rugby Sevens:**
+- **Gold Medal:** Fiji
+- **Silver Medal:** New Zealand
+- **Bronze Medal:** Argentina
+**Women's Rugby Sevens:**
+- **Gold Medal:** Australia
+- **Silver Medal:** New Zealand
+- **Bronze Medal:** Fiji
+Fiji's victory in the men's event marked their second consecutive Olympic gold in Rugby Sevens, while Australia won the women's event for the first time.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rugby	O
+8	Sevens	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	which	O
+23	took	O
+24	place	O
+25	in	O
+26	2021	O
+27	due	O
+28	to	O
+29	the	O
+30	COVID	O
+31	-	O
+32	19	O
+33	pandemic	O
+34	,	O
+35	the	O
+36	medals	O
+37	in	O
+38	the	O
+39	Rugby	O
+40	Sevens	O
+41	event	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	**	O
+48	Men	O
+49	'	O
+50	s	O
+51	Rugby	O
+52	Sevens	O
+53	:**	O
+54	-	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	:**	O
+59	Fiji	B-Male/Gold
+60	-	O
+61	**	O
+62	Silver	O
+63	Medal	O
+64	:**	O
+65	New	B-Male/Silver
+66	Zealand	I-Male/Silver
+67	-	O
+68	**	O
+69	Bronze	O
+70	Medal	O
+71	:**	O
+72	Argentina	B-Male/Bronze
+73	**	O
+74	Women	O
+75	'	O
+76	s	O
+77	Rugby	O
+78	Sevens	O
+79	:**	O
+80	-	O
+81	**	O
+82	Gold	O
+83	Medal	O
+84	:**	O
+85	Australia	B-Female/Gold
+86	-	O
+87	**	O
+88	Silver	O
+89	Medal	O
+90	:**	O
+91	New	B-Female/Silver
+92	Zealand	I-Female/Silver
+93	-	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	:**	O
+98	Fiji	B-Female/Bronze
+99	Fiji	O
+100	'	O
+101	s	O
+102	victory	O
+103	in	O
+104	the	O
+105	men	O
+106	'	O
+107	s	O
+108	event	O
+109	marked	O
+110	their	O
+111	second	O
+112	consecutive	O
+113	Olympic	O
+114	gold	O
+115	in	O
+116	Rugby	O
+117	Sevens	O
+118	,	O
+119	while	O
+120	Australia	O
+121	won	O
+122	the	O
+123	women	O
+124	'	O
+125	s	O
+126	event	O
+127	for	O
+128	the	O
+129	first	O
+130	time	O
+131	.	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Water Polo event at the 2020 olympic games?At the 2020 Tokyo Olympic Games, the medals in the men's and women's water polo events were awarded as follows:
+**Men's Water Polo:**
+- **Gold:** Hungary
+- **Silver:** Italy
+- **Bronze:** Spain
+**Women's Water Polo:**
+- **Gold:** USA
+- **Silver:** Spain
+- **Bronze:** Australia
+These events showcased highly competitive matches between top water polo nations.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Water	O
+8	Polo	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympic	O
+21	Games	O
+22	,	O
+23	the	O
+24	medals	O
+25	in	O
+26	the	O
+27	men	O
+28	'	O
+29	s	O
+30	and	O
+31	women	O
+32	'	O
+33	s	O
+34	water	O
+35	polo	O
+36	events	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	**	O
+43	Men	O
+44	'	O
+45	s	O
+46	Water	O
+47	Polo	O
+48	:**	O
+49	-	O
+50	**	O
+51	Gold	O
+52	:**	O
+53	Hungary	B-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	:**	O
+58	Italy	B-Male/Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	:**	O
+63	Spain	B-Male/Bronze
+64	**	O
+65	Women	O
+66	'	O
+67	s	O
+68	Water	O
+69	Polo	O
+70	:**	O
+71	-	O
+72	**	O
+73	Gold	O
+74	:**	O
+75	USA	B-Female/Gold
+76	-	O
+77	**	O
+78	Silver	O
+79	:**	O
+80	Spain	B-Female/Silver
+81	-	O
+82	**	O
+83	Bronze	O
+84	:**	O
+85	Australia	B-Female/Bronze
+86	These	O
+87	events	O
+88	showcased	O
+89	highly	O
+90	competitive	O
+91	matches	O
+92	between	O
+93	top	O
+94	water	O
+95	polo	O
+96	nations	O
+97	.	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Swimming 4 x 100m Freestyle Relay event at the 2020 olympic games?At the 2020 Tokyo Olympics, held in 2021, the medals for the Men's 4 x 100m Freestyle Relay were awarded as follows:
+- **Gold**: Italy
+- **Silver**: Australia
+- **Bronze**: United States
+Italy's team won the event, securing a remarkable victory.
+# status = {"0":"accepted"}
+# time (ms) = 18176
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	m	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2020	O
+24	Tokyo	O
+25	Olympics	O
+26	,	O
+27	held	O
+28	in	O
+29	2021	O
+30	,	O
+31	the	O
+32	medals	O
+33	for	O
+34	the	O
+35	Men	O
+36	'	O
+37	s	O
+38	4	O
+39	x	O
+40	100	O
+41	m	O
+42	Freestyle	O
+43	Relay	O
+44	were	O
+45	awarded	O
+46	as	O
+47	follows	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	**:	O
+53	Italy	B-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	**:	O
+58	Australia	B-Male/Silver
+59	-	O
+60	**	O
+61	Bronze	O
+62	**:	O
+63	United	B-Male/Bronze
+64	States	I-Male/Bronze
+65	Italy	O
+66	'	O
+67	s	O
+68	team	O
+69	won	O
+70	the	O
+71	event	O
+72	,	O
+73	securing	O
+74	a	O
+75	remarkable	O
+76	victory	O
+77	.	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Swimming 4 x 100m Medley Relay event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals for the Men's 4 x 100m Medley Relay were awarded as follows:
+- **Gold Medal**: Team USA
+- **Silver Medal**: Team Great Britain
+- **Bronze Medal**: Team Australia
+For the Women's 4 x 100m Medley Relay:
+- **Gold Medal**: Team USA
+- **Silver Medal**: Team Australia
+- **Bronze Medal**: Team Canada
+If you need more details about individual performances or other events, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 31329
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	m	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2020	O
+24	Tokyo	O
+25	Olympics	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	4	O
+35	x	O
+36	100	O
+37	m	O
+38	Medley	O
+39	Relay	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Team	O
+51	USA	B-Male/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	Team	O
+58	Great	B-Male/Silver
+59	Britain	I-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Team	O
+66	Australia	B-Male/Bronze
+67	For	O
+68	the	O
+69	Women	O
+70	'	O
+71	s	O
+72	4	O
+73	x	O
+74	100	O
+75	m	O
+76	Medley	O
+77	Relay	O
+78	:	O
+79	-	O
+80	**	O
+81	Gold	O
+82	Medal	O
+83	**:	O
+84	Team	O
+85	USA	B-Female/Gold
+86	-	O
+87	**	O
+88	Silver	O
+89	Medal	O
+90	**:	O
+91	Team	O
+92	Australia	B-Female/Silver
+93	-	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	Team	O
+99	Canada	B-Female/Bronze
+100	If	O
+101	you	O
+102	need	O
+103	more	O
+104	details	O
+105	about	O
+106	individual	O
+107	performances	O
+108	or	O
+109	other	O
+110	events	O
+111	,	O
+112	feel	O
+113	free	O
+114	to	O
+115	ask	O
+116	!	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Athletics 4 x 100m Relay event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals for the Athletics 4 x 100m Relay event were awarded as follows:
+- **Gold**: Italy (Men's team)
+- **Silver**: Great Britain (Men's team)
+- **Bronze**: Jamaica (Men's team)
+For the women's event:
+- **Gold**: Jamaica (Women's team)
+- **Silver**: United States (Women's team)
+- **Bronze**: Great Britain (Women's team)
+These events were held in 2021 due to the COVID-19 pandemic, but they were still referred to as the 2020 Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 1624
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	m	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2020	O
+23	Tokyo	O
+24	Olympics	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Athletics	O
+31	4	O
+32	x	O
+33	100	O
+34	m	O
+35	Relay	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	**:	O
+46	Italy	B-Male/Gold
+47	(	O
+48	Men	O
+49	'	O
+50	s	O
+51	team	O
+52	)	O
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Great	B-Male/Silver
+58	Britain	I-Male/Silver
+59	(	O
+60	Men	O
+61	'	O
+62	s	O
+63	team	O
+64	)	O
+65	-	O
+66	**	O
+67	Bronze	O
+68	**:	O
+69	Jamaica	B-Male/Bronze
+70	(	O
+71	Men	O
+72	'	O
+73	s	O
+74	team	O
+75	)	O
+76	For	O
+77	the	O
+78	women	O
+79	'	O
+80	s	O
+81	event	O
+82	:	O
+83	-	O
+84	**	O
+85	Gold	O
+86	**:	O
+87	Jamaica	B-Female/Gold
+88	(	O
+89	Women	O
+90	'	O
+91	s	O
+92	team	O
+93	)	O
+94	-	O
+95	**	O
+96	Silver	O
+97	**:	O
+98	United	B-Female/Silver
+99	States	I-Female/Silver
+100	(	O
+101	Women	O
+102	'	O
+103	s	O
+104	team	O
+105	)	O
+106	-	O
+107	**	O
+108	Bronze	O
+109	**:	O
+110	Great	B-Female/Bronze
+111	Britain	I-Female/Bronze
+112	(	O
+113	Women	O
+114	'	O
+115	s	O
+116	team	O
+117	)	O
+118	These	O
+119	events	O
+120	were	O
+121	held	O
+122	in	O
+123	2021	O
+124	due	O
+125	to	O
+126	the	O
+127	COVID	O
+128	-	O
+129	19	O
+130	pandemic	O
+131	,	O
+132	but	O
+133	they	O
+134	were	O
+135	still	O
+136	referred	O
+137	to	O
+138	as	O
+139	the	O
+140	2020	O
+141	Olympics	O
+142	.	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Swimming 4 x 200m Freestyle Relay event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals for the Men's 4 x 200m Freestyle Relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Australia
+- **Bronze**: Great Britain
+The event took place on July 28, 2021, as part of the Olympic Games, which were held in 2021 due to the COVID-19 pandemic.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	200	O
+11	m	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2020	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2020	O
+24	Tokyo	O
+25	Olympics	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	4	O
+35	x	O
+36	200	O
+37	m	O
+38	Freestyle	O
+39	Relay	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	**:	O
+49	United	B-Male/Gold
+50	States	I-Male/Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	**:	O
+55	Australia	B-Male/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	**:	O
+60	Great	B-Male/Bronze
+61	Britain	I-Male/Bronze
+62	The	O
+63	event	O
+64	took	O
+65	place	O
+66	on	O
+67	July	O
+68	28	O
+69	,	O
+70	2021	O
+71	,	O
+72	as	O
+73	part	O
+74	of	O
+75	the	O
+76	Olympic	O
+77	Games	O
+78	,	O
+79	which	O
+80	were	O
+81	held	O
+82	in	O
+83	2021	O
+84	due	O
+85	to	O
+86	the	O
+87	COVID	O
+88	-	O
+89	19	O
+90	pandemic	O
+91	.	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Athletics 4 x 400m Relay event at the 2020 olympic games?At the 2020 Olympic Games in Tokyo, the medals for the Athletics 4 x 400m Relay event were awarded as follows:
+- **Gold**: United States (USA)
+- **Silver**: Poland
+- **Bronze**: Jamaica
+The men's 4 x 400m relay final took place on August 6, 2021.
+# status = {"0":"accepted"}
+# time (ms) = 27389
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	m	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2020	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Tokyo	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Athletics	O
+33	4	O
+34	x	O
+35	400	O
+36	m	O
+37	Relay	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	**:	O
+48	United	B-Male/Gold
+49	States	I-Male/Gold
+50	(	O
+51	USA	O
+52	)	O
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Poland	B-Male/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Jamaica	B-Male/Bronze
+63	The	O
+64	men	O
+65	'	O
+66	s	O
+67	4	O
+68	x	O
+69	400	O
+70	m	O
+71	relay	O
+72	final	O
+73	took	O
+74	place	O
+75	on	O
+76	August	O
+77	6	O
+78	,	O
+79	2021	O
+80	.	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Rowing Eight event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals in the Men's Eight rowing event were awarded as follows:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: The Netherlands
+- **Bronze Medal**: Germany
+In the Women's Eight event, the medals were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: New Zealand
+- **Bronze Medal**: Canada
+These results were part of the rowing competitions held during the Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Eight	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	the	O
+23	medals	O
+24	in	O
+25	the	O
+26	Men	O
+27	'	O
+28	s	O
+29	Eight	O
+30	rowing	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	Medal	O
+41	**:	O
+42	Great	B-Male/Gold
+43	Britain	I-Male/Gold
+44	-	O
+45	**	O
+46	Silver	O
+47	Medal	O
+48	**:	O
+49	The	B-Male/Silver
+50	Netherlands	I-Male/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Germany	B-Male/Bronze
+57	In	O
+58	the	O
+59	Women	O
+60	'	O
+61	s	O
+62	Eight	O
+63	event	O
+64	,	O
+65	the	O
+66	medals	O
+67	were	O
+68	awarded	O
+69	as	O
+70	follows	O
+71	:	O
+72	-	O
+73	**	O
+74	Gold	O
+75	Medal	O
+76	**:	O
+77	United	B-Female/Gold
+78	States	I-Female/Gold
+79	-	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	New	B-Female/Silver
+85	Zealand	I-Female/Silver
+86	-	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Canada	B-Female/Bronze
+92	These	O
+93	results	O
+94	were	O
+95	part	O
+96	of	O
+97	the	O
+98	rowing	O
+99	competitions	O
+100	held	O
+101	during	O
+102	the	O
+103	Olympics	O
+104	.	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Fencing Epée Team event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals for the Men’s Team Epee event were awarded as follows:
+- **Gold Medal**: France
+- **Silver Medal**: Russia (Russian Olympic Committee)
+- **Bronze Medal**: South Korea
+For the Women's Team Epee event, the results were:
+- **Gold Medal**: France
+- **Silver Medal**: Japan
+- **Bronze Medal**: Spain
+These results reflect the performances during the fencing competitions at the Tokyo 2020 Olympics, which were held in 2021 due to the pandemic.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Epée	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2020	O
+20	Tokyo	O
+21	Olympics	O
+22	,	O
+23	the	O
+24	medals	O
+25	for	O
+26	the	O
+27	Men	O
+28	’	O
+29	s	O
+30	Team	O
+31	Epee	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	France	B-Male/Gold
+44	-	O
+45	**	O
+46	Silver	O
+47	Medal	O
+48	**:	O
+49	Russia	B-Male/Silver
+50	(	O
+51	Russian	O
+52	Olympic	O
+53	Committee	O
+54	)	O
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	South	B-Male/Bronze
+61	Korea	I-Male/Bronze
+62	For	O
+63	the	O
+64	Women	O
+65	'	O
+66	s	O
+67	Team	O
+68	Epee	O
+69	event	O
+70	,	O
+71	the	O
+72	results	O
+73	were	O
+74	:	O
+75	-	O
+76	**	O
+77	Gold	O
+78	Medal	O
+79	**:	O
+80	France	B-Female/Gold
+81	-	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	Japan	B-Female/Silver
+87	-	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Spain	B-Female/Bronze
+93	These	O
+94	results	O
+95	reflect	O
+96	the	O
+97	performances	O
+98	during	O
+99	the	O
+100	fencing	O
+101	competitions	O
+102	at	O
+103	the	O
+104	Tokyo	O
+105	2020	O
+106	Olympics	O
+107	,	O
+108	which	O
+109	were	O
+110	held	O
+111	in	O
+112	2021	O
+113	due	O
+114	to	O
+115	the	O
+116	pandemic	O
+117	.	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Fencing Foil Team event at the 2020 olympic games?In the Fencing Foil Team event at the 2020 Olympic Games, which were held in 2021, the medals were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: France
+- **Bronze Medal**: Japan
+Italy won the gold medal, continuing their strong tradition in fencing.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	In	O
+18	the	O
+19	Fencing	O
+20	Foil	O
+21	Team	O
+22	event	O
+23	at	O
+24	the	O
+25	2020	O
+26	Olympic	O
+27	Games	O
+28	,	O
+29	which	O
+30	were	O
+31	held	O
+32	in	O
+33	2021	O
+34	,	O
+35	the	O
+36	medals	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Italy	B-Unknown/Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	France	B-Unknown/Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	Japan	B-Unknown/Bronze
+60	Italy	O
+61	won	O
+62	the	O
+63	gold	O
+64	medal	O
+65	,	O
+66	continuing	O
+67	their	O
+68	strong	O
+69	tradition	O
+70	in	O
+71	fencing	O
+72	.	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Rowing Four event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals in the Men's Four rowing event were awarded as follows:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: Australia
+- **Bronze Medal**: The Netherlands
+If you were asking about a different category in rowing or another specific event, please let me know!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Four	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	the	O
+23	medals	O
+24	in	O
+25	the	O
+26	Men	O
+27	'	O
+28	s	O
+29	Four	O
+30	rowing	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	Medal	O
+41	**:	O
+42	Great	B-Male/Gold
+43	Britain	I-Male/Gold
+44	-	O
+45	**	O
+46	Silver	O
+47	Medal	O
+48	**:	O
+49	Australia	B-Male/Silver
+50	-	O
+51	**	O
+52	Bronze	O
+53	Medal	O
+54	**:	O
+55	The	B-Male/Bronze
+56	Netherlands	I-Male/Bronze
+57	If	O
+58	you	O
+59	were	O
+60	asking	O
+61	about	O
+62	a	O
+63	different	O
+64	category	O
+65	in	O
+66	rowing	O
+67	or	O
+68	another	O
+69	specific	O
+70	event	O
+71	,	O
+72	please	O
+73	let	O
+74	me	O
+75	know	O
+76	!	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Canoe Sprint Kayak Four 500m event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021, the medals for the Canoe Sprint Kayak Four (K4) 500m event were awarded as follows:
+- **Gold Medal**: Hungary
+- **Silver Medal**: Germany
+- **Bronze Medal**: Estonia
+If you need more information about the event or the teams, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Canoe	O
+8	Sprint	O
+9	Kayak	O
+10	Four	O
+11	500	O
+12	m	O
+13	event	O
+14	at	O
+15	the	O
+16	2020	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2020	O
+23	Tokyo	O
+24	Olympics	O
+25	,	O
+26	which	O
+27	took	O
+28	place	O
+29	in	O
+30	2021	O
+31	,	O
+32	the	O
+33	medals	O
+34	for	O
+35	the	O
+36	Canoe	O
+37	Sprint	O
+38	Kayak	O
+39	Four	O
+40	(	O
+41	K	O
+42	4	O
+43	)	O
+44	500	O
+45	m	O
+46	event	O
+47	were	O
+48	awarded	O
+49	as	O
+50	follows	O
+51	:	O
+52	-	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	Hungary	B-Unknown/Gold
+58	-	O
+59	**	O
+60	Silver	O
+61	Medal	O
+62	**:	O
+63	Germany	B-Unknown/Silver
+64	-	O
+65	**	O
+66	Bronze	O
+67	Medal	O
+68	**:	O
+69	Estonia	B-Unknown/Bronze
+70	If	O
+71	you	O
+72	need	O
+73	more	O
+74	information	O
+75	about	O
+76	the	O
+77	event	O
+78	or	O
+79	the	O
+80	teams	O
+81	,	O
+82	feel	O
+83	free	O
+84	to	O
+85	ask	O
+86	!	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 2020 olympic games?At the 2020 Tokyo Olympic Games, the medals for the Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: Netherlands
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Italy
+These results reflect the performances of the teams in the rowing quadruple sculls event held during the Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2020	O
+20	Tokyo	O
+21	Olympic	O
+22	Games	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	Rowing	O
+29	Quadruple	O
+30	Sculls	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	Medal	O
+41	**:	O
+42	Netherlands	B-Unknown/Gold
+43	-	O
+44	**	O
+45	Silver	O
+46	Medal	O
+47	**:	O
+48	Great	B-Unknown/Silver
+49	Britain	I-Unknown/Silver
+50	-	O
+51	**	O
+52	Bronze	O
+53	Medal	O
+54	**:	O
+55	Italy	B-Unknown/Bronze
+56	These	O
+57	results	O
+58	reflect	O
+59	the	O
+60	performances	O
+61	of	O
+62	the	O
+63	teams	O
+64	in	O
+65	the	O
+66	rowing	O
+67	quadruple	O
+68	sculls	O
+69	event	O
+70	held	O
+71	during	O
+72	the	O
+73	Games	O
+74	.	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Fencing Sabre Team event at the 2020 olympic games?At the Tokyo 2020 Olympic Games (which took place in 2021 due to the COVID-19 pandemic), the medals in the men's team sabre fencing event were awarded as follows:
+- **Gold medal**: Hungary
+- **Silver medal**: Italy
+- **Bronze medal**: South Korea
+For the women's team sabre event, the results were:
+- **Gold medal**: Russia (competing as the Russian Olympic Committee)
+- **Silver medal**: France
+- **Bronze medal**: Italy
+These events showcased high levels of competition and strategic prowess among some of the world's best fencers.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Sabre	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	Tokyo	O
+20	2020	O
+21	Olympic	O
+22	Games	O
+23	(	O
+24	which	O
+25	took	O
+26	place	O
+27	in	O
+28	2021	O
+29	due	O
+30	to	O
+31	the	O
+32	COVID	O
+33	-	O
+34	19	O
+35	pandemic	O
+36	),	O
+37	the	O
+38	medals	O
+39	in	O
+40	the	O
+41	men	O
+42	'	O
+43	s	O
+44	team	O
+45	sabre	O
+46	fencing	O
+47	event	O
+48	were	O
+49	awarded	O
+50	as	O
+51	follows	O
+52	:	O
+53	-	O
+54	**	O
+55	Gold	O
+56	medal	O
+57	**:	O
+58	Hungary	B-Male/Gold
+59	-	O
+60	**	O
+61	Silver	O
+62	medal	O
+63	**:	O
+64	Italy	B-Male/Silver
+65	-	O
+66	**	O
+67	Bronze	O
+68	medal	O
+69	**:	O
+70	South	B-Male/Bronze
+71	Korea	I-Male/Bronze
+72	For	O
+73	the	O
+74	women	O
+75	'	O
+76	s	O
+77	team	O
+78	sabre	O
+79	event	O
+80	,	O
+81	the	O
+82	results	O
+83	were	O
+84	:	O
+85	-	O
+86	**	O
+87	Gold	O
+88	medal	O
+89	**:	O
+90	Russia	B-Female/Gold
+91	(	O
+92	competing	O
+93	as	O
+94	the	O
+95	Russian	O
+96	Olympic	O
+97	Committee	O
+98	)	O
+99	-	O
+100	**	O
+101	Silver	O
+102	medal	O
+103	**:	O
+104	France	B-Female/Silver
+105	-	O
+106	**	O
+107	Bronze	O
+108	medal	O
+109	**:	O
+110	Italy	B-Female/Bronze
+111	These	O
+112	events	O
+113	showcased	O
+114	high	O
+115	levels	O
+116	of	O
+117	competition	O
+118	and	O
+119	strategic	O
+120	prowess	O
+121	among	O
+122	some	O
+123	of	O
+124	the	O
+125	world	O
+126	'	O
+127	s	O
+128	best	O
+129	fencers	O
+130	.	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Archery Team event at the 2020 olympic games?At the 2020 Tokyo Olympics, which took place in 2021 due to the pandemic, the medals in the Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: Russia (ROC - Russian Olympic Committee)
+- **Bronze Medal**: The Netherlands
+The South Korean team continued their dominance in archery, adding to their rich history of success in the sport.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	2020	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2020	O
+19	Tokyo	O
+20	Olympics	O
+21	,	O
+22	which	O
+23	took	O
+24	place	O
+25	in	O
+26	2021	O
+27	due	O
+28	to	O
+29	the	O
+30	pandemic	O
+31	,	O
+32	the	O
+33	medals	O
+34	in	O
+35	the	O
+36	Archery	O
+37	Team	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	South	B-Unknown/Gold
+50	Korea	I-Unknown/Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Russia	B-Unknown/Silver
+57	(	O
+58	ROC	O
+59	-	O
+60	Russian	O
+61	Olympic	O
+62	Committee	O
+63	)	O
+64	-	O
+65	**	O
+66	Bronze	O
+67	Medal	O
+68	**:	O
+69	The	B-Unknown/Bronze
+70	Netherlands	I-Unknown/Bronze
+71	The	O
+72	South	O
+73	Korean	O
+74	team	O
+75	continued	O
+76	their	O
+77	dominance	O
+78	in	O
+79	archery	O
+80	,	O
+81	adding	O
+82	to	O
+83	their	O
+84	rich	O
+85	history	O
+86	of	O
+87	success	O
+88	in	O
+89	the	O
+90	sport	O
+91	.	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Artistic Gymnastics Team event at the 2020 olympic games?At the 2020 Olympic Games held in Tokyo in 2021, the medals for the Artistic Gymnastics Team event were awarded as follows:
+- **Gold Medal**: USA (United States)
+- **Silver Medal**: Russia (Russian Olympic Committee)
+- **Bronze Medal**: Great Britain
+The event showcased the talented gymnastic teams from these countries with the USA taking home the top honor.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2020	O
+20	Olympic	O
+21	Games	O
+22	held	O
+23	in	O
+24	Tokyo	O
+25	in	O
+26	2021	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Artistic	O
+33	Gymnastics	O
+34	Team	O
+35	event	O
+36	were	O
+37	awarded	O
+38	as	O
+39	follows	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	USA	B-Unknown/Gold
+47	(	O
+48	United	O
+49	States	O
+50	)	O
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Russia	B-Unknown/Silver
+57	(	O
+58	Russian	O
+59	Olympic	O
+60	Committee	O
+61	)	O
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	**:	O
+67	Great	B-Unknown/Bronze
+68	Britain	I-Unknown/Bronze
+69	The	O
+70	event	O
+71	showcased	O
+72	the	O
+73	talented	O
+74	gymnastic	O
+75	teams	O
+76	from	O
+77	these	O
+78	countries	O
+79	with	O
+80	the	O
+81	USA	O
+82	taking	O
+83	home	O
+84	the	O
+85	top	O
+86	honor	O
+87	.	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Table Tennis Team event at the 2020 olympic games?At the 2020 Tokyo Olympics, the medals in the Table Tennis Team event were awarded as follows:
+- **Gold Medal**: China
+- **Silver Medal**: Japan
+- **Bronze Medal**: Germany
+The Chinese team continued their dominance in table tennis by winning the gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Table	O
+8	Tennis	O
+9	Team	O
+10	event	O
+11	at	O
+12	the	O
+13	2020	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2020	O
+20	Tokyo	O
+21	Olympics	O
+22	,	O
+23	the	O
+24	medals	O
+25	in	O
+26	the	O
+27	Table	O
+28	Tennis	O
+29	Team	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	China	B-Unknown/Gold
+42	-	O
+43	**	O
+44	Silver	O
+45	Medal	O
+46	**:	O
+47	Japan	B-Unknown/Silver
+48	-	O
+49	**	O
+50	Bronze	O
+51	Medal	O
+52	**:	O
+53	Germany	B-Unknown/Bronze
+54	The	O
+55	Chinese	O
+56	team	O
+57	continued	O
+58	their	O
+59	dominance	O
+60	in	O
+61	table	O
+62	tennis	O
+63	by	O
+64	winning	O
+65	the	O
+66	gold	O
+67	medal	O
+68	.	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Cycling Track Team Pursuit event at the 2020 olympic games?At the 2020 Olympic Games, held in Tokyo in 2021, the medals in the Cycling Track Team Pursuit event were awarded as follows:
+- **Gold Medal**: Great Britain
+- **Silver Medal**: Italy
+- **Bronze Medal**: Australia
+These results reflect the performances of the teams in the event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Cycling	O
+8	Track	O
+9	Team	O
+10	Pursuit	O
+11	event	O
+12	at	O
+13	the	O
+14	2020	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2020	O
+21	Olympic	O
+22	Games	O
+23	,	O
+24	held	O
+25	in	O
+26	Tokyo	O
+27	in	O
+28	2021	O
+29	,	O
+30	the	O
+31	medals	O
+32	in	O
+33	the	O
+34	Cycling	O
+35	Track	O
+36	Team	O
+37	Pursuit	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Great	B-Unknown/Gold
+50	Britain	I-Unknown/Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Italy	B-Unknown/Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Australia	B-Unknown/Bronze
+63	These	O
+64	results	O
+65	reflect	O
+66	the	O
+67	performances	O
+68	of	O
+69	the	O
+70	teams	O
+71	in	O
+72	the	O
+73	event	O
+74	.	O
+
+

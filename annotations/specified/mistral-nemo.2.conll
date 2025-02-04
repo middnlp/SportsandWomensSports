@@ -1,0 +1,11742 @@
+# sent_id = 0
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2004 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Jason Lezak
+   - Ian Crocker
+   - Gary Hall Jr.
+2. **Silver Medal**: Australia
+   - Michael Klim
+   - Ashley Callus
+   - Todd Pearson
+   - Eamon Sullivan
+3. **Bronze Medal**: Netherlands
+   - Johan Kenkhuis
+   - Mitja Zastrow
+   - Mark Veens
+   - Pieter van den Hoogenband
+# status = {"0":"accepted"}
+# time (ms) = 2191
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Michael	O
+64	Phelps	O
+65	-	O
+66	Jason	O
+67	Lezak	O
+68	-	O
+69	Ian	O
+70	Crocker	O
+71	-	O
+72	Gary	O
+73	Hall	O
+74	Jr	O
+75	.	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Australia	B-Silver
+83	-	O
+84	Michael	O
+85	Klim	O
+86	-	O
+87	Ashley	O
+88	Callus	O
+89	-	O
+90	Todd	O
+91	Pearson	O
+92	-	O
+93	Eamon	O
+94	Sullivan	O
+95	3	O
+96	.	O
+97	**	O
+98	Bronze	O
+99	Medal	O
+100	**:	O
+101	Netherlands	B-Bronze
+102	-	O
+103	Johan	O
+104	Kenkhuis	O
+105	-	O
+106	Mitja	O
+107	Zastrow	O
+108	-	O
+109	Mark	O
+110	Veens	O
+111	-	O
+112	Pieter	O
+113	van	O
+114	den	O
+115	Hoogenband	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2004 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 2004 Olympic Games in Athens was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Inge Dekker
+   - Marleen Veldhuis
+   - Chantal Groot
+   - Annemarie Verstappen
+2. **Silver Medal**: Australia
+   - Alice Mills
+   - Jodie Henry
+   - Lisbeth Lenton
+   - Petria Thomas
+3. **Bronze Medal**: China
+   - Yang Yu
+   - Zhou Yafei
+   - Lu Bin
+   - Yang Yu (also swam in the heats)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	Netherlands	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Netherlands	B-Gold
+60	-	O
+61	Inge	O
+62	Dekker	O
+63	-	O
+64	Marleen	O
+65	Veldhuis	O
+66	-	O
+67	Chantal	O
+68	Groot	O
+69	-	O
+70	Annemarie	O
+71	Verstappen	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Australia	B-Silver
+79	-	O
+80	Alice	O
+81	Mills	O
+82	-	O
+83	Jodie	O
+84	Henry	O
+85	-	O
+86	Lisbeth	O
+87	Lenton	O
+88	-	O
+89	Petria	O
+90	Thomas	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	China	B-Bronze
+98	-	O
+99	Yang	O
+100	Yu	O
+101	-	O
+102	Zhou	O
+103	Yafei	O
+104	-	O
+105	Lu	O
+106	Bin	O
+107	-	O
+108	Yang	O
+109	Yu	O
+110	(	O
+111	also	O
+112	swam	O
+113	in	O
+114	the	O
+115	heats	O
+116	)	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2004 olympic games?The Men's 4 x 100 metres Medley Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Aaron Peirsol (Backstroke)
+   - Brendan Hansen (Breaststroke)
+   - Ian Crocker (Butterfly)
+   - Jason Lezak (Freestyle)
+2. **Silver Medal**: Australia
+   - Matt Welsh (Backstroke)
+   - Glen Housman (Breaststroke)
+   - Michael Klim (Butterfly)
+   - Ian Thorpe (Freestyle)
+3. **Bronze Medal**: Japan
+   - Tomohiro Hasegawa (Backstroke)
+   - Kosuke Kitajima (Breaststroke)
+   - Takashi Yamamoto (Butterfly)
+   - Kenji Kobase (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Aaron	O
+64	Peirsol	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Brendan	O
+70	Hansen	O
+71	(	O
+72	Breaststroke	O
+73	)	O
+74	-	O
+75	Ian	O
+76	Crocker	O
+77	(	O
+78	Butterfly	O
+79	)	O
+80	-	O
+81	Jason	O
+82	Lezak	O
+83	(	O
+84	Freestyle	O
+85	)	O
+86	2	O
+87	.	O
+88	**	O
+89	Silver	O
+90	Medal	O
+91	**:	O
+92	Australia	B-Silver
+93	-	O
+94	Matt	O
+95	Welsh	O
+96	(	O
+97	Backstroke	O
+98	)	O
+99	-	O
+100	Glen	O
+101	Housman	O
+102	(	O
+103	Breaststroke	O
+104	)	O
+105	-	O
+106	Michael	O
+107	Klim	O
+108	(	O
+109	Butterfly	O
+110	)	O
+111	-	O
+112	Ian	O
+113	Thorpe	O
+114	(	O
+115	Freestyle	O
+116	)	O
+117	3	O
+118	.	O
+119	**	O
+120	Bronze	O
+121	Medal	O
+122	**:	O
+123	Japan	B-Bronze
+124	-	O
+125	Tomohiro	O
+126	Hasegawa	O
+127	(	O
+128	Backstroke	O
+129	)	O
+130	-	O
+131	Kosuke	O
+132	Kitajima	O
+133	(	O
+134	Breaststroke	O
+135	)	O
+136	-	O
+137	Takashi	O
+138	Yamamoto	O
+139	(	O
+140	Butterfly	O
+141	)	O
+142	-	O
+143	Kenji	O
+144	Kobase	O
+145	(	O
+146	Freestyle	O
+147	)	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2004 olympic games?The Women's 4 x 100 metres Medley Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Natalie Coughlin (Backstroke)
+   - Amanda Beard (Breaststroke)
+   - Jenny Thompson (Butterfly)
+   - Kara Lynn Joyce (Freestyle)
+2. **Silver Medal**: Australia
+   - Libby Trickett (Backstroke)
+   - Leisel Jones (Breaststroke)
+   - Petria Thomas (Butterfly)
+   - Alice Mills (Freestyle)
+3. **Bronze Medal**: China
+   - Zhou Yafei (Backstroke)
+   - Lu Bin (Breaststroke)
+   - Yang Yu (Butterfly)
+   - Yu Huajun (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Natalie	O
+64	Coughlin	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Amanda	O
+70	Beard	O
+71	(	O
+72	Breaststroke	O
+73	)	O
+74	-	O
+75	Jenny	O
+76	Thompson	O
+77	(	O
+78	Butterfly	O
+79	)	O
+80	-	O
+81	Kara	O
+82	Lynn	O
+83	Joyce	O
+84	(	O
+85	Freestyle	O
+86	)	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	Australia	B-Silver
+94	-	O
+95	Libby	O
+96	Trickett	O
+97	(	O
+98	Backstroke	O
+99	)	O
+100	-	O
+101	Leisel	O
+102	Jones	O
+103	(	O
+104	Breaststroke	O
+105	)	O
+106	-	O
+107	Petria	O
+108	Thomas	O
+109	(	O
+110	Butterfly	O
+111	)	O
+112	-	O
+113	Alice	O
+114	Mills	O
+115	(	O
+116	Freestyle	O
+117	)	O
+118	3	O
+119	.	O
+120	**	O
+121	Bronze	O
+122	Medal	O
+123	**:	O
+124	China	B-Bronze
+125	-	O
+126	Zhou	O
+127	Yafei	O
+128	(	O
+129	Backstroke	O
+130	)	O
+131	-	O
+132	Lu	O
+133	Bin	O
+134	(	O
+135	Breaststroke	O
+136	)	O
+137	-	O
+138	Yang	O
+139	Yu	O
+140	(	O
+141	Butterfly	O
+142	)	O
+143	-	O
+144	Yu	O
+145	Huajun	O
+146	(	O
+147	Freestyle	O
+148	)	O
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2004 olympic games?The Men's 4 x 100 metres Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Justin Gatlin
+   - Shawn Crawford
+   - Maurice Greene
+   - Jon Drummond
+2. **Silver Medal**: Brazil
+   - Vicente de Lima
+   - Édson Ribeiro
+   - André da Silva
+   - Cláudio Roberto Souza
+3. **Bronze Medal**: France
+   - David Patros
+   - Jean-Michael Bozan
+   - Stuart Dutamby
+   - Ladji Doucouré
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2004	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2004	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Athens	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Justin	O
+62	Gatlin	O
+63	-	O
+64	Shawn	O
+65	Crawford	O
+66	-	O
+67	Maurice	O
+68	Greene	O
+69	-	O
+70	Jon	O
+71	Drummond	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Brazil	B-Silver
+79	-	O
+80	Vicente	O
+81	de	O
+82	Lima	O
+83	-	O
+84	Édson	O
+85	Ribeiro	O
+86	-	O
+87	André	O
+88	da	O
+89	Silva	O
+90	-	O
+91	Cláudio	O
+92	Roberto	O
+93	Souza	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	France	B-Bronze
+101	-	O
+102	David	O
+103	Patros	O
+104	-	O
+105	Jean-Michael	O
+106	Bozan	O
+107	-	O
+108	Stuart	O
+109	Dutamby	O
+110	-	O
+111	Ladji	O
+112	Doucouré	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2004 olympic games?The Women's 4 x 100 meters Relay event at the 2004 Olympic Games in Athens, Greece, was won by the team from Jamaica. Here are the medalists:
+1. **Gold Medal**: Jamaica
+   - Veronica Campbell
+   - Aleen Bailey
+   - Beverly McDonald
+   - Merlene Ottey
+2. **Silver Medal**: Germany
+   - Melanie Paschke
+   - Marion Wagner
+   - Andrea Philipp
+   - Gabi Rockmeier
+3. **Bronze Medal**: Belarus
+   - Yulia Nesterenko
+   - Natallia Safronnikava
+   - Aksana Drahun
+   - Alena Neumiarzhitskaya
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2004	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	meters	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2004	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Athens	O
+40	,	O
+41	Greece	O
+42	,	O
+43	was	O
+44	won	O
+45	by	O
+46	the	O
+47	team	O
+48	from	O
+49	Jamaica	O
+50	.	O
+51	Here	O
+52	are	O
+53	the	O
+54	medalists	O
+55	:	O
+56	1	O
+57	.	O
+58	**	O
+59	Gold	O
+60	Medal	O
+61	**:	O
+62	Jamaica	B-Gold
+63	-	O
+64	Veronica	O
+65	Campbell	O
+66	-	O
+67	Aleen	O
+68	Bailey	O
+69	-	O
+70	Beverly	O
+71	McDonald	O
+72	-	O
+73	Merlene	O
+74	Ottey	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Germany	B-Silver
+82	-	O
+83	Melanie	O
+84	Paschke	O
+85	-	O
+86	Marion	O
+87	Wagner	O
+88	-	O
+89	Andrea	O
+90	Philipp	O
+91	-	O
+92	Gabi	O
+93	Rockmeier	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Belarus	B-Bronze
+101	-	O
+102	Yulia	O
+103	Nesterenko	O
+104	-	O
+105	Natallia	O
+106	Safronnikava	O
+107	-	O
+108	Aksana	O
+109	Drahun	O
+110	-	O
+111	Alena	O
+112	Neumiarzhitskaya	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2004 olympic games?The Men's 4 x 200 metres Freestyle Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Ryan Lochte
+   - Peter Vanderkaay
+   - Klete Keller
+2. **Silver Medal**: Australia
+   - Ian Thorpe
+   - Grant Hackett
+   - Michael Klim
+   - Nicholas Sprenger
+3. **Bronze Medal**: Russia
+   - Igor Chervynskiy
+   - Denis Pimankov
+   - Yevgeny Lagoza
+   - Alexander Koulikov
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Michael	O
+64	Phelps	O
+65	-	O
+66	Ryan	O
+67	Lochte	O
+68	-	O
+69	Peter	O
+70	Vanderkaay	O
+71	-	O
+72	Klete	O
+73	Keller	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Australia	B-Silver
+81	-	O
+82	Ian	O
+83	Thorpe	O
+84	-	O
+85	Grant	O
+86	Hackett	O
+87	-	O
+88	Michael	O
+89	Klim	O
+90	-	O
+91	Nicholas	O
+92	Sprenger	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Russia	B-Bronze
+100	-	O
+101	Igor	O
+102	Chervynskiy	O
+103	-	O
+104	Denis	O
+105	Pimankov	O
+106	-	O
+107	Yevgeny	O
+108	Lagoza	O
+109	-	O
+110	Alexander	O
+111	Koulikov	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2004 olympic games?The Women's 4 x 200 metres Freestyle Relay event at the 2004 Olympic Games in Athens was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Natalie Coughlin
+   - Carly Piper
+   - Dana Vollmer
+   - Kaitlin Sandeno
+2. **Silver Medal**: China
+   - Yang Yu
+   - Zhou Yafei
+   - Liu Limin
+   - Pang Jiaying
+3. **Bronze Medal**: Germany
+   - Franziska van Almsick
+   - Hannah Stockbauer
+   - Petra Dallmann
+   - Daniela Gotz
+# status = {"0":"accepted"}
+# time (ms) = 21597
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2004	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2004	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Athens	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	team	O
+47	from	O
+48	the	O
+49	United	O
+50	States	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Natalie	O
+67	Coughlin	O
+68	-	O
+69	Carly	O
+70	Piper	O
+71	-	O
+72	Dana	O
+73	Vollmer	O
+74	-	O
+75	Kaitlin	O
+76	Sandeno	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	China	B-Silver
+84	-	O
+85	Yang	O
+86	Yu	O
+87	-	O
+88	Zhou	O
+89	Yafei	O
+90	-	O
+91	Liu	O
+92	Limin	O
+93	-	O
+94	Pang	O
+95	Jiaying	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	Germany	B-Bronze
+103	-	O
+104	Franziska	O
+105	van	O
+106	Almsick	O
+107	-	O
+108	Hannah	O
+109	Stockbauer	O
+110	-	O
+111	Petra	O
+112	Dallmann	O
+113	-	O
+114	Daniela	O
+115	Gotz	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2004 olympic games?The Men's 4 x 400 metres Relay event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal:** United States
+   - Jerome Young
+   - Derrick Brew
+   - Angelo Taylor
+   - Otis Harris
+2. **Silver Medal:** Bahamas
+   - Chris Brown
+   - Avard Moncur
+   - Andrae Williams
+   - Christopher "Fireman" Brown
+3. **Bronze Medal:** Australia
+   - John Steffensen
+   - Mark Ormrod
+   - Clinton Hill
+   - Patrick Dwyer
+# status = {"0":"accepted"}
+# time (ms) = 2238
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2004	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2004	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Athens	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	:**	O
+58	United	B-Gold
+59	States	I-Gold
+60	-	O
+61	Jerome	O
+62	Young	O
+63	-	O
+64	Derrick	O
+65	Brew	O
+66	-	O
+67	Angelo	O
+68	Taylor	O
+69	-	O
+70	Otis	O
+71	Harris	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	:**	O
+78	Bahamas	B-Silver
+79	-	O
+80	Chris	O
+81	Brown	O
+82	-	O
+83	Avard	O
+84	Moncur	O
+85	-	O
+86	Andrae	O
+87	Williams	O
+88	-	O
+89	Christopher	O
+90	"	O
+91	Fireman	O
+92	"	O
+93	Brown	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	:**	O
+100	Australia	B-Bronze
+101	-	O
+102	John	O
+103	Steffensen	O
+104	-	O
+105	Mark	O
+106	Ormrod	O
+107	-	O
+108	Clinton	O
+109	Hill	O
+110	-	O
+111	Patrick	O
+112	Dwyer	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2004 olympic games?The Women's 4 x 400 metres Relay event at the 2004 Olympic Games in Athens was won by the team from the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - DeeDee Trotter
+   - Monique Henderson
+   - Sanya Richards
+   - Monique Hennagan
+2. **Silver Medal**: Jamaica
+   - Novlene Williams
+   - Ronetta Smith
+   - Sandie Richards
+   - Lorraine Fenton
+3. **Bronze Medal**: Russia
+   - Olesya Zykina
+   - Yuliya Pechonkina
+   - Anastasia Kapachinskaya
+   - Natalya Nazarova
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2004	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2004	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Athens	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	the	O
+47	United	O
+48	States	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	DeeDee	O
+65	Trotter	O
+66	-	O
+67	Monique	O
+68	Henderson	O
+69	-	O
+70	Sanya	O
+71	Richards	O
+72	-	O
+73	Monique	O
+74	Hennagan	O
+75	2	O
+76	.	O
+77	**	O
+78	Silver	O
+79	Medal	O
+80	**:	O
+81	Jamaica	B-Silver
+82	-	O
+83	Novlene	O
+84	Williams	O
+85	-	O
+86	Ronetta	O
+87	Smith	O
+88	-	O
+89	Sandie	O
+90	Richards	O
+91	-	O
+92	Lorraine	O
+93	Fenton	O
+94	3	O
+95	.	O
+96	**	O
+97	Bronze	O
+98	Medal	O
+99	**:	O
+100	Russia	B-Bronze
+101	-	O
+102	Olesya	O
+103	Zykina	O
+104	-	O
+105	Yuliya	O
+106	Pechonkina	O
+107	-	O
+108	Anastasia	O
+109	Kapachinskaya	O
+110	-	O
+111	Natalya	O
+112	Nazarova	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Men's Basketball event at the 2004 olympic games?The Men's Basketball event at the 2004 Summer Olympics in Athens, Greece, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Carmelo Anthony, LeBron James, Dwyane Wade, Amar'e Stoudemire, Tim Duncan, Allen Iverson, Shawn Marion, Carlos Boozer, Stephon Marbury, Richard Jefferson, Emeka Okafor, and Antawn Jamison.
+2. **Silver Medal**: Argentina
+   - Players: Manu Ginóbili, Fabricio Oberto, Luis Scola, Carlos Delfino, Walter Hermann, Pablo Prigioni, Andrés Nocioni, Leonardo Gutiérrez, Juan Pedro Gutiérrez, Gabriel Fernández, Romás Espil, and Federico Kammerichs.
+3. **Bronze Medal**: Italy
+   - Players: Roberto Chiacig, Giacomo Galanda, Denis Marconato, Marco Belinelli, Andrea Pecile, Massimo Bulleri, Nikos Zisis, Matteo Soragna, Alessandro Ajmone, Marco Carraretto, Gianluca Basile, and Michele Mian.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Athens	O
+31	,	O
+32	Greece	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	United	O
+39	States	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Gold
+53	States	I-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Carmelo	O
+58	Anthony	O
+59	,	O
+60	LeBron	O
+61	James	O
+62	,	O
+63	Dwyane	O
+64	Wade	O
+65	,	O
+66	Amar	O
+67	'	O
+68	e	O
+69	Stoudemire	O
+70	,	O
+71	Tim	O
+72	Duncan	O
+73	,	O
+74	Allen	O
+75	Iverson	O
+76	,	O
+77	Shawn	O
+78	Marion	O
+79	,	O
+80	Carlos	O
+81	Boozer	O
+82	,	O
+83	Stephon	O
+84	Marbury	O
+85	,	O
+86	Richard	O
+87	Jefferson	O
+88	,	O
+89	Emeka	O
+90	Okafor	O
+91	,	O
+92	and	O
+93	Antawn	O
+94	Jamison	O
+95	.	O
+96	2	O
+97	.	O
+98	**	O
+99	Silver	O
+100	Medal	O
+101	**:	O
+102	Argentina	B-Silver
+103	-	O
+104	Players	O
+105	:	O
+106	Manu	O
+107	Ginóbili	O
+108	,	O
+109	Fabricio	O
+110	Oberto	O
+111	,	O
+112	Luis	O
+113	Scola	O
+114	,	O
+115	Carlos	O
+116	Delfino	O
+117	,	O
+118	Walter	O
+119	Hermann	O
+120	,	O
+121	Pablo	O
+122	Prigioni	O
+123	,	O
+124	Andrés	O
+125	Nocioni	O
+126	,	O
+127	Leonardo	O
+128	Gutiérrez	O
+129	,	O
+130	Juan	O
+131	Pedro	O
+132	Gutiérrez	O
+133	,	O
+134	Gabriel	O
+135	Fernández	O
+136	,	O
+137	Romás	O
+138	Espil	O
+139	,	O
+140	and	O
+141	Federico	O
+142	Kammerichs	O
+143	.	O
+144	3	O
+145	.	O
+146	**	O
+147	Bronze	O
+148	Medal	O
+149	**:	O
+150	Italy	B-Bronze
+151	-	O
+152	Players	O
+153	:	O
+154	Roberto	O
+155	Chiacig	O
+156	,	O
+157	Giacomo	O
+158	Galanda	O
+159	,	O
+160	Denis	O
+161	Marconato	O
+162	,	O
+163	Marco	O
+164	Belinelli	O
+165	,	O
+166	Andrea	O
+167	Pecile	O
+168	,	O
+169	Massimo	O
+170	Bulleri	O
+171	,	O
+172	Nikos	O
+173	Zisis	O
+174	,	O
+175	Matteo	O
+176	Soragna	O
+177	,	O
+178	Alessandro	O
+179	Ajmone	O
+180	,	O
+181	Marco	O
+182	Carraretto	O
+183	,	O
+184	Gianluca	O
+185	Basile	O
+186	,	O
+187	and	O
+188	Michele	O
+189	Mian	O
+190	.	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Women's Basketball event at the 2004 olympic games?The Women's Basketball event at the 2004 Summer Olympics in Athens, Greece, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Lisa Leslie, Sue Bird, Dawn Staley, Sheryl Swoopes, Katie Smith, Tina Thompson, DeLisha Milton-Jones, Tamika Catchings, Ruth Riley, Kara Wolters, Nicole Powell, and Diana Taurasi.
+2. **Silver Medal**: Australia
+   - Players: Lauren Jackson, Penny Taylor, Suzy Batkovic, Kristi Harrower, Belinda Snell, Laura Summerton, Emma Randall, Tully Bevilaqua, Jennifer Screen, Shelley Sandie, Rachel Sporn, and Allison Tranquilli.
+3. **Bronze Medal**: Russia
+   - Players: Yelena Baranova, Yelena Karpova, Yekaterina Lisina, Yekaterina Svyrydova, Yelena Voronina, Yelena Zhirko, Maria Stepanova, Ilona Korstin, Olga Arteshina, Irina Osipova, Yekaterina Gamova, and Svetlana Abrosimova.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Athens	O
+31	,	O
+32	Greece	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	United	O
+39	States	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Gold
+53	States	I-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Lisa	O
+58	Leslie	O
+59	,	O
+60	Sue	O
+61	Bird	O
+62	,	O
+63	Dawn	O
+64	Staley	O
+65	,	O
+66	Sheryl	O
+67	Swoopes	O
+68	,	O
+69	Katie	O
+70	Smith	O
+71	,	O
+72	Tina	O
+73	Thompson	O
+74	,	O
+75	DeLisha	O
+76	Milton-Jones	O
+77	,	O
+78	Tamika	O
+79	Catchings	O
+80	,	O
+81	Ruth	O
+82	Riley	O
+83	,	O
+84	Kara	O
+85	Wolters	O
+86	,	O
+87	Nicole	O
+88	Powell	O
+89	,	O
+90	and	O
+91	Diana	O
+92	Taurasi	O
+93	.	O
+94	2	O
+95	.	O
+96	**	O
+97	Silver	O
+98	Medal	O
+99	**:	O
+100	Australia	B-Silver
+101	-	O
+102	Players	O
+103	:	O
+104	Lauren	O
+105	Jackson	O
+106	,	O
+107	Penny	O
+108	Taylor	O
+109	,	O
+110	Suzy	O
+111	Batkovic	O
+112	,	O
+113	Kristi	O
+114	Harrower	O
+115	,	O
+116	Belinda	O
+117	Snell	O
+118	,	O
+119	Laura	O
+120	Summerton	O
+121	,	O
+122	Emma	O
+123	Randall	O
+124	,	O
+125	Tully	O
+126	Bevilaqua	O
+127	,	O
+128	Jennifer	O
+129	Screen	O
+130	,	O
+131	Shelley	O
+132	Sandie	O
+133	,	O
+134	Rachel	O
+135	Sporn	O
+136	,	O
+137	and	O
+138	Allison	O
+139	Tranquilli	O
+140	.	O
+141	3	O
+142	.	O
+143	**	O
+144	Bronze	O
+145	Medal	O
+146	**:	O
+147	Russia	B-Bronze
+148	-	O
+149	Players	O
+150	:	O
+151	Yelena	O
+152	Baranova	O
+153	,	O
+154	Yelena	O
+155	Karpova	O
+156	,	O
+157	Yekaterina	O
+158	Lisina	O
+159	,	O
+160	Yekaterina	O
+161	Svyrydova	O
+162	,	O
+163	Yelena	O
+164	Voronina	O
+165	,	O
+166	Yelena	O
+167	Zhirko	O
+168	,	O
+169	Maria	O
+170	Stepanova	O
+171	,	O
+172	Ilona	O
+173	Korstin	O
+174	,	O
+175	Olga	O
+176	Arteshina	O
+177	,	O
+178	Irina	O
+179	Osipova	O
+180	,	O
+181	Yekaterina	O
+182	Gamova	O
+183	,	O
+184	and	O
+185	Svetlana	O
+186	Abrosimova	O
+187	.	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2004 olympic games?The Men's Rowing Coxed Eights event at the 2004 Olympic Games in Athens was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Beau Hoopman
+   - Matt Scannell
+   - Nathan Baggley
+   - Joseph Hansen
+   - Steven Coppola
+   - Daniel Price
+   - Jeff Klepacki
+   - Bryan Volpenhein
+   - Peter Cipollone (cox)
+2. **Silver Medal**: Great Britain
+   - Ed Coode
+   - Tom Stallard
+   - Tom James
+   - Richard Egington
+   - Josh West
+   - Toby Garatt
+   - Tom Lucy
+   - Andrew Triggs Hodge
+   - Acer Nethercott (cox)
+3. **Bronze Medal**: Australia
+   - James Tomkins
+   - Stuart Reside
+   - Cameron McKenzie-McHarg
+   - Francis Hegerty
+   - Drew Ginn
+   - Nick Green
+   - Mike McKay
+   - James Marburg
+   - Stephen Stewart (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2004	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2004	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Athens	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	United	O
+40	States	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Gold
+54	States	I-Gold
+55	-	O
+56	Beau	O
+57	Hoopman	O
+58	-	O
+59	Matt	O
+60	Scannell	O
+61	-	O
+62	Nathan	O
+63	Baggley	O
+64	-	O
+65	Joseph	O
+66	Hansen	O
+67	-	O
+68	Steven	O
+69	Coppola	O
+70	-	O
+71	Daniel	O
+72	Price	O
+73	-	O
+74	Jeff	O
+75	Klepacki	O
+76	-	O
+77	Bryan	O
+78	Volpenhein	O
+79	-	O
+80	Peter	O
+81	Cipollone	O
+82	(	O
+83	cox	O
+84	)	O
+85	2	O
+86	.	O
+87	**	O
+88	Silver	O
+89	Medal	O
+90	**:	O
+91	Great	B-Silver
+92	Britain	I-Silver
+93	-	O
+94	Ed	O
+95	Coode	O
+96	-	O
+97	Tom	O
+98	Stallard	O
+99	-	O
+100	Tom	O
+101	James	O
+102	-	O
+103	Richard	O
+104	Egington	O
+105	-	O
+106	Josh	O
+107	West	O
+108	-	O
+109	Toby	O
+110	Garatt	O
+111	-	O
+112	Tom	O
+113	Lucy	O
+114	-	O
+115	Andrew	O
+116	Triggs	O
+117	Hodge	O
+118	-	O
+119	Acer	O
+120	Nethercott	O
+121	(	O
+122	cox	O
+123	)	O
+124	3	O
+125	.	O
+126	**	O
+127	Bronze	O
+128	Medal	O
+129	**:	O
+130	Australia	B-Bronze
+131	-	O
+132	James	O
+133	Tomkins	O
+134	-	O
+135	Stuart	O
+136	Reside	O
+137	-	O
+138	Cameron	O
+139	McKenzie-McHarg	O
+140	-	O
+141	Francis	O
+142	Hegerty	O
+143	-	O
+144	Drew	O
+145	Ginn	O
+146	-	O
+147	Nick	O
+148	Green	O
+149	-	O
+150	Mike	O
+151	McKay	O
+152	-	O
+153	James	O
+154	Marburg	O
+155	-	O
+156	Stephen	O
+157	Stewart	O
+158	(	O
+159	cox	O
+160	)	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2004 olympic games?The Women's Rowing Coxed Eights event at the 2004 Olympic Games in Athens, Greece, was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Caryn Davies
+   - Carmen Douma
+   - Anna Goodale
+   - Lauren Smith
+   - Kate Johnson
+   - Sally Newberry
+   - Megan Dailey
+   - Lindsay Shoop
+   - Mary Whipple (cox)
+2. **Silver Medal**: Romania
+   - Rodica Florea
+   - Angela Farcas
+   - Ioana Papuc
+   - Livia Turcu
+   - Eliana Neacsu
+   - Doina Ignat
+   - Georgeta Andrunache
+   - Viorica Susanu
+   - Elena Georgescu (cox)
+3. **Bronze Medal**: Australia
+   - Sarah Cook
+   - Kate Hornsey
+   - Marina Mills
+   - Sally Newmarch
+   - Harriet Garriock
+   - Emily Martin
+   - Sarah Heard
+   - Kate Slatter
+   - Elizabeth Patrick (cox)
+# status = {"0":"accepted"}
+# time (ms) = 17787
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2004	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2004	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Athens	O
+35	,	O
+36	Greece	O
+37	,	O
+38	was	O
+39	won	O
+40	by	O
+41	the	O
+42	United	O
+43	States	O
+44	team	O
+45	.	O
+46	Here	O
+47	are	O
+48	the	O
+49	medalists	O
+50	:	O
+51	1	O
+52	.	O
+53	**	O
+54	Gold	O
+55	Medal	O
+56	**:	O
+57	United	B-Gold
+58	States	I-Gold
+59	-	O
+60	Caryn	O
+61	Davies	O
+62	-	O
+63	Carmen	O
+64	Douma	O
+65	-	O
+66	Anna	O
+67	Goodale	O
+68	-	O
+69	Lauren	O
+70	Smith	O
+71	-	O
+72	Kate	O
+73	Johnson	O
+74	-	O
+75	Sally	O
+76	Newberry	O
+77	-	O
+78	Megan	O
+79	Dailey	O
+80	-	O
+81	Lindsay	O
+82	Shoop	O
+83	-	O
+84	Mary	O
+85	Whipple	O
+86	(	O
+87	cox	O
+88	)	O
+89	2	O
+90	.	O
+91	**	O
+92	Silver	O
+93	Medal	O
+94	**:	O
+95	Romania	B-Silver
+96	-	O
+97	Rodica	O
+98	Florea	O
+99	-	O
+100	Angela	O
+101	Farcas	O
+102	-	O
+103	Ioana	O
+104	Papuc	O
+105	-	O
+106	Livia	O
+107	Turcu	O
+108	-	O
+109	Eliana	O
+110	Neacsu	O
+111	-	O
+112	Doina	O
+113	Ignat	O
+114	-	O
+115	Georgeta	O
+116	Andrunache	O
+117	-	O
+118	Viorica	O
+119	Susanu	O
+120	-	O
+121	Elena	O
+122	Georgescu	O
+123	(	O
+124	cox	O
+125	)	O
+126	3	O
+127	.	O
+128	**	O
+129	Bronze	O
+130	Medal	O
+131	**:	O
+132	Australia	B-Bronze
+133	-	O
+134	Sarah	O
+135	Cook	O
+136	-	O
+137	Kate	O
+138	Hornsey	O
+139	-	O
+140	Marina	O
+141	Mills	O
+142	-	O
+143	Sally	O
+144	Newmarch	O
+145	-	O
+146	Harriet	O
+147	Garriock	O
+148	-	O
+149	Emily	O
+150	Martin	O
+151	-	O
+152	Sarah	O
+153	Heard	O
+154	-	O
+155	Kate	O
+156	Slatter	O
+157	-	O
+158	Elizabeth	O
+159	Patrick	O
+160	(	O
+161	cox	O
+162	)	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Men's Field Hockey event at the 2004 olympic games?The Men's Field Hockey event at the 2004 Olympic Games in Athens, Greece, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Team members: Sander van der Heijden, Jeroen Delmee, Geert-Jan Derikx, Martijn Haye, Teun de Nooijer, Wouter van Pelt, Karel Klaver, Rob Reckers, Diederik van der Linden, Floris Jan Bovelander, Piet-Hein Geeris, Jan de Wijs, Matthijs Brouwer, Roderick Weusthof, Sander Leth, and Guus Vogels
+2. **Silver Medal**: Australia
+   - Team members: Michael McCann, Liam de Young, Jamie Dwyer, Mark Knowles, Brent Livermore, Luke Doerner, Michael McKay, Troy Elder, Bevan George, Grant Schubert, Dean Butler, Nathan Burgers, Travis Brooks, Matthew Wells, Stephen Mowlam, and Jason Duff
+3. **Bronze Medal**: South Korea
+   - Team members: Kim Young-kwan, Kim Jung-chul, Song Seung-tae, Kim Kyung-jung, Kim Yong-bae, Kim Chul, Jeon Jong-ha, Jeon Hong-kwan, You Hyo-sik, Han Hyung-woo, Kim Sun-bae, Kim Seong-ryong, Kim Yong-dae, Kim Jung-ho, Shin Seok-kyo, and Hong Eun-teak
+# status = {"0":"accepted"}
+# time (ms) = 8994
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Athens	O
+33	,	O
+34	Greece	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Netherlands	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Netherlands	B-Gold
+54	-	O
+55	Team	O
+56	members	O
+57	:	O
+58	Sander	O
+59	van	O
+60	der	O
+61	Heijden	O
+62	,	O
+63	Jeroen	O
+64	Delmee	O
+65	,	O
+66	Geert-Jan	O
+67	Derikx	O
+68	,	O
+69	Martijn	O
+70	Haye	O
+71	,	O
+72	Teun	O
+73	de	O
+74	Nooijer	O
+75	,	O
+76	Wouter	O
+77	van	O
+78	Pelt	O
+79	,	O
+80	Karel	O
+81	Klaver	O
+82	,	O
+83	Rob	O
+84	Reckers	O
+85	,	O
+86	Diederik	O
+87	van	O
+88	der	O
+89	Linden	O
+90	,	O
+91	Floris	O
+92	Jan	O
+93	Bovelander	O
+94	,	O
+95	Piet-Hein	O
+96	Geeris	O
+97	,	O
+98	Jan	O
+99	de	O
+100	Wijs	O
+101	,	O
+102	Matthijs	O
+103	Brouwer	O
+104	,	O
+105	Roderick	O
+106	Weusthof	O
+107	,	O
+108	Sander	O
+109	Leth	O
+110	,	O
+111	and	O
+112	Guus	O
+113	Vogels	O
+114	2	O
+115	.	O
+116	**	O
+117	Silver	O
+118	Medal	O
+119	**:	O
+120	Australia	B-Silver
+121	-	O
+122	Team	O
+123	members	O
+124	:	O
+125	Michael	O
+126	McCann	O
+127	,	O
+128	Liam	O
+129	de	O
+130	Young	O
+131	,	O
+132	Jamie	O
+133	Dwyer	O
+134	,	O
+135	Mark	O
+136	Knowles	O
+137	,	O
+138	Brent	O
+139	Livermore	O
+140	,	O
+141	Luke	O
+142	Doerner	O
+143	,	O
+144	Michael	O
+145	McKay	O
+146	,	O
+147	Troy	O
+148	Elder	O
+149	,	O
+150	Bevan	O
+151	George	O
+152	,	O
+153	Grant	O
+154	Schubert	O
+155	,	O
+156	Dean	O
+157	Butler	O
+158	,	O
+159	Nathan	O
+160	Burgers	O
+161	,	O
+162	Travis	O
+163	Brooks	O
+164	,	O
+165	Matthew	O
+166	Wells	O
+167	,	O
+168	Stephen	O
+169	Mowlam	O
+170	,	O
+171	and	O
+172	Jason	O
+173	Duff	O
+174	3	O
+175	.	O
+176	**	O
+177	Bronze	O
+178	Medal	O
+179	**:	O
+180	South	B-Bronze
+181	Korea	I-Bronze
+182	-	O
+183	Team	O
+184	members	O
+185	:	O
+186	Kim	O
+187	Young-kwan	O
+188	,	O
+189	Kim	O
+190	Jung-chul	O
+191	,	O
+192	Song	O
+193	Seung-tae	O
+194	,	O
+195	Kim	O
+196	Kyung-jung	O
+197	,	O
+198	Kim	O
+199	Yong-bae	O
+200	,	O
+201	Kim	O
+202	Chul	O
+203	,	O
+204	Jeon	O
+205	Jong-ha	O
+206	,	O
+207	Jeon	O
+208	Hong-kwan	O
+209	,	O
+210	You	O
+211	Hyo-sik	O
+212	,	O
+213	Han	O
+214	Hyung-woo	O
+215	,	O
+216	Kim	O
+217	Sun-bae	O
+218	,	O
+219	Kim	O
+220	Seong-ryong	O
+221	,	O
+222	Kim	O
+223	Yong-dae	O
+224	,	O
+225	Kim	O
+226	Jung-ho	O
+227	,	O
+228	Shin	O
+229	Seok-kyo	O
+230	,	O
+231	and	O
+232	Hong	O
+233	Eun-teak	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Women's Field Hockey event at the 2004 olympic games?The Women's Field Hockey event at the 2004 Olympic Games in Athens, Greece, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Squad: Mijntje Donners, Fatima Moreira de Melo, Macha van der Vaart, Ageeth Boomgaarden, Minke Booij, Janneke Schopman, Miek van Geenhuizen, Clarinda Sinnige, Lieve van Kessel, Maartje Goderie, Ellen Hoog, Minke Smabers, Janneke Schopman, Lisanne de Roever, Maartje Paumen, Chantal de Bruijn, and Coreen Weusthof
+2. **Silver Medal**: Germany
+   - Squad: Tina Bachmann, Nadine Ernsting-Krienke, Franziska Gude, Natascha Keller, Anke Wild, Silke Müller, Caroline Casaretto, Fanny Rinne, Janne Müller-Wieland, Eileen Hoffmann, Sonja Lehmann, Kristina Reynolds, Mandy Haase, Nina Hasselmann, Julia Zwehl, and Christina Schütze
+3. **Bronze Medal**: Argentina
+   - Squad: Luciana Aymar, Magali Grespan, Mercedes Margalot, Inés Arrondo, María de la Paz Hernández, María de la Paz Bilardo, María José Sobral, María Noel Barrionuevo, Soledad García, Mariana González Oliva, María Laura del Colle, María de la Paz Siri, Claudia Burkart, María de la Paz Villela, and Vanina Oneto
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Athens	O
+33	,	O
+34	Greece	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Netherlands	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Netherlands	B-Gold
+54	-	O
+55	Squad	O
+56	:	O
+57	Mijntje	O
+58	Donners	O
+59	,	O
+60	Fatima	O
+61	Moreira	O
+62	de	O
+63	Melo	O
+64	,	O
+65	Macha	O
+66	van	O
+67	der	O
+68	Vaart	O
+69	,	O
+70	Ageeth	O
+71	Boomgaarden	O
+72	,	O
+73	Minke	O
+74	Booij	O
+75	,	O
+76	Janneke	O
+77	Schopman	O
+78	,	O
+79	Miek	O
+80	van	O
+81	Geenhuizen	O
+82	,	O
+83	Clarinda	O
+84	Sinnige	O
+85	,	O
+86	Lieve	O
+87	van	O
+88	Kessel	O
+89	,	O
+90	Maartje	O
+91	Goderie	O
+92	,	O
+93	Ellen	O
+94	Hoog	O
+95	,	O
+96	Minke	O
+97	Smabers	O
+98	,	O
+99	Janneke	O
+100	Schopman	O
+101	,	O
+102	Lisanne	O
+103	de	O
+104	Roever	O
+105	,	O
+106	Maartje	O
+107	Paumen	O
+108	,	O
+109	Chantal	O
+110	de	O
+111	Bruijn	O
+112	,	O
+113	and	O
+114	Coreen	O
+115	Weusthof	O
+116	2	O
+117	.	O
+118	**	O
+119	Silver	O
+120	Medal	O
+121	**:	O
+122	Germany	B-Silver
+123	-	O
+124	Squad	O
+125	:	O
+126	Tina	O
+127	Bachmann	O
+128	,	O
+129	Nadine	O
+130	Ernsting-Krienke	O
+131	,	O
+132	Franziska	O
+133	Gude	O
+134	,	O
+135	Natascha	O
+136	Keller	O
+137	,	O
+138	Anke	O
+139	Wild	O
+140	,	O
+141	Silke	O
+142	Müller	O
+143	,	O
+144	Caroline	O
+145	Casaretto	O
+146	,	O
+147	Fanny	O
+148	Rinne	O
+149	,	O
+150	Janne	O
+151	Müller-Wieland	O
+152	,	O
+153	Eileen	O
+154	Hoffmann	O
+155	,	O
+156	Sonja	O
+157	Lehmann	O
+158	,	O
+159	Kristina	O
+160	Reynolds	O
+161	,	O
+162	Mandy	O
+163	Haase	O
+164	,	O
+165	Nina	O
+166	Hasselmann	O
+167	,	O
+168	Julia	O
+169	Zwehl	O
+170	,	O
+171	and	O
+172	Christina	O
+173	Schütze	O
+174	3	O
+175	.	O
+176	**	O
+177	Bronze	O
+178	Medal	O
+179	**:	O
+180	Argentina	B-Bronze
+181	-	O
+182	Squad	O
+183	:	O
+184	Luciana	O
+185	Aymar	O
+186	,	O
+187	Magali	O
+188	Grespan	O
+189	,	O
+190	Mercedes	O
+191	Margalot	O
+192	,	O
+193	Inés	O
+194	Arrondo	O
+195	,	O
+196	María	O
+197	de	O
+198	la	O
+199	Paz	O
+200	Hernández	O
+201	,	O
+202	María	O
+203	de	O
+204	la	O
+205	Paz	O
+206	Bilardo	O
+207	,	O
+208	María	O
+209	José	O
+210	Sobral	O
+211	,	O
+212	María	O
+213	Noel	O
+214	Barrionuevo	O
+215	,	O
+216	Soledad	O
+217	García	O
+218	,	O
+219	Mariana	O
+220	González	O
+221	Oliva	O
+222	,	O
+223	María	O
+224	Laura	O
+225	del	O
+226	Colle	O
+227	,	O
+228	María	O
+229	de	O
+230	la	O
+231	Paz	O
+232	Siri	O
+233	,	O
+234	Claudia	O
+235	Burkart	O
+236	,	O
+237	María	O
+238	de	O
+239	la	O
+240	Paz	O
+241	Villela	O
+242	,	O
+243	and	O
+244	Vanina	O
+245	Oneto	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Men's Football event at the 2004 olympic games?The Men's Football event at the 2004 Summer Olympics was won by Argentina. Here are the medalists:
+1. **Gold Medal**: Argentina
+   - Players: Pablo Zabaleta, Fernando Gago, Ezequiel Garay, Lionel Messi, Juan Riquelme, Carlos Tevez, Javier Mascherano, Luciano Fabián Fernández, Clemente Rodríguez, Javier Saviola, Lisandro López, Pablo Aimar, Nicolás Burdisso, Javier Pinola, Roberto Ayala, Juan Pablo Carrizo, Mariano González, Germán Lux, Nicolás Medina, César Delgado, Leandro Fernández, Rodrigo Braun, and Fabricio Coloccini.
+2. **Silver Medal**: Paraguay
+   - Players: Diego Barreto, Pedro Benítez, Julio César Enciso, Carlos Gamarra, Julio Manzur, Edgar Barreto, Julio González, Pablo Giménez, Nelson Valdez, Osvaldo Martínez, Diego Bareiro, Nelson Cuevas, José Luis Costas, Miguel Almirón, Edgar Benítez, Julio Dos Santos, Miguel Paniagua, Pablo Zeballos, José Luis Chilavert, Carlos Bonet, and Diego Figueredo.
+3. **Bronze Medal**: Italy
+   - Players: Marco Amelia, Andrea Barzagli, Andrea Barzagli, Alberto Gilardino, Alberto Aquilani, Simone Barone, Marco Borriello, Alberto Gilardino, Simone Perrotta, Andrea Pirlo, Simone Perrotta, Marco Rossi, Simone Barone, Marco Borriello, Alberto Gilardino, Simone Perrotta, Andrea Pirlo, Marco Rossi, Simone Barone, Marco Borriello, Alberto Gilardino, Simone Perrotta, Andrea Pirlo, Marco Rossi, and Simone Barone.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	Argentina	O
+33	.	O
+34	Here	O
+35	are	O
+36	the	O
+37	medalists	O
+38	:	O
+39	1	O
+40	.	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Argentina	B-Gold
+46	-	O
+47	Players	O
+48	:	O
+49	Pablo	O
+50	Zabaleta	O
+51	,	O
+52	Fernando	O
+53	Gago	O
+54	,	O
+55	Ezequiel	O
+56	Garay	O
+57	,	O
+58	Lionel	O
+59	Messi	O
+60	,	O
+61	Juan	O
+62	Riquelme	O
+63	,	O
+64	Carlos	O
+65	Tevez	O
+66	,	O
+67	Javier	O
+68	Mascherano	O
+69	,	O
+70	Luciano	O
+71	Fabián	O
+72	Fernández	O
+73	,	O
+74	Clemente	O
+75	Rodríguez	O
+76	,	O
+77	Javier	O
+78	Saviola	O
+79	,	O
+80	Lisandro	O
+81	López	O
+82	,	O
+83	Pablo	O
+84	Aimar	O
+85	,	O
+86	Nicolás	O
+87	Burdisso	O
+88	,	O
+89	Javier	O
+90	Pinola	O
+91	,	O
+92	Roberto	O
+93	Ayala	O
+94	,	O
+95	Juan	O
+96	Pablo	O
+97	Carrizo	O
+98	,	O
+99	Mariano	O
+100	González	O
+101	,	O
+102	Germán	O
+103	Lux	O
+104	,	O
+105	Nicolás	O
+106	Medina	O
+107	,	O
+108	César	O
+109	Delgado	O
+110	,	O
+111	Leandro	O
+112	Fernández	O
+113	,	O
+114	Rodrigo	O
+115	Braun	O
+116	,	O
+117	and	O
+118	Fabricio	O
+119	Coloccini	O
+120	.	O
+121	2	O
+122	.	O
+123	**	O
+124	Silver	O
+125	Medal	O
+126	**:	O
+127	Paraguay	B-Silver
+128	-	O
+129	Players	O
+130	:	O
+131	Diego	O
+132	Barreto	O
+133	,	O
+134	Pedro	O
+135	Benítez	O
+136	,	O
+137	Julio	O
+138	César	O
+139	Enciso	O
+140	,	O
+141	Carlos	O
+142	Gamarra	O
+143	,	O
+144	Julio	O
+145	Manzur	O
+146	,	O
+147	Edgar	O
+148	Barreto	O
+149	,	O
+150	Julio	O
+151	González	O
+152	,	O
+153	Pablo	O
+154	Giménez	O
+155	,	O
+156	Nelson	O
+157	Valdez	O
+158	,	O
+159	Osvaldo	O
+160	Martínez	O
+161	,	O
+162	Diego	O
+163	Bareiro	O
+164	,	O
+165	Nelson	O
+166	Cuevas	O
+167	,	O
+168	José	O
+169	Luis	O
+170	Costas	O
+171	,	O
+172	Miguel	O
+173	Almirón	O
+174	,	O
+175	Edgar	O
+176	Benítez	O
+177	,	O
+178	Julio	O
+179	Dos	O
+180	Santos	O
+181	,	O
+182	Miguel	O
+183	Paniagua	O
+184	,	O
+185	Pablo	O
+186	Zeballos	O
+187	,	O
+188	José	O
+189	Luis	O
+190	Chilavert	O
+191	,	O
+192	Carlos	O
+193	Bonet	O
+194	,	O
+195	and	O
+196	Diego	O
+197	Figueredo	O
+198	.	O
+199	3	O
+200	.	O
+201	**	O
+202	Bronze	O
+203	Medal	O
+204	**:	O
+205	Italy	B-Bronze
+206	-	O
+207	Players	O
+208	:	O
+209	Marco	O
+210	Amelia	O
+211	,	O
+212	Andrea	O
+213	Barzagli	O
+214	,	O
+215	Andrea	O
+216	Barzagli	O
+217	,	O
+218	Alberto	O
+219	Gilardino	O
+220	,	O
+221	Alberto	O
+222	Aquilani	O
+223	,	O
+224	Simone	O
+225	Barone	O
+226	,	O
+227	Marco	O
+228	Borriello	O
+229	,	O
+230	Alberto	O
+231	Gilardino	O
+232	,	O
+233	Simone	O
+234	Perrotta	O
+235	,	O
+236	Andrea	O
+237	Pirlo	O
+238	,	O
+239	Simone	O
+240	Perrotta	O
+241	,	O
+242	Marco	O
+243	Rossi	O
+244	,	O
+245	Simone	O
+246	Barone	O
+247	,	O
+248	Marco	O
+249	Borriello	O
+250	,	O
+251	Alberto	O
+252	Gilardino	O
+253	,	O
+254	Simone	O
+255	Perrotta	O
+256	,	O
+257	Andrea	O
+258	Pirlo	O
+259	,	O
+260	Marco	O
+261	Rossi	O
+262	,	O
+263	Simone	O
+264	Barone	O
+265	,	O
+266	Marco	O
+267	Borriello	O
+268	,	O
+269	Alberto	O
+270	Gilardino	O
+271	,	O
+272	Simone	O
+273	Perrotta	O
+274	,	O
+275	Andrea	O
+276	Pirlo	O
+277	,	O
+278	Marco	O
+279	Rossi	O
+280	,	O
+281	and	O
+282	Simone	O
+283	Barone	O
+284	.	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Women's Football event at the 2004 olympic games?The Women's Football event at the 2004 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Briana Scurry, Kate Markgraf, Christie Rampone, Joy Fawcett, Heather Mitts, Aly Wagner, Shannon Boxx, Lindsay Tarpley, Angela Hucles, Kristine Lilly, Abby Wambach, Cat Whitehill, Alyssa Naeher, Stephanie Lopez, Angela Hucles, Heather O'Reilly, Megan Rapinoe, and Tiffany Roberts
+2. **Silver Medal**: Brazil
+   - Players: Andreia, Simone, Juliana, Renata Costa, Rosana, Maycon, Formiga, Akemi, Pretinha, Marta, Daniela, Erika, Cristiane, Grazielle, Francielle, Rosana, Fabiana, and Ellen
+3. **Bronze Medal**: Germany
+   - Players: Silke Rottenberg, Kerstin Stegemann, Ariane Hingst, Sarah Günther, Viola Odebrecht, Renate Lingor, Sandra Minnert, Birgit Prinz, Conny Pohlers, Renate Lingor, Simone Laudehr, Ursula Holl, Anja Mittag, Melanie Behringer, Sandra Smisek, and Nadine Angerer
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Olympic	O
+28	Games	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	United	O
+34	States	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Briana	O
+53	Scurry	O
+54	,	O
+55	Kate	O
+56	Markgraf	O
+57	,	O
+58	Christie	O
+59	Rampone	O
+60	,	O
+61	Joy	O
+62	Fawcett	O
+63	,	O
+64	Heather	O
+65	Mitts	O
+66	,	O
+67	Aly	O
+68	Wagner	O
+69	,	O
+70	Shannon	O
+71	Boxx	O
+72	,	O
+73	Lindsay	O
+74	Tarpley	O
+75	,	O
+76	Angela	O
+77	Hucles	O
+78	,	O
+79	Kristine	O
+80	Lilly	O
+81	,	O
+82	Abby	O
+83	Wambach	O
+84	,	O
+85	Cat	O
+86	Whitehill	O
+87	,	O
+88	Alyssa	O
+89	Naeher	O
+90	,	O
+91	Stephanie	O
+92	Lopez	O
+93	,	O
+94	Angela	O
+95	Hucles	O
+96	,	O
+97	Heather	O
+98	O	O
+99	'	O
+100	Reilly	O
+101	,	O
+102	Megan	O
+103	Rapinoe	O
+104	,	O
+105	and	O
+106	Tiffany	O
+107	Roberts	O
+108	2	O
+109	.	O
+110	**	O
+111	Silver	O
+112	Medal	O
+113	**:	O
+114	Brazil	B-Silver
+115	-	O
+116	Players	O
+117	:	O
+118	Andreia	O
+119	,	O
+120	Simone	O
+121	,	O
+122	Juliana	O
+123	,	O
+124	Renata	O
+125	Costa	O
+126	,	O
+127	Rosana	O
+128	,	O
+129	Maycon	O
+130	,	O
+131	Formiga	O
+132	,	O
+133	Akemi	O
+134	,	O
+135	Pretinha	O
+136	,	O
+137	Marta	O
+138	,	O
+139	Daniela	O
+140	,	O
+141	Erika	O
+142	,	O
+143	Cristiane	O
+144	,	O
+145	Grazielle	O
+146	,	O
+147	Francielle	O
+148	,	O
+149	Rosana	O
+150	,	O
+151	Fabiana	O
+152	,	O
+153	and	O
+154	Ellen	O
+155	3	O
+156	.	O
+157	**	O
+158	Bronze	O
+159	Medal	O
+160	**:	O
+161	Germany	B-Bronze
+162	-	O
+163	Players	O
+164	:	O
+165	Silke	O
+166	Rottenberg	O
+167	,	O
+168	Kerstin	O
+169	Stegemann	O
+170	,	O
+171	Ariane	O
+172	Hingst	O
+173	,	O
+174	Sarah	O
+175	Günther	O
+176	,	O
+177	Viola	O
+178	Odebrecht	O
+179	,	O
+180	Renate	O
+181	Lingor	O
+182	,	O
+183	Sandra	O
+184	Minnert	O
+185	,	O
+186	Birgit	O
+187	Prinz	O
+188	,	O
+189	Conny	O
+190	Pohlers	O
+191	,	O
+192	Renate	O
+193	Lingor	O
+194	,	O
+195	Simone	O
+196	Laudehr	O
+197	,	O
+198	Ursula	O
+199	Holl	O
+200	,	O
+201	Anja	O
+202	Mittag	O
+203	,	O
+204	Melanie	O
+205	Behringer	O
+206	,	O
+207	Sandra	O
+208	Smisek	O
+209	,	O
+210	and	O
+211	Nadine	O
+212	Angerer	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Men's Handball event at the 2004 olympic games?The Men's Handball event at the 2004 Summer Olympics was won by the team from Croatia. Here are the medalists:
+1. **Gold Medal**: Croatia
+   - Players: Ivano Balić, Vladimir Golubar, Nikša Kaleb, Blaženko Lacković, Ivica Balić, Vedran Zrnić, Denis Špoljarić, Mirza Džomba, Blaženko Lubešič, Slavko Goluža, Igor Vori, Jakov Gojun, Frano Lasić, Petar Metličić, Vladimir Šujster, Tonči Valčić, and Vladimir Kanjer
+2. **Silver Medal**: Germany
+   - Players: Henning Fritz, Stefan Kretzschmar, Christian Zeitz, Christian Sprenger, Florian Kehrmann, Christian Schwarzer, Klaus-Dieter Petersen, Jan-Olaf Immel, Daniel Stephan, Christian Zeitz, Frank von Behren, Mark Dragunski, Torsten Laubner, Daniel Kubisch, Christian Schöne, Sebastian Preiß, and Christian Ramota
+3. **Bronze Medal**: Russia
+   - Players: Dmitri Torgovanov, Sergei Pogorelov, Dmitri Kamanin, Dmitri Filippov, Alexei Kostygov, Dmitri Diskul, Igor Lavrov, Vasily Koudinov, Alexei Rakhmanov, Sergei Psurnov, Alexei Chichikala, Alexei Kostygov, Alexei Kamanin, Sergei Shishkarev, and Alexei Rastvortsev
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	team	O
+34	from	O
+35	Croatia	O
+36	.	O
+37	Here	O
+38	are	O
+39	the	O
+40	medalists	O
+41	:	O
+42	1	O
+43	.	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Croatia	B-Gold
+49	-	O
+50	Players	O
+51	:	O
+52	Ivano	O
+53	Balić	O
+54	,	O
+55	Vladimir	O
+56	Golubar	O
+57	,	O
+58	Nikša	O
+59	Kaleb	O
+60	,	O
+61	Blaženko	O
+62	Lacković	O
+63	,	O
+64	Ivica	O
+65	Balić	O
+66	,	O
+67	Vedran	O
+68	Zrnić	O
+69	,	O
+70	Denis	O
+71	Špoljarić	O
+72	,	O
+73	Mirza	O
+74	Džomba	O
+75	,	O
+76	Blaženko	O
+77	Lubešič	O
+78	,	O
+79	Slavko	O
+80	Goluža	O
+81	,	O
+82	Igor	O
+83	Vori	O
+84	,	O
+85	Jakov	O
+86	Gojun	O
+87	,	O
+88	Frano	O
+89	Lasić	O
+90	,	O
+91	Petar	O
+92	Metličić	O
+93	,	O
+94	Vladimir	O
+95	Šujster	O
+96	,	O
+97	Tonči	O
+98	Valčić	O
+99	,	O
+100	and	O
+101	Vladimir	O
+102	Kanjer	O
+103	2	O
+104	.	O
+105	**	O
+106	Silver	O
+107	Medal	O
+108	**:	O
+109	Germany	B-Silver
+110	-	O
+111	Players	O
+112	:	O
+113	Henning	O
+114	Fritz	O
+115	,	O
+116	Stefan	O
+117	Kretzschmar	O
+118	,	O
+119	Christian	O
+120	Zeitz	O
+121	,	O
+122	Christian	O
+123	Sprenger	O
+124	,	O
+125	Florian	O
+126	Kehrmann	O
+127	,	O
+128	Christian	O
+129	Schwarzer	O
+130	,	O
+131	Klaus-Dieter	O
+132	Petersen	O
+133	,	O
+134	Jan-Olaf	O
+135	Immel	O
+136	,	O
+137	Daniel	O
+138	Stephan	O
+139	,	O
+140	Christian	O
+141	Zeitz	O
+142	,	O
+143	Frank	O
+144	von	O
+145	Behren	O
+146	,	O
+147	Mark	O
+148	Dragunski	O
+149	,	O
+150	Torsten	O
+151	Laubner	O
+152	,	O
+153	Daniel	O
+154	Kubisch	O
+155	,	O
+156	Christian	O
+157	Schöne	O
+158	,	O
+159	Sebastian	O
+160	Preiß	O
+161	,	O
+162	and	O
+163	Christian	O
+164	Ramota	O
+165	3	O
+166	.	O
+167	**	O
+168	Bronze	O
+169	Medal	O
+170	**:	O
+171	Russia	B-Bronze
+172	-	O
+173	Players	O
+174	:	O
+175	Dmitri	O
+176	Torgovanov	O
+177	,	O
+178	Sergei	O
+179	Pogorelov	O
+180	,	O
+181	Dmitri	O
+182	Kamanin	O
+183	,	O
+184	Dmitri	O
+185	Filippov	O
+186	,	O
+187	Alexei	O
+188	Kostygov	O
+189	,	O
+190	Dmitri	O
+191	Diskul	O
+192	,	O
+193	Igor	O
+194	Lavrov	O
+195	,	O
+196	Vasily	O
+197	Koudinov	O
+198	,	O
+199	Alexei	O
+200	Rakhmanov	O
+201	,	O
+202	Sergei	O
+203	Psurnov	O
+204	,	O
+205	Alexei	O
+206	Chichikala	O
+207	,	O
+208	Alexei	O
+209	Kostygov	O
+210	,	O
+211	Alexei	O
+212	Kamanin	O
+213	,	O
+214	Sergei	O
+215	Shishkarev	O
+216	,	O
+217	and	O
+218	Alexei	O
+219	Rastvortsev	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Women's Handball event at the 2004 olympic games?The Women's Handball event at the 2004 Summer Olympics was won by the Russian team. Here are the medalists:
+1. **Gold Medal**: Russia
+   - Players: Yekaterina Andryushina, Yekaterina Daibutė, Yekaterina Marennikova, Yekaterina Petukhova, Yekaterina Shtil, Yekaterina Shishkina, Yekaterina Dinikina, Yekaterina Levina, Yekaterina Bulykina, Yekaterina Dogadkina, Yekaterina Ivina, Yekaterina Luchko, Yekaterina Samokhina, Yekaterina Tikhonova, Yekaterina Zazhogina
+2. **Silver Medal**: Hungary
+   - Players: Anikó Kántor, Beáta Siti, Beatrix Balogh, Dóra Lőwy, Éva Erdős, Éva Szucsánszki, Ildikó Pádár, Ildikó Kácsor, Krisztina Pigniczki, Krisztina Triscsuk, Mónika Szikora, Rita Deli, Szilvia Lőwy, Tímea Sugár, Zsuzsanna Tomori
+3. **Bronze Medal**: South Korea
+   - Players: An Jung-hwa, Cha Jae-kyung, Choi Im-jeong, Choi Jeong-sim, Hong Jeong-ho, Kim Cha-youn, Kim Nam-sun, Kim O-na, Kim Yeong-ran, Lee Mi-kyung, Lee Sang-eun, Moon Kyeong-ha, Oh Seong-ok, Park Jeong-hee, Yang Soo-ji
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2004	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2004	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	Russian	O
+34	team	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Russia	B-Gold
+48	-	O
+49	Players	O
+50	:	O
+51	Yekaterina	O
+52	Andryushina	O
+53	,	O
+54	Yekaterina	O
+55	Daibutė	O
+56	,	O
+57	Yekaterina	O
+58	Marennikova	O
+59	,	O
+60	Yekaterina	O
+61	Petukhova	O
+62	,	O
+63	Yekaterina	O
+64	Shtil	O
+65	,	O
+66	Yekaterina	O
+67	Shishkina	O
+68	,	O
+69	Yekaterina	O
+70	Dinikina	O
+71	,	O
+72	Yekaterina	O
+73	Levina	O
+74	,	O
+75	Yekaterina	O
+76	Bulykina	O
+77	,	O
+78	Yekaterina	O
+79	Dogadkina	O
+80	,	O
+81	Yekaterina	O
+82	Ivina	O
+83	,	O
+84	Yekaterina	O
+85	Luchko	O
+86	,	O
+87	Yekaterina	O
+88	Samokhina	O
+89	,	O
+90	Yekaterina	O
+91	Tikhonova	O
+92	,	O
+93	Yekaterina	O
+94	Zazhogina	O
+95	2	O
+96	.	O
+97	**	O
+98	Silver	O
+99	Medal	O
+100	**:	O
+101	Hungary	B-Silver
+102	-	O
+103	Players	O
+104	:	O
+105	Anikó	O
+106	Kántor	O
+107	,	O
+108	Beáta	O
+109	Siti	O
+110	,	O
+111	Beatrix	O
+112	Balogh	O
+113	,	O
+114	Dóra	O
+115	Lőwy	O
+116	,	O
+117	Éva	O
+118	Erdős	O
+119	,	O
+120	Éva	O
+121	Szucsánszki	O
+122	,	O
+123	Ildikó	O
+124	Pádár	O
+125	,	O
+126	Ildikó	O
+127	Kácsor	O
+128	,	O
+129	Krisztina	O
+130	Pigniczki	O
+131	,	O
+132	Krisztina	O
+133	Triscsuk	O
+134	,	O
+135	Mónika	O
+136	Szikora	O
+137	,	O
+138	Rita	O
+139	Deli	O
+140	,	O
+141	Szilvia	O
+142	Lőwy	O
+143	,	O
+144	Tímea	O
+145	Sugár	O
+146	,	O
+147	Zsuzsanna	O
+148	Tomori	O
+149	3	O
+150	.	O
+151	**	O
+152	Bronze	O
+153	Medal	O
+154	**:	O
+155	South	B-Bronze
+156	Korea	I-Bronze
+157	-	O
+158	Players	O
+159	:	O
+160	An	O
+161	Jung-hwa	O
+162	,	O
+163	Cha	O
+164	Jae-kyung	O
+165	,	O
+166	Choi	O
+167	Im-jeong	O
+168	,	O
+169	Choi	O
+170	Jeong-sim	O
+171	,	O
+172	Hong	O
+173	Jeong-ho	O
+174	,	O
+175	Kim	O
+176	Cha-youn	O
+177	,	O
+178	Kim	O
+179	Nam-sun	O
+180	,	O
+181	Kim	O
+182	O-na	O
+183	,	O
+184	Kim	O
+185	Yeong-ran	O
+186	,	O
+187	Lee	O
+188	Mi-kyung	O
+189	,	O
+190	Lee	O
+191	Sang-eun	O
+192	,	O
+193	Moon	O
+194	Kyeong-ha	O
+195	,	O
+196	Oh	O
+197	Seong-ok	O
+198	,	O
+199	Park	O
+200	Jeong-hee	O
+201	,	O
+202	Yang	O
+203	Soo-ji	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2004 olympic games?The Men's Indoor Volleyball event at the 2004 Olympic Games was won by the team from Brazil. Here are the medalists:
+1. **Gold Medal**: Brazil
+   - Players: Anderson Rodrigues, André Nascimento, Gustavo Endres, Gustavo Mendonça, Dante Amaral, Samuel Fuchs, Ricardo Garcia, André Heller, Marcus Vinícius, Rodrigo Santana, and Sérgio Dutra Santos
+2. **Silver Medal**: Italy
+   - Players: Andrea Giani, Andrea Sartoretti, Andrea Zorzi, Damiano Pippi, Luigi Mastrangelo, Mirko Corsano, Pasquale Gravina, Simone Parodi, Samuele Papi, Alessandro Fei, and Christian Savani
+3. **Bronze Medal**: Russia
+   - Players: Aleksey Kazakov, Aleksey Kuleshov, Aleksey Verbov, Andrey Egorchev, Andrey Nosov, Andrey Zhekov, Igor Shulepov, Ivan Miljković, Maxim Mikhaylov, Roman Yanchuk, and Sergey Tetyukhin
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	team	O
+36	from	O
+37	Brazil	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Brazil	B-Gold
+51	-	O
+52	Players	O
+53	:	O
+54	Anderson	O
+55	Rodrigues	O
+56	,	O
+57	André	O
+58	Nascimento	O
+59	,	O
+60	Gustavo	O
+61	Endres	O
+62	,	O
+63	Gustavo	O
+64	Mendonça	O
+65	,	O
+66	Dante	O
+67	Amaral	O
+68	,	O
+69	Samuel	O
+70	Fuchs	O
+71	,	O
+72	Ricardo	O
+73	Garcia	O
+74	,	O
+75	André	O
+76	Heller	O
+77	,	O
+78	Marcus	O
+79	Vinícius	O
+80	,	O
+81	Rodrigo	O
+82	Santana	O
+83	,	O
+84	and	O
+85	Sérgio	O
+86	Dutra	O
+87	Santos	O
+88	2	O
+89	.	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	**:	O
+94	Italy	B-Silver
+95	-	O
+96	Players	O
+97	:	O
+98	Andrea	O
+99	Giani	O
+100	,	O
+101	Andrea	O
+102	Sartoretti	O
+103	,	O
+104	Andrea	O
+105	Zorzi	O
+106	,	O
+107	Damiano	O
+108	Pippi	O
+109	,	O
+110	Luigi	O
+111	Mastrangelo	O
+112	,	O
+113	Mirko	O
+114	Corsano	O
+115	,	O
+116	Pasquale	O
+117	Gravina	O
+118	,	O
+119	Simone	O
+120	Parodi	O
+121	,	O
+122	Samuele	O
+123	Papi	O
+124	,	O
+125	Alessandro	O
+126	Fei	O
+127	,	O
+128	and	O
+129	Christian	O
+130	Savani	O
+131	3	O
+132	.	O
+133	**	O
+134	Bronze	O
+135	Medal	O
+136	**:	O
+137	Russia	B-Bronze
+138	-	O
+139	Players	O
+140	:	O
+141	Aleksey	O
+142	Kazakov	O
+143	,	O
+144	Aleksey	O
+145	Kuleshov	O
+146	,	O
+147	Aleksey	O
+148	Verbov	O
+149	,	O
+150	Andrey	O
+151	Egorchev	O
+152	,	O
+153	Andrey	O
+154	Nosov	O
+155	,	O
+156	Andrey	O
+157	Zhekov	O
+158	,	O
+159	Igor	O
+160	Shulepov	O
+161	,	O
+162	Ivan	O
+163	Miljković	O
+164	,	O
+165	Maxim	O
+166	Mikhaylov	O
+167	,	O
+168	Roman	O
+169	Yanchuk	O
+170	,	O
+171	and	O
+172	Sergey	O
+173	Tetyukhin	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2004 olympic games?The Women's Indoor Volleyball event at the 2004 Olympic Games was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Players: Yang Hao, Zhang Na, Feng Kun, Zhao Ruirui, Wang Lina, Zhang Ping, Li Yan, Liu Yanan, Zhou Suhong, Wang Yimei, Zhang Yuehong, Wei Qiuyue
+2. **Silver Medal**: Russia
+   - Players: Elena Godina, Yelena Tyurina, Yekaterina Gamova, Yekaterina Gamova, Svetlana Krivobok, Yekaterina Birlova, Yekaterina Shklyaeva, Yelena Plotnikova, Yelena Vasilevskaya, Inna Ryskal, Natalya Safronova, Marina Sheshenina
+3. **Bronze Medal**: Cuba
+   - Players: Yumilka Ruíz, Nancy Carrillo, Yaima Ortiz, Regla Bella, Anniara Muñoz, Yisel Borjas, Lianma Flores, Nancy Metcalf, Rosir Calderón, Daimí Ramírez, Yudelmis Babier, Zoila Barros
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Chinese	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	China	B-Gold
+50	-	O
+51	Players	O
+52	:	O
+53	Yang	O
+54	Hao	O
+55	,	O
+56	Zhang	O
+57	Na	O
+58	,	O
+59	Feng	O
+60	Kun	O
+61	,	O
+62	Zhao	O
+63	Ruirui	O
+64	,	O
+65	Wang	O
+66	Lina	O
+67	,	O
+68	Zhang	O
+69	Ping	O
+70	,	O
+71	Li	O
+72	Yan	O
+73	,	O
+74	Liu	O
+75	Yanan	O
+76	,	O
+77	Zhou	O
+78	Suhong	O
+79	,	O
+80	Wang	O
+81	Yimei	O
+82	,	O
+83	Zhang	O
+84	Yuehong	O
+85	,	O
+86	Wei	O
+87	Qiuyue	O
+88	2	O
+89	.	O
+90	**	O
+91	Silver	O
+92	Medal	O
+93	**:	O
+94	Russia	B-Silver
+95	-	O
+96	Players	O
+97	:	O
+98	Elena	O
+99	Godina	O
+100	,	O
+101	Yelena	O
+102	Tyurina	O
+103	,	O
+104	Yekaterina	O
+105	Gamova	O
+106	,	O
+107	Yekaterina	O
+108	Gamova	O
+109	,	O
+110	Svetlana	O
+111	Krivobok	O
+112	,	O
+113	Yekaterina	O
+114	Birlova	O
+115	,	O
+116	Yekaterina	O
+117	Shklyaeva	O
+118	,	O
+119	Yelena	O
+120	Plotnikova	O
+121	,	O
+122	Yelena	O
+123	Vasilevskaya	O
+124	,	O
+125	Inna	O
+126	Ryskal	O
+127	,	O
+128	Natalya	O
+129	Safronova	O
+130	,	O
+131	Marina	O
+132	Sheshenina	O
+133	3	O
+134	.	O
+135	**	O
+136	Bronze	O
+137	Medal	O
+138	**:	O
+139	Cuba	B-Bronze
+140	-	O
+141	Players	O
+142	:	O
+143	Yumilka	O
+144	Ruíz	O
+145	,	O
+146	Nancy	O
+147	Carrillo	O
+148	,	O
+149	Yaima	O
+150	Ortiz	O
+151	,	O
+152	Regla	O
+153	Bella	O
+154	,	O
+155	Anniara	O
+156	Muñoz	O
+157	,	O
+158	Yisel	O
+159	Borjas	O
+160	,	O
+161	Lianma	O
+162	Flores	O
+163	,	O
+164	Nancy	O
+165	Metcalf	O
+166	,	O
+167	Rosir	O
+168	Calderón	O
+169	,	O
+170	Daimí	O
+171	Ramírez	O
+172	,	O
+173	Yudelmis	O
+174	Babier	O
+175	,	O
+176	Zoila	O
+177	Barros	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2004 olympic games?The Men's Rowing Quadruple Sculls event at the 2004 Olympic Games in Athens was won by the team from Italy. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Luca Agamennoni
+   - Rossano Galtarossa
+   - Simone Raineri
+   - Marco Ragni
+2. **Silver Medal**: Ukraine
+   - Serhiy Grin
+   - Ivan Tymko
+   - Serhiy Biloushchenko
+   - Oleksandr Zasypkin
+3. **Bronze Medal**: Poland
+   - Konrad Wasielewski
+   - Marek Kolbowicz
+   - Adam Korol
+   - Michał Jeliński
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2004	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2004	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Athens	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Italy	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Gold
+55	-	O
+56	Luca	O
+57	Agamennoni	O
+58	-	O
+59	Rossano	O
+60	Galtarossa	O
+61	-	O
+62	Simone	O
+63	Raineri	O
+64	-	O
+65	Marco	O
+66	Ragni	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Ukraine	B-Silver
+74	-	O
+75	Serhiy	O
+76	Grin	O
+77	-	O
+78	Ivan	O
+79	Tymko	O
+80	-	O
+81	Serhiy	O
+82	Biloushchenko	O
+83	-	O
+84	Oleksandr	O
+85	Zasypkin	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Poland	B-Bronze
+93	-	O
+94	Konrad	O
+95	Wasielewski	O
+96	-	O
+97	Marek	O
+98	Kolbowicz	O
+99	-	O
+100	Adam	O
+101	Korol	O
+102	-	O
+103	Michał	O
+104	Jeliński	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2004 olympic games?The Women's Rowing Quadruple Sculls event at the 2004 Olympic Games in Athens was won by the team from Germany. Here are the medalists:
+1. **Gold Medal:** Germany
+   - Kathrin Boron
+   - Meike Evers
+   - Manuela Lutze
+   - Daniels den Herder
+2. **Silver Medal:** Romania
+   - Constanța Burcică
+   - Angela Luminiș
+   - Ioana Papuc
+   - Livia Turcu
+3. **Bronze Medal:** China
+   - Jin Ziqi
+   - Sun Fuming
+   - Zhang Xiuyun
+   - Zhang Yangyang
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2004	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2004	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Athens	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Germany	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	Germany	B-Gold
+55	-	O
+56	Kathrin	O
+57	Boron	O
+58	-	O
+59	Meike	O
+60	Evers	O
+61	-	O
+62	Manuela	O
+63	Lutze	O
+64	-	O
+65	Daniels	O
+66	den	O
+67	Herder	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	:**	O
+74	Romania	B-Silver
+75	-	O
+76	Constanța	O
+77	Burcică	O
+78	-	O
+79	Angela	O
+80	Luminiș	O
+81	-	O
+82	Ioana	O
+83	Papuc	O
+84	-	O
+85	Livia	O
+86	Turcu	O
+87	3	O
+88	.	O
+89	**	O
+90	Bronze	O
+91	Medal	O
+92	:**	O
+93	China	B-Bronze
+94	-	O
+95	Jin	O
+96	Ziqi	O
+97	-	O
+98	Sun	O
+99	Fuming	O
+100	-	O
+101	Zhang	O
+102	Xiuyun	O
+103	-	O
+104	Zhang	O
+105	Yangyang	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Men's Archery Team event at the 2004 olympic games?The Men's Archery Team event at the 2004 Olympic Games in Athens, Greece, was won by the South Korean team. Here are the medalists:
+1. **Gold Medal**: South Korea (Kim Chung-tae, Park Kyung-mo, Jang Yong-ho)
+2. **Silver Medal**: Italy (Michele Frangilli, Ilario Di Buò, Marco Galiazzo)
+3. **Bronze Medal**: Ukraine (Dmytro Hrachov, Viktor Ruban, Oleh Serebrakian)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Athens	O
+33	,	O
+34	Greece	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	South	O
+41	Korean	O
+42	team	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	South	B-Gold
+56	Korea	I-Gold
+57	(	O
+58	Kim	O
+59	Chung-tae	O
+60	,	O
+61	Park	O
+62	Kyung-mo	O
+63	,	O
+64	Jang	O
+65	Yong-ho	O
+66	)	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Italy	B-Silver
+74	(	O
+75	Michele	O
+76	Frangilli	O
+77	,	O
+78	Ilario	O
+79	Di	O
+80	Buò	O
+81	,	O
+82	Marco	O
+83	Galiazzo	O
+84	)	O
+85	3	O
+86	.	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Ukraine	B-Bronze
+92	(	O
+93	Dmytro	O
+94	Hrachov	O
+95	,	O
+96	Viktor	O
+97	Ruban	O
+98	,	O
+99	Oleh	O
+100	Serebrakian	O
+101	)	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Women's Archery Team event at the 2004 olympic games?The Women's Archery Team event at the 2004 Olympic Games in Athens, Greece, was won by the team from South Korea. Here are the medalists:
+1. **Gold Medal**: South Korea (Lee Sung-Jin, Park Sung-Hyun, Yun Mi-Jin)
+2. **Silver Medal**: China (He Ying, Lin Sang, Zhang Juanjuan)
+3. **Bronze Medal**: Ukraine (Kateryna Palekha, Tetiana Dorokhova, Olena Sadovska)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Athens	O
+33	,	O
+34	Greece	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	team	O
+41	from	O
+42	South	O
+43	Korea	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	South	B-Gold
+57	Korea	I-Gold
+58	(	O
+59	Lee	O
+60	Sung-Jin	O
+61	,	O
+62	Park	O
+63	Sung-Hyun	O
+64	,	O
+65	Yun	O
+66	Mi-Jin	O
+67	)	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	China	B-Silver
+75	(	O
+76	He	O
+77	Ying	O
+78	,	O
+79	Lin	O
+80	Sang	O
+81	,	O
+82	Zhang	O
+83	Juanjuan	O
+84	)	O
+85	3	O
+86	.	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Ukraine	B-Bronze
+92	(	O
+93	Kateryna	O
+94	Palekha	O
+95	,	O
+96	Tetiana	O
+97	Dorokhova	O
+98	,	O
+99	Olena	O
+100	Sadovska	O
+101	)	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2004 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 2004 Olympic Games in Athens, Greece, was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Paul Hamm
+   - Blaine Wilson
+   - Morgan Hamm
+   - Guard Young
+   - Jason Gatson
+2. **Silver Medal**: Romania
+   - Marian Drăgulescu
+   - Dan Potra
+   - Răzvan Șelariu
+   - Ioanel Cîrîță
+   - Cosmin Pașca
+3. **Bronze Medal**: China
+   - Xiao Qin
+   - Feng Zhe
+   - Li Xiaopeng
+   - Yang Wei
+   - Chen Yibing
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2004	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2004	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Athens	O
+37	,	O
+38	Greece	O
+39	,	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Paul	O
+63	Hamm	O
+64	-	O
+65	Blaine	O
+66	Wilson	O
+67	-	O
+68	Morgan	O
+69	Hamm	O
+70	-	O
+71	Guard	O
+72	Young	O
+73	-	O
+74	Jason	O
+75	Gatson	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	Romania	B-Silver
+83	-	O
+84	Marian	O
+85	Drăgulescu	O
+86	-	O
+87	Dan	O
+88	Potra	O
+89	-	O
+90	Răzvan	O
+91	Șelariu	O
+92	-	O
+93	Ioanel	O
+94	Cîrîță	O
+95	-	O
+96	Cosmin	O
+97	Pașca	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	China	B-Bronze
+105	-	O
+106	Xiao	O
+107	Qin	O
+108	-	O
+109	Feng	O
+110	Zhe	O
+111	-	O
+112	Li	O
+113	Xiaopeng	O
+114	-	O
+115	Yang	O
+116	Wei	O
+117	-	O
+118	Chen	O
+119	Yibing	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2004 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 2004 Olympic Games in Athens, Greece, was won by the team from Romania. Here are the top three teams and their respective medalists:
+1. **Gold Medal - Romania**
+   - Andreea Răducan
+   - Cătălina Ponor
+   - Monica Roșu
+   - Daniela Sofronie
+   - Nicoleta Daniela Șofronie
+2. **Silver Medal - Russia**
+   - Svetlana Khorkina
+   - Elena Zamolodchikova
+   - Natalia Ziganshina
+   - Elena Produnova
+   - Anna Pavlova
+3. **Bronze Medal - China**
+   - Cheng Fei
+   - Zhang Nan
+   - Li Ya
+   - Fan Ye
+   - Zhang Nan (reserve)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2004	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2004	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Athens	O
+37	,	O
+38	Greece	O
+39	,	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	Romania	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	top	O
+52	three	O
+53	teams	O
+54	and	O
+55	their	O
+56	respective	O
+57	medalists	O
+58	:	O
+59	1	O
+60	.	O
+61	**	O
+62	Gold	O
+63	Medal	O
+64	-	O
+65	Romania	B-Gold
+66	**	O
+67	-	O
+68	Andreea	O
+69	Răducan	O
+70	-	O
+71	Cătălina	O
+72	Ponor	O
+73	-	O
+74	Monica	O
+75	Roșu	O
+76	-	O
+77	Daniela	O
+78	Sofronie	O
+79	-	O
+80	Nicoleta	O
+81	Daniela	O
+82	Șofronie	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	-	O
+89	Russia	B-Silver
+90	**	O
+91	-	O
+92	Svetlana	O
+93	Khorkina	O
+94	-	O
+95	Elena	O
+96	Zamolodchikova	O
+97	-	O
+98	Natalia	O
+99	Ziganshina	O
+100	-	O
+101	Elena	O
+102	Produnova	O
+103	-	O
+104	Anna	O
+105	Pavlova	O
+106	3	O
+107	.	O
+108	**	O
+109	Bronze	O
+110	Medal	O
+111	-	O
+112	China	B-Bronze
+113	**	O
+114	-	O
+115	Cheng	O
+116	Fei	O
+117	-	O
+118	Zhang	O
+119	Nan	O
+120	-	O
+121	Li	O
+122	Ya	O
+123	-	O
+124	Fan	O
+125	Ye	O
+126	-	O
+127	Zhang	O
+128	Nan	O
+129	(	O
+130	reserve	O
+131	)	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Men's Water Polo event at the 2004 olympic games?The Men's Water Polo event at the 2004 Olympic Games in Athens, Greece, was won by the Hungarian team. Here are the medalists:
+1. **Gold Medal**: Hungary
+   - Players: Tibor Benedek, Péter Biros, Tamás Kásás, Gergő Kiss, Norbert Madaras, Tamás Molnár, Gergely Kiss, Ádám Steinmetz, Barnabás Steinmetz, Zoltán Szécsi, Dénes Varga, Tamás Varga, Attila Vári
+2. **Silver Medal**: Serbia and Montenegro
+   - Players:Aleksandar Šapić, Dejan Udovičić, Gojko Pijetlović, Filip Filipović, Andrija Prlainović, Vladimir Gojković, Slobodan Soro, Duško Pijetlović, Nikola Janović, Živko Gocić, Slobodan Nikić, Petar Trbojević, Branko Peković
+3. **Bronze Medal**: Croatia
+   - Players: Frano Karač, Miho Bošković, Maro Joković, Miho Delonge, Nikša Dobud, Frano Karač, Samir Barač, Aljoša Kunac, Frano Karač, Miho Delonge, Nikša Dobud, Frano Karač, Samir Barač, Aljoša Kunac, Miho Delonge, Nikša Dobud
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	in	O
+32	Athens	O
+33	,	O
+34	Greece	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Hungarian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Hungary	B-Gold
+55	-	O
+56	Players	O
+57	:	O
+58	Tibor	O
+59	Benedek	O
+60	,	O
+61	Péter	O
+62	Biros	O
+63	,	O
+64	Tamás	O
+65	Kásás	O
+66	,	O
+67	Gergő	O
+68	Kiss	O
+69	,	O
+70	Norbert	O
+71	Madaras	O
+72	,	O
+73	Tamás	O
+74	Molnár	O
+75	,	O
+76	Gergely	O
+77	Kiss	O
+78	,	O
+79	Ádám	O
+80	Steinmetz	O
+81	,	O
+82	Barnabás	O
+83	Steinmetz	O
+84	,	O
+85	Zoltán	O
+86	Szécsi	O
+87	,	O
+88	Dénes	O
+89	Varga	O
+90	,	O
+91	Tamás	O
+92	Varga	O
+93	,	O
+94	Attila	O
+95	Vári	O
+96	2	O
+97	.	O
+98	**	O
+99	Silver	O
+100	Medal	O
+101	**:	O
+102	Serbia	B-Silver
+103	and	I-Silver
+104	Montenegro	I-Silver
+105	-	O
+106	Players	O
+107	:	O
+108	Aleksandar	O
+109	Šapić	O
+110	,	O
+111	Dejan	O
+112	Udovičić	O
+113	,	O
+114	Gojko	O
+115	Pijetlović	O
+116	,	O
+117	Filip	O
+118	Filipović	O
+119	,	O
+120	Andrija	O
+121	Prlainović	O
+122	,	O
+123	Vladimir	O
+124	Gojković	O
+125	,	O
+126	Slobodan	O
+127	Soro	O
+128	,	O
+129	Duško	O
+130	Pijetlović	O
+131	,	O
+132	Nikola	O
+133	Janović	O
+134	,	O
+135	Živko	O
+136	Gocić	O
+137	,	O
+138	Slobodan	O
+139	Nikić	O
+140	,	O
+141	Petar	O
+142	Trbojević	O
+143	,	O
+144	Branko	O
+145	Peković	O
+146	3	O
+147	.	O
+148	**	O
+149	Bronze	O
+150	Medal	O
+151	**:	O
+152	Croatia	B-Bronze
+153	-	O
+154	Players	O
+155	:	O
+156	Frano	O
+157	Karač	O
+158	,	O
+159	Miho	O
+160	Bošković	O
+161	,	O
+162	Maro	O
+163	Joković	O
+164	,	O
+165	Miho	O
+166	Delonge	O
+167	,	O
+168	Nikša	O
+169	Dobud	O
+170	,	O
+171	Frano	O
+172	Karač	O
+173	,	O
+174	Samir	O
+175	Barač	O
+176	,	O
+177	Aljoša	O
+178	Kunac	O
+179	,	O
+180	Frano	O
+181	Karač	O
+182	,	O
+183	Miho	O
+184	Delonge	O
+185	,	O
+186	Nikša	O
+187	Dobud	O
+188	,	O
+189	Frano	O
+190	Karač	O
+191	,	O
+192	Samir	O
+193	Barač	O
+194	,	O
+195	Aljoša	O
+196	Kunac	O
+197	,	O
+198	Miho	O
+199	Delonge	O
+200	,	O
+201	Nikša	O
+202	Dobud	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Women's Water Polo event at the 2004 olympic games?The Women's Water Polo event at the 2004 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Heather Petri
+   - Heather Moody
+   - Kelly Rulon
+   - Nicole Peterson
+   - Erika Figge
+   - Margaret Steffens
+   - Natalie Golda
+   - Brenda Villa
+   - Tumua Anae
+   - Barbara Turner
+   - Robin Beauregard
+   - Lauren Wenger
+2. **Silver Medal**: Italy
+   - Francesca Conti
+   - Maddalena Musumeci
+   - Cinzia Ragusa
+   - Giusy Malato
+   - Melania Grego
+   - Tania Di Mario
+   - Martina Miceli
+   - Maura Massaruto
+   - Carmela Allucci
+   - Lorena Di Serio
+   - Elena Gigli
+   - Silvia Bosurgi
+3. **Bronze Medal**: Greece
+   - Antigoni Roumpesi
+   - Angeliki Gerolymou
+   - Kyriaki Liosi
+   - Evangelia Moraitou
+   - Georgia Ellinaki
+   - Christina Tsoukala
+   - Stavroula Antonakou
+   - Alexandra Asimaki
+   - Antigoni Chronia
+   - Georgia Lara
+   - Evangelia Moraitou
+   - Christina Kotsia
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Water	O
+11	Polo	O
+12	event	O
+13	at	O
+14	the	O
+15	2004	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Water	O
+24	Polo	O
+25	event	O
+26	at	O
+27	the	O
+28	2004	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	United	O
+36	States	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	United	B-Gold
+50	States	I-Gold
+51	-	O
+52	Heather	O
+53	Petri	O
+54	-	O
+55	Heather	O
+56	Moody	O
+57	-	O
+58	Kelly	O
+59	Rulon	O
+60	-	O
+61	Nicole	O
+62	Peterson	O
+63	-	O
+64	Erika	O
+65	Figge	O
+66	-	O
+67	Margaret	O
+68	Steffens	O
+69	-	O
+70	Natalie	O
+71	Golda	O
+72	-	O
+73	Brenda	O
+74	Villa	O
+75	-	O
+76	Tumua	O
+77	Anae	O
+78	-	O
+79	Barbara	O
+80	Turner	O
+81	-	O
+82	Robin	O
+83	Beauregard	O
+84	-	O
+85	Lauren	O
+86	Wenger	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	Italy	B-Silver
+94	-	O
+95	Francesca	O
+96	Conti	O
+97	-	O
+98	Maddalena	O
+99	Musumeci	O
+100	-	O
+101	Cinzia	O
+102	Ragusa	O
+103	-	O
+104	Giusy	O
+105	Malato	O
+106	-	O
+107	Melania	O
+108	Grego	O
+109	-	O
+110	Tania	O
+111	Di	O
+112	Mario	O
+113	-	O
+114	Martina	O
+115	Miceli	O
+116	-	O
+117	Maura	O
+118	Massaruto	O
+119	-	O
+120	Carmela	O
+121	Allucci	O
+122	-	O
+123	Lorena	O
+124	Di	O
+125	Serio	O
+126	-	O
+127	Elena	O
+128	Gigli	O
+129	-	O
+130	Silvia	O
+131	Bosurgi	O
+132	3	O
+133	.	O
+134	**	O
+135	Bronze	O
+136	Medal	O
+137	**:	O
+138	Greece	B-Bronze
+139	-	O
+140	Antigoni	O
+141	Roumpesi	O
+142	-	O
+143	Angeliki	O
+144	Gerolymou	O
+145	-	O
+146	Kyriaki	O
+147	Liosi	O
+148	-	O
+149	Evangelia	O
+150	Moraitou	O
+151	-	O
+152	Georgia	O
+153	Ellinaki	O
+154	-	O
+155	Christina	O
+156	Tsoukala	O
+157	-	O
+158	Stavroula	O
+159	Antonakou	O
+160	-	O
+161	Alexandra	O
+162	Asimaki	O
+163	-	O
+164	Antigoni	O
+165	Chronia	O
+166	-	O
+167	Georgia	O
+168	Lara	O
+169	-	O
+170	Evangelia	O
+171	Moraitou	O
+172	-	O
+173	Christina	O
+174	Kotsia	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Men's Fencing Épée, Team event at the 2004 olympic games?The Men's Team Épée Fencing event at the 2004 Summer Olympics in Athens was won by the French team. Here are the medalists:
+1. **Gold Medal**: France
+   - Fabrice Jeannet
+   - Jérôme Jeannet
+   - Erwine Jeannet
+   - Hugues Obry
+2. **Silver Medal**: Germany
+   - Sven Schmid
+   - Daniel Strigel
+   - Jörg Fiedler
+   - Marcel Felder
+3. **Bronze Medal**: Poland
+   - Adam Wiercioch
+   - Robert Andrzejuk
+   - Tomasz Motyka
+   - Krzysztof Gierman
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2004	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Team	O
+26	Épée	O
+27	Fencing	O
+28	event	O
+29	at	O
+30	the	O
+31	2004	O
+32	Summer	O
+33	Olympics	O
+34	in	O
+35	Athens	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	French	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	France	B-Gold
+55	-	O
+56	Fabrice	O
+57	Jeannet	O
+58	-	O
+59	Jérôme	O
+60	Jeannet	O
+61	-	O
+62	Erwine	O
+63	Jeannet	O
+64	-	O
+65	Hugues	O
+66	Obry	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Germany	B-Silver
+74	-	O
+75	Sven	O
+76	Schmid	O
+77	-	O
+78	Daniel	O
+79	Strigel	O
+80	-	O
+81	Jörg	O
+82	Fiedler	O
+83	-	O
+84	Marcel	O
+85	Felder	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Poland	B-Bronze
+93	-	O
+94	Adam	O
+95	Wiercioch	O
+96	-	O
+97	Robert	O
+98	Andrzejuk	O
+99	-	O
+100	Tomasz	O
+101	Motyka	O
+102	-	O
+103	Krzysztof	O
+104	Gierman	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Women's Fencing Épée, Team event at the 2004 olympic games?The Women's Fencing Épée, Team event at the 2004 Olympic Games was won by the team from Russia. Here are the medalists:
+1. **Gold Medal**: Russia
+   - Tatyana Logunova
+   - Anna Sivkova
+   - Margarita Elizarova
+   - Ekaterina Yushchenko
+2. **Silver Medal**: China
+   - Li Na
+   - Liang Qin
+   - Zhou Shuang
+   - Zhao Yu
+3. **Bronze Medal**: Germany
+   - Imke Duplitzer
+   - Claudia Bokel
+   - Britta Heidemann
+   - Marijana Markovic
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Épée	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2004	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Fencing	O
+26	Épée	O
+27	,	O
+28	Team	O
+29	event	O
+30	at	O
+31	the	O
+32	2004	O
+33	Olympic	O
+34	Games	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Russia	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Russia	B-Gold
+55	-	O
+56	Tatyana	O
+57	Logunova	O
+58	-	O
+59	Anna	O
+60	Sivkova	O
+61	-	O
+62	Margarita	O
+63	Elizarova	O
+64	-	O
+65	Ekaterina	O
+66	Yushchenko	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	China	B-Silver
+74	-	O
+75	Li	O
+76	Na	O
+77	-	O
+78	Liang	O
+79	Qin	O
+80	-	O
+81	Zhou	O
+82	Shuang	O
+83	-	O
+84	Zhao	O
+85	Yu	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	Germany	B-Bronze
+93	-	O
+94	Imke	O
+95	Duplitzer	O
+96	-	O
+97	Claudia	O
+98	Bokel	O
+99	-	O
+100	Britta	O
+101	Heidemann	O
+102	-	O
+103	Marijana	O
+104	Markovic	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Men's Curling event at the 2006 olympic games?The Men's Curling event at the 2006 Winter Olympics, held in Turin, Italy, was won by the team from Canada. The Canadian team, skipped by Brad Gushue, defeated Finland in the final match with a score of 10-4. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Brad Gushue (Skip)
+   - Mark Nichols (Third)
+   - Russ Howard (Second)
+   - Wayne Middaugh (Lead)
+   - Mike Adam (Alternate)
+2. **Silver Medal**: Finland
+   - Markku Uusipaavalniemi (Skip)
+   - Wille Mäkelä (Third)
+   - Kalle Kiiskinen (Second)
+   - Teemu Salo (Lead)
+   - Jari Laukkanen (Alternate)
+3. **Bronze Medal**: United States
+   - Pete Fenson (Skip)
+   - Shawn Rojeski (Third)
+   - Joseph Polo (Second)
+   - John Shuster (Lead)
+   - Scott Baird (Alternate)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2006	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2006	O
+27	Winter	O
+28	Olympics	O
+29	,	O
+30	held	O
+31	in	O
+32	Turin	O
+33	,	O
+34	Italy	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	team	O
+41	from	O
+42	Canada	O
+43	.	O
+44	The	O
+45	Canadian	O
+46	team	O
+47	,	O
+48	skipped	O
+49	by	O
+50	Brad	O
+51	Gushue	O
+52	,	O
+53	defeated	O
+54	Finland	O
+55	in	O
+56	the	O
+57	final	O
+58	match	O
+59	with	O
+60	a	O
+61	score	O
+62	of	O
+63	10	O
+64	-	O
+65	4	O
+66	.	O
+67	Here	O
+68	are	O
+69	the	O
+70	medalists	O
+71	:	O
+72	1	O
+73	.	O
+74	**	O
+75	Gold	O
+76	Medal	O
+77	**:	O
+78	Canada	B-Gold
+79	-	O
+80	Brad	O
+81	Gushue	O
+82	(	O
+83	Skip	O
+84	)	O
+85	-	O
+86	Mark	O
+87	Nichols	O
+88	(	O
+89	Third	O
+90	)	O
+91	-	O
+92	Russ	O
+93	Howard	O
+94	(	O
+95	Second	O
+96	)	O
+97	-	O
+98	Wayne	O
+99	Middaugh	O
+100	(	O
+101	Lead	O
+102	)	O
+103	-	O
+104	Mike	O
+105	Adam	O
+106	(	O
+107	Alternate	O
+108	)	O
+109	2	O
+110	.	O
+111	**	O
+112	Silver	O
+113	Medal	O
+114	**:	O
+115	Finland	B-Silver
+116	-	O
+117	Markku	O
+118	Uusipaavalniemi	O
+119	(	O
+120	Skip	O
+121	)	O
+122	-	O
+123	Wille	O
+124	Mäkelä	O
+125	(	O
+126	Third	O
+127	)	O
+128	-	O
+129	Kalle	O
+130	Kiiskinen	O
+131	(	O
+132	Second	O
+133	)	O
+134	-	O
+135	Teemu	O
+136	Salo	O
+137	(	O
+138	Lead	O
+139	)	O
+140	-	O
+141	Jari	O
+142	Laukkanen	O
+143	(	O
+144	Alternate	O
+145	)	O
+146	3	O
+147	.	O
+148	**	O
+149	Bronze	O
+150	Medal	O
+151	**:	O
+152	United	B-Bronze
+153	States	I-Bronze
+154	-	O
+155	Pete	O
+156	Fenson	O
+157	(	O
+158	Skip	O
+159	)	O
+160	-	O
+161	Shawn	O
+162	Rojeski	O
+163	(	O
+164	Third	O
+165	)	O
+166	-	O
+167	Joseph	O
+168	Polo	O
+169	(	O
+170	Second	O
+171	)	O
+172	-	O
+173	John	O
+174	Shuster	O
+175	(	O
+176	Lead	O
+177	)	O
+178	-	O
+179	Scott	O
+180	Baird	O
+181	(	O
+182	Alternate	O
+183	)	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Women's Curling event at the 2006 olympic games?The Women's Curling event at the 2006 Winter Olympics, held in Turin, Italy, was won by the Canadian team. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Skip: Jennifer Jones
+   - Third: Cathy Overton-Clapham
+   - Second: Jill Officer
+   - Lead: Dawn Askin
+   - Alternate: Georgina Wheatcroft
+2. **Silver Medal**: Switzerland
+   - Skip: Luzia Ebnöther
+   - Third: Janet Hürlimann
+   - Second: Binia Beeli
+   - Lead: Manuela Kormann
+   - Alternate: Mirjam Ott
+3. **Bronze Medal**: Sweden
+   - Skip: Anette Norberg
+   - Third: Eva Lund
+   - Second: Cathrine Lindahl
+   - Lead: Anna Svärd
+   - Alternate: Ulrika Bergman
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Curling	O
+11	event	O
+12	at	O
+13	the	O
+14	2006	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Curling	O
+23	event	O
+24	at	O
+25	the	O
+26	2006	O
+27	Winter	O
+28	Olympics	O
+29	,	O
+30	held	O
+31	in	O
+32	Turin	O
+33	,	O
+34	Italy	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Canadian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Canada	B-Gold
+55	-	O
+56	Skip	O
+57	:	O
+58	Jennifer	O
+59	Jones	O
+60	-	O
+61	Third	O
+62	:	O
+63	Cathy	O
+64	Overton-Clapham	O
+65	-	O
+66	Second	O
+67	:	O
+68	Jill	O
+69	Officer	O
+70	-	O
+71	Lead	O
+72	:	O
+73	Dawn	O
+74	Askin	O
+75	-	O
+76	Alternate	O
+77	:	O
+78	Georgina	O
+79	Wheatcroft	O
+80	2	O
+81	.	O
+82	**	O
+83	Silver	O
+84	Medal	O
+85	**:	O
+86	Switzerland	B-Silver
+87	-	O
+88	Skip	O
+89	:	O
+90	Luzia	O
+91	Ebnöther	O
+92	-	O
+93	Third	O
+94	:	O
+95	Janet	O
+96	Hürlimann	O
+97	-	O
+98	Second	O
+99	:	O
+100	Binia	O
+101	Beeli	O
+102	-	O
+103	Lead	O
+104	:	O
+105	Manuela	O
+106	Kormann	O
+107	-	O
+108	Alternate	O
+109	:	O
+110	Mirjam	O
+111	Ott	O
+112	3	O
+113	.	O
+114	**	O
+115	Bronze	O
+116	Medal	O
+117	**:	O
+118	Sweden	B-Bronze
+119	-	O
+120	Skip	O
+121	:	O
+122	Anette	O
+123	Norberg	O
+124	-	O
+125	Third	O
+126	:	O
+127	Eva	O
+128	Lund	O
+129	-	O
+130	Second	O
+131	:	O
+132	Cathrine	O
+133	Lindahl	O
+134	-	O
+135	Lead	O
+136	:	O
+137	Anna	O
+138	Svärd	O
+139	-	O
+140	Alternate	O
+141	:	O
+142	Ulrika	O
+143	Bergman	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Men's Ice Hockey event at the 2006 olympic games?The Men's Ice Hockey event at the 2006 Winter Olympics in Turin, Italy, was won by Sweden. Here are the medalists:
+1. **Gold Medal**: Sweden
+   - Goaltenders: Henrik Lundqvist, Mikael Tellqvist
+   - Defensemen: Kenny Jönsson, Niklas Kronwall, Mattias Öhlund, Daniel Tjärnqvist, Ronnie Sundin, Thomas Rhodin
+   - Forwards: Peter Forsberg, Mats Sundin, Markus Näslund, Daniel Alfredsson, Henrik Zetterberg, Michael Nylander, Tomas Holmström, Samuel Påhlsson, Mattias Weinhandl, Jörgen Jönsson, Per-Johan Axelsson, Fredrik Modin, Jonas Höglund, Niklas Hagman, Magnus Johansson, Petter Näslund
+2. **Silver Medal**: Finland
+   - Goaltenders: Antero Niittymäki, Ari Sulander
+   - Defensemen: Lasse Kukkonen, Toni Lydman, Kimmo Timonen, Joni Pitkänen, Petteri Nummelin, Jukka Hartikainen
+   - Forwards: Saku Koivu, Teemu Selänne, Olli Jokinen, Ville Peltonen, Aki Berg, Jarkko Ruutu, Jere Lehtinen, Mikko Koivu, Antti Miettinen, Tuomo Ruutu, Vesa Toskala, Jussi Jokinen, Jere Karalahti, Antti Pihlström, Tuomas Pihlman, Jarkko Immonen
+3. **Bronze Medal**: Czech Republic
+   - Goaltenders: Tomáš Vokoun, Milan Hnilica
+   - Defensemen: Tomáš Kaberle, Marek Židlický, Jiří Šlégr, František Kučera, Martin Škoula, Radek Martínek
+   - Forwards: Jaromír Jágr, Martin Ručínský, Patrik Eliáš, Martin Straka, David Výborný, Aleš Hemský, Václav Prospal, Milan Hejduk, Petr Čajánek, Tomáš Plekanec, Martin Erat, Roman Hamrlík, Petr Průcha, Tomáš Rolinek, Tomáš Divíšek, Jaroslav Špaček
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2006	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2006	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Turin	O
+33	,	O
+34	Italy	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	Sweden	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Sweden	B-Gold
+53	-	O
+54	Goaltenders	O
+55	:	O
+56	Henrik	O
+57	Lundqvist	O
+58	,	O
+59	Mikael	O
+60	Tellqvist	O
+61	-	O
+62	Defensemen	O
+63	:	O
+64	Kenny	O
+65	Jönsson	O
+66	,	O
+67	Niklas	O
+68	Kronwall	O
+69	,	O
+70	Mattias	O
+71	Öhlund	O
+72	,	O
+73	Daniel	O
+74	Tjärnqvist	O
+75	,	O
+76	Ronnie	O
+77	Sundin	O
+78	,	O
+79	Thomas	O
+80	Rhodin	O
+81	-	O
+82	Forwards	O
+83	:	O
+84	Peter	O
+85	Forsberg	O
+86	,	O
+87	Mats	O
+88	Sundin	O
+89	,	O
+90	Markus	O
+91	Näslund	O
+92	,	O
+93	Daniel	O
+94	Alfredsson	O
+95	,	O
+96	Henrik	O
+97	Zetterberg	O
+98	,	O
+99	Michael	O
+100	Nylander	O
+101	,	O
+102	Tomas	O
+103	Holmström	O
+104	,	O
+105	Samuel	O
+106	Påhlsson	O
+107	,	O
+108	Mattias	O
+109	Weinhandl	O
+110	,	O
+111	Jörgen	O
+112	Jönsson	O
+113	,	O
+114	Per-Johan	O
+115	Axelsson	O
+116	,	O
+117	Fredrik	O
+118	Modin	O
+119	,	O
+120	Jonas	O
+121	Höglund	O
+122	,	O
+123	Niklas	O
+124	Hagman	O
+125	,	O
+126	Magnus	O
+127	Johansson	O
+128	,	O
+129	Petter	O
+130	Näslund	O
+131	2	O
+132	.	O
+133	**	O
+134	Silver	O
+135	Medal	O
+136	**:	O
+137	Finland	B-Silver
+138	-	O
+139	Goaltenders	O
+140	:	O
+141	Antero	O
+142	Niittymäki	O
+143	,	O
+144	Ari	O
+145	Sulander	O
+146	-	O
+147	Defensemen	O
+148	:	O
+149	Lasse	O
+150	Kukkonen	O
+151	,	O
+152	Toni	O
+153	Lydman	O
+154	,	O
+155	Kimmo	O
+156	Timonen	O
+157	,	O
+158	Joni	O
+159	Pitkänen	O
+160	,	O
+161	Petteri	O
+162	Nummelin	O
+163	,	O
+164	Jukka	O
+165	Hartikainen	O
+166	-	O
+167	Forwards	O
+168	:	O
+169	Saku	O
+170	Koivu	O
+171	,	O
+172	Teemu	O
+173	Selänne	O
+174	,	O
+175	Olli	O
+176	Jokinen	O
+177	,	O
+178	Ville	O
+179	Peltonen	O
+180	,	O
+181	Aki	O
+182	Berg	O
+183	,	O
+184	Jarkko	O
+185	Ruutu	O
+186	,	O
+187	Jere	O
+188	Lehtinen	O
+189	,	O
+190	Mikko	O
+191	Koivu	O
+192	,	O
+193	Antti	O
+194	Miettinen	O
+195	,	O
+196	Tuomo	O
+197	Ruutu	O
+198	,	O
+199	Vesa	O
+200	Toskala	O
+201	,	O
+202	Jussi	O
+203	Jokinen	O
+204	,	O
+205	Jere	O
+206	Karalahti	O
+207	,	O
+208	Antti	O
+209	Pihlström	O
+210	,	O
+211	Tuomas	O
+212	Pihlman	O
+213	,	O
+214	Jarkko	O
+215	Immonen	O
+216	3	O
+217	.	O
+218	**	O
+219	Bronze	O
+220	Medal	O
+221	**:	O
+222	Czech	B-Bronze
+223	Republic	I-Bronze
+224	-	O
+225	Goaltenders	O
+226	:	O
+227	Tomáš	O
+228	Vokoun	O
+229	,	O
+230	Milan	O
+231	Hnilica	O
+232	-	O
+233	Defensemen	O
+234	:	O
+235	Tomáš	O
+236	Kaberle	O
+237	,	O
+238	Marek	O
+239	Židlický	O
+240	,	O
+241	Jiří	O
+242	Šlégr	O
+243	,	O
+244	František	O
+245	Kučera	O
+246	,	O
+247	Martin	O
+248	Škoula	O
+249	,	O
+250	Radek	O
+251	Martínek	O
+252	-	O
+253	Forwards	O
+254	:	O
+255	Jaromír	O
+256	Jágr	O
+257	,	O
+258	Martin	O
+259	Ručínský	O
+260	,	O
+261	Patrik	O
+262	Eliáš	O
+263	,	O
+264	Martin	O
+265	Straka	O
+266	,	O
+267	David	O
+268	Výborný	O
+269	,	O
+270	Aleš	O
+271	Hemský	O
+272	,	O
+273	Václav	O
+274	Prospal	O
+275	,	O
+276	Milan	O
+277	Hejduk	O
+278	,	O
+279	Petr	O
+280	Čajánek	O
+281	,	O
+282	Tomáš	O
+283	Plekanec	O
+284	,	O
+285	Martin	O
+286	Erat	O
+287	,	O
+288	Roman	O
+289	Hamrlík	O
+290	,	O
+291	Petr	O
+292	Průcha	O
+293	,	O
+294	Tomáš	O
+295	Rolinek	O
+296	,	O
+297	Tomáš	O
+298	Divíšek	O
+299	,	O
+300	Jaroslav	O
+301	Špaček	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Women's Ice Hockey event at the 2006 olympic games?The Women's Ice Hockey event at the 2006 Winter Olympics in Turin, Italy, was won by Canada. Here are the medalists:
+1. **Gold Medal**: Canada
+   - Goaltenders: Kim St-Pierre, Charline Labonté
+   - Defenders: Becky Kellar, Colleen Sostorics, Carla MacLeod, Gillian Ferrari, Tessa Bonhomme, Shannon Szabados
+   - Forwards: Jayna Hefford, Jennifer Botterill, Hayley Wickenheiser, Caroline Ouellette, Cherie Piper, Vicky Sunohara, Danielle Goyette, Gina Kingsbury, Meghan Agosta, Gillian Apps, Jennifer Botterill, Katie Weatherston
+2. **Silver Medal**: Sweden
+   - Goaltenders: Kim Martin, Jenny Lindell
+   - Defenders: Gunilla Andersson, Frida Nevalainen, Emelie Berggren, Anna Carlsson, Therese Sjölander, Maria Rooth, Sara Lindbom
+   - Forwards: Danijela Rundqvist, Anna Vikman, Erika Holst, Maria Rooth, Frida Nevalainen, Emma Eliasson, Anna Carlsson, Pernilla Winberg, Jenny Lindell, Kim Martin, Therese Sjölander, Sara Lindbom
+3. **Bronze Medal**: United States
+   - Goaltenders: Chanda Gunn, Brianne McLaughlin
+   - Defenders: Angela Ruggiero, Lyndsay Wall, Molly Engstrom, Courtney Kennedy, Natalie Darwitz, Julie Chu, Lisa Chesson
+   - Forwards: Natalie Darwitz, Jenny Potter, Angela Ruggiero, Julie Chu, Sarah Parsons, Katie King, Krissy Wendell, Natalie Darwitz, Jenny Potter, Angela Ruggiero, Julie Chu, Sarah Parsons, Katie King, Krissy Wendell, Natalie Darwitz, Jenny Potter, Angela Ruggiero, Julie Chu, Sarah Parsons, Katie King, Krissy Wendell
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Ice	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2006	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Ice	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2006	O
+29	Winter	O
+30	Olympics	O
+31	in	O
+32	Turin	O
+33	,	O
+34	Italy	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	Canada	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Canada	B-Gold
+53	-	O
+54	Goaltenders	O
+55	:	O
+56	Kim	O
+57	St-Pierre	O
+58	,	O
+59	Charline	O
+60	Labonté	O
+61	-	O
+62	Defenders	O
+63	:	O
+64	Becky	O
+65	Kellar	O
+66	,	O
+67	Colleen	O
+68	Sostorics	O
+69	,	O
+70	Carla	O
+71	MacLeod	O
+72	,	O
+73	Gillian	O
+74	Ferrari	O
+75	,	O
+76	Tessa	O
+77	Bonhomme	O
+78	,	O
+79	Shannon	O
+80	Szabados	O
+81	-	O
+82	Forwards	O
+83	:	O
+84	Jayna	O
+85	Hefford	O
+86	,	O
+87	Jennifer	O
+88	Botterill	O
+89	,	O
+90	Hayley	O
+91	Wickenheiser	O
+92	,	O
+93	Caroline	O
+94	Ouellette	O
+95	,	O
+96	Cherie	O
+97	Piper	O
+98	,	O
+99	Vicky	O
+100	Sunohara	O
+101	,	O
+102	Danielle	O
+103	Goyette	O
+104	,	O
+105	Gina	O
+106	Kingsbury	O
+107	,	O
+108	Meghan	O
+109	Agosta	O
+110	,	O
+111	Gillian	O
+112	Apps	O
+113	,	O
+114	Jennifer	O
+115	Botterill	O
+116	,	O
+117	Katie	O
+118	Weatherston	O
+119	2	O
+120	.	O
+121	**	O
+122	Silver	O
+123	Medal	O
+124	**:	O
+125	Sweden	B-Silver
+126	-	O
+127	Goaltenders	O
+128	:	O
+129	Kim	O
+130	Martin	O
+131	,	O
+132	Jenny	O
+133	Lindell	O
+134	-	O
+135	Defenders	O
+136	:	O
+137	Gunilla	O
+138	Andersson	O
+139	,	O
+140	Frida	O
+141	Nevalainen	O
+142	,	O
+143	Emelie	O
+144	Berggren	O
+145	,	O
+146	Anna	O
+147	Carlsson	O
+148	,	O
+149	Therese	O
+150	Sjölander	O
+151	,	O
+152	Maria	O
+153	Rooth	O
+154	,	O
+155	Sara	O
+156	Lindbom	O
+157	-	O
+158	Forwards	O
+159	:	O
+160	Danijela	O
+161	Rundqvist	O
+162	,	O
+163	Anna	O
+164	Vikman	O
+165	,	O
+166	Erika	O
+167	Holst	O
+168	,	O
+169	Maria	O
+170	Rooth	O
+171	,	O
+172	Frida	O
+173	Nevalainen	O
+174	,	O
+175	Emma	O
+176	Eliasson	O
+177	,	O
+178	Anna	O
+179	Carlsson	O
+180	,	O
+181	Pernilla	O
+182	Winberg	O
+183	,	O
+184	Jenny	O
+185	Lindell	O
+186	,	O
+187	Kim	O
+188	Martin	O
+189	,	O
+190	Therese	O
+191	Sjölander	O
+192	,	O
+193	Sara	O
+194	Lindbom	O
+195	3	O
+196	.	O
+197	**	O
+198	Bronze	O
+199	Medal	O
+200	**:	O
+201	United	B-Bronze
+202	States	I-Bronze
+203	-	O
+204	Goaltenders	O
+205	:	O
+206	Chanda	O
+207	Gunn	O
+208	,	O
+209	Brianne	O
+210	McLaughlin	O
+211	-	O
+212	Defenders	O
+213	:	O
+214	Angela	O
+215	Ruggiero	O
+216	,	O
+217	Lyndsay	O
+218	Wall	O
+219	,	O
+220	Molly	O
+221	Engstrom	O
+222	,	O
+223	Courtney	O
+224	Kennedy	O
+225	,	O
+226	Natalie	O
+227	Darwitz	O
+228	,	O
+229	Julie	O
+230	Chu	O
+231	,	O
+232	Lisa	O
+233	Chesson	O
+234	-	O
+235	Forwards	O
+236	:	O
+237	Natalie	O
+238	Darwitz	O
+239	,	O
+240	Jenny	O
+241	Potter	O
+242	,	O
+243	Angela	O
+244	Ruggiero	O
+245	,	O
+246	Julie	O
+247	Chu	O
+248	,	O
+249	Sarah	O
+250	Parsons	O
+251	,	O
+252	Katie	O
+253	King	O
+254	,	O
+255	Krissy	O
+256	Wendell	O
+257	,	O
+258	Natalie	O
+259	Darwitz	O
+260	,	O
+261	Jenny	O
+262	Potter	O
+263	,	O
+264	Angela	O
+265	Ruggiero	O
+266	,	O
+267	Julie	O
+268	Chu	O
+269	,	O
+270	Sarah	O
+271	Parsons	O
+272	,	O
+273	Katie	O
+274	King	O
+275	,	O
+276	Krissy	O
+277	Wendell	O
+278	,	O
+279	Natalie	O
+280	Darwitz	O
+281	,	O
+282	Jenny	O
+283	Potter	O
+284	,	O
+285	Angela	O
+286	Ruggiero	O
+287	,	O
+288	Julie	O
+289	Chu	O
+290	,	O
+291	Sarah	O
+292	Parsons	O
+293	,	O
+294	Katie	O
+295	King	O
+296	,	O
+297	Krissy	O
+298	Wendell	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Freestyle Relay event at the 2008 olympic games?The Men's 4 x 100 metres Freestyle Relay event at the 2008 Olympic Games in Beijing was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Garrett Weber-Gale
+   - Cullen Jones
+   - Jason Lezak
+2. **Silver Medal**: France
+   - Alain Bernard
+   - Frederick Bousquet
+   - Grégory Mallet
+   - Amaury Leveaux
+3. **Bronze Medal**: Australia
+   - Eamon Sullivan
+   - Ashley Callus
+   - Andrew Lauterstein
+   - Michael Klim
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Michael	O
+64	Phelps	O
+65	-	O
+66	Garrett	O
+67	Weber-Gale	O
+68	-	O
+69	Cullen	O
+70	Jones	O
+71	-	O
+72	Jason	O
+73	Lezak	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	France	B-Silver
+81	-	O
+82	Alain	O
+83	Bernard	O
+84	-	O
+85	Frederick	O
+86	Bousquet	O
+87	-	O
+88	Grégory	O
+89	Mallet	O
+90	-	O
+91	Amaury	O
+92	Leveaux	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Australia	B-Bronze
+100	-	O
+101	Eamon	O
+102	Sullivan	O
+103	-	O
+104	Ashley	O
+105	Callus	O
+106	-	O
+107	Andrew	O
+108	Lauterstein	O
+109	-	O
+110	Michael	O
+111	Klim	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Freestyle Relay event at the 2008 olympic games?The Women's 4 x 100 metres Freestyle Relay event at the 2008 Olympic Games in Beijing was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Inge Dekker
+   - Hinkelien Schreuder
+   - Marleen Veldhuis
+   - Ranomi Kromowidjojo
+2. **Silver Medal**: Australia
+   - Cate Campbell
+   - Melanie Schlanger
+   - Libby Lenton
+   - Alice Mills
+3. **Bronze Medal**: China
+   - Yang Yu
+   - Zhu Yingwen
+   - Tang Yi
+   - Li Zhesi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	Netherlands	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Netherlands	B-Gold
+60	-	O
+61	Inge	O
+62	Dekker	O
+63	-	O
+64	Hinkelien	O
+65	Schreuder	O
+66	-	O
+67	Marleen	O
+68	Veldhuis	O
+69	-	O
+70	Ranomi	O
+71	Kromowidjojo	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Australia	B-Silver
+79	-	O
+80	Cate	O
+81	Campbell	O
+82	-	O
+83	Melanie	O
+84	Schlanger	O
+85	-	O
+86	Libby	O
+87	Lenton	O
+88	-	O
+89	Alice	O
+90	Mills	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	China	B-Bronze
+98	-	O
+99	Yang	O
+100	Yu	O
+101	-	O
+102	Zhu	O
+103	Yingwen	O
+104	-	O
+105	Tang	O
+106	Yi	O
+107	-	O
+108	Li	O
+109	Zhesi	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Men's Swimming 4 x 100 metres Medley Relay event at the 2008 olympic games?The Men's 4 x 100 metres Medley Relay event at the 2008 Olympic Games in Beijing was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps (Backstroke)
+   - Aaron Peirsol (Breaststroke)
+   - Ryan Lochte (Butterfly)
+   - Jason Lezak (Freestyle)
+2. **Silver Medal**: Australia
+   - Ashley Delaney (Backstroke)
+   - Brenton Rickard (Breaststroke)
+   - Andrew Lauterstein (Butterfly)
+   - Eamon Sullivan (Freestyle)
+3. **Bronze Medal**: Japan
+   - Junya Koga (Backstroke)
+   - Kosuke Kitajima (Breaststroke)
+   - Takashi Yamamoto (Butterfly)
+   - Yoshihiro Okumura (Freestyle)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Michael	O
+64	Phelps	O
+65	(	O
+66	Backstroke	O
+67	)	O
+68	-	O
+69	Aaron	O
+70	Peirsol	O
+71	(	O
+72	Breaststroke	O
+73	)	O
+74	-	O
+75	Ryan	O
+76	Lochte	O
+77	(	O
+78	Butterfly	O
+79	)	O
+80	-	O
+81	Jason	O
+82	Lezak	O
+83	(	O
+84	Freestyle	O
+85	)	O
+86	2	O
+87	.	O
+88	**	O
+89	Silver	O
+90	Medal	O
+91	**:	O
+92	Australia	B-Silver
+93	-	O
+94	Ashley	O
+95	Delaney	O
+96	(	O
+97	Backstroke	O
+98	)	O
+99	-	O
+100	Brenton	O
+101	Rickard	O
+102	(	O
+103	Breaststroke	O
+104	)	O
+105	-	O
+106	Andrew	O
+107	Lauterstein	O
+108	(	O
+109	Butterfly	O
+110	)	O
+111	-	O
+112	Eamon	O
+113	Sullivan	O
+114	(	O
+115	Freestyle	O
+116	)	O
+117	3	O
+118	.	O
+119	**	O
+120	Bronze	O
+121	Medal	O
+122	**:	O
+123	Japan	B-Bronze
+124	-	O
+125	Junya	O
+126	Koga	O
+127	(	O
+128	Backstroke	O
+129	)	O
+130	-	O
+131	Kosuke	O
+132	Kitajima	O
+133	(	O
+134	Breaststroke	O
+135	)	O
+136	-	O
+137	Takashi	O
+138	Yamamoto	O
+139	(	O
+140	Butterfly	O
+141	)	O
+142	-	O
+143	Yoshihiro	O
+144	Okumura	O
+145	(	O
+146	Freestyle	O
+147	)	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Women's Swimming 4 x 100 metres Medley Relay event at the 2008 olympic games?The Women's 4 x 100 metres Medley Relay event at the 2008 Olympic Games in Beijing was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Margaret Hoelzer (Backstroke)
+   - Rebecca Soni (Breaststroke)
+   - Dara Torres (Freestyle)
+   - Natalie Coughlin (Butterfly)
+2. **Silver Medal**: Australia
+   - Emily Seebohm (Backstroke)
+   - Leisel Jones (Breaststroke)
+   - Cate Campbell (Freestyle)
+   - Jessicah Schipper (Butterfly)
+3. **Bronze Medal**: China
+   - Zhou Yafei (Backstroke)
+   - Lu Li (Breaststroke)
+   - Pang Jiaying (Freestyle)
+   - Jiao Liuyang (Butterfly)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Medley	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	100	O
+31	metres	O
+32	Medley	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	team	O
+49	.	O
+50	Here	O
+51	are	O
+52	the	O
+53	medalists	O
+54	:	O
+55	1	O
+56	.	O
+57	**	O
+58	Gold	O
+59	Medal	O
+60	**:	O
+61	United	B-Gold
+62	States	I-Gold
+63	-	O
+64	Margaret	O
+65	Hoelzer	O
+66	(	O
+67	Backstroke	O
+68	)	O
+69	-	O
+70	Rebecca	O
+71	Soni	O
+72	(	O
+73	Breaststroke	O
+74	)	O
+75	-	O
+76	Dara	O
+77	Torres	O
+78	(	O
+79	Freestyle	O
+80	)	O
+81	-	O
+82	Natalie	O
+83	Coughlin	O
+84	(	O
+85	Butterfly	O
+86	)	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	Australia	B-Silver
+94	-	O
+95	Emily	O
+96	Seebohm	O
+97	(	O
+98	Backstroke	O
+99	)	O
+100	-	O
+101	Leisel	O
+102	Jones	O
+103	(	O
+104	Breaststroke	O
+105	)	O
+106	-	O
+107	Cate	O
+108	Campbell	O
+109	(	O
+110	Freestyle	O
+111	)	O
+112	-	O
+113	Jessicah	O
+114	Schipper	O
+115	(	O
+116	Butterfly	O
+117	)	O
+118	3	O
+119	.	O
+120	**	O
+121	Bronze	O
+122	Medal	O
+123	**:	O
+124	China	B-Bronze
+125	-	O
+126	Zhou	O
+127	Yafei	O
+128	(	O
+129	Backstroke	O
+130	)	O
+131	-	O
+132	Lu	O
+133	Li	O
+134	(	O
+135	Breaststroke	O
+136	)	O
+137	-	O
+138	Pang	O
+139	Jiaying	O
+140	(	O
+141	Freestyle	O
+142	)	O
+143	-	O
+144	Jiao	O
+145	Liuyang	O
+146	(	O
+147	Butterfly	O
+148	)	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Men's Athletics 4 x 100 metres Relay event at the 2008 olympic games?The Men's 4 x 100 metres Relay event at the 2008 Olympic Games in Beijing was won by the United States team. Here are the medalists:
+1. **Gold Medal:** United States
+   - Team members: Darvis Patton, Travis Padgett, Wallace Spearmon, and Leroy Dixon
+2. **Silver Medal:** Trinidad and Tobago
+   - Team members: Keston Bledman, Marc Burns, Emmanuel Callender, and Richard Thompson
+3. **Bronze Medal:** Japan
+   - Team members: Shinji Takahira, Shinji Aoto, Naoki Tsukahara, and Noriaki Maeda
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2008	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2008	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Beijing	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	:**	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Team	O
+63	members	O
+64	:	O
+65	Darvis	O
+66	Patton	O
+67	,	O
+68	Travis	O
+69	Padgett	O
+70	,	O
+71	Wallace	O
+72	Spearmon	O
+73	,	O
+74	and	O
+75	Leroy	O
+76	Dixon	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	:**	O
+83	Trinidad	B-Silver
+84	and	I-Silver
+85	Tobago	I-Silver
+86	-	O
+87	Team	O
+88	members	O
+89	:	O
+90	Keston	O
+91	Bledman	O
+92	,	O
+93	Marc	O
+94	Burns	O
+95	,	O
+96	Emmanuel	O
+97	Callender	O
+98	,	O
+99	and	O
+100	Richard	O
+101	Thompson	O
+102	3	O
+103	.	O
+104	**	O
+105	Bronze	O
+106	Medal	O
+107	:**	O
+108	Japan	B-Bronze
+109	-	O
+110	Team	O
+111	members	O
+112	:	O
+113	Shinji	O
+114	Takahira	O
+115	,	O
+116	Shinji	O
+117	Aoto	O
+118	,	O
+119	Naoki	O
+120	Tsukahara	O
+121	,	O
+122	and	O
+123	Noriaki	O
+124	Maeda	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Women's Athletics 4 x 100 metres Relay event at the 2008 olympic games?The Women's 4 x 100 metres Relay event at the 2008 Olympic Games in Beijing was won by the team from Belarus. Here are the medalists:
+1. **Gold Medal**: Belarus
+   - Yulia Nestsiarenka
+   - Alena Neumiarzhitskaya
+   - Olga Federova
+   - Alexandra Kornienko
+2. **Silver Medal**: Belgium
+   - Olivia Borlée
+   - Hanna Mariën
+   - Elodie Ouedraogo
+   - Kim Gevaert
+3. **Bronze Medal**: Russia
+   - Yulia Gushchina
+   - Evgeniya Polyakova
+   - Aleksandra Fedoriva
+   - Yekaterina Grun
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	100	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2008	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Women	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	100	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2008	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Beijing	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	team	O
+45	from	O
+46	Belarus	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	Belarus	B-Gold
+60	-	O
+61	Yulia	O
+62	Nestsiarenka	O
+63	-	O
+64	Alena	O
+65	Neumiarzhitskaya	O
+66	-	O
+67	Olga	O
+68	Federova	O
+69	-	O
+70	Alexandra	O
+71	Kornienko	O
+72	2	O
+73	.	O
+74	**	O
+75	Silver	O
+76	Medal	O
+77	**:	O
+78	Belgium	B-Silver
+79	-	O
+80	Olivia	O
+81	Borlée	O
+82	-	O
+83	Hanna	O
+84	Mariën	O
+85	-	O
+86	Elodie	O
+87	Ouedraogo	O
+88	-	O
+89	Kim	O
+90	Gevaert	O
+91	3	O
+92	.	O
+93	**	O
+94	Bronze	O
+95	Medal	O
+96	**:	O
+97	Russia	B-Bronze
+98	-	O
+99	Yulia	O
+100	Gushchina	O
+101	-	O
+102	Evgeniya	O
+103	Polyakova	O
+104	-	O
+105	Aleksandra	O
+106	Fedoriva	O
+107	-	O
+108	Yekaterina	O
+109	Grun	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Men's Swimming 4 x 200 metres Freestyle Relay event at the 2008 olympic games?The Men's 4 x 200 metres Freestyle Relay event at the 2008 Olympic Games in Beijing was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Michael Phelps
+   - Ryan Lochte
+   - Ricky Berens
+   - Peter Vanderkaay
+2. **Silver Medal**: Australia
+   - Grant Hackett
+   - Nick Ffrost
+   - Thomas Fraser-Holmes
+   - Patrick Murphy
+3. **Bronze Medal**: Russia
+   - Danila Izotov
+   - Evgeny Lagoza
+   - Nikita Lobintsev
+   - Alexander Sukhorukov
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Men	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Michael	O
+64	Phelps	O
+65	-	O
+66	Ryan	O
+67	Lochte	O
+68	-	O
+69	Ricky	O
+70	Berens	O
+71	-	O
+72	Peter	O
+73	Vanderkaay	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Australia	B-Silver
+81	-	O
+82	Grant	O
+83	Hackett	O
+84	-	O
+85	Nick	O
+86	Ffrost	O
+87	-	O
+88	Thomas	O
+89	Fraser-Holmes	O
+90	-	O
+91	Patrick	O
+92	Murphy	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Russia	B-Bronze
+100	-	O
+101	Danila	O
+102	Izotov	O
+103	-	O
+104	Evgeny	O
+105	Lagoza	O
+106	-	O
+107	Nikita	O
+108	Lobintsev	O
+109	-	O
+110	Alexander	O
+111	Sukhorukov	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Women's Swimming 4 x 200 metres Freestyle Relay event at the 2008 olympic games?The Women's 4 x 200 metres Freestyle Relay event at the 2008 Olympic Games in Beijing was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Natalie Coughlin
+   - Dana Vollmer
+   - Allison Schmitt
+   - Katie Hoff
+2. **Silver Medal**: China
+   - Yang Yu
+   - Zhu Qianwei
+   - Liu Jing
+   - Pang Jiaying
+3. **Bronze Medal**: Australia
+   - Stephanie Rice
+   - Bronte Barratt
+   - Kylie Palmer
+   - Linda Mackenzie
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Swimming	O
+11	4	O
+12	x	O
+13	200	O
+14	metres	O
+15	Freestyle	O
+16	Relay	O
+17	event	O
+18	at	O
+19	the	O
+20	2008	O
+21	olympic	O
+22	games	O
+23	?	O
+24	The	O
+25	Women	O
+26	'	O
+27	s	O
+28	4	O
+29	x	O
+30	200	O
+31	metres	O
+32	Freestyle	O
+33	Relay	O
+34	event	O
+35	at	O
+36	the	O
+37	2008	O
+38	Olympic	O
+39	Games	O
+40	in	O
+41	Beijing	O
+42	was	O
+43	won	O
+44	by	O
+45	the	O
+46	United	O
+47	States	O
+48	.	O
+49	Here	O
+50	are	O
+51	the	O
+52	medalists	O
+53	:	O
+54	1	O
+55	.	O
+56	**	O
+57	Gold	O
+58	Medal	O
+59	**:	O
+60	United	B-Gold
+61	States	I-Gold
+62	-	O
+63	Natalie	O
+64	Coughlin	O
+65	-	O
+66	Dana	O
+67	Vollmer	O
+68	-	O
+69	Allison	O
+70	Schmitt	O
+71	-	O
+72	Katie	O
+73	Hoff	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	China	B-Silver
+81	-	O
+82	Yang	O
+83	Yu	O
+84	-	O
+85	Zhu	O
+86	Qianwei	O
+87	-	O
+88	Liu	O
+89	Jing	O
+90	-	O
+91	Pang	O
+92	Jiaying	O
+93	3	O
+94	.	O
+95	**	O
+96	Bronze	O
+97	Medal	O
+98	**:	O
+99	Australia	B-Bronze
+100	-	O
+101	Stephanie	O
+102	Rice	O
+103	-	O
+104	Bronte	O
+105	Barratt	O
+106	-	O
+107	Kylie	O
+108	Palmer	O
+109	-	O
+110	Linda	O
+111	Mackenzie	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Men's Athletics 4 x 400 metres Relay event at the 2008 olympic games?The Men's 4 x 400 metres Relay event at the 2008 Olympic Games in Beijing was won by the United States team. Here are the medalists:
+1. **Gold Medal:** United States
+   - Team members: LaShawn Merritt, Angelo Taylor, David Neville, Jeremy Wariner
+2. **Silver Medal:** Trinidad and Tobago
+   - Team members: Renny Quow, Jonathan Borlée, Lalonde Gordon, Alvin Harrison
+3. **Bronze Medal:** Great Britain
+   - Team members: Andrew Steele, Robert Tobin, Michael Bingham, Martyn Rooney
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2008	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	Men	O
+25	'	O
+26	s	O
+27	4	O
+28	x	O
+29	400	O
+30	metres	O
+31	Relay	O
+32	event	O
+33	at	O
+34	the	O
+35	2008	O
+36	Olympic	O
+37	Games	O
+38	in	O
+39	Beijing	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	:**	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Team	O
+63	members	O
+64	:	O
+65	LaShawn	O
+66	Merritt	O
+67	,	O
+68	Angelo	O
+69	Taylor	O
+70	,	O
+71	David	O
+72	Neville	O
+73	,	O
+74	Jeremy	O
+75	Wariner	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	:**	O
+82	Trinidad	B-Silver
+83	and	I-Silver
+84	Tobago	I-Silver
+85	-	O
+86	Team	O
+87	members	O
+88	:	O
+89	Renny	O
+90	Quow	O
+91	,	O
+92	Jonathan	O
+93	Borlée	O
+94	,	O
+95	Lalonde	O
+96	Gordon	O
+97	,	O
+98	Alvin	O
+99	Harrison	O
+100	3	O
+101	.	O
+102	**	O
+103	Bronze	O
+104	Medal	O
+105	:**	O
+106	Great	B-Bronze
+107	Britain	I-Bronze
+108	-	O
+109	Team	O
+110	members	O
+111	:	O
+112	Andrew	O
+113	Steele	O
+114	,	O
+115	Robert	O
+116	Tobin	O
+117	,	O
+118	Michael	O
+119	Bingham	O
+120	,	O
+121	Martyn	O
+122	Rooney	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Women's Athletics 4 x 400 metres Relay event at the 2008 olympic games?The gold medal in the Women's 4 x 400 metres Relay event at the 2008 Olympic Games in Beijing was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Allyson Felix
+   - Monica Hargrove
+   - Sanya Richards
+   - Crystal Cox
+2. **Silver Medal**: Jamaica
+   - Novlene Williams-Mills
+   - Shericka Williams
+   - Shereefa Lloyd
+   - Rosemarie Whyte
+3. **Bronze Medal**: Russia
+   - Tatyana Firova
+   - Antonina Krivoshapka
+   - Yuliya Gushchina
+   - Anastasiya Kapachinskaya
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Athletics	O
+11	4	O
+12	x	O
+13	400	O
+14	metres	O
+15	Relay	O
+16	event	O
+17	at	O
+18	the	O
+19	2008	O
+20	olympic	O
+21	games	O
+22	?	O
+23	The	O
+24	gold	O
+25	medal	O
+26	in	O
+27	the	O
+28	Women	O
+29	'	O
+30	s	O
+31	4	O
+32	x	O
+33	400	O
+34	metres	O
+35	Relay	O
+36	event	O
+37	at	O
+38	the	O
+39	2008	O
+40	Olympic	O
+41	Games	O
+42	in	O
+43	Beijing	O
+44	was	O
+45	won	O
+46	by	O
+47	the	O
+48	United	O
+49	States	O
+50	team	O
+51	.	O
+52	Here	O
+53	are	O
+54	the	O
+55	medalists	O
+56	:	O
+57	1	O
+58	.	O
+59	**	O
+60	Gold	O
+61	Medal	O
+62	**:	O
+63	United	B-Gold
+64	States	I-Gold
+65	-	O
+66	Allyson	O
+67	Felix	O
+68	-	O
+69	Monica	O
+70	Hargrove	O
+71	-	O
+72	Sanya	O
+73	Richards	O
+74	-	O
+75	Crystal	O
+76	Cox	O
+77	2	O
+78	.	O
+79	**	O
+80	Silver	O
+81	Medal	O
+82	**:	O
+83	Jamaica	B-Silver
+84	-	O
+85	Novlene	O
+86	Williams-Mills	O
+87	-	O
+88	Shericka	O
+89	Williams	O
+90	-	O
+91	Shereefa	O
+92	Lloyd	O
+93	-	O
+94	Rosemarie	O
+95	Whyte	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	Russia	B-Bronze
+103	-	O
+104	Tatyana	O
+105	Firova	O
+106	-	O
+107	Antonina	O
+108	Krivoshapka	O
+109	-	O
+110	Yuliya	O
+111	Gushchina	O
+112	-	O
+113	Anastasiya	O
+114	Kapachinskaya	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Men's Basketball event at the 2008 olympic games?The Men's Basketball event at the 2008 Summer Olympics in Beijing, China, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Kobe Bryant, LeBron James, Dwyane Wade, Carmelo Anthony, Chris Paul, Jason Kidd, Dwight Howard, Chris Bosh, Michael Redd, Deron Williams, and Joe Johnson.
+2. **Silver Medal**: Spain
+   - Players: Pau Gasol, Marc Gasol, José Manuel Calderón, Rudy Fernández, Juan Carlos Navarro, Carlos Navarro, Jorge Garbajosa, Berni Rodríguez, Carlos Suárez, Alex Mumbru, and Sergio Llull.
+3. **Bronze Medal**: Argentina
+   - Players: Manu Ginóbili, Luis Scola, Carlos Delfino, Fabricio Oberto, Pablo Prigioni, Andrés Nocioni, Leonardo Gutiérrez, Walter Herrmann, Juan Pedro Gutiérrez, Romás Espil, and Pablo Piovano.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Beijing	O
+31	,	O
+32	China	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	United	O
+39	States	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Gold
+53	States	I-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Kobe	O
+58	Bryant	O
+59	,	O
+60	LeBron	O
+61	James	O
+62	,	O
+63	Dwyane	O
+64	Wade	O
+65	,	O
+66	Carmelo	O
+67	Anthony	O
+68	,	O
+69	Chris	O
+70	Paul	O
+71	,	O
+72	Jason	O
+73	Kidd	O
+74	,	O
+75	Dwight	O
+76	Howard	O
+77	,	O
+78	Chris	O
+79	Bosh	O
+80	,	O
+81	Michael	O
+82	Redd	O
+83	,	O
+84	Deron	O
+85	Williams	O
+86	,	O
+87	and	O
+88	Joe	O
+89	Johnson	O
+90	.	O
+91	2	O
+92	.	O
+93	**	O
+94	Silver	O
+95	Medal	O
+96	**:	O
+97	Spain	B-Silver
+98	-	O
+99	Players	O
+100	:	O
+101	Pau	O
+102	Gasol	O
+103	,	O
+104	Marc	O
+105	Gasol	O
+106	,	O
+107	José	O
+108	Manuel	O
+109	Calderón	O
+110	,	O
+111	Rudy	O
+112	Fernández	O
+113	,	O
+114	Juan	O
+115	Carlos	O
+116	Navarro	O
+117	,	O
+118	Carlos	O
+119	Navarro	O
+120	,	O
+121	Jorge	O
+122	Garbajosa	O
+123	,	O
+124	Berni	O
+125	Rodríguez	O
+126	,	O
+127	Carlos	O
+128	Suárez	O
+129	,	O
+130	Alex	O
+131	Mumbru	O
+132	,	O
+133	and	O
+134	Sergio	O
+135	Llull	O
+136	.	O
+137	3	O
+138	.	O
+139	**	O
+140	Bronze	O
+141	Medal	O
+142	**:	O
+143	Argentina	B-Bronze
+144	-	O
+145	Players	O
+146	:	O
+147	Manu	O
+148	Ginóbili	O
+149	,	O
+150	Luis	O
+151	Scola	O
+152	,	O
+153	Carlos	O
+154	Delfino	O
+155	,	O
+156	Fabricio	O
+157	Oberto	O
+158	,	O
+159	Pablo	O
+160	Prigioni	O
+161	,	O
+162	Andrés	O
+163	Nocioni	O
+164	,	O
+165	Leonardo	O
+166	Gutiérrez	O
+167	,	O
+168	Walter	O
+169	Herrmann	O
+170	,	O
+171	Juan	O
+172	Pedro	O
+173	Gutiérrez	O
+174	,	O
+175	Romás	O
+176	Espil	O
+177	,	O
+178	and	O
+179	Pablo	O
+180	Piovano	O
+181	.	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Women's Basketball event at the 2008 olympic games?The Women's Basketball event at the 2008 Summer Olympics in Beijing, China, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: Lisa Leslie, Diana Taurasi, Katie Smith, Tamika Catchings, Seimone Augustus, Sylvia Fowles, Candace Parker, Cappie Pondexter, Ticha Penicheiro, DeLisha Milton-Jones, Kara Lawson, and Leah Thomas.
+2. **Silver Medal**: Australia
+   - Players: Lauren Jackson, Penny Taylor, Belinda Snell, Tully Bevilaqua, Suzy Batkovic, Kristi Harrower, Emma Randall, Laura Summerton, Jennifer Screen, Erin Phillips, Tully Bevilaqua, and Hollie Grima.
+3. **Bronze Medal**: Russia
+   - Players: Becky Hammon, Maria Stepanova, Ilona Korstin, Marina Kuzina, Yelena Baranova, Olga Arteshina, Yekaterina Lisina, Yelena Danilochkina, Yelena Voronina, Yekaterina Svyrydova, Yelena Shilova, and Yelena Karpova.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Basketball	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Basketball	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Beijing	O
+31	,	O
+32	China	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	the	O
+38	United	O
+39	States	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	medalists	O
+45	:	O
+46	1	O
+47	.	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Gold
+53	States	I-Gold
+54	-	O
+55	Players	O
+56	:	O
+57	Lisa	O
+58	Leslie	O
+59	,	O
+60	Diana	O
+61	Taurasi	O
+62	,	O
+63	Katie	O
+64	Smith	O
+65	,	O
+66	Tamika	O
+67	Catchings	O
+68	,	O
+69	Seimone	O
+70	Augustus	O
+71	,	O
+72	Sylvia	O
+73	Fowles	O
+74	,	O
+75	Candace	O
+76	Parker	O
+77	,	O
+78	Cappie	O
+79	Pondexter	O
+80	,	O
+81	Ticha	O
+82	Penicheiro	O
+83	,	O
+84	DeLisha	O
+85	Milton-Jones	O
+86	,	O
+87	Kara	O
+88	Lawson	O
+89	,	O
+90	and	O
+91	Leah	O
+92	Thomas	O
+93	.	O
+94	2	O
+95	.	O
+96	**	O
+97	Silver	O
+98	Medal	O
+99	**:	O
+100	Australia	B-Silver
+101	-	O
+102	Players	O
+103	:	O
+104	Lauren	O
+105	Jackson	O
+106	,	O
+107	Penny	O
+108	Taylor	O
+109	,	O
+110	Belinda	O
+111	Snell	O
+112	,	O
+113	Tully	O
+114	Bevilaqua	O
+115	,	O
+116	Suzy	O
+117	Batkovic	O
+118	,	O
+119	Kristi	O
+120	Harrower	O
+121	,	O
+122	Emma	O
+123	Randall	O
+124	,	O
+125	Laura	O
+126	Summerton	O
+127	,	O
+128	Jennifer	O
+129	Screen	O
+130	,	O
+131	Erin	O
+132	Phillips	O
+133	,	O
+134	Tully	O
+135	Bevilaqua	O
+136	,	O
+137	and	O
+138	Hollie	O
+139	Grima	O
+140	.	O
+141	3	O
+142	.	O
+143	**	O
+144	Bronze	O
+145	Medal	O
+146	**:	O
+147	Russia	B-Bronze
+148	-	O
+149	Players	O
+150	:	O
+151	Becky	O
+152	Hammon	O
+153	,	O
+154	Maria	O
+155	Stepanova	O
+156	,	O
+157	Ilona	O
+158	Korstin	O
+159	,	O
+160	Marina	O
+161	Kuzina	O
+162	,	O
+163	Yelena	O
+164	Baranova	O
+165	,	O
+166	Olga	O
+167	Arteshina	O
+168	,	O
+169	Yekaterina	O
+170	Lisina	O
+171	,	O
+172	Yelena	O
+173	Danilochkina	O
+174	,	O
+175	Yelena	O
+176	Voronina	O
+177	,	O
+178	Yekaterina	O
+179	Svyrydova	O
+180	,	O
+181	Yelena	O
+182	Shilova	O
+183	,	O
+184	and	O
+185	Yelena	O
+186	Karpova	O
+187	.	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Men's Rowing Coxed Eights event at the 2008 olympic games?The Men's Rowing Coxed Eights event at the 2008 Olympic Games was won by the team from Canada. Here are the top three medalists:
+1. **Gold Medal**: Canada
+   - Crew: Kevin Light, Ben Rutledge, Andrew Byrnes, Jake Wetzel, Malcolm Howard, Dominic Seiterle, Adam Kreek, Kyle Hamilton, Brian Price (cox)
+2. **Silver Medal**: Great Britain
+   - Crew: Tom James, Matt Langridge, Richard Egington, Paul Bennett, Tom Stallard, Richard Chambers, Josh West, Acer Nethercott, Phelan Hill (cox)
+3. **Bronze Medal**: Australia
+   - Crew: Drew Ginn, James Tomkins, Cameron McKenzie-McHarg, Francis Hegerty, Daniel Noonan, Stephen Stewart, Samuel Loch, Sandor Totka, David Crawshay (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	team	O
+38	from	O
+39	Canada	O
+40	.	O
+41	Here	O
+42	are	O
+43	the	O
+44	top	O
+45	three	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Canada	B-Gold
+55	-	O
+56	Crew	O
+57	:	O
+58	Kevin	O
+59	Light	O
+60	,	O
+61	Ben	O
+62	Rutledge	O
+63	,	O
+64	Andrew	O
+65	Byrnes	O
+66	,	O
+67	Jake	O
+68	Wetzel	O
+69	,	O
+70	Malcolm	O
+71	Howard	O
+72	,	O
+73	Dominic	O
+74	Seiterle	O
+75	,	O
+76	Adam	O
+77	Kreek	O
+78	,	O
+79	Kyle	O
+80	Hamilton	O
+81	,	O
+82	Brian	O
+83	Price	O
+84	(	O
+85	cox	O
+86	)	O
+87	2	O
+88	.	O
+89	**	O
+90	Silver	O
+91	Medal	O
+92	**:	O
+93	Great	B-Silver
+94	Britain	I-Silver
+95	-	O
+96	Crew	O
+97	:	O
+98	Tom	O
+99	James	O
+100	,	O
+101	Matt	O
+102	Langridge	O
+103	,	O
+104	Richard	O
+105	Egington	O
+106	,	O
+107	Paul	O
+108	Bennett	O
+109	,	O
+110	Tom	O
+111	Stallard	O
+112	,	O
+113	Richard	O
+114	Chambers	O
+115	,	O
+116	Josh	O
+117	West	O
+118	,	O
+119	Acer	O
+120	Nethercott	O
+121	,	O
+122	Phelan	O
+123	Hill	O
+124	(	O
+125	cox	O
+126	)	O
+127	3	O
+128	.	O
+129	**	O
+130	Bronze	O
+131	Medal	O
+132	**:	O
+133	Australia	B-Bronze
+134	-	O
+135	Crew	O
+136	:	O
+137	Drew	O
+138	Ginn	O
+139	,	O
+140	James	O
+141	Tomkins	O
+142	,	O
+143	Cameron	O
+144	McKenzie-McHarg	O
+145	,	O
+146	Francis	O
+147	Hegerty	O
+148	,	O
+149	Daniel	O
+150	Noonan	O
+151	,	O
+152	Stephen	O
+153	Stewart	O
+154	,	O
+155	Samuel	O
+156	Loch	O
+157	,	O
+158	Sandor	O
+159	Totka	O
+160	,	O
+161	David	O
+162	Crawshay	O
+163	(	O
+164	cox	O
+165	)	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Women's Rowing Coxed Eights event at the 2008 olympic games?The Women's Rowing Coxed Eights event at the 2008 Olympic Games was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Caryn Davies
+   - Caroline Lind
+   - Anna Goodale
+   - Estelle Johnson
+   - Lindsay Shoop
+   - Anna Mickelson
+   - Susan Francia
+   - Erin Cafaro
+   - Mary Whipple (cox)
+2. **Silver Medal**: Romania
+   - Rodica Florea
+   - Enikő Barabás
+   - Camelia Lupașcu
+   - Doina Ignat
+   - Ioana Papuc
+   - Adelina Cojocaru
+   - Felicia Berczes
+   - Nicoleta Albu
+   - Elena Georgescu (cox)
+3. **Bronze Medal**: China
+   - Jin Ziwei
+   - Zhang Yangyang
+   - Gao Yulan
+   - Wu Yanan
+   - Tang Bin
+   - Zhang Xinyue
+   - Wang Yu
+   - Zhou Kexin
+   - Zhu Weiwei (cox)
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Coxed	O
+12	Eights	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Coxed	O
+26	Eights	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Olympic	O
+32	Games	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	United	O
+38	States	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	United	B-Gold
+52	States	I-Gold
+53	-	O
+54	Caryn	O
+55	Davies	O
+56	-	O
+57	Caroline	O
+58	Lind	O
+59	-	O
+60	Anna	O
+61	Goodale	O
+62	-	O
+63	Estelle	O
+64	Johnson	O
+65	-	O
+66	Lindsay	O
+67	Shoop	O
+68	-	O
+69	Anna	O
+70	Mickelson	O
+71	-	O
+72	Susan	O
+73	Francia	O
+74	-	O
+75	Erin	O
+76	Cafaro	O
+77	-	O
+78	Mary	O
+79	Whipple	O
+80	(	O
+81	cox	O
+82	)	O
+83	2	O
+84	.	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	**:	O
+89	Romania	B-Silver
+90	-	O
+91	Rodica	O
+92	Florea	O
+93	-	O
+94	Enikő	O
+95	Barabás	O
+96	-	O
+97	Camelia	O
+98	Lupașcu	O
+99	-	O
+100	Doina	O
+101	Ignat	O
+102	-	O
+103	Ioana	O
+104	Papuc	O
+105	-	O
+106	Adelina	O
+107	Cojocaru	O
+108	-	O
+109	Felicia	O
+110	Berczes	O
+111	-	O
+112	Nicoleta	O
+113	Albu	O
+114	-	O
+115	Elena	O
+116	Georgescu	O
+117	(	O
+118	cox	O
+119	)	O
+120	3	O
+121	.	O
+122	**	O
+123	Bronze	O
+124	Medal	O
+125	**:	O
+126	China	B-Bronze
+127	-	O
+128	Jin	O
+129	Ziwei	O
+130	-	O
+131	Zhang	O
+132	Yangyang	O
+133	-	O
+134	Gao	O
+135	Yulan	O
+136	-	O
+137	Wu	O
+138	Yanan	O
+139	-	O
+140	Tang	O
+141	Bin	O
+142	-	O
+143	Zhang	O
+144	Xinyue	O
+145	-	O
+146	Wang	O
+147	Yu	O
+148	-	O
+149	Zhou	O
+150	Kexin	O
+151	-	O
+152	Zhu	O
+153	Weiwei	O
+154	(	O
+155	cox	O
+156	)	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Men's Field Hockey event at the 2008 olympic games?The Men's Field Hockey event at the 2008 Summer Olympics in Beijing, China, was won by the team from Germany. Here are the medalists:
+1. **Gold Medal**: Germany
+   - Players: Niklas Meinert, Sebastian Biederlack, Tobias Wirth, Oliver Korn, Jan-Marco Montag, Benjamin Weß, Christian Schulte, Philipp Zeller, Christopher Zeller, Tibor Weißenborn, Florian Keller, Martin Häner, Nicolas Spooner, Matthias Witthaus, Christopher Wendt, Max Weinhold, Moritz Fürste, Jan-Fiete Busen, Oliver Korn, and Christian Schulte
+2. **Silver Medal**: Spain
+   - Players: Francisco Cortés, David Freixa, Roc Oliva, Victor Sojo, Juan Escarré, Albert Sala, Eduard Tubau, Pol Amat, Xavier Lleonart, Santi Freixa, Rodrigo Garza, Joan Borrell, David Alegre, Francisco Borrell, Eduard Tubau, and Xavier Lleonart
+3. **Bronze Medal**: Australia
+   - Players: Jason Wilson, Rob Hammond, Liam de Young, Jamie Dwyer, Luke Doerner, Mark Knowles, Grant Schubert, Bevan George, Eddie Ockenden, Matthew Wells, Stephen Lambert, Des Abbott, Andrew Smith, Matthew Naylor, and Kieran Govers
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	team	O
+41	from	O
+42	Germany	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	Germany	B-Gold
+56	-	O
+57	Players	O
+58	:	O
+59	Niklas	O
+60	Meinert	O
+61	,	O
+62	Sebastian	O
+63	Biederlack	O
+64	,	O
+65	Tobias	O
+66	Wirth	O
+67	,	O
+68	Oliver	O
+69	Korn	O
+70	,	O
+71	Jan-Marco	O
+72	Montag	O
+73	,	O
+74	Benjamin	O
+75	Weß	O
+76	,	O
+77	Christian	O
+78	Schulte	O
+79	,	O
+80	Philipp	O
+81	Zeller	O
+82	,	O
+83	Christopher	O
+84	Zeller	O
+85	,	O
+86	Tibor	O
+87	Weißenborn	O
+88	,	O
+89	Florian	O
+90	Keller	O
+91	,	O
+92	Martin	O
+93	Häner	O
+94	,	O
+95	Nicolas	O
+96	Spooner	O
+97	,	O
+98	Matthias	O
+99	Witthaus	O
+100	,	O
+101	Christopher	O
+102	Wendt	O
+103	,	O
+104	Max	O
+105	Weinhold	O
+106	,	O
+107	Moritz	O
+108	Fürste	O
+109	,	O
+110	Jan-Fiete	O
+111	Busen	O
+112	,	O
+113	Oliver	O
+114	Korn	O
+115	,	O
+116	and	O
+117	Christian	O
+118	Schulte	O
+119	2	O
+120	.	O
+121	**	O
+122	Silver	O
+123	Medal	O
+124	**:	O
+125	Spain	B-Silver
+126	-	O
+127	Players	O
+128	:	O
+129	Francisco	O
+130	Cortés	O
+131	,	O
+132	David	O
+133	Freixa	O
+134	,	O
+135	Roc	O
+136	Oliva	O
+137	,	O
+138	Victor	O
+139	Sojo	O
+140	,	O
+141	Juan	O
+142	Escarré	O
+143	,	O
+144	Albert	O
+145	Sala	O
+146	,	O
+147	Eduard	O
+148	Tubau	O
+149	,	O
+150	Pol	O
+151	Amat	O
+152	,	O
+153	Xavier	O
+154	Lleonart	O
+155	,	O
+156	Santi	O
+157	Freixa	O
+158	,	O
+159	Rodrigo	O
+160	Garza	O
+161	,	O
+162	Joan	O
+163	Borrell	O
+164	,	O
+165	David	O
+166	Alegre	O
+167	,	O
+168	Francisco	O
+169	Borrell	O
+170	,	O
+171	Eduard	O
+172	Tubau	O
+173	,	O
+174	and	O
+175	Xavier	O
+176	Lleonart	O
+177	3	O
+178	.	O
+179	**	O
+180	Bronze	O
+181	Medal	O
+182	**:	O
+183	Australia	B-Bronze
+184	-	O
+185	Players	O
+186	:	O
+187	Jason	O
+188	Wilson	O
+189	,	O
+190	Rob	O
+191	Hammond	O
+192	,	O
+193	Liam	O
+194	de	O
+195	Young	O
+196	,	O
+197	Jamie	O
+198	Dwyer	O
+199	,	O
+200	Luke	O
+201	Doerner	O
+202	,	O
+203	Mark	O
+204	Knowles	O
+205	,	O
+206	Grant	O
+207	Schubert	O
+208	,	O
+209	Bevan	O
+210	George	O
+211	,	O
+212	Eddie	O
+213	Ockenden	O
+214	,	O
+215	Matthew	O
+216	Wells	O
+217	,	O
+218	Stephen	O
+219	Lambert	O
+220	,	O
+221	Des	O
+222	Abbott	O
+223	,	O
+224	Andrew	O
+225	Smith	O
+226	,	O
+227	Matthew	O
+228	Naylor	O
+229	,	O
+230	and	O
+231	Kieran	O
+232	Govers	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Women's Field Hockey event at the 2008 olympic games?The Women's Field Hockey event at the 2008 Summer Olympics in Beijing, China, was won by the Netherlands. Here are the medalists:
+1. **Gold Medal**: Netherlands
+   - Maartje Goderie
+   - Minke Booij
+   - Wieke Dijkstra
+   - Lidewij Welten
+   - Fatima Moreira de Melo
+   - Miek van Geenhuizen
+   - Maartje Paumen
+   - Janneke Schopman
+   - Eefke Mulder
+   - Naomi van As
+   - Ellen Hoog
+   - Sophie Polkamp
+   - Kim Lammers
+   - Eva de Goede
+   - Marloes Keetels
+   - Floortje Engels
+2. **Silver Medal**: China
+   - Li Hongxia
+   - Fu Baorong
+   - Chen Qiuqi
+   - Zhou Wanfeng
+   - Ma Yibo
+   - Cheng Hui
+   - Ren Ye
+   - Song Qingsong
+   - Chen Zhaoxia
+   - Li Shuang
+   - Zhang Yimeng
+   - Chen Qiuqi
+   - Li Hongxia
+   - Fu Baorong
+   - Zhou Wanfeng
+   - Ma Yibo
+3. **Bronze Medal**: Argentina
+   - Luciana Aymar
+   - Magali Paonessa
+   - Noel Barrionuevo
+   - Soledad García
+   - Mariana González Oliva
+   - María de la Paz Hernández
+   - Carla Rebecchi
+   - Laura del Colle
+   - María José Sobral
+   - Mercedes Margalot
+   - Mariana González Oliva
+   - María de la Paz Hernández
+   - Luciana Aymar
+   - Noel Barrionuevo
+   - Soledad García
+   - Carla Rebecchi
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Field	O
+11	Hockey	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Field	O
+24	Hockey	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Netherlands	O
+41	.	O
+42	Here	O
+43	are	O
+44	the	O
+45	medalists	O
+46	:	O
+47	1	O
+48	.	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	Netherlands	B-Gold
+54	-	O
+55	Maartje	O
+56	Goderie	O
+57	-	O
+58	Minke	O
+59	Booij	O
+60	-	O
+61	Wieke	O
+62	Dijkstra	O
+63	-	O
+64	Lidewij	O
+65	Welten	O
+66	-	O
+67	Fatima	O
+68	Moreira	O
+69	de	O
+70	Melo	O
+71	-	O
+72	Miek	O
+73	van	O
+74	Geenhuizen	O
+75	-	O
+76	Maartje	O
+77	Paumen	O
+78	-	O
+79	Janneke	O
+80	Schopman	O
+81	-	O
+82	Eefke	O
+83	Mulder	O
+84	-	O
+85	Naomi	O
+86	van	O
+87	As	O
+88	-	O
+89	Ellen	O
+90	Hoog	O
+91	-	O
+92	Sophie	O
+93	Polkamp	O
+94	-	O
+95	Kim	O
+96	Lammers	O
+97	-	O
+98	Eva	O
+99	de	O
+100	Goede	O
+101	-	O
+102	Marloes	O
+103	Keetels	O
+104	-	O
+105	Floortje	O
+106	Engels	O
+107	2	O
+108	.	O
+109	**	O
+110	Silver	O
+111	Medal	O
+112	**:	O
+113	China	B-Silver
+114	-	O
+115	Li	O
+116	Hongxia	O
+117	-	O
+118	Fu	O
+119	Baorong	O
+120	-	O
+121	Chen	O
+122	Qiuqi	O
+123	-	O
+124	Zhou	O
+125	Wanfeng	O
+126	-	O
+127	Ma	O
+128	Yibo	O
+129	-	O
+130	Cheng	O
+131	Hui	O
+132	-	O
+133	Ren	O
+134	Ye	O
+135	-	O
+136	Song	O
+137	Qingsong	O
+138	-	O
+139	Chen	O
+140	Zhaoxia	O
+141	-	O
+142	Li	O
+143	Shuang	O
+144	-	O
+145	Zhang	O
+146	Yimeng	O
+147	-	O
+148	Chen	O
+149	Qiuqi	O
+150	-	O
+151	Li	O
+152	Hongxia	O
+153	-	O
+154	Fu	O
+155	Baorong	O
+156	-	O
+157	Zhou	O
+158	Wanfeng	O
+159	-	O
+160	Ma	O
+161	Yibo	O
+162	3	O
+163	.	O
+164	**	O
+165	Bronze	O
+166	Medal	O
+167	**:	O
+168	Argentina	B-Bronze
+169	-	O
+170	Luciana	O
+171	Aymar	O
+172	-	O
+173	Magali	O
+174	Paonessa	O
+175	-	O
+176	Noel	O
+177	Barrionuevo	O
+178	-	O
+179	Soledad	O
+180	García	O
+181	-	O
+182	Mariana	O
+183	González	O
+184	Oliva	O
+185	-	O
+186	María	O
+187	de	O
+188	la	O
+189	Paz	O
+190	Hernández	O
+191	-	O
+192	Carla	O
+193	Rebecchi	O
+194	-	O
+195	Laura	O
+196	del	O
+197	Colle	O
+198	-	O
+199	María	O
+200	José	O
+201	Sobral	O
+202	-	O
+203	Mercedes	O
+204	Margalot	O
+205	-	O
+206	Mariana	O
+207	González	O
+208	Oliva	O
+209	-	O
+210	María	O
+211	de	O
+212	la	O
+213	Paz	O
+214	Hernández	O
+215	-	O
+216	Luciana	O
+217	Aymar	O
+218	-	O
+219	Noel	O
+220	Barrionuevo	O
+221	-	O
+222	Soledad	O
+223	García	O
+224	-	O
+225	Carla	O
+226	Rebecchi	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Men's Football event at the 2008 olympic games?The Men's Football event at the 2008 Summer Olympics was won by Argentina. Here are the medalists:
+1. **Gold Medal**: Argentina
+   - Coach: Sergio Batista
+   - Captain: Ezequiel Garay
+2. **Silver Medal**: Nigeria
+   - Coach: Samson Siasia
+   - Captain: Chinedu Obasi
+3. **Bronze Medal**: Brazil
+   - Coach: Dunga
+   - Captain: Breno
+Argentina defeated Nigeria 1-0 in the final, with the winning goal scored by Ángel Di María. Brazil beat Belgium 3-0 in the bronze medal match.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	Argentina	O
+33	.	O
+34	Here	O
+35	are	O
+36	the	O
+37	medalists	O
+38	:	O
+39	1	O
+40	.	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Argentina	B-Gold
+46	-	O
+47	Coach	O
+48	:	O
+49	Sergio	O
+50	Batista	O
+51	-	O
+52	Captain	O
+53	:	O
+54	Ezequiel	O
+55	Garay	O
+56	2	O
+57	.	O
+58	**	O
+59	Silver	O
+60	Medal	O
+61	**:	O
+62	Nigeria	B-Silver
+63	-	O
+64	Coach	O
+65	:	O
+66	Samson	O
+67	Siasia	O
+68	-	O
+69	Captain	O
+70	:	O
+71	Chinedu	O
+72	Obasi	O
+73	3	O
+74	.	O
+75	**	O
+76	Bronze	O
+77	Medal	O
+78	**:	O
+79	Brazil	B-Bronze
+80	-	O
+81	Coach	O
+82	:	O
+83	Dunga	O
+84	-	O
+85	Captain	O
+86	:	O
+87	Breno	O
+88	Argentina	O
+89	defeated	O
+90	Nigeria	O
+91	1	O
+92	-	O
+93	0	O
+94	in	O
+95	the	O
+96	final	O
+97	,	O
+98	with	O
+99	the	O
+100	winning	O
+101	goal	O
+102	scored	O
+103	by	O
+104	Ángel	O
+105	Di	O
+106	María	O
+107	.	O
+108	Brazil	O
+109	beat	O
+110	Belgium	O
+111	3	O
+112	-	O
+113	0	O
+114	in	O
+115	the	O
+116	bronze	O
+117	medal	O
+118	match	O
+119	.	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Women's Football event at the 2008 olympic games?The Women's Football event at the 2008 Summer Olympics was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Goalkeeper: Hope Solo
+   - Defenders: Rachel Buehler, Heather Mitts, Kate Markgraf, Stephanie Cox, Lori Chalupny
+   - Midfielders: Shannon Boxx, Lindsay Tarpley, Heather O'Reilly, Natasha Kai, Carli Lloyd, Kristine Lilly, Angela Hucles
+   - Forwards: Abby Wambach, Lauren Cheney, Aya Miyama, Sydney Leroux, Amy Rodriguez
+2. **Silver Medal**: Brazil
+   - Goalkeeper: Andreia Suntaque
+   - Defenders: Andreia Rosa, Andreia, Renata Costa, Erika, Maycon, Rosana
+   - Midfielders: Formiga, Ellen, Daniela, Grazielle, Francielle, Fabiana, Maurine
+   - Forwards: Cristiane, Marta, Rosana, Maycon, Erika, Danielle, Erenilson
+3. **Bronze Medal**: Germany
+   - Goalkeeper: Nadine Angerer
+   - Defenders: Ute Micke, Babett Peter, Annike Krahn, Kerstin Stegemann, Simone Laudehr, Sandra Smisek
+   - Midfielders: Renate Lingor, Lira Bajramaj, Simone Laudehr, Birgit Prinz, Anja Mittag, Conny Pohlers, Fatmire Bajramaj
+   - Forwards: Birgit Prinz, Anja Mittag, Conny Pohlers, Renate Lingor, Lira Bajramaj, Fatmire Bajramaj, Simone Laudehr
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Football	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Football	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	the	O
+33	United	O
+34	States	O
+35	.	O
+36	Here	O
+37	are	O
+38	the	O
+39	medalists	O
+40	:	O
+41	1	O
+42	.	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	United	B-Gold
+48	States	I-Gold
+49	-	O
+50	Goalkeeper	O
+51	:	O
+52	Hope	O
+53	Solo	O
+54	-	O
+55	Defenders	O
+56	:	O
+57	Rachel	O
+58	Buehler	O
+59	,	O
+60	Heather	O
+61	Mitts	O
+62	,	O
+63	Kate	O
+64	Markgraf	O
+65	,	O
+66	Stephanie	O
+67	Cox	O
+68	,	O
+69	Lori	O
+70	Chalupny	O
+71	-	O
+72	Midfielders	O
+73	:	O
+74	Shannon	O
+75	Boxx	O
+76	,	O
+77	Lindsay	O
+78	Tarpley	O
+79	,	O
+80	Heather	O
+81	O	O
+82	'	O
+83	Reilly	O
+84	,	O
+85	Natasha	O
+86	Kai	O
+87	,	O
+88	Carli	O
+89	Lloyd	O
+90	,	O
+91	Kristine	O
+92	Lilly	O
+93	,	O
+94	Angela	O
+95	Hucles	O
+96	-	O
+97	Forwards	O
+98	:	O
+99	Abby	O
+100	Wambach	O
+101	,	O
+102	Lauren	O
+103	Cheney	O
+104	,	O
+105	Aya	O
+106	Miyama	O
+107	,	O
+108	Sydney	O
+109	Leroux	O
+110	,	O
+111	Amy	O
+112	Rodriguez	O
+113	2	O
+114	.	O
+115	**	O
+116	Silver	O
+117	Medal	O
+118	**:	O
+119	Brazil	B-Silver
+120	-	O
+121	Goalkeeper	O
+122	:	O
+123	Andreia	O
+124	Suntaque	O
+125	-	O
+126	Defenders	O
+127	:	O
+128	Andreia	O
+129	Rosa	O
+130	,	O
+131	Andreia	O
+132	,	O
+133	Renata	O
+134	Costa	O
+135	,	O
+136	Erika	O
+137	,	O
+138	Maycon	O
+139	,	O
+140	Rosana	O
+141	-	O
+142	Midfielders	O
+143	:	O
+144	Formiga	O
+145	,	O
+146	Ellen	O
+147	,	O
+148	Daniela	O
+149	,	O
+150	Grazielle	O
+151	,	O
+152	Francielle	O
+153	,	O
+154	Fabiana	O
+155	,	O
+156	Maurine	O
+157	-	O
+158	Forwards	O
+159	:	O
+160	Cristiane	O
+161	,	O
+162	Marta	O
+163	,	O
+164	Rosana	O
+165	,	O
+166	Maycon	O
+167	,	O
+168	Erika	O
+169	,	O
+170	Danielle	O
+171	,	O
+172	Erenilson	O
+173	3	O
+174	.	O
+175	**	O
+176	Bronze	O
+177	Medal	O
+178	**:	O
+179	Germany	B-Bronze
+180	-	O
+181	Goalkeeper	O
+182	:	O
+183	Nadine	O
+184	Angerer	O
+185	-	O
+186	Defenders	O
+187	:	O
+188	Ute	O
+189	Micke	O
+190	,	O
+191	Babett	O
+192	Peter	O
+193	,	O
+194	Annike	O
+195	Krahn	O
+196	,	O
+197	Kerstin	O
+198	Stegemann	O
+199	,	O
+200	Simone	O
+201	Laudehr	O
+202	,	O
+203	Sandra	O
+204	Smisek	O
+205	-	O
+206	Midfielders	O
+207	:	O
+208	Renate	O
+209	Lingor	O
+210	,	O
+211	Lira	O
+212	Bajramaj	O
+213	,	O
+214	Simone	O
+215	Laudehr	O
+216	,	O
+217	Birgit	O
+218	Prinz	O
+219	,	O
+220	Anja	O
+221	Mittag	O
+222	,	O
+223	Conny	O
+224	Pohlers	O
+225	,	O
+226	Fatmire	O
+227	Bajramaj	O
+228	-	O
+229	Forwards	O
+230	:	O
+231	Birgit	O
+232	Prinz	O
+233	,	O
+234	Anja	O
+235	Mittag	O
+236	,	O
+237	Conny	O
+238	Pohlers	O
+239	,	O
+240	Renate	O
+241	Lingor	O
+242	,	O
+243	Lira	O
+244	Bajramaj	O
+245	,	O
+246	Fatmire	O
+247	Bajramaj	O
+248	,	O
+249	Simone	O
+250	Laudehr	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Men's Handball event at the 2008 olympic games?The Men's Handball event at the 2008 Summer Olympics was won by France. Here are the medalists:
+1. **Gold Medal**: France
+   - Team: Didier Dinart, Nikola Karabatic, Guillaume Gille, Bertrand Gille, Daniel Narcisse, Thierry Omeyer, Luc Abalo, Michaël Guigou, Cédric Sorhaindo, Olivier Girault, Jean-David Dudicourt, Xavier Barachet, Joël Abati, Daouda Karabatic, Guillaume Joli, Cédric Paty
+2. **Silver Medal**: Iceland
+   - Team: Ásgeir Örn Hallgrímsson, Arnór Atlason, Ásgeir Svavarsson, Bjarni Fritzson, Guðjón Valur Sigurðsson, Hreiðar Guðmundsson, Ingimundur Ingimundarson, Logi Geirsson, Ólafur Stefánsson, Páll Hólmsteinsson, Róbert Gunnarsson, Snorri Guðjónsson, Steingrímur Jóhannesson, Sturla Ásgeirsson, Þórður Örn Arnason, Þórður Guðmundsson
+3. **Bronze Medal**: Croatia
+   - Team: Ivano Balić, Denis Buntić, Blaženko Lacković, Vedran Zrnić, Igor Vori, Domagoj Duvnjak, Luka Žvižej, Mirko Alilović, Ivan Čupić, Nikša Kaleb, Drago Vuković, Vedran Čupić, Filip Zajec, Vladimir Mandić, Zlatko Horvat, Ivan Čupić
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Men	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	was	O
+30	won	O
+31	by	O
+32	France	O
+33	.	O
+34	Here	O
+35	are	O
+36	the	O
+37	medalists	O
+38	:	O
+39	1	O
+40	.	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	France	B-Gold
+46	-	O
+47	Team	O
+48	:	O
+49	Didier	O
+50	Dinart	O
+51	,	O
+52	Nikola	O
+53	Karabatic	O
+54	,	O
+55	Guillaume	O
+56	Gille	O
+57	,	O
+58	Bertrand	O
+59	Gille	O
+60	,	O
+61	Daniel	O
+62	Narcisse	O
+63	,	O
+64	Thierry	O
+65	Omeyer	O
+66	,	O
+67	Luc	O
+68	Abalo	O
+69	,	O
+70	Michaël	O
+71	Guigou	O
+72	,	O
+73	Cédric	O
+74	Sorhaindo	O
+75	,	O
+76	Olivier	O
+77	Girault	O
+78	,	O
+79	Jean-David	O
+80	Dudicourt	O
+81	,	O
+82	Xavier	O
+83	Barachet	O
+84	,	O
+85	Joël	O
+86	Abati	O
+87	,	O
+88	Daouda	O
+89	Karabatic	O
+90	,	O
+91	Guillaume	O
+92	Joli	O
+93	,	O
+94	Cédric	O
+95	Paty	O
+96	2	O
+97	.	O
+98	**	O
+99	Silver	O
+100	Medal	O
+101	**:	O
+102	Iceland	B-Silver
+103	-	O
+104	Team	O
+105	:	O
+106	Ásgeir	O
+107	Örn	O
+108	Hallgrímsson	O
+109	,	O
+110	Arnór	O
+111	Atlason	O
+112	,	O
+113	Ásgeir	O
+114	Svavarsson	O
+115	,	O
+116	Bjarni	O
+117	Fritzson	O
+118	,	O
+119	Guðjón	O
+120	Valur	O
+121	Sigurðsson	O
+122	,	O
+123	Hreiðar	O
+124	Guðmundsson	O
+125	,	O
+126	Ingimundur	O
+127	Ingimundarson	O
+128	,	O
+129	Logi	O
+130	Geirsson	O
+131	,	O
+132	Ólafur	O
+133	Stefánsson	O
+134	,	O
+135	Páll	O
+136	Hólmsteinsson	O
+137	,	O
+138	Róbert	O
+139	Gunnarsson	O
+140	,	O
+141	Snorri	O
+142	Guðjónsson	O
+143	,	O
+144	Steingrímur	O
+145	Jóhannesson	O
+146	,	O
+147	Sturla	O
+148	Ásgeirsson	O
+149	,	O
+150	Þórður	O
+151	Örn	O
+152	Arnason	O
+153	,	O
+154	Þórður	O
+155	Guðmundsson	O
+156	3	O
+157	.	O
+158	**	O
+159	Bronze	O
+160	Medal	O
+161	**:	O
+162	Croatia	B-Bronze
+163	-	O
+164	Team	O
+165	:	O
+166	Ivano	O
+167	Balić	O
+168	,	O
+169	Denis	O
+170	Buntić	O
+171	,	O
+172	Blaženko	O
+173	Lacković	O
+174	,	O
+175	Vedran	O
+176	Zrnić	O
+177	,	O
+178	Igor	O
+179	Vori	O
+180	,	O
+181	Domagoj	O
+182	Duvnjak	O
+183	,	O
+184	Luka	O
+185	Žvižej	O
+186	,	O
+187	Mirko	O
+188	Alilović	O
+189	,	O
+190	Ivan	O
+191	Čupić	O
+192	,	O
+193	Nikša	O
+194	Kaleb	O
+195	,	O
+196	Drago	O
+197	Vuković	O
+198	,	O
+199	Vedran	O
+200	Čupić	O
+201	,	O
+202	Filip	O
+203	Zajec	O
+204	,	O
+205	Vladimir	O
+206	Mandić	O
+207	,	O
+208	Zlatko	O
+209	Horvat	O
+210	,	O
+211	Ivan	O
+212	Čupić	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Women's Handball event at the 2008 olympic games?The Women's Handball event at the 2008 Summer Olympics in Beijing, China, was won by Norway. Here are the medalists:
+1. **Gold Medal**: Norway
+   - Team members: Karoline Dyhre Breivang, Gøril Snorroeggen, Karoline Næss, Kristine Lunde, Marit Malm Frafjord, Katja Nyberg, Ragnhild Aamodt, Tonje Larsen, Karoline Dyhre Breivang, Gro Hammerseng, Linn-Kristin Riegelhuth, Katrine Lunde, Marit Malm Frafjord, Gøril Snorroeggen, and Tonje Nøstvold.
+2. **Silver Medal**: Russia
+   - Team members: Yekaterina Andryushina, Yulia Barsukova, Yekaterina Daibutė, Yekaterina Marennikova, Yekaterina Petukhova, Yekaterina Shtil, Yekaterina Sudakova, Yekaterina Turey, Yekaterina Vyakhireva, Yekaterina Zazhogina, Yekaterina Andryushina, Yekaterina Marennikova, Yekaterina Petukhova, Yekaterina Sudakova, and Yekaterina Turey.
+3. **Bronze Medal**: Korea
+   - Team members: Kim Ona, Kim Nam-sun, Kim Hwa-sung, Kim On-a, Kim Nam-yun, Kim Mi-sim, Kim Hye-sook, Kim Jung-sim, Lee Min-hee, Lee Mi-kyung, Lee Mi-sook, Oh Seong-ok, Park Jeong-ah, Park Jeong-kyun, and Song Ji-eun.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Handball	O
+11	event	O
+12	at	O
+13	the	O
+14	2008	O
+15	olympic	O
+16	games	O
+17	?	O
+18	The	O
+19	Women	O
+20	'	O
+21	s	O
+22	Handball	O
+23	event	O
+24	at	O
+25	the	O
+26	2008	O
+27	Summer	O
+28	Olympics	O
+29	in	O
+30	Beijing	O
+31	,	O
+32	China	O
+33	,	O
+34	was	O
+35	won	O
+36	by	O
+37	Norway	O
+38	.	O
+39	Here	O
+40	are	O
+41	the	O
+42	medalists	O
+43	:	O
+44	1	O
+45	.	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	Norway	B-Gold
+51	-	O
+52	Team	O
+53	members	O
+54	:	O
+55	Karoline	O
+56	Dyhre	O
+57	Breivang	O
+58	,	O
+59	Gøril	O
+60	Snorroeggen	O
+61	,	O
+62	Karoline	O
+63	Næss	O
+64	,	O
+65	Kristine	O
+66	Lunde	O
+67	,	O
+68	Marit	O
+69	Malm	O
+70	Frafjord	O
+71	,	O
+72	Katja	O
+73	Nyberg	O
+74	,	O
+75	Ragnhild	O
+76	Aamodt	O
+77	,	O
+78	Tonje	O
+79	Larsen	O
+80	,	O
+81	Karoline	O
+82	Dyhre	O
+83	Breivang	O
+84	,	O
+85	Gro	O
+86	Hammerseng	O
+87	,	O
+88	Linn-Kristin	O
+89	Riegelhuth	O
+90	,	O
+91	Katrine	O
+92	Lunde	O
+93	,	O
+94	Marit	O
+95	Malm	O
+96	Frafjord	O
+97	,	O
+98	Gøril	O
+99	Snorroeggen	O
+100	,	O
+101	and	O
+102	Tonje	O
+103	Nøstvold	O
+104	.	O
+105	2	O
+106	.	O
+107	**	O
+108	Silver	O
+109	Medal	O
+110	**:	O
+111	Russia	B-Silver
+112	-	O
+113	Team	O
+114	members	O
+115	:	O
+116	Yekaterina	O
+117	Andryushina	O
+118	,	O
+119	Yulia	O
+120	Barsukova	O
+121	,	O
+122	Yekaterina	O
+123	Daibutė	O
+124	,	O
+125	Yekaterina	O
+126	Marennikova	O
+127	,	O
+128	Yekaterina	O
+129	Petukhova	O
+130	,	O
+131	Yekaterina	O
+132	Shtil	O
+133	,	O
+134	Yekaterina	O
+135	Sudakova	O
+136	,	O
+137	Yekaterina	O
+138	Turey	O
+139	,	O
+140	Yekaterina	O
+141	Vyakhireva	O
+142	,	O
+143	Yekaterina	O
+144	Zazhogina	O
+145	,	O
+146	Yekaterina	O
+147	Andryushina	O
+148	,	O
+149	Yekaterina	O
+150	Marennikova	O
+151	,	O
+152	Yekaterina	O
+153	Petukhova	O
+154	,	O
+155	Yekaterina	O
+156	Sudakova	O
+157	,	O
+158	and	O
+159	Yekaterina	O
+160	Turey	O
+161	.	O
+162	3	O
+163	.	O
+164	**	O
+165	Bronze	O
+166	Medal	O
+167	**:	O
+168	Korea	B-Bronze
+169	-	O
+170	Team	O
+171	members	O
+172	:	O
+173	Kim	O
+174	Ona	O
+175	,	O
+176	Kim	O
+177	Nam-sun	O
+178	,	O
+179	Kim	O
+180	Hwa-sung	O
+181	,	O
+182	Kim	O
+183	On-a	O
+184	,	O
+185	Kim	O
+186	Nam-yun	O
+187	,	O
+188	Kim	O
+189	Mi-sim	O
+190	,	O
+191	Kim	O
+192	Hye-sook	O
+193	,	O
+194	Kim	O
+195	Jung-sim	O
+196	,	O
+197	Lee	O
+198	Min-hee	O
+199	,	O
+200	Lee	O
+201	Mi-kyung	O
+202	,	O
+203	Lee	O
+204	Mi-sook	O
+205	,	O
+206	Oh	O
+207	Seong-ok	O
+208	,	O
+209	Park	O
+210	Jeong-ah	O
+211	,	O
+212	Park	O
+213	Jeong-kyun	O
+214	,	O
+215	and	O
+216	Song	O
+217	Ji-eun	O
+218	.	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Men's Indoor Volleyball event at the 2008 olympic games?The Men's Indoor Volleyball event at the 2008 Summer Olympics in Beijing, China, was won by the United States. Here are the medalists:
+1. **Gold Medal**: United States
+   - Players: David Lee, Ryan Millar, Clay Stanley, Riley Salmon, William Priddy, Sean Rooney, Reid Priddy, Clay Stanley, Richard Lambourne, Scott Touzinsky, Tom Hoff, and David Lee
+2. **Silver Medal**: Brazil
+   - Players: Murilo Endres, André Heller, André Nascimento, Gustavo Endres, Samuel Fuchs, Bruno Rezende, André Elian, Rodrigo Santana, Sergio Santos, Giba, Thiago Alves, and Dante Amaral
+3. **Bronze Medal**: Italy
+   - Players: Andrea Giani, Simone Parodi, Luigi Mastrangelo, Andrea Sartoretti, Christian Savani, Alessandro Fei, Andrea Zorzi, Samuele Papi, Paolo Tofoli, Damiano Pippi, Andrea Giovi, and Alberto Cisolla
+# status = {"0":"accepted"}
+# time (ms) = 17574
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	United	O
+41	States	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	United	B-Gold
+55	States	I-Gold
+56	-	O
+57	Players	O
+58	:	O
+59	David	O
+60	Lee	O
+61	,	O
+62	Ryan	O
+63	Millar	O
+64	,	O
+65	Clay	O
+66	Stanley	O
+67	,	O
+68	Riley	O
+69	Salmon	O
+70	,	O
+71	William	O
+72	Priddy	O
+73	,	O
+74	Sean	O
+75	Rooney	O
+76	,	O
+77	Reid	O
+78	Priddy	O
+79	,	O
+80	Clay	O
+81	Stanley	O
+82	,	O
+83	Richard	O
+84	Lambourne	O
+85	,	O
+86	Scott	O
+87	Touzinsky	O
+88	,	O
+89	Tom	O
+90	Hoff	O
+91	,	O
+92	and	O
+93	David	O
+94	Lee	O
+95	2	O
+96	.	O
+97	**	O
+98	Silver	O
+99	Medal	O
+100	**:	O
+101	Brazil	B-Silver
+102	-	O
+103	Players	O
+104	:	O
+105	Murilo	O
+106	Endres	O
+107	,	O
+108	André	O
+109	Heller	O
+110	,	O
+111	André	O
+112	Nascimento	O
+113	,	O
+114	Gustavo	O
+115	Endres	O
+116	,	O
+117	Samuel	O
+118	Fuchs	O
+119	,	O
+120	Bruno	O
+121	Rezende	O
+122	,	O
+123	André	O
+124	Elian	O
+125	,	O
+126	Rodrigo	O
+127	Santana	O
+128	,	O
+129	Sergio	O
+130	Santos	O
+131	,	O
+132	Giba	O
+133	,	O
+134	Thiago	O
+135	Alves	O
+136	,	O
+137	and	O
+138	Dante	O
+139	Amaral	O
+140	3	O
+141	.	O
+142	**	O
+143	Bronze	O
+144	Medal	O
+145	**:	O
+146	Italy	B-Bronze
+147	-	O
+148	Players	O
+149	:	O
+150	Andrea	O
+151	Giani	O
+152	,	O
+153	Simone	O
+154	Parodi	O
+155	,	O
+156	Luigi	O
+157	Mastrangelo	O
+158	,	O
+159	Andrea	O
+160	Sartoretti	O
+161	,	O
+162	Christian	O
+163	Savani	O
+164	,	O
+165	Alessandro	O
+166	Fei	O
+167	,	O
+168	Andrea	O
+169	Zorzi	O
+170	,	O
+171	Samuele	O
+172	Papi	O
+173	,	O
+174	Paolo	O
+175	Tofoli	O
+176	,	O
+177	Damiano	O
+178	Pippi	O
+179	,	O
+180	Andrea	O
+181	Giovi	O
+182	,	O
+183	and	O
+184	Alberto	O
+185	Cisolla	O
+
+
+
+# sent_id = 57
+# text = Who won the medals in the Women's Indoor Volleyball event at the 2008 olympic games?The Women's Indoor Volleyball event at the 2008 Summer Olympics in Beijing, China, was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Players: Yang Hao, Zhang Ping, Wei Qiuyue, Feng Kun, Wang Yimei, Zhou Suhong, Xue Ming, Liu Yanan, Zhang Xian, Wang Lina, Zhao Ruirui, Hui Ruoqi
+2. **Silver Medal**: Brazil
+   - Players: Walewska Oliveira, Fabiana Claudino, Jaqueline Carvalho, Thaísa Menezes, Fabiola de Souza, Sheilla Castro, Adenízia Silva, Fernanda Garay, Marianne Steinbrecher, Paula Pequeno, Fabiana Alvim, Danielle Lins
+3. **Bronze Medal**: United States
+   - Players: Logan Tom, Stacy Sykora, Lindsey Berg, Heather Bown, Nicole Davis, Tayyiba Haneef-Park, Robyn Ah Mow-Santos, Jennifer Joines, Danielle Scott-Arruda, Heather Brown, Cynthia Barboza, Kim Willoughby
+# status = {"0":"accepted"}
+# time (ms) = 1076
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Indoor	O
+11	Volleyball	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Indoor	O
+24	Volleyball	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	,	O
+34	China	O
+35	,	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Chinese	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	China	B-Gold
+55	-	O
+56	Players	O
+57	:	O
+58	Yang	O
+59	Hao	O
+60	,	O
+61	Zhang	O
+62	Ping	O
+63	,	O
+64	Wei	O
+65	Qiuyue	O
+66	,	O
+67	Feng	O
+68	Kun	O
+69	,	O
+70	Wang	O
+71	Yimei	O
+72	,	O
+73	Zhou	O
+74	Suhong	O
+75	,	O
+76	Xue	O
+77	Ming	O
+78	,	O
+79	Liu	O
+80	Yanan	O
+81	,	O
+82	Zhang	O
+83	Xian	O
+84	,	O
+85	Wang	O
+86	Lina	O
+87	,	O
+88	Zhao	O
+89	Ruirui	O
+90	,	O
+91	Hui	O
+92	Ruoqi	O
+93	2	O
+94	.	O
+95	**	O
+96	Silver	O
+97	Medal	O
+98	**:	O
+99	Brazil	B-Silver
+100	-	O
+101	Players	O
+102	:	O
+103	Walewska	O
+104	Oliveira	O
+105	,	O
+106	Fabiana	O
+107	Claudino	O
+108	,	O
+109	Jaqueline	O
+110	Carvalho	O
+111	,	O
+112	Thaísa	O
+113	Menezes	O
+114	,	O
+115	Fabiola	O
+116	de	O
+117	Souza	O
+118	,	O
+119	Sheilla	O
+120	Castro	O
+121	,	O
+122	Adenízia	O
+123	Silva	O
+124	,	O
+125	Fernanda	O
+126	Garay	O
+127	,	O
+128	Marianne	O
+129	Steinbrecher	O
+130	,	O
+131	Paula	O
+132	Pequeno	O
+133	,	O
+134	Fabiana	O
+135	Alvim	O
+136	,	O
+137	Danielle	O
+138	Lins	O
+139	3	O
+140	.	O
+141	**	O
+142	Bronze	O
+143	Medal	O
+144	**:	O
+145	United	B-Bronze
+146	States	I-Bronze
+147	-	O
+148	Players	O
+149	:	O
+150	Logan	O
+151	Tom	O
+152	,	O
+153	Stacy	O
+154	Sykora	O
+155	,	O
+156	Lindsey	O
+157	Berg	O
+158	,	O
+159	Heather	O
+160	Bown	O
+161	,	O
+162	Nicole	O
+163	Davis	O
+164	,	O
+165	Tayyiba	O
+166	Haneef-Park	O
+167	,	O
+168	Robyn	O
+169	Ah	O
+170	Mow-Santos	O
+171	,	O
+172	Jennifer	O
+173	Joines	O
+174	,	O
+175	Danielle	O
+176	Scott-Arruda	O
+177	,	O
+178	Heather	O
+179	Brown	O
+180	,	O
+181	Cynthia	O
+182	Barboza	O
+183	,	O
+184	Kim	O
+185	Willoughby	O
+
+
+
+# sent_id = 58
+# text = Who won the medals in the Men's Rowing Quadruple Sculls event at the 2008 olympic games?The Men's Rowing Quadruple Sculls event at the 2008 Olympic Games in Beijing was won by the team from Poland. Here are the medalists:
+1. Gold: Poland
+   - Michał Jeliński
+   - Marek Kolbowicz
+   - Adam Korol
+   - Konrad Wasielewski
+2. Silver: Australia
+   - David Crawshay
+   - Scott Brennan
+   - Duncan Free
+   - Chris Morgan
+3. Bronze: Italy
+   - Luca Agamennoni
+   - Simone Raineri
+   - Simone Venier
+   - Romuald Wick
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Beijing	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	Poland	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	Gold	O
+51	:	O
+52	Poland	B-Gold
+53	-	O
+54	Michał	O
+55	Jeliński	O
+56	-	O
+57	Marek	O
+58	Kolbowicz	O
+59	-	O
+60	Adam	O
+61	Korol	O
+62	-	O
+63	Konrad	O
+64	Wasielewski	O
+65	2	O
+66	.	O
+67	Silver	O
+68	:	O
+69	Australia	B-Silver
+70	-	O
+71	David	O
+72	Crawshay	O
+73	-	O
+74	Scott	O
+75	Brennan	O
+76	-	O
+77	Duncan	O
+78	Free	O
+79	-	O
+80	Chris	O
+81	Morgan	O
+82	3	O
+83	.	O
+84	Bronze	O
+85	:	O
+86	Italy	B-Bronze
+87	-	O
+88	Luca	O
+89	Agamennoni	O
+90	-	O
+91	Simone	O
+92	Raineri	O
+93	-	O
+94	Simone	O
+95	Venier	O
+96	-	O
+97	Romuald	O
+98	Wick	O
+
+
+
+# sent_id = 59
+# text = Who won the medals in the Women's Rowing Quadruple Sculls event at the 2008 olympic games?The Women's Rowing Quadruple Sculls event at the 2008 Olympic Games in Beijing was won by the team from China. Here are the medalists:
+1. **Gold Medal**: China
+   - Zhang Yangyang
+   - Jin Ziwei
+   - Xi Aihua
+   - Lu Yu
+2. **Silver Medal**: Germany
+   - Britta Oppelt
+   - Stephanie Schiller
+   - Anna Klein
+   - Christiane Huth
+3. **Bronze Medal**: United States
+   - Lindsay Shoop
+   - Anna Goodale
+   - Lucy Stearns
+   - Ellen Tomek
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Rowing	O
+11	Quadruple	O
+12	Sculls	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Rowing	O
+25	Quadruple	O
+26	Sculls	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Beijing	O
+35	was	O
+36	won	O
+37	by	O
+38	the	O
+39	team	O
+40	from	O
+41	China	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	China	B-Gold
+55	-	O
+56	Zhang	O
+57	Yangyang	O
+58	-	O
+59	Jin	O
+60	Ziwei	O
+61	-	O
+62	Xi	O
+63	Aihua	O
+64	-	O
+65	Lu	O
+66	Yu	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	Germany	B-Silver
+74	-	O
+75	Britta	O
+76	Oppelt	O
+77	-	O
+78	Stephanie	O
+79	Schiller	O
+80	-	O
+81	Anna	O
+82	Klein	O
+83	-	O
+84	Christiane	O
+85	Huth	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	United	B-Bronze
+93	States	I-Bronze
+94	-	O
+95	Lindsay	O
+96	Shoop	O
+97	-	O
+98	Anna	O
+99	Goodale	O
+100	-	O
+101	Lucy	O
+102	Stearns	O
+103	-	O
+104	Ellen	O
+105	Tomek	O
+
+
+
+# sent_id = 60
+# text = Who won the medals in the Men's Fencing Sabre, Team event at the 2008 olympic games?The Men's Team Sabre Fencing event at the 2008 Summer Olympics in Beijing was won by the team from France. Here are the medalists:
+1. **Gold Medal**: France
+   - Julien Pillet
+   - Nicolas Lopez
+   - Boris Sanson
+   - Jean-Michel Lucenay
+2. **Silver Medal**: Switzerland
+   - Benjamin Steffen
+   - Daniel Brosch
+   - Marcel Fischer
+   - Fabian Kauter
+3. **Bronze Medal**: Italy
+   - Aldo Montano
+   - Diego Occhiuzzi
+   - Luigi Tarantino
+   - Luigi Samele
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Sabre	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2008	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Team	O
+26	Sabre	O
+27	Fencing	O
+28	event	O
+29	at	O
+30	the	O
+31	2008	O
+32	Summer	O
+33	Olympics	O
+34	in	O
+35	Beijing	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	team	O
+41	from	O
+42	France	O
+43	.	O
+44	Here	O
+45	are	O
+46	the	O
+47	medalists	O
+48	:	O
+49	1	O
+50	.	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	France	B-Gold
+56	-	O
+57	Julien	O
+58	Pillet	O
+59	-	O
+60	Nicolas	O
+61	Lopez	O
+62	-	O
+63	Boris	O
+64	Sanson	O
+65	-	O
+66	Jean-Michel	O
+67	Lucenay	O
+68	2	O
+69	.	O
+70	**	O
+71	Silver	O
+72	Medal	O
+73	**:	O
+74	Switzerland	B-Silver
+75	-	O
+76	Benjamin	O
+77	Steffen	O
+78	-	O
+79	Daniel	O
+80	Brosch	O
+81	-	O
+82	Marcel	O
+83	Fischer	O
+84	-	O
+85	Fabian	O
+86	Kauter	O
+87	3	O
+88	.	O
+89	**	O
+90	Bronze	O
+91	Medal	O
+92	**:	O
+93	Italy	B-Bronze
+94	-	O
+95	Aldo	O
+96	Montano	O
+97	-	O
+98	Diego	O
+99	Occhiuzzi	O
+100	-	O
+101	Luigi	O
+102	Tarantino	O
+103	-	O
+104	Luigi	O
+105	Samele	O
+
+
+
+# sent_id = 61
+# text = Who won the medals in the Women's Fencing Sabre, Team event at the 2008 olympic games?The Women's Team Sabre Fencing event at the 2008 Summer Olympics in Beijing was won by the Ukrainian team. Here are the medalists:
+1. **Gold Medal**: Ukraine
+   - Olha Kharlan
+   - Halyna Pundyk
+   - Olena Voronina
+   - Olha Zhovnir
+2. **Silver Medal**: France
+   - Solenne Mary
+   - Livia Stassinet
+   - Anne-Lise Touya
+   - Sarah Daninthe
+3. **Bronze Medal**: United States
+   - Sada Jacobson
+   - Rebecca Ward
+   - Mariel Zagunis
+   - Dagmara Wozniak
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Fencing	O
+11	Sabre	O
+12	,	O
+13	Team	O
+14	event	O
+15	at	O
+16	the	O
+17	2008	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Team	O
+26	Sabre	O
+27	Fencing	O
+28	event	O
+29	at	O
+30	the	O
+31	2008	O
+32	Summer	O
+33	Olympics	O
+34	in	O
+35	Beijing	O
+36	was	O
+37	won	O
+38	by	O
+39	the	O
+40	Ukrainian	O
+41	team	O
+42	.	O
+43	Here	O
+44	are	O
+45	the	O
+46	medalists	O
+47	:	O
+48	1	O
+49	.	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	**:	O
+54	Ukraine	B-Gold
+55	-	O
+56	Olha	O
+57	Kharlan	O
+58	-	O
+59	Halyna	O
+60	Pundyk	O
+61	-	O
+62	Olena	O
+63	Voronina	O
+64	-	O
+65	Olha	O
+66	Zhovnir	O
+67	2	O
+68	.	O
+69	**	O
+70	Silver	O
+71	Medal	O
+72	**:	O
+73	France	B-Silver
+74	-	O
+75	Solenne	O
+76	Mary	O
+77	-	O
+78	Livia	O
+79	Stassinet	O
+80	-	O
+81	Anne-Lise	O
+82	Touya	O
+83	-	O
+84	Sarah	O
+85	Daninthe	O
+86	3	O
+87	.	O
+88	**	O
+89	Bronze	O
+90	Medal	O
+91	**:	O
+92	United	B-Bronze
+93	States	I-Bronze
+94	-	O
+95	Sada	O
+96	Jacobson	O
+97	-	O
+98	Rebecca	O
+99	Ward	O
+100	-	O
+101	Mariel	O
+102	Zagunis	O
+103	-	O
+104	Dagmara	O
+105	Wozniak	O
+
+
+
+# sent_id = 62
+# text = Who won the medals in the Men's Archery Team event at the 2008 olympic games?The Men's Archery Team event at the 2008 Summer Olympics in Beijing was won by the Italian team. Here are the medalists:
+1. **Gold Medal**: Italy
+   - Marco Galiazzo
+   - Ilario Di Buò
+   - Mauro Nespoli
+2. **Silver Medal**: South Korea
+   - Im Dong-hyun
+   - Park Kyung-mo
+   - Lee Chang-hwan
+3. **Bronze Medal**: China
+   - Li Wenquan
+   - Jiang Lin
+   - Xue Haifeng
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Men	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Summer	O
+30	Olympics	O
+31	in	O
+32	Beijing	O
+33	was	O
+34	won	O
+35	by	O
+36	the	O
+37	Italian	O
+38	team	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	Italy	B-Gold
+52	-	O
+53	Marco	O
+54	Galiazzo	O
+55	-	O
+56	Ilario	O
+57	Di	O
+58	Buò	O
+59	-	O
+60	Mauro	O
+61	Nespoli	O
+62	2	O
+63	.	O
+64	**	O
+65	Silver	O
+66	Medal	O
+67	**:	O
+68	South	B-Silver
+69	Korea	I-Silver
+70	-	O
+71	Im	O
+72	Dong-hyun	O
+73	-	O
+74	Park	O
+75	Kyung-mo	O
+76	-	O
+77	Lee	O
+78	Chang-hwan	O
+79	3	O
+80	.	O
+81	**	O
+82	Bronze	O
+83	Medal	O
+84	**:	O
+85	China	B-Bronze
+86	-	O
+87	Li	O
+88	Wenquan	O
+89	-	O
+90	Jiang	O
+91	Lin	O
+92	-	O
+93	Xue	O
+94	Haifeng	O
+
+
+
+# sent_id = 63
+# text = Who won the medals in the Women's Archery Team event at the 2008 olympic games?The Women's Archery Team event at the 2008 Olympic Games was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China (Zhang Juanjuan, Chen Ling, and Guo Dan)
+2. **Silver Medal**: South Korea (Park Sung-hyun, Yun Mi-jin, and Joo Hyun-jung)
+3. **Bronze Medal**: Italy (Natalia Valeeva, Pia Lionetti, and Marco Galiazzo)
+# status = {"0":"accepted"}
+# time (ms) = 15240
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Archery	O
+11	Team	O
+12	event	O
+13	at	O
+14	the	O
+15	2008	O
+16	olympic	O
+17	games	O
+18	?	O
+19	The	O
+20	Women	O
+21	'	O
+22	s	O
+23	Archery	O
+24	Team	O
+25	event	O
+26	at	O
+27	the	O
+28	2008	O
+29	Olympic	O
+30	Games	O
+31	was	O
+32	won	O
+33	by	O
+34	the	O
+35	Chinese	O
+36	team	O
+37	.	O
+38	Here	O
+39	are	O
+40	the	O
+41	medalists	O
+42	:	O
+43	1	O
+44	.	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	China	B-Gold
+50	(	O
+51	Zhang	O
+52	Juanjuan	O
+53	,	O
+54	Chen	O
+55	Ling	O
+56	,	O
+57	and	O
+58	Guo	O
+59	Dan	O
+60	)	O
+61	2	O
+62	.	O
+63	**	O
+64	Silver	O
+65	Medal	O
+66	**:	O
+67	South	B-Silver
+68	Korea	I-Silver
+69	(	O
+70	Park	O
+71	Sung-hyun	O
+72	,	O
+73	Yun	O
+74	Mi-jin	O
+75	,	O
+76	and	O
+77	Joo	O
+78	Hyun-jung	O
+79	)	O
+80	3	O
+81	.	O
+82	**	O
+83	Bronze	O
+84	Medal	O
+85	**:	O
+86	Italy	B-Bronze
+87	(	O
+88	Natalia	O
+89	Valeeva	O
+90	,	O
+91	Pia	O
+92	Lionetti	O
+93	,	O
+94	and	O
+95	Marco	O
+96	Galiazzo	O
+97	)	O
+
+
+
+# sent_id = 64
+# text = Who won the medals in the Men's Table Tennis Team event at the 2008 olympic games?The Men's Table Tennis Team event at the 2008 Summer Olympics in Beijing, China, was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Ma Long
+   - Wang Hao
+   - Wang Liqin
+2. **Silver Medal**: South Korea
+   - Oh Sang-eun
+   - Ryu Seung-min
+   - Joo Sae-hyuk
+3. **Bronze Medal**: Germany
+   - Timo Boll
+   - Christian Süß
+   - Bastian Steger
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Men	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Summer	O
+32	Olympics	O
+33	in	O
+34	Beijing	O
+35	,	O
+36	China	O
+37	,	O
+38	was	O
+39	won	O
+40	by	O
+41	the	O
+42	Chinese	O
+43	team	O
+44	.	O
+45	Here	O
+46	are	O
+47	the	O
+48	medalists	O
+49	:	O
+50	1	O
+51	.	O
+52	**	O
+53	Gold	O
+54	Medal	O
+55	**:	O
+56	China	B-Gold
+57	-	O
+58	Ma	O
+59	Long	O
+60	-	O
+61	Wang	O
+62	Hao	O
+63	-	O
+64	Wang	O
+65	Liqin	O
+66	2	O
+67	.	O
+68	**	O
+69	Silver	O
+70	Medal	O
+71	**:	O
+72	South	B-Silver
+73	Korea	I-Silver
+74	-	O
+75	Oh	O
+76	Sang-eun	O
+77	-	O
+78	Ryu	O
+79	Seung-min	O
+80	-	O
+81	Joo	O
+82	Sae-hyuk	O
+83	3	O
+84	.	O
+85	**	O
+86	Bronze	O
+87	Medal	O
+88	**:	O
+89	Germany	B-Bronze
+90	-	O
+91	Timo	O
+92	Boll	O
+93	-	O
+94	Christian	O
+95	Süß	O
+96	-	O
+97	Bastian	O
+98	Steger	O
+
+
+
+# sent_id = 65
+# text = Who won the medals in the Women's Table Tennis Team event at the 2008 olympic games?The Women's Table Tennis Team event at the 2008 Olympic Games in Beijing was won by China. Here are the medalists:
+1. **Gold Medal**: China
+   - Zhang Yining
+   - Wang Nan
+   - Guo Yue
+2. **Silver Medal**: Singapore
+   - Feng Tianwei
+   - Li Jiawei
+   - Wang Yuegu
+3. **Bronze Medal**: South Korea
+   - Kim Kyung-ah
+   - Dang Ye-seo
+   - Park Mi-young
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Table	O
+11	Tennis	O
+12	Team	O
+13	event	O
+14	at	O
+15	the	O
+16	2008	O
+17	olympic	O
+18	games	O
+19	?	O
+20	The	O
+21	Women	O
+22	'	O
+23	s	O
+24	Table	O
+25	Tennis	O
+26	Team	O
+27	event	O
+28	at	O
+29	the	O
+30	2008	O
+31	Olympic	O
+32	Games	O
+33	in	O
+34	Beijing	O
+35	was	O
+36	won	O
+37	by	O
+38	China	O
+39	.	O
+40	Here	O
+41	are	O
+42	the	O
+43	medalists	O
+44	:	O
+45	1	O
+46	.	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	**:	O
+51	China	B-Gold
+52	-	O
+53	Zhang	O
+54	Yining	O
+55	-	O
+56	Wang	O
+57	Nan	O
+58	-	O
+59	Guo	O
+60	Yue	O
+61	2	O
+62	.	O
+63	**	O
+64	Silver	O
+65	Medal	O
+66	**:	O
+67	Singapore	B-Silver
+68	-	O
+69	Feng	O
+70	Tianwei	O
+71	-	O
+72	Li	O
+73	Jiawei	O
+74	-	O
+75	Wang	O
+76	Yuegu	O
+77	3	O
+78	.	O
+79	**	O
+80	Bronze	O
+81	Medal	O
+82	**:	O
+83	South	B-Bronze
+84	Korea	I-Bronze
+85	-	O
+86	Kim	O
+87	Kyung-ah	O
+88	-	O
+89	Dang	O
+90	Ye-seo	O
+91	-	O
+92	Park	O
+93	Mi-young	O
+
+
+
+# sent_id = 66
+# text = Who won the medals in the Men's Artistic Gymnastics Team All-Around event at the 2008 olympic games?The Men's Artistic Gymnastics Team All-Around event at the 2008 Olympic Games in Beijing, China, was won by the Chinese team. Here are the medalists:
+1. **Gold Medal**: China
+   - Yang Wei
+   - Zou Kai
+   - Xiao Qin
+   - Li Xiaopeng
+   - Chen Yibing
+2. **Silver Medal**: Japan
+   - Koji Yamamuro
+   - Takehiro Kashima
+   - Makoto Okiguchi
+   - Hiroyuki Tomita
+   - Tatsuya Yamada
+3. **Bronze Medal**: United States
+   - Jonathan Horton
+   - Alexander Artemev
+   - David Durante
+   - Justin Spring
+   - Joe Hagerty
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Men	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2008	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Men	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2008	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Beijing	O
+37	,	O
+38	China	O
+39	,	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	Chinese	O
+45	team	O
+46	.	O
+47	Here	O
+48	are	O
+49	the	O
+50	medalists	O
+51	:	O
+52	1	O
+53	.	O
+54	**	O
+55	Gold	O
+56	Medal	O
+57	**:	O
+58	China	B-Gold
+59	-	O
+60	Yang	O
+61	Wei	O
+62	-	O
+63	Zou	O
+64	Kai	O
+65	-	O
+66	Xiao	O
+67	Qin	O
+68	-	O
+69	Li	O
+70	Xiaopeng	O
+71	-	O
+72	Chen	O
+73	Yibing	O
+74	2	O
+75	.	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	**:	O
+80	Japan	B-Silver
+81	-	O
+82	Koji	O
+83	Yamamuro	O
+84	-	O
+85	Takehiro	O
+86	Kashima	O
+87	-	O
+88	Makoto	O
+89	Okiguchi	O
+90	-	O
+91	Hiroyuki	O
+92	Tomita	O
+93	-	O
+94	Tatsuya	O
+95	Yamada	O
+96	3	O
+97	.	O
+98	**	O
+99	Bronze	O
+100	Medal	O
+101	**:	O
+102	United	B-Bronze
+103	States	I-Bronze
+104	-	O
+105	Jonathan	O
+106	Horton	O
+107	-	O
+108	Alexander	O
+109	Artemev	O
+110	-	O
+111	David	O
+112	Durante	O
+113	-	O
+114	Justin	O
+115	Spring	O
+116	-	O
+117	Joe	O
+118	Hagerty	O
+
+
+
+# sent_id = 67
+# text = Who won the medals in the Women's Artistic Gymnastics Team All-Around event at the 2008 olympic games?The Women's Artistic Gymnastics Team All-Around event at the 2008 Olympic Games in Beijing, China, was won by the United States team. Here are the medalists:
+1. **Gold Medal**: United States
+   - Shawn Johnson
+   - Nastia Liukin
+   - Alicia Sacramone
+   - Chellsie Memmel
+   - Bridget Sloan
+2. **Silver Medal**: China
+   - Yang Yilin
+   - He Kexin
+   - Jiang Yuyuan
+   - Li Shanshan
+   - Cheng Fei
+3. **Bronze Medal**: Romania
+   - Sandra Izbașa
+   - Steliana Nistor
+   - Anamaria Tamő
+   - Andreea Acatrinei
+   - Diana Chelaru
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Women	O
+8	'	O
+9	s	O
+10	Artistic	O
+11	Gymnastics	O
+12	Team	O
+13	All-Around	O
+14	event	O
+15	at	O
+16	the	O
+17	2008	O
+18	olympic	O
+19	games	O
+20	?	O
+21	The	O
+22	Women	O
+23	'	O
+24	s	O
+25	Artistic	O
+26	Gymnastics	O
+27	Team	O
+28	All-Around	O
+29	event	O
+30	at	O
+31	the	O
+32	2008	O
+33	Olympic	O
+34	Games	O
+35	in	O
+36	Beijing	O
+37	,	O
+38	China	O
+39	,	O
+40	was	O
+41	won	O
+42	by	O
+43	the	O
+44	United	O
+45	States	O
+46	team	O
+47	.	O
+48	Here	O
+49	are	O
+50	the	O
+51	medalists	O
+52	:	O
+53	1	O
+54	.	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	**:	O
+59	United	B-Gold
+60	States	I-Gold
+61	-	O
+62	Shawn	O
+63	Johnson	O
+64	-	O
+65	Nastia	O
+66	Liukin	O
+67	-	O
+68	Alicia	O
+69	Sacramone	O
+70	-	O
+71	Chellsie	O
+72	Memmel	O
+73	-	O
+74	Bridget	O
+75	Sloan	O
+76	2	O
+77	.	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	**:	O
+82	China	B-Silver
+83	-	O
+84	Yang	O
+85	Yilin	O
+86	-	O
+87	He	O
+88	Kexin	O
+89	-	O
+90	Jiang	O
+91	Yuyuan	O
+92	-	O
+93	Li	O
+94	Shanshan	O
+95	-	O
+96	Cheng	O
+97	Fei	O
+98	3	O
+99	.	O
+100	**	O
+101	Bronze	O
+102	Medal	O
+103	**:	O
+104	Romania	B-Bronze
+105	-	O
+106	Sandra	O
+107	Izbașa	O
+108	-	O
+109	Steliana	O
+110	Nistor	O
+111	-	O
+112	Anamaria	O
+113	Tamő	O
+114	-	O
+115	Andreea	O
+116	Acatrinei	O
+117	-	O
+118	Diana	O
+119	Chelaru	O
+
+

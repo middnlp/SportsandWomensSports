@@ -1,0 +1,5954 @@
+# sent_id = 0
+# text = Who won the medals in the Swimming 4 x 100 metres Freestyle Relay event at the 1988 olympic games?At the 1988 Summer Olympics in Seoul, the medals for the Men's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: France
+- **Bronze Medal**: Australia
+The American team set a world record during this event.
+# status = {"0":"accepted"}
+# time (ms) = 25187
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1988	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Seoul	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	**:	O
+59	France	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Australia	B-Male/Bronze
+66	The	O
+67	American	O
+68	team	O
+69	set	O
+70	a	O
+71	world	O
+72	record	O
+73	during	O
+74	this	O
+75	event	O
+76	.	O
+
+
+
+# sent_id = 1
+# text = Who won the medals in the Swimming 4 x 100 metres Medley Relay event at the 1988 olympic games?At the 1988 Olympic Games in Seoul, the medals for the Women's 4 x 100 metres Medley Relay event were awarded as follows:
+- **Gold**: United States
+- **Silver**: East Germany
+- **Bronze**: Australia
+If you need specifics about individual performances or swimmers who participated, let me know!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1988	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1988	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Seoul	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Women	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Medley	O
+41	Relay	O
+42	event	O
+43	were	O
+44	awarded	O
+45	as	O
+46	follows	O
+47	:	O
+48	-	O
+49	**	O
+50	Gold	O
+51	**:	O
+52	United	B-Female/Gold
+53	States	I-Female/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	**:	O
+58	East	B-Female/Silver
+59	Germany	I-Female/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	**:	O
+64	Australia	B-Female/Bronze
+65	If	O
+66	you	O
+67	need	O
+68	specifics	O
+69	about	O
+70	individual	O
+71	performances	O
+72	or	O
+73	swimmers	O
+74	who	O
+75	participated	O
+76	,	O
+77	let	O
+78	me	O
+79	know	O
+80	!	O
+
+
+
+# sent_id = 2
+# text = Who won the medals in the Athletics 4 x 100 metres Relay event at the 1988 olympic games?At the 1988 Olympic Games held in Seoul, the medals for the Athletics 4 x 100 meters Relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Nigeria
+- **Bronze Medal**: Japan
+The U.S. team in this event was notably strong, and their victory was part of a successful Olympic campaign.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1988	O
+23	Olympic	O
+24	Games	O
+25	held	O
+26	in	O
+27	Seoul	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Athletics	O
+34	4	O
+35	x	O
+36	100	O
+37	meters	O
+38	Relay	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	United	B-Unknown/Gold
+51	States	I-Unknown/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	Nigeria	B-Unknown/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	**:	O
+63	Japan	B-Unknown/Bronze
+64	The	O
+65	U	O
+66	.	O
+67	S	O
+68	.	O
+69	team	O
+70	in	O
+71	this	O
+72	event	O
+73	was	O
+74	notably	O
+75	strong	O
+76	,	O
+77	and	O
+78	their	O
+79	victory	O
+80	was	O
+81	part	O
+82	of	O
+83	a	O
+84	successful	O
+85	Olympic	O
+86	campaign	O
+87	.	O
+
+
+
+# sent_id = 3
+# text = Who won the medals in the Athletics 4 x 400 metres Relay event at the 1988 olympic games?At the 1988 Olympic Games held in Seoul, the medals for the men's 4 x 400 meters relay were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Great Britain
+- **Bronze Medal:** Jamaica
+For the women's 4 x 400 meters relay, the medals were awarded as follows:
+- **Gold Medal:** Soviet Union
+- **Silver Medal:** United States
+- **Bronze Medal:** Great Britain
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1988	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1988	O
+23	Olympic	O
+24	Games	O
+25	held	O
+26	in	O
+27	Seoul	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	400	O
+39	meters	O
+40	relay	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	Medal	O
+50	:**	O
+51	United	B-Male/Gold
+52	States	I-Male/Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	:**	O
+58	Great	B-Male/Silver
+59	Britain	I-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	:**	O
+65	Jamaica	B-Male/Bronze
+66	For	O
+67	the	O
+68	women	O
+69	'	O
+70	s	O
+71	4	O
+72	x	O
+73	400	O
+74	meters	O
+75	relay	O
+76	,	O
+77	the	O
+78	medals	O
+79	were	O
+80	awarded	O
+81	as	O
+82	follows	O
+83	:	O
+84	-	O
+85	**	O
+86	Gold	O
+87	Medal	O
+88	:**	O
+89	Soviet	B-Female/Gold
+90	Union	I-Female/Gold
+91	-	O
+92	**	O
+93	Silver	O
+94	Medal	O
+95	:**	O
+96	United	B-Female/Silver
+97	States	I-Female/Silver
+98	-	O
+99	**	O
+100	Bronze	O
+101	Medal	O
+102	:**	O
+103	Great	B-Female/Bronze
+104	Britain	I-Female/Bronze
+
+
+
+# sent_id = 4
+# text = Who won the medals in the Basketball event at the 1988 olympic games?At the 1988 Summer Olympics in Seoul, South Korea, the medals in the basketball event were awarded as follows:
+- **Gold Medal**: Soviet Union
+- **Silver Medal**: United States
+- **Bronze Medal**: Yugoslavia
+The Soviet Union's victory marked their first Olympic gold in basketball, while the event was notable for the inclusion of NBA players in the U.S. team for the first time in Olympic history.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	1988	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1988	O
+18	Summer	O
+19	Olympics	O
+20	in	O
+21	Seoul	O
+22	,	O
+23	South	O
+24	Korea	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	basketball	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	Medal	O
+41	**:	O
+42	Soviet	B-Unknown/Gold
+43	Union	I-Unknown/Gold
+44	-	O
+45	**	O
+46	Silver	O
+47	Medal	O
+48	**:	O
+49	United	B-Unknown/Silver
+50	States	I-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Yugoslavia	B-Unknown/Bronze
+57	The	O
+58	Soviet	O
+59	Union	O
+60	'	O
+61	s	O
+62	victory	O
+63	marked	O
+64	their	O
+65	first	O
+66	Olympic	O
+67	gold	O
+68	in	O
+69	basketball	O
+70	,	O
+71	while	O
+72	the	O
+73	event	O
+74	was	O
+75	notable	O
+76	for	O
+77	the	O
+78	inclusion	O
+79	of	O
+80	NBA	O
+81	players	O
+82	in	O
+83	the	O
+84	U	O
+85	.	O
+86	S	O
+87	.	O
+88	team	O
+89	for	O
+90	the	O
+91	first	O
+92	time	O
+93	in	O
+94	Olympic	O
+95	history	O
+96	.	O
+
+
+
+# sent_id = 5
+# text = Who won the medals in the Rowing Coxed Eights event at the 1988 olympic games?At the 1988 Summer Olympics held in Seoul, South Korea, the medals in the Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: The United States
+- **Silver Medal**: Great Britain
+- **Bronze Medal**: Canada
+The event featured a total of eight rowers and a coxswain, with teams competing for the top honors in this highly competitive rowing category.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Eights	O
+10	event	O
+11	at	O
+12	the	O
+13	1988	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1988	O
+20	Summer	O
+21	Olympics	O
+22	held	O
+23	in	O
+24	Seoul	O
+25	,	O
+26	South	O
+27	Korea	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Rowing	O
+34	Coxed	O
+35	Eights	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	The	B-Unknown/Gold
+48	United	I-Unknown/Gold
+49	States	I-Unknown/Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	Great	B-Unknown/Silver
+56	Britain	I-Unknown/Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Canada	B-Unknown/Bronze
+63	The	O
+64	event	O
+65	featured	O
+66	a	O
+67	total	O
+68	of	O
+69	eight	O
+70	rowers	O
+71	and	O
+72	a	O
+73	coxswain	O
+74	,	O
+75	with	O
+76	teams	O
+77	competing	O
+78	for	O
+79	the	O
+80	top	O
+81	honors	O
+82	in	O
+83	this	O
+84	highly	O
+85	competitive	O
+86	rowing	O
+87	category	O
+88	.	O
+
+
+
+# sent_id = 6
+# text = Who won the medals in the Rowing Coxed Fours event at the 1988 olympic games?At the 1988 Summer Olympics held in Seoul, South Korea, the medals in the Rowing Coxed Fours event were awarded as follows:
+- **Gold Medal**: East Germany (GDR)
+- **Silver Medal**: United States (USA)
+- **Bronze Medal**: Great Britain (GBR)
+These teams competed in a highly competitive field, and the event was a highlight of the rowing competitions at those Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Fours	O
+10	event	O
+11	at	O
+12	the	O
+13	1988	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1988	O
+20	Summer	O
+21	Olympics	O
+22	held	O
+23	in	O
+24	Seoul	O
+25	,	O
+26	South	O
+27	Korea	O
+28	,	O
+29	the	O
+30	medals	O
+31	in	O
+32	the	O
+33	Rowing	O
+34	Coxed	O
+35	Fours	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	East	B-Unknown/Gold
+48	Germany	I-Unknown/Gold
+49	(	O
+50	GDR	O
+51	)	O
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	United	B-Unknown/Silver
+58	States	I-Unknown/Silver
+59	(	O
+60	USA	O
+61	)	O
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	**:	O
+67	Great	B-Unknown/Bronze
+68	Britain	I-Unknown/Bronze
+69	(	O
+70	GBR	O
+71	)	O
+72	These	O
+73	teams	O
+74	competed	O
+75	in	O
+76	a	O
+77	highly	O
+78	competitive	O
+79	field	O
+80	,	O
+81	and	O
+82	the	O
+83	event	O
+84	was	O
+85	a	O
+86	highlight	O
+87	of	O
+88	the	O
+89	rowing	O
+90	competitions	O
+91	at	O
+92	those	O
+93	Games	O
+94	.	O
+
+
+
+# sent_id = 7
+# text = Who won the medals in the Field Hockey event at the 1988 olympic games?At the 1988 Seoul Olympic Games, the results for the men's and women's field hockey events were as follows:
+**Men's Field Hockey:**
+- **Gold Medal:** Netherlands
+- **Silver Medal:** England
+- **Bronze Medal:** Australia
+**Women's Field Hockey:**
+- **Gold Medal:** Netherlands
+- **Silver Medal:** Australia
+- **Bronze Medal:** Korea
+The Netherlands had a successful tournament, winning gold in both men's and women's field hockey.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	1988	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1988	O
+19	Seoul	O
+20	Olympic	O
+21	Games	O
+22	,	O
+23	the	O
+24	results	O
+25	for	O
+26	the	O
+27	men	O
+28	'	O
+29	s	O
+30	and	O
+31	women	O
+32	'	O
+33	s	O
+34	field	O
+35	hockey	O
+36	events	O
+37	were	O
+38	as	O
+39	follows	O
+40	:	O
+41	**	O
+42	Men	O
+43	'	O
+44	s	O
+45	Field	O
+46	Hockey	O
+47	:**	O
+48	-	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	:**	O
+53	Netherlands	B-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	:**	O
+59	England	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	:**	O
+65	Australia	B-Male/Bronze
+66	**	O
+67	Women	O
+68	'	O
+69	s	O
+70	Field	O
+71	Hockey	O
+72	:**	O
+73	-	O
+74	**	O
+75	Gold	O
+76	Medal	O
+77	:**	O
+78	Netherlands	B-Female/Gold
+79	-	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	:**	O
+84	Australia	B-Female/Silver
+85	-	O
+86	**	O
+87	Bronze	O
+88	Medal	O
+89	:**	O
+90	Korea	B-Female/Bronze
+91	The	O
+92	Netherlands	O
+93	had	O
+94	a	O
+95	successful	O
+96	tournament	O
+97	,	O
+98	winning	O
+99	gold	O
+100	in	O
+101	both	O
+102	men	O
+103	'	O
+104	s	O
+105	and	O
+106	women	O
+107	'	O
+108	s	O
+109	field	O
+110	hockey	O
+111	.	O
+
+
+
+# sent_id = 8
+# text = Who won the medals in the Fencing Foil, Team event at the 1988 olympic games?At the 1988 Olympic Games held in Seoul, the medals for the Fencing Foil, Team event were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: France
+- **Bronze Medal**: United States
+These teams competed in the team foil event, showcasing some of the best fencers from their respective countries.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1988	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	Seoul	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Fencing	O
+32	Foil	O
+33	,	O
+34	Team	O
+35	event	O
+36	were	O
+37	awarded	O
+38	as	O
+39	follows	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	Italy	B-Unknown/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	France	B-Unknown/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	United	B-Unknown/Bronze
+59	States	I-Unknown/Bronze
+60	These	O
+61	teams	O
+62	competed	O
+63	in	O
+64	the	O
+65	team	O
+66	foil	O
+67	event	O
+68	,	O
+69	showcasing	O
+70	some	O
+71	of	O
+72	the	O
+73	best	O
+74	fencers	O
+75	from	O
+76	their	O
+77	respective	O
+78	countries	O
+79	.	O
+
+
+
+# sent_id = 9
+# text = Who won the medals in the Handball event at the 1988 olympic games?At the 1988 Summer Olympics held in Seoul, the men's handball event was won by the Soviet Union, which earned the gold medal. The silver medal was awarded to the United States, and the bronze medal went to Sweden.
+In the women's handball event, the gold medal was won by the Soviet Union, with South Korea taking the silver and Hungary receiving the bronze medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	1988	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1988	O
+18	Summer	O
+19	Olympics	O
+20	held	O
+21	in	O
+22	Seoul	O
+23	,	O
+24	the	O
+25	men	O
+26	'	O
+27	s	O
+28	handball	O
+29	event	O
+30	was	O
+31	won	O
+32	by	O
+33	the	O
+34	Soviet	B-Male/Gold
+35	Union	I-Male/Gold
+36	,	O
+37	which	O
+38	earned	O
+39	the	O
+40	gold	O
+41	medal	O
+42	.	O
+43	The	O
+44	silver	O
+45	medal	O
+46	was	O
+47	awarded	O
+48	to	O
+49	the	O
+50	United	B-Male/Silver
+51	States	I-Male/Silver
+52	,	O
+53	and	O
+54	the	O
+55	bronze	O
+56	medal	O
+57	went	O
+58	to	O
+59	Sweden	B-Male/Bronze
+60	.	O
+61	In	O
+62	the	O
+63	women	O
+64	'	O
+65	s	O
+66	handball	O
+67	event	O
+68	,	O
+69	the	O
+70	gold	O
+71	medal	O
+72	was	O
+73	won	O
+74	by	O
+75	the	O
+76	Soviet	B-Female/Gold
+77	Union	I-Female/Gold
+78	,	O
+79	with	O
+80	South	B-Female/Silver
+81	Korea	I-Female/Silver
+82	taking	O
+83	the	O
+84	silver	O
+85	and	O
+86	Hungary	B-Female/Bronze
+87	receiving	O
+88	the	O
+89	bronze	O
+90	medal	O
+91	.	O
+
+
+
+# sent_id = 10
+# text = Who won the medals in the Indoor Volleyball event at the 1988 olympic games?At the 1988 Seoul Olympic Games, the medals in the Indoor Volleyball event were awarded as follows:
+**Men's Indoor Volleyball:**
+- **Gold Medal:** Soviet Union
+- **Silver Medal:** Italy
+- **Bronze Medal:** Cuba
+**Women's Indoor Volleyball:**
+- **Gold Medal:** Soviet Union
+- **Silver Medal:** Japan
+- **Bronze Medal:** China
+The Soviet Union performed exceptionally well, winning gold in both the men's and women's events.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	1988	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1988	O
+19	Seoul	O
+20	Olympic	O
+21	Games	O
+22	,	O
+23	the	O
+24	medals	O
+25	in	O
+26	the	O
+27	Indoor	O
+28	Volleyball	O
+29	event	O
+30	were	O
+31	awarded	O
+32	as	O
+33	follows	O
+34	:	O
+35	**	O
+36	Men	O
+37	'	O
+38	s	O
+39	Indoor	O
+40	Volleyball	O
+41	:**	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	:**	O
+47	Soviet	B-Male/Gold
+48	Union	I-Male/Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	:**	O
+54	Italy	B-Male/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	:**	O
+60	Cuba	B-Male/Bronze
+61	**	O
+62	Women	O
+63	'	O
+64	s	O
+65	Indoor	O
+66	Volleyball	O
+67	:**	O
+68	-	O
+69	**	O
+70	Gold	O
+71	Medal	O
+72	:**	O
+73	Soviet	B-Female/Gold
+74	Union	I-Female/Gold
+75	-	O
+76	**	O
+77	Silver	O
+78	Medal	O
+79	:**	O
+80	Japan	B-Female/Silver
+81	-	O
+82	**	O
+83	Bronze	O
+84	Medal	O
+85	:**	O
+86	China	B-Female/Bronze
+87	The	O
+88	Soviet	O
+89	Union	O
+90	performed	O
+91	exceptionally	O
+92	well	O
+93	,	O
+94	winning	O
+95	gold	O
+96	in	O
+97	both	O
+98	the	O
+99	men	O
+100	'	O
+101	s	O
+102	and	O
+103	women	O
+104	'	O
+105	s	O
+106	events	O
+107	.	O
+
+
+
+# sent_id = 11
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 1988 olympic games?At the 1988 Olympic Games held in Seoul, the medals for the Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: East Germany (GDR)
+- **Silver Medal**: Italy
+- **Bronze Medal**: United States
+If you need more information about the event or the teams, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	1988	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1988	O
+20	Olympic	O
+21	Games	O
+22	held	O
+23	in	O
+24	Seoul	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Rowing	O
+31	Quadruple	O
+32	Sculls	O
+33	event	O
+34	were	O
+35	awarded	O
+36	as	O
+37	follows	O
+38	:	O
+39	-	O
+40	**	O
+41	Gold	O
+42	Medal	O
+43	**:	O
+44	East	B-Unknown/Gold
+45	Germany	I-Unknown/Gold
+46	(	O
+47	GDR	O
+48	)	O
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Italy	B-Unknown/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	United	B-Unknown/Bronze
+61	States	I-Unknown/Bronze
+62	If	O
+63	you	O
+64	need	O
+65	more	O
+66	information	O
+67	about	O
+68	the	O
+69	event	O
+70	or	O
+71	the	O
+72	teams	O
+73	,	O
+74	feel	O
+75	free	O
+76	to	O
+77	ask	O
+78	!	O
+
+
+
+# sent_id = 12
+# text = Who won the medals in the Archery Team event at the 1988 olympic games?At the 1988 Summer Olympics in Seoul, the medals for the Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: China
+- **Bronze Medal**: Taiwan (Republic of China)
+South Korea dominated the archery events during these Olympics, particularly in the team competitions.
+# status = {"0":"accepted"}
+# time (ms) = 58246
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	1988	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1988	O
+19	Summer	O
+20	Olympics	O
+21	in	O
+22	Seoul	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	Archery	O
+29	Team	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	South	B-Unknown/Gold
+42	Korea	I-Unknown/Gold
+43	-	O
+44	**	O
+45	Silver	O
+46	Medal	O
+47	**:	O
+48	China	B-Unknown/Silver
+49	-	O
+50	**	O
+51	Bronze	O
+52	Medal	O
+53	**:	O
+54	Taiwan	B-Unknown/Bronze
+55	(	O
+56	Republic	O
+57	of	O
+58	China	O
+59	)	O
+60	South	O
+61	Korea	O
+62	dominated	O
+63	the	O
+64	archery	O
+65	events	O
+66	during	O
+67	these	O
+68	Olympics	O
+69	,	O
+70	particularly	O
+71	in	O
+72	the	O
+73	team	O
+74	competitions	O
+75	.	O
+
+
+
+# sent_id = 13
+# text = Who won the medals in the Artistic Gymnastics Team All-Around event at the 1988 olympic games?At the 1988 Summer Olympics in Seoul, the medals for the Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal**: Soviet Union (USSR)
+- **Silver Medal**: Japan
+- **Bronze Medal**: United States
+The event showcased remarkable performances from all teams, but the Soviet team, led by their strong athletes, came out on top.
+# status = {"0":"accepted"}
+# time (ms) = 4312
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	All-Around	O
+11	event	O
+12	at	O
+13	the	O
+14	1988	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1988	O
+21	Summer	O
+22	Olympics	O
+23	in	O
+24	Seoul	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Artistic	O
+31	Gymnastics	O
+32	Team	O
+33	All-Around	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Soviet	B-Unknown/Gold
+46	Union	I-Unknown/Gold
+47	(	O
+48	USSR	O
+49	)	O
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	Japan	B-Unknown/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	United	B-Unknown/Bronze
+62	States	I-Unknown/Bronze
+63	The	O
+64	event	O
+65	showcased	O
+66	remarkable	O
+67	performances	O
+68	from	O
+69	all	O
+70	teams	O
+71	,	O
+72	but	O
+73	the	O
+74	Soviet	O
+75	team	O
+76	,	O
+77	led	O
+78	by	O
+79	their	O
+80	strong	O
+81	athletes	O
+82	,	O
+83	came	O
+84	out	O
+85	on	O
+86	top	O
+87	.	O
+
+
+
+# sent_id = 14
+# text = Who won the medals in the Swimming 4 x 100 metres Freestyle Relay event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals for the Men's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: France
+The American team set a new world record time during this event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1992	O
+24	Summer	O
+25	Olympics	O
+26	in	O
+27	Barcelona	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	**:	O
+59	Australia	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	France	B-Male/Bronze
+66	The	O
+67	American	O
+68	team	O
+69	set	O
+70	a	O
+71	new	O
+72	world	O
+73	record	O
+74	time	O
+75	during	O
+76	this	O
+77	event	O
+78	.	O
+
+
+
+# sent_id = 15
+# text = Who won the medals in the Swimming 4 x 100 metres Medley Relay event at the 1992 olympic games?At the 1992 Olympic Games in Barcelona, the medals for the Men's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Great Britain
+If you need more detailed information or results from another event, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1992	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1992	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Barcelona	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Medley	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	**:	O
+59	Australia	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Great	B-Male/Bronze
+66	Britain	I-Male/Bronze
+67	If	O
+68	you	O
+69	need	O
+70	more	O
+71	detailed	O
+72	information	O
+73	or	O
+74	results	O
+75	from	O
+76	another	O
+77	event	O
+78	,	O
+79	feel	O
+80	free	O
+81	to	O
+82	ask	O
+83	!	O
+
+
+
+# sent_id = 16
+# text = Who won the medals in the Athletics 4 x 100 metres Relay event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals for the men's 4 x 100 metres relay event were awarded as follows:
+- **Gold**: United States (USA)
+- **Silver**: United Kingdom (GBR)
+- **Bronze**: Canada (CAN)
+For the women's 4 x 100 metres relay, the results were:
+- **Gold**: United States (USA)
+- **Silver**: Jamaica (JAM)
+- **Bronze**: France (FRA) 
+If you need more details about the athletes or the race results, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1992	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Barcelona	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	men	O
+33	'	O
+34	s	O
+35	4	O
+36	x	O
+37	100	O
+38	metres	O
+39	relay	O
+40	event	O
+41	were	O
+42	awarded	O
+43	as	O
+44	follows	O
+45	:	O
+46	-	O
+47	**	O
+48	Gold	O
+49	**:	O
+50	United	B-Male/Gold
+51	States	I-Male/Gold
+52	(	O
+53	USA	O
+54	)	O
+55	-	O
+56	**	O
+57	Silver	O
+58	**:	O
+59	United	B-Male/Silver
+60	Kingdom	I-Male/Silver
+61	(	O
+62	GBR	O
+63	)	O
+64	-	O
+65	**	O
+66	Bronze	O
+67	**:	O
+68	Canada	B-Male/Bronze
+69	(	O
+70	CAN	O
+71	)	O
+72	For	O
+73	the	O
+74	women	O
+75	'	O
+76	s	O
+77	4	O
+78	x	O
+79	100	O
+80	metres	O
+81	relay	O
+82	,	O
+83	the	O
+84	results	O
+85	were	O
+86	:	O
+87	-	O
+88	**	O
+89	Gold	O
+90	**:	O
+91	United	B-Female/Gold
+92	States	I-Female/Gold
+93	(	O
+94	USA	O
+95	)	O
+96	-	O
+97	**	O
+98	Silver	O
+99	**:	O
+100	Jamaica	B-Female/Silver
+101	(	O
+102	JAM	O
+103	)	O
+104	-	O
+105	**	O
+106	Bronze	O
+107	**:	O
+108	France	B-Female/Bronze
+109	(	O
+110	FRA	O
+111	)	O
+112	If	O
+113	you	O
+114	need	O
+115	more	O
+116	details	O
+117	about	O
+118	the	O
+119	athletes	O
+120	or	O
+121	the	O
+122	race	O
+123	results	O
+124	,	O
+125	feel	O
+126	free	O
+127	to	O
+128	ask	O
+129	!	O
+
+
+
+# sent_id = 17
+# text = Who won the medals in the Athletics 4 x 400 metres Relay event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals for the men's 4 x 400 metres relay were awarded as follows:
+- **Gold**: United States
+- **Silver**: Jamaica
+- **Bronze**: Great Britain
+For the women's 4 x 400 metres relay, the medals went to:
+- **Gold**: United States
+- **Silver**: Soviet Union
+- **Bronze**: Jamaica
+If you need more details or information, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1992	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1992	O
+23	Summer	O
+24	Olympics	O
+25	in	O
+26	Barcelona	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	men	O
+33	'	O
+34	s	O
+35	4	O
+36	x	O
+37	400	O
+38	metres	O
+39	relay	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	**:	O
+49	United	B-Male/Gold
+50	States	I-Male/Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	**:	O
+55	Jamaica	B-Male/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	**:	O
+60	Great	B-Male/Bronze
+61	Britain	I-Male/Bronze
+62	For	O
+63	the	O
+64	women	O
+65	'	O
+66	s	O
+67	4	O
+68	x	O
+69	400	O
+70	metres	O
+71	relay	O
+72	,	O
+73	the	O
+74	medals	O
+75	went	O
+76	to	O
+77	:	O
+78	-	O
+79	**	O
+80	Gold	O
+81	**:	O
+82	United	B-Female/Gold
+83	States	I-Female/Gold
+84	-	O
+85	**	O
+86	Silver	O
+87	**:	O
+88	Soviet	B-Female/Silver
+89	Union	I-Female/Silver
+90	-	O
+91	**	O
+92	Bronze	O
+93	**:	O
+94	Jamaica	B-Female/Bronze
+95	If	O
+96	you	O
+97	need	O
+98	more	O
+99	details	O
+100	or	O
+101	information	O
+102	,	O
+103	feel	O
+104	free	O
+105	to	O
+106	ask	O
+107	!	O
+
+
+
+# sent_id = 18
+# text = Who won the medals in the Basketball event at the 1992 olympic games?At the 1992 Olympic Games held in Barcelona, the medals for the men's basketball event were awarded as follows:
+- **Gold Medal**: United States (often referred to as the "Dream Team")
+- **Silver Medal**: Croatia
+- **Bronze Medal**: Lithuania
+In the women's basketball event, the medal standings were:
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: China
+The 1992 Olympics were notable for the inclusion of professional NBA players in men's basketball, leading to a highly competitive and widely celebrated tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	1992	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1992	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	Barcelona	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	men	O
+29	'	O
+30	s	O
+31	basketball	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	United	B-Male/Gold
+44	States	I-Male/Gold
+45	(	O
+46	often	O
+47	referred	O
+48	to	O
+49	as	O
+50	the	O
+51	"	O
+52	Dream	O
+53	Team	O
+54	")	O
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	**:	O
+60	Croatia	B-Male/Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	Medal	O
+65	**:	O
+66	Lithuania	B-Male/Bronze
+67	In	O
+68	the	O
+69	women	O
+70	'	O
+71	s	O
+72	basketball	O
+73	event	O
+74	,	O
+75	the	O
+76	medal	O
+77	standings	O
+78	were	O
+79	:	O
+80	-	O
+81	**	O
+82	Gold	O
+83	Medal	O
+84	**:	O
+85	United	B-Female/Gold
+86	States	I-Female/Gold
+87	-	O
+88	**	O
+89	Silver	O
+90	Medal	O
+91	**:	O
+92	Russia	B-Female/Silver
+93	-	O
+94	**	O
+95	Bronze	O
+96	Medal	O
+97	**:	O
+98	China	B-Female/Bronze
+99	The	O
+100	1992	O
+101	Olympics	O
+102	were	O
+103	notable	O
+104	for	O
+105	the	O
+106	inclusion	O
+107	of	O
+108	professional	O
+109	NBA	O
+110	players	O
+111	in	O
+112	men	O
+113	'	O
+114	s	O
+115	basketball	O
+116	,	O
+117	leading	O
+118	to	O
+119	a	O
+120	highly	O
+121	competitive	O
+122	and	O
+123	widely	O
+124	celebrated	O
+125	tournament	O
+126	.	O
+
+
+
+# sent_id = 19
+# text = Who won the medals in the Rowing Coxed Eights event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals for the Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: The United States
+- **Silver Medal**: Germany
+- **Bronze Medal**: Canada
+These teams competed fiercely in the event held on the Olympic rowing course.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Eights	O
+10	event	O
+11	at	O
+12	the	O
+13	1992	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1992	O
+20	Summer	O
+21	Olympics	O
+22	in	O
+23	Barcelona	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Rowing	O
+30	Coxed	O
+31	Eights	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	The	B-Unknown/Gold
+44	United	I-Unknown/Gold
+45	States	I-Unknown/Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	Germany	B-Unknown/Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	Canada	B-Unknown/Bronze
+58	These	O
+59	teams	O
+60	competed	O
+61	fiercely	O
+62	in	O
+63	the	O
+64	event	O
+65	held	O
+66	on	O
+67	the	O
+68	Olympic	O
+69	rowing	O
+70	course	O
+71	.	O
+
+
+
+# sent_id = 20
+# text = Who won the medals in the Rowing Coxless Fours event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals for the Rowing Coxless Fours event were awarded as follows:
+- **Gold Medal:** Great Britain
+- **Silver Medal:** Australia
+- **Bronze Medal:** Italy
+These results were part of the rowing competitions held during the Games.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxless	O
+9	Fours	O
+10	event	O
+11	at	O
+12	the	O
+13	1992	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1992	O
+20	Summer	O
+21	Olympics	O
+22	in	O
+23	Barcelona	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Rowing	O
+30	Coxless	O
+31	Fours	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	:**	O
+43	Great	B-Unknown/Gold
+44	Britain	I-Unknown/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	:**	O
+50	Australia	B-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	:**	O
+56	Italy	B-Unknown/Bronze
+57	These	O
+58	results	O
+59	were	O
+60	part	O
+61	of	O
+62	the	O
+63	rowing	O
+64	competitions	O
+65	held	O
+66	during	O
+67	the	O
+68	Games	O
+69	.	O
+
+
+
+# sent_id = 21
+# text = Who won the medals in the Field Hockey event at the 1992 olympic games?At the 1992 Summer Olympics held in Barcelona, the medals in the Field Hockey event were awarded as follows:
+- **Gold medal**: The Netherlands (men's and women's teams both won gold)
+- **Silver medal**: Spain (men's team) and Argentina (women's team)
+- **Bronze medal**: Germany (men's team) and the Netherlands (women's team)
+The tournament featured separate competitions for men's and women's teams, and both the men's and women's teams from the Netherlands performed exceptionally well, securing the top position in their respective events.
+# status = {"0":"rejected"}
+# time (ms) = 163165
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	1992	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1992	O
+19	Summer	O
+20	Olympics	O
+21	held	O
+22	in	O
+23	Barcelona	O
+24	,	O
+25	the	O
+26	medals	O
+27	in	O
+28	the	O
+29	Field	O
+30	Hockey	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Gold	O
+40	medal	O
+41	**:	O
+42	The	O
+43	Netherlands	O
+44	(	O
+45	men	O
+46	'	O
+47	s	O
+48	and	O
+49	women	O
+50	'	O
+51	s	O
+52	teams	O
+53	both	O
+54	won	O
+55	gold	O
+56	)	O
+57	-	O
+58	**	O
+59	Silver	O
+60	medal	O
+61	**:	O
+62	Spain	O
+63	(	O
+64	men	O
+65	'	O
+66	s	O
+67	team	O
+68	)	O
+69	and	O
+70	Argentina	O
+71	(	O
+72	women	O
+73	'	O
+74	s	O
+75	team	O
+76	)	O
+77	-	O
+78	**	O
+79	Bronze	O
+80	medal	O
+81	**:	O
+82	Germany	O
+83	(	O
+84	men	O
+85	'	O
+86	s	O
+87	team	O
+88	)	O
+89	and	O
+90	the	O
+91	Netherlands	O
+92	(	O
+93	women	O
+94	'	O
+95	s	O
+96	team	O
+97	)	O
+98	The	O
+99	tournament	O
+100	featured	O
+101	separate	O
+102	competitions	O
+103	for	O
+104	men	O
+105	'	O
+106	s	O
+107	and	O
+108	women	O
+109	'	O
+110	s	O
+111	teams	O
+112	,	O
+113	and	O
+114	both	O
+115	the	O
+116	men	O
+117	'	O
+118	s	O
+119	and	O
+120	women	O
+121	'	O
+122	s	O
+123	teams	O
+124	from	O
+125	the	O
+126	Netherlands	O
+127	performed	O
+128	exceptionally	O
+129	well	O
+130	,	O
+131	securing	O
+132	the	O
+133	top	O
+134	position	O
+135	in	O
+136	their	O
+137	respective	O
+138	events	O
+139	.	O
+
+
+
+# sent_id = 22
+# text = Who won the medals in the Fencing Foil, Team event at the 1992 olympic games?At the 1992 Olympic Games in Barcelona, the medals in the Fencing Foil, Team event were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: France
+- **Bronze Medal**: United States
+Italy dominated the event, securing the top spot on the podium.
+# status = {"0":"accepted"}
+# time (ms) = 3096
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1992	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Barcelona	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	Fencing	O
+31	Foil	O
+32	,	O
+33	Team	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	**:	O
+45	Italy	B-Unknown/Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	**:	O
+51	France	B-Unknown/Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	**:	O
+57	United	B-Unknown/Bronze
+58	States	I-Unknown/Bronze
+59	Italy	O
+60	dominated	O
+61	the	O
+62	event	O
+63	,	O
+64	securing	O
+65	the	O
+66	top	O
+67	spot	O
+68	on	O
+69	the	O
+70	podium	O
+71	.	O
+
+
+
+# sent_id = 23
+# text = Who won the medals in the Handball event at the 1992 olympic games?At the 1992 Summer Olympics held in Barcelona, Spain, the men's handball event was won by the Unified Team (a team comprised of former Soviet republics), which received the gold medal. The silver medal was awarded to Sweden, and the bronze medal went to Croatia.
+In the women's handball event, the gold medal was won by the South Korean team, while the silver medal was awarded to the team from Denmark, and the bronze medal went to Norway.
+# status = {"0":"accepted"}
+# time (ms) = 65408
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	1992	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1992	O
+18	Summer	O
+19	Olympics	O
+20	held	O
+21	in	O
+22	Barcelona	O
+23	,	O
+24	Spain	O
+25	,	O
+26	the	O
+27	men	O
+28	'	O
+29	s	O
+30	handball	O
+31	event	O
+32	was	O
+33	won	O
+34	by	O
+35	the	O
+36	Unified	B-Male/Gold
+37	Team	I-Male/Gold
+38	(	O
+39	a	O
+40	team	O
+41	comprised	O
+42	of	O
+43	former	O
+44	Soviet	O
+45	republics	O
+46	),	O
+47	which	O
+48	received	O
+49	the	O
+50	gold	O
+51	medal	O
+52	.	O
+53	The	O
+54	silver	O
+55	medal	O
+56	was	O
+57	awarded	O
+58	to	O
+59	Sweden	B-Male/Silver
+60	,	O
+61	and	O
+62	the	O
+63	bronze	O
+64	medal	O
+65	went	O
+66	to	O
+67	Croatia	B-Male/Bronze
+68	.	O
+69	In	O
+70	the	O
+71	women	O
+72	'	O
+73	s	O
+74	handball	O
+75	event	O
+76	,	O
+77	the	O
+78	gold	O
+79	medal	O
+80	was	O
+81	won	O
+82	by	O
+83	the	O
+84	South	B-Female/Gold
+85	Korean	I-Female/Gold
+86	team	O
+87	,	O
+88	while	O
+89	the	O
+90	silver	O
+91	medal	O
+92	was	O
+93	awarded	O
+94	to	O
+95	the	O
+96	team	O
+97	from	O
+98	Denmark	B-Female/Silver
+99	,	O
+100	and	O
+101	the	O
+102	bronze	O
+103	medal	O
+104	went	O
+105	to	O
+106	Norway	B-Female/Bronze
+107	.	O
+
+
+
+# sent_id = 24
+# text = Who won the medals in the Indoor Volleyball event at the 1992 olympic games?At the 1992 Olympic Games held in Barcelona, the medals for the Indoor Volleyball event were awarded as follows:
+**Men's Indoor Volleyball:**
+- **Gold Medal:** The Unified Team (composed of former Soviet republics)
+- **Silver Medal:** The Netherlands
+- **Bronze Medal:** Italy
+**Women's Indoor Volleyball:**
+- **Gold Medal:** Cuba
+- **Silver Medal:** Russia
+- **Bronze Medal:** China
+These events marked significant moments in Olympic volleyball history.
+# status = {"0":"accepted"}
+# time (ms) = 1736
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	1992	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1992	O
+19	Olympic	O
+20	Games	O
+21	held	O
+22	in	O
+23	Barcelona	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Indoor	O
+30	Volleyball	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	**	O
+38	Men	O
+39	'	O
+40	s	O
+41	Indoor	O
+42	Volleyball	O
+43	:**	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	The	B-Male/Gold
+50	Unified	I-Male/Gold
+51	Team	I-Male/Gold
+52	(	O
+53	composed	O
+54	of	O
+55	former	O
+56	Soviet	O
+57	republics	O
+58	)	O
+59	-	O
+60	**	O
+61	Silver	O
+62	Medal	O
+63	:**	O
+64	The	B-Male/Silver
+65	Netherlands	I-Male/Silver
+66	-	O
+67	**	O
+68	Bronze	O
+69	Medal	O
+70	:**	O
+71	Italy	B-Male/Bronze
+72	**	O
+73	Women	O
+74	'	O
+75	s	O
+76	Indoor	O
+77	Volleyball	O
+78	:**	O
+79	-	O
+80	**	O
+81	Gold	O
+82	Medal	O
+83	:**	O
+84	Cuba	B-Female/Gold
+85	-	O
+86	**	O
+87	Silver	O
+88	Medal	O
+89	:**	O
+90	Russia	B-Female/Silver
+91	-	O
+92	**	O
+93	Bronze	O
+94	Medal	O
+95	:**	O
+96	China	B-Female/Bronze
+97	These	O
+98	events	O
+99	marked	O
+100	significant	O
+101	moments	O
+102	in	O
+103	Olympic	O
+104	volleyball	O
+105	history	O
+106	.	O
+
+
+
+# sent_id = 25
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals in the Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: The Netherlands
+- **Silver Medal**: Germany
+- **Bronze Medal**: Romania
+This event featured teams of four rowers in a sculling boat, where each rower uses two oars.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	1992	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1992	O
+20	Summer	O
+21	Olympics	O
+22	in	O
+23	Barcelona	O
+24	,	O
+25	the	O
+26	medals	O
+27	in	O
+28	the	O
+29	Rowing	O
+30	Quadruple	O
+31	Sculls	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	The	B-Unknown/Gold
+44	Netherlands	I-Unknown/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	**:	O
+50	Germany	B-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Romania	B-Unknown/Bronze
+57	This	O
+58	event	O
+59	featured	O
+60	teams	O
+61	of	O
+62	four	O
+63	rowers	O
+64	in	O
+65	a	O
+66	sculling	O
+67	boat	O
+68	,	O
+69	where	O
+70	each	O
+71	rower	O
+72	uses	O
+73	two	O
+74	oars	O
+75	.	O
+
+
+
+# sent_id = 26
+# text = Who won the medals in the Archery Team event at the 1992 olympic games?At the 1992 Summer Olympics in Barcelona, the medals in the Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: the United States
+- **Bronze Medal**: Taiwan
+South Korea continued its dominance in archery during the 1992 Olympics, while the USA and Taiwan also had strong performances in the team event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	1992	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1992	O
+19	Summer	O
+20	Olympics	O
+21	in	O
+22	Barcelona	O
+23	,	O
+24	the	O
+25	medals	O
+26	in	O
+27	the	O
+28	Archery	O
+29	Team	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	South	B-Unknown/Gold
+42	Korea	I-Unknown/Gold
+43	-	O
+44	**	O
+45	Silver	O
+46	Medal	O
+47	**:	O
+48	the	B-Unknown/Silver
+49	United	I-Unknown/Silver
+50	States	I-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Taiwan	B-Unknown/Bronze
+57	South	O
+58	Korea	O
+59	continued	O
+60	its	O
+61	dominance	O
+62	in	O
+63	archery	O
+64	during	O
+65	the	O
+66	1992	O
+67	Olympics	O
+68	,	O
+69	while	O
+70	the	O
+71	USA	O
+72	and	O
+73	Taiwan	O
+74	also	O
+75	had	O
+76	strong	O
+77	performances	O
+78	in	O
+79	the	O
+80	team	O
+81	event	O
+82	.	O
+
+
+
+# sent_id = 27
+# text = Who won the medals in the Artistic Gymnastics Team All-Around event at the 1992 olympic games?At the 1992 Summer Olympics held in Barcelona, Spain, the medals for the Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal**: Unified Team (a team representing several former Soviet republics)
+- **Silver Medal**: United States
+- **Bronze Medal**: Romania
+If you need further details or information about individual performances, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	All-Around	O
+11	event	O
+12	at	O
+13	the	O
+14	1992	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1992	O
+21	Summer	O
+22	Olympics	O
+23	held	O
+24	in	O
+25	Barcelona	O
+26	,	O
+27	Spain	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Artistic	O
+34	Gymnastics	O
+35	Team	O
+36	All-Around	O
+37	event	O
+38	were	O
+39	awarded	O
+40	as	O
+41	follows	O
+42	:	O
+43	-	O
+44	**	O
+45	Gold	O
+46	Medal	O
+47	**:	O
+48	Unified	B-Unknown/Gold
+49	Team	I-Unknown/Gold
+50	(	O
+51	a	O
+52	team	O
+53	representing	O
+54	several	O
+55	former	O
+56	Soviet	O
+57	republics	O
+58	)	O
+59	-	O
+60	**	O
+61	Silver	O
+62	Medal	O
+63	**:	O
+64	United	B-Unknown/Silver
+65	States	I-Unknown/Silver
+66	-	O
+67	**	O
+68	Bronze	O
+69	Medal	O
+70	**:	O
+71	Romania	B-Unknown/Bronze
+72	If	O
+73	you	O
+74	need	O
+75	further	O
+76	details	O
+77	or	O
+78	information	O
+79	about	O
+80	individual	O
+81	performances	O
+82	,	O
+83	feel	O
+84	free	O
+85	to	O
+86	ask	O
+87	!	O
+
+
+
+# sent_id = 28
+# text = Who won the medals in the Biathlon 4 x 7.5 kilometres Relay event at the 1994 olympic games?At the 1994 Winter Olympics in Lillehammer, Norway, the medals for the Biathlon 4 x 7.5 kilometres Relay event were awarded as follows:
+- **Gold Medal**: Norway
+- **Silver Medal**: Germany
+- **Bronze Medal**: Russia
+The competition took place on February 25, 1994.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Biathlon	O
+8	4	O
+9	x	O
+10	7	O
+11	.	O
+12	5	O
+13	kilometres	O
+14	Relay	O
+15	event	O
+16	at	O
+17	the	O
+18	1994	O
+19	olympic	O
+20	games	O
+21	?	O
+22	At	O
+23	the	O
+24	1994	O
+25	Winter	O
+26	Olympics	O
+27	in	O
+28	Lillehammer	O
+29	,	O
+30	Norway	O
+31	,	O
+32	the	O
+33	medals	O
+34	for	O
+35	the	O
+36	Biathlon	O
+37	4	O
+38	x	O
+39	7	O
+40	.	O
+41	5	O
+42	kilometres	O
+43	Relay	O
+44	event	O
+45	were	O
+46	awarded	O
+47	as	O
+48	follows	O
+49	:	O
+50	-	O
+51	**	O
+52	Gold	O
+53	Medal	O
+54	**:	O
+55	Norway	B-Unknown/Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	Medal	O
+60	**:	O
+61	Germany	B-Unknown/Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	**:	O
+67	Russia	B-Unknown/Bronze
+68	The	O
+69	competition	O
+70	took	O
+71	place	O
+72	on	O
+73	February	O
+74	25	O
+75	,	O
+76	1994	O
+77	.	O
+
+
+
+# sent_id = 29
+# text = Who won the medals in the Swimming 4 x 100 metres Freestyle Relay event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals for the Men's 4 x 100 metres Freestyle Relay were awarded to the following teams:
+- **Gold Medal:** United States
+- **Silver Medal:** Australia
+- **Bronze Medal:** Netherlands
+The U.S. team included notable swimmers such as Gary Hall Jr. and Michael Sr. In this event, the U.S. team set an Olympic record.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	to	O
+45	the	O
+46	following	O
+47	teams	O
+48	:	O
+49	-	O
+50	**	O
+51	Gold	O
+52	Medal	O
+53	:**	O
+54	United	B-Male/Gold
+55	States	I-Male/Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	Medal	O
+60	:**	O
+61	Australia	B-Male/Silver
+62	-	O
+63	**	O
+64	Bronze	O
+65	Medal	O
+66	:**	O
+67	Netherlands	B-Male/Bronze
+68	The	O
+69	U	O
+70	.	O
+71	S	O
+72	.	O
+73	team	O
+74	included	O
+75	notable	O
+76	swimmers	O
+77	such	O
+78	as	O
+79	Gary	O
+80	Hall	O
+81	Jr	O
+82	.	O
+83	and	O
+84	Michael	O
+85	Sr	O
+86	.	O
+87	In	O
+88	this	O
+89	event	O
+90	,	O
+91	the	O
+92	U	O
+93	.	O
+94	S	O
+95	.	O
+96	team	O
+97	set	O
+98	an	O
+99	Olympic	O
+100	record	O
+101	.	O
+
+
+
+# sent_id = 30
+# text = Who won the medals in the Swimming 4 x 100 metres Medley Relay event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals for the Men's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold**: USA
+- **Silver**: Australia
+- **Bronze**: Germany
+The U.S. team set a world record in this event at that Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Medley	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	USA	B-Male/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	**:	O
+56	Australia	B-Male/Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	**:	O
+61	Germany	B-Male/Bronze
+62	The	O
+63	U	O
+64	.	O
+65	S	O
+66	.	O
+67	team	O
+68	set	O
+69	a	O
+70	world	O
+71	record	O
+72	in	O
+73	this	O
+74	event	O
+75	at	O
+76	that	O
+77	Olympics	O
+78	.	O
+
+
+
+# sent_id = 31
+# text = Who won the medals in the Athletics 4 x 100 metres Relay event at the 1996 olympic games?At the 1996 Summer Olympics held in Atlanta, the medals for the Athletics 4 x 100 metres Relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Jamaica
+- **Bronze Medal**: Canada
+The U.S. team won the event in a time of 37.40 seconds.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1996	O
+23	Summer	O
+24	Olympics	O
+25	held	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Athletics	O
+34	4	O
+35	x	O
+36	100	O
+37	metres	O
+38	Relay	O
+39	event	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	-	O
+46	**	O
+47	Gold	O
+48	Medal	O
+49	**:	O
+50	United	B-Unknown/Gold
+51	States	I-Unknown/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	Medal	O
+56	**:	O
+57	Jamaica	B-Unknown/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	Medal	O
+62	**:	O
+63	Canada	B-Unknown/Bronze
+64	The	O
+65	U	O
+66	.	O
+67	S	O
+68	.	O
+69	team	O
+70	won	O
+71	the	O
+72	event	O
+73	in	O
+74	a	O
+75	time	O
+76	of	O
+77	37	O
+78	.	O
+79	40	O
+80	seconds	O
+81	.	O
+
+
+
+# sent_id = 32
+# text = Who won the medals in the Swimming 4 x 200 metres Freestyle Relay event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals for the men's 4 x 200 meters freestyle relay were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Australia
+- **Bronze Medal:** Russia
+The U.S. team set a world record in this event during the competition.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	200	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	1996	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	1996	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	200	O
+39	meters	O
+40	freestyle	O
+41	relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	:**	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	:**	O
+59	Australia	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	:**	O
+65	Russia	B-Male/Bronze
+66	The	O
+67	U	O
+68	.	O
+69	S	O
+70	.	O
+71	team	O
+72	set	O
+73	a	O
+74	world	O
+75	record	O
+76	in	O
+77	this	O
+78	event	O
+79	during	O
+80	the	O
+81	competition	O
+82	.	O
+
+
+
+# sent_id = 33
+# text = Who won the medals in the Athletics 4 x 400 metres Relay event at the 1996 olympic games?At the 1996 Olympic Games held in Atlanta, the medals for the men's 4 x 400 metres relay event were awarded as follows:
+- **Gold Medal:** United States (USA)
+- **Silver Medal:** South Africa (RSA)
+- **Bronze Medal:** Jamaica (JAM)
+For the women's 4 x 400 metres relay, the medals were awarded as follows:
+- **Gold Medal:** United States (USA)
+- **Silver Medal:** Nigeria (NGA)
+- **Bronze Medal:** Australia (AUS) 
+If you need more specific information about individual athletes or race details, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	1996	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	1996	O
+23	Olympic	O
+24	Games	O
+25	held	O
+26	in	O
+27	Atlanta	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	400	O
+39	metres	O
+40	relay	O
+41	event	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	:**	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	(	O
+55	USA	O
+56	)	O
+57	-	O
+58	**	O
+59	Silver	O
+60	Medal	O
+61	:**	O
+62	South	B-Male/Silver
+63	Africa	I-Male/Silver
+64	(	O
+65	RSA	O
+66	)	O
+67	-	O
+68	**	O
+69	Bronze	O
+70	Medal	O
+71	:**	O
+72	Jamaica	B-Male/Bronze
+73	(	O
+74	JAM	O
+75	)	O
+76	For	O
+77	the	O
+78	women	O
+79	'	O
+80	s	O
+81	4	O
+82	x	O
+83	400	O
+84	metres	O
+85	relay	O
+86	,	O
+87	the	O
+88	medals	O
+89	were	O
+90	awarded	O
+91	as	O
+92	follows	O
+93	:	O
+94	-	O
+95	**	O
+96	Gold	O
+97	Medal	O
+98	:**	O
+99	United	B-Female/Gold
+100	States	I-Female/Gold
+101	(	O
+102	USA	O
+103	)	O
+104	-	O
+105	**	O
+106	Silver	O
+107	Medal	O
+108	:**	O
+109	Nigeria	B-Female/Silver
+110	(	O
+111	NGA	O
+112	)	O
+113	-	O
+114	**	O
+115	Bronze	O
+116	Medal	O
+117	:**	O
+118	Australia	B-Female/Bronze
+119	(	O
+120	AUS	O
+121	)	O
+122	If	O
+123	you	O
+124	need	O
+125	more	O
+126	specific	O
+127	information	O
+128	about	O
+129	individual	O
+130	athletes	O
+131	or	O
+132	race	O
+133	details	O
+134	,	O
+135	feel	O
+136	free	O
+137	to	O
+138	ask	O
+139	!	O
+
+
+
+# sent_id = 34
+# text = Who won the medals in the Basketball event at the 1996 olympic games?At the 1996 Olympic Games held in Atlanta, the medal winners in the men's and women's basketball events were as follows:
+**Men's Basketball:**
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: Lithuania
+**Women's Basketball:**
+- **Gold Medal**: United States
+- **Silver Medal**: Australia
+- **Bronze Medal**: Brazil
+The U.S. men's basketball team, known as the "Dream Team," went on to win gold, continuing their dominance in the sport. The U.S. women's team also secured gold, showcasing their strength in women's basketball.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	1996	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1996	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	Atlanta	O
+23	,	O
+24	the	O
+25	medal	O
+26	winners	O
+27	in	O
+28	the	O
+29	men	O
+30	'	O
+31	s	O
+32	and	O
+33	women	O
+34	'	O
+35	s	O
+36	basketball	O
+37	events	O
+38	were	O
+39	as	O
+40	follows	O
+41	:	O
+42	**	O
+43	Men	O
+44	'	O
+45	s	O
+46	Basketball	O
+47	:**	O
+48	-	O
+49	**	O
+50	Gold	O
+51	Medal	O
+52	**:	O
+53	United	B-Male/Gold
+54	States	I-Male/Gold
+55	-	O
+56	**	O
+57	Silver	O
+58	Medal	O
+59	**:	O
+60	Russia	B-Male/Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	Medal	O
+65	**:	O
+66	Lithuania	B-Male/Bronze
+67	**	O
+68	Women	O
+69	'	O
+70	s	O
+71	Basketball	O
+72	:**	O
+73	-	O
+74	**	O
+75	Gold	O
+76	Medal	O
+77	**:	O
+78	United	B-Female/Gold
+79	States	I-Female/Gold
+80	-	O
+81	**	O
+82	Silver	O
+83	Medal	O
+84	**:	O
+85	Australia	B-Female/Silver
+86	-	O
+87	**	O
+88	Bronze	O
+89	Medal	O
+90	**:	O
+91	Brazil	B-Female/Bronze
+92	The	O
+93	U	O
+94	.	O
+95	S	O
+96	.	O
+97	men	O
+98	'	O
+99	s	O
+100	basketball	O
+101	team	O
+102	,	O
+103	known	O
+104	as	O
+105	the	O
+106	"	O
+107	Dream	O
+108	Team	O
+109	,"	O
+110	went	O
+111	on	O
+112	to	O
+113	win	O
+114	gold	O
+115	,	O
+116	continuing	O
+117	their	O
+118	dominance	O
+119	in	O
+120	the	O
+121	sport	O
+122	.	O
+123	The	O
+124	U	O
+125	.	O
+126	S	O
+127	.	O
+128	women	O
+129	'	O
+130	s	O
+131	team	O
+132	also	O
+133	secured	O
+134	gold	O
+135	,	O
+136	showcasing	O
+137	their	O
+138	strength	O
+139	in	O
+140	women	O
+141	'	O
+142	s	O
+143	basketball	O
+144	.	O
+
+
+
+# sent_id = 35
+# text = Who won the medals in the Rowing Coxed Eights event at the 1996 olympic games?At the 1996 Summer Olympics in Atlanta, the medals for the Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Netherlands
+- **Bronze Medal**: Canada
+The event showcased strong competition, with the host nation, the United States, securing the top podium position.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Eights	O
+10	event	O
+11	at	O
+12	the	O
+13	1996	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1996	O
+20	Summer	O
+21	Olympics	O
+22	in	O
+23	Atlanta	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Rowing	O
+30	Coxed	O
+31	Eights	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	United	B-Unknown/Gold
+44	States	I-Unknown/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	**:	O
+50	Netherlands	B-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Canada	B-Unknown/Bronze
+57	The	O
+58	event	O
+59	showcased	O
+60	strong	O
+61	competition	O
+62	,	O
+63	with	O
+64	the	O
+65	host	O
+66	nation	O
+67	,	O
+68	the	O
+69	United	O
+70	States	O
+71	,	O
+72	securing	O
+73	the	O
+74	top	O
+75	podium	O
+76	position	O
+77	.	O
+
+
+
+# sent_id = 36
+# text = Who won the medals in the Field Hockey event at the 1996 olympic games?At the 1996 Olympic Games held in Atlanta, the medals for the Field Hockey event were awarded as follows:
+- **Men's Field Hockey:**
+  - Gold: Netherlands
+  - Silver: Spain
+  - Bronze: Australia
+- **Women's Field Hockey:**
+  - Gold: Argentina
+  - Silver: Netherlands
+  - Bronze: United States
+These results reflect the top performances in the field hockey competitions during the 1996 Olympics.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	1996	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1996	O
+19	Olympic	O
+20	Games	O
+21	held	O
+22	in	O
+23	Atlanta	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Field	O
+30	Hockey	O
+31	event	O
+32	were	O
+33	awarded	O
+34	as	O
+35	follows	O
+36	:	O
+37	-	O
+38	**	O
+39	Men	O
+40	'	O
+41	s	O
+42	Field	O
+43	Hockey	O
+44	:**	O
+45	-	O
+46	Gold	O
+47	:	O
+48	Netherlands	B-Male/Gold
+49	-	O
+50	Silver	O
+51	:	O
+52	Spain	B-Male/Silver
+53	-	O
+54	Bronze	O
+55	:	O
+56	Australia	B-Male/Bronze
+57	-	O
+58	**	O
+59	Women	O
+60	'	O
+61	s	O
+62	Field	O
+63	Hockey	O
+64	:**	O
+65	-	O
+66	Gold	O
+67	:	O
+68	Argentina	B-Female/Gold
+69	-	O
+70	Silver	O
+71	:	O
+72	Netherlands	B-Female/Silver
+73	-	O
+74	Bronze	O
+75	:	O
+76	United	B-Female/Bronze
+77	States	I-Female/Bronze
+78	These	O
+79	results	O
+80	reflect	O
+81	the	O
+82	top	O
+83	performances	O
+84	in	O
+85	the	O
+86	field	O
+87	hockey	O
+88	competitions	O
+89	during	O
+90	the	O
+91	1996	O
+92	Olympics	O
+93	.	O
+
+
+
+# sent_id = 37
+# text = Who won the medals in the Fencing Foil, Team event at the 1996 olympic games?At the 1996 Summer Olympics held in Atlanta, the medals for the Men's Team Foil event in fencing were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: France
+- **Bronze Medal**: Russia 
+If you need more details or information about individual matches, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 21666
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Summer	O
+22	Olympics	O
+23	held	O
+24	in	O
+25	Atlanta	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	Men	O
+32	'	O
+33	s	O
+34	Team	O
+35	Foil	O
+36	event	O
+37	in	O
+38	fencing	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	Italy	B-Male/Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	**:	O
+55	France	B-Male/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	**:	O
+61	Russia	B-Male/Bronze
+62	If	O
+63	you	O
+64	need	O
+65	more	O
+66	details	O
+67	or	O
+68	information	O
+69	about	O
+70	individual	O
+71	matches	O
+72	,	O
+73	feel	O
+74	free	O
+75	to	O
+76	ask	O
+77	!	O
+
+
+
+# sent_id = 38
+# text = Who won the medals in the Football event at the 1996 olympic games?At the 1996 Olympic Games held in Atlanta, the medals for the men's and women's football (soccer) events were awarded as follows:
+**Men's Football:**
+- **Gold:** Nigeria
+- **Silver:** Argentina
+- **Bronze:** Brazil
+**Women's Football:**
+- **Gold:** United States
+- **Silver:** Norway
+- **Bronze:** Sweden
+The women's football event was particularly notable as it was the first time women's football was included in the Olympic Games.
+# status = {"0":"accepted"}
+# time (ms) = 1276
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Football	O
+8	event	O
+9	at	O
+10	the	O
+11	1996	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1996	O
+18	Olympic	O
+19	Games	O
+20	held	O
+21	in	O
+22	Atlanta	O
+23	,	O
+24	the	O
+25	medals	O
+26	for	O
+27	the	O
+28	men	O
+29	'	O
+30	s	O
+31	and	O
+32	women	O
+33	'	O
+34	s	O
+35	football	O
+36	(	O
+37	soccer	O
+38	)	O
+39	events	O
+40	were	O
+41	awarded	O
+42	as	O
+43	follows	O
+44	:	O
+45	**	O
+46	Men	O
+47	'	O
+48	s	O
+49	Football	O
+50	:**	O
+51	-	O
+52	**	O
+53	Gold	O
+54	:**	O
+55	Nigeria	B-Male/Gold
+56	-	O
+57	**	O
+58	Silver	O
+59	:**	O
+60	Argentina	B-Male/Silver
+61	-	O
+62	**	O
+63	Bronze	O
+64	:**	O
+65	Brazil	B-Male/Bronze
+66	**	O
+67	Women	O
+68	'	O
+69	s	O
+70	Football	O
+71	:**	O
+72	-	O
+73	**	O
+74	Gold	O
+75	:**	O
+76	United	B-Female/Gold
+77	States	I-Female/Gold
+78	-	O
+79	**	O
+80	Silver	O
+81	:**	O
+82	Norway	B-Female/Silver
+83	-	O
+84	**	O
+85	Bronze	O
+86	:**	O
+87	Sweden	B-Female/Bronze
+88	The	O
+89	women	O
+90	'	O
+91	s	O
+92	football	O
+93	event	O
+94	was	O
+95	particularly	O
+96	notable	O
+97	as	O
+98	it	O
+99	was	O
+100	the	O
+101	first	O
+102	time	O
+103	women	O
+104	'	O
+105	s	O
+106	football	O
+107	was	O
+108	included	O
+109	in	O
+110	the	O
+111	Olympic	O
+112	Games	O
+113	.	O
+
+
+
+# sent_id = 39
+# text = Who won the medals in the Handball event at the 1996 olympic games?At the 1996 Summer Olympics held in Atlanta, the results for the handball events were as follows:
+**Men's Handball:**
+- **Gold Medal:** Denmark
+- **Silver Medal:** Sweden
+- **Bronze Medal:** Croatia
+**Women's Handball:**
+- **Gold Medal:** Norway
+- **Silver Medal:** Hungary
+- **Bronze Medal:** Russia
+These teams showcased exceptional skill and talent during the tournament.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Handball	O
+8	event	O
+9	at	O
+10	the	O
+11	1996	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1996	O
+18	Summer	O
+19	Olympics	O
+20	held	O
+21	in	O
+22	Atlanta	O
+23	,	O
+24	the	O
+25	results	O
+26	for	O
+27	the	O
+28	handball	O
+29	events	O
+30	were	O
+31	as	O
+32	follows	O
+33	:	O
+34	**	O
+35	Men	O
+36	'	O
+37	s	O
+38	Handball	O
+39	:**	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	:**	O
+45	Denmark	B-Male/Gold
+46	-	O
+47	**	O
+48	Silver	O
+49	Medal	O
+50	:**	O
+51	Sweden	B-Male/Silver
+52	-	O
+53	**	O
+54	Bronze	O
+55	Medal	O
+56	:**	O
+57	Croatia	B-Male/Bronze
+58	**	O
+59	Women	O
+60	'	O
+61	s	O
+62	Handball	O
+63	:**	O
+64	-	O
+65	**	O
+66	Gold	O
+67	Medal	O
+68	:**	O
+69	Norway	B-Female/Gold
+70	-	O
+71	**	O
+72	Silver	O
+73	Medal	O
+74	:**	O
+75	Hungary	B-Female/Silver
+76	-	O
+77	**	O
+78	Bronze	O
+79	Medal	O
+80	:**	O
+81	Russia	B-Female/Bronze
+82	These	O
+83	teams	O
+84	showcased	O
+85	exceptional	O
+86	skill	O
+87	and	O
+88	talent	O
+89	during	O
+90	the	O
+91	tournament	O
+92	.	O
+
+
+
+# sent_id = 40
+# text = Who won the medals in the Indoor Volleyball event at the 1996 olympic games?At the 1996 Summer Olympics held in Atlanta, the winners in the Indoor Volleyball events were as follows:
+**Men's Indoor Volleyball:**
+- Gold: Netherlands
+- Silver: Russia
+- Bronze: Italy
+**Women's Indoor Volleyball:**
+- Gold: United States
+- Silver: Brazil
+- Bronze: China
+These teams competed fiercely, with the U.S. women's team achieving their first Olympic gold medal in volleyball.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Indoor	O
+8	Volleyball	O
+9	event	O
+10	at	O
+11	the	O
+12	1996	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1996	O
+19	Summer	O
+20	Olympics	O
+21	held	O
+22	in	O
+23	Atlanta	O
+24	,	O
+25	the	O
+26	winners	O
+27	in	O
+28	the	O
+29	Indoor	O
+30	Volleyball	O
+31	events	O
+32	were	O
+33	as	O
+34	follows	O
+35	:	O
+36	**	O
+37	Men	O
+38	'	O
+39	s	O
+40	Indoor	O
+41	Volleyball	O
+42	:**	O
+43	-	O
+44	Gold	O
+45	:	O
+46	Netherlands	B-Male/Gold
+47	-	O
+48	Silver	O
+49	:	O
+50	Russia	B-Male/Silver
+51	-	O
+52	Bronze	O
+53	:	O
+54	Italy	B-Male/Bronze
+55	**	O
+56	Women	O
+57	'	O
+58	s	O
+59	Indoor	O
+60	Volleyball	O
+61	:**	O
+62	-	O
+63	Gold	O
+64	:	O
+65	United	B-Female/Gold
+66	States	I-Female/Gold
+67	-	O
+68	Silver	O
+69	:	O
+70	Brazil	B-Female/Silver
+71	-	O
+72	Bronze	O
+73	:	O
+74	China	B-Female/Bronze
+75	These	O
+76	teams	O
+77	competed	O
+78	fiercely	O
+79	,	O
+80	with	O
+81	the	O
+82	U	O
+83	.	O
+84	S	O
+85	.	O
+86	women	O
+87	'	O
+88	s	O
+89	team	O
+90	achieving	O
+91	their	O
+92	first	O
+93	Olympic	O
+94	gold	O
+95	medal	O
+96	in	O
+97	volleyball	O
+98	.	O
+
+
+
+# sent_id = 41
+# text = Who won the medals in the Rowing Quadruple Sculls event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals for the Rowing Quadruple Sculls event were awarded as follows:
+- **Gold Medal**: The United States team
+- **Silver Medal**: The Netherlands team
+- **Bronze Medal**: The Germany team
+These teams competed in the final event of the quadruple sculls, showcasing a thrilling competition in rowing.
+# status = {"0":"accepted"}
+# time (ms) = 41642
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Quadruple	O
+9	Sculls	O
+10	event	O
+11	at	O
+12	the	O
+13	1996	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	1996	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	Atlanta	O
+24	,	O
+25	the	O
+26	medals	O
+27	for	O
+28	the	O
+29	Rowing	O
+30	Quadruple	O
+31	Sculls	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	The	O
+44	United	B-Unknown/Gold
+45	States	I-Unknown/Gold
+46	team	O
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	The	O
+53	Netherlands	B-Unknown/Silver
+54	team	O
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	The	O
+61	Germany	B-Unknown/Bronze
+62	team	O
+63	These	O
+64	teams	O
+65	competed	O
+66	in	O
+67	the	O
+68	final	O
+69	event	O
+70	of	O
+71	the	O
+72	quadruple	O
+73	sculls	O
+74	,	O
+75	showcasing	O
+76	a	O
+77	thrilling	O
+78	competition	O
+79	in	O
+80	rowing	O
+81	.	O
+
+
+
+# sent_id = 42
+# text = Who won the medals in the Archery Team event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals in the Archery Team event were awarded as follows:
+- **Gold Medal**: South Korea
+- **Silver Medal**: United States
+- **Bronze Medal**: China
+South Korea's archery team dominated the competition, securing the gold medal and continuing their historical success in the sport.
+# status = {"0":"accepted"}
+# time (ms) = 2736
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Archery	O
+8	Team	O
+9	event	O
+10	at	O
+11	the	O
+12	1996	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1996	O
+19	Olympic	O
+20	Games	O
+21	in	O
+22	Atlanta	O
+23	,	O
+24	the	O
+25	medals	O
+26	in	O
+27	the	O
+28	Archery	O
+29	Team	O
+30	event	O
+31	were	O
+32	awarded	O
+33	as	O
+34	follows	O
+35	:	O
+36	-	O
+37	**	O
+38	Gold	O
+39	Medal	O
+40	**:	O
+41	South	B-Unknown/Gold
+42	Korea	I-Unknown/Gold
+43	-	O
+44	**	O
+45	Silver	O
+46	Medal	O
+47	**:	O
+48	United	B-Unknown/Silver
+49	States	I-Unknown/Silver
+50	-	O
+51	**	O
+52	Bronze	O
+53	Medal	O
+54	**:	O
+55	China	B-Unknown/Bronze
+56	South	O
+57	Korea	O
+58	'	O
+59	s	O
+60	archery	O
+61	team	O
+62	dominated	O
+63	the	O
+64	competition	O
+65	,	O
+66	securing	O
+67	the	O
+68	gold	O
+69	medal	O
+70	and	O
+71	continuing	O
+72	their	O
+73	historical	O
+74	success	O
+75	in	O
+76	the	O
+77	sport	O
+78	.	O
+
+
+
+# sent_id = 43
+# text = Who won the medals in the Artistic Gymnastics Team All-Around event at the 1996 olympic games?At the 1996 Olympic Games in Atlanta, the medals in the Artistic Gymnastics Team All-Around event were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Russia
+- **Bronze Medal:** Romania
+The U.S. women's gymnastics team notably won their first-ever gold medal in this event during these Games.
+# status = {"0":"accepted"}
+# time (ms) = 68084
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Artistic	O
+8	Gymnastics	O
+9	Team	O
+10	All-Around	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Atlanta	O
+25	,	O
+26	the	O
+27	medals	O
+28	in	O
+29	the	O
+30	Artistic	O
+31	Gymnastics	O
+32	Team	O
+33	All-Around	O
+34	event	O
+35	were	O
+36	awarded	O
+37	as	O
+38	follows	O
+39	:	O
+40	-	O
+41	**	O
+42	Gold	O
+43	Medal	O
+44	:**	O
+45	United	B-Female/Gold
+46	States	I-Female/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	:**	O
+52	Russia	B-Female/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	:**	O
+58	Romania	B-Female/Bronze
+59	The	O
+60	U	O
+61	.	O
+62	S	O
+63	.	O
+64	women	O
+65	'	O
+66	s	O
+67	gymnastics	O
+68	team	O
+69	notably	O
+70	won	O
+71	their	O
+72	first-ever	O
+73	gold	O
+74	medal	O
+75	in	O
+76	this	O
+77	event	O
+78	during	O
+79	these	O
+80	Games	O
+81	.	O
+
+
+
+# sent_id = 44
+# text = Who won the medals in the Fencing Épée, Team event at the 1996 olympic games?At the 1996 Olympic Games held in Atlanta, the medals for the men's team épée event were awarded as follows:
+- **Gold Medal**: France
+- **Silver Medal**: Italy
+- **Bronze Medal**: Hungary
+For the women's team épée event, the medals were:
+- **Gold Medal**: Romania
+- **Silver Medal**: France
+- **Bronze Medal**: Germany
+If you need specific information about individual fencers or more details, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 2344
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Épée	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	1996	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	1996	O
+21	Olympic	O
+22	Games	O
+23	held	O
+24	in	O
+25	Atlanta	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	men	O
+32	'	O
+33	s	O
+34	team	O
+35	épée	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	France	B-Male/Gold
+48	-	O
+49	**	O
+50	Silver	O
+51	Medal	O
+52	**:	O
+53	Italy	B-Male/Silver
+54	-	O
+55	**	O
+56	Bronze	O
+57	Medal	O
+58	**:	O
+59	Hungary	B-Male/Bronze
+60	For	O
+61	the	O
+62	women	O
+63	'	O
+64	s	O
+65	team	O
+66	épée	O
+67	event	O
+68	,	O
+69	the	O
+70	medals	O
+71	were	O
+72	:	O
+73	-	O
+74	**	O
+75	Gold	O
+76	Medal	O
+77	**:	O
+78	Romania	B-Female/Gold
+79	-	O
+80	**	O
+81	Silver	O
+82	Medal	O
+83	**:	O
+84	France	B-Female/Silver
+85	-	O
+86	**	O
+87	Bronze	O
+88	Medal	O
+89	**:	O
+90	Germany	B-Female/Bronze
+91	If	O
+92	you	O
+93	need	O
+94	specific	O
+95	information	O
+96	about	O
+97	individual	O
+98	fencers	O
+99	or	O
+100	more	O
+101	details	O
+102	,	O
+103	feel	O
+104	free	O
+105	to	O
+106	ask	O
+107	!	O
+
+
+
+# sent_id = 45
+# text = Who won the medals in the Biathlon 4 x 7.5 kilometres Relay event at the 1998 olympic games?At the 1998 Winter Olympics in Nagano, the medals for the Biathlon 4 x 7.5 kilometres Relay event were awarded as follows:
+- **Gold**: Germany
+- **Silver**: Norway
+- **Bronze**: Russia
+This event showcased a strong performance by the German team, clinching the gold medal.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Biathlon	O
+8	4	O
+9	x	O
+10	7	O
+11	.	O
+12	5	O
+13	kilometres	O
+14	Relay	O
+15	event	O
+16	at	O
+17	the	O
+18	1998	O
+19	olympic	O
+20	games	O
+21	?	O
+22	At	O
+23	the	O
+24	1998	O
+25	Winter	O
+26	Olympics	O
+27	in	O
+28	Nagano	O
+29	,	O
+30	the	O
+31	medals	O
+32	for	O
+33	the	O
+34	Biathlon	O
+35	4	O
+36	x	O
+37	7	O
+38	.	O
+39	5	O
+40	kilometres	O
+41	Relay	O
+42	event	O
+43	were	O
+44	awarded	O
+45	as	O
+46	follows	O
+47	:	O
+48	-	O
+49	**	O
+50	Gold	O
+51	**:	O
+52	Germany	B-Unknown/Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Norway	B-Unknown/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Russia	B-Unknown/Bronze
+63	This	O
+64	event	O
+65	showcased	O
+66	a	O
+67	strong	O
+68	performance	O
+69	by	O
+70	the	O
+71	German	O
+72	team	O
+73	,	O
+74	clinching	O
+75	the	O
+76	gold	O
+77	medal	O
+78	.	O
+
+
+
+# sent_id = 46
+# text = Who won the medals in the Curling event at the 1998 olympic games?At the 1998 Winter Olympics held in Nagano, Japan, curling was included as an official Olympic sport for the first time. The medal winners in the curling events were:
+**Men's Curling:**
+- **Gold Medal:** Canada
+- **Silver Medal:** Sweden
+- **Bronze Medal:** Norway
+**Women's Curling:**
+- **Gold Medal:** Canada
+- **Silver Medal:** Sweden
+- **Bronze Medal:** Escaped my response, I will provide it here.
+In both the men's and women's events, Canada won the gold medal, thereby marking a significant achievement in the sport's Olympic debut.
+# status = {"0":"accepted"}
+# time (ms) = 146868
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Curling	O
+8	event	O
+9	at	O
+10	the	O
+11	1998	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	1998	O
+18	Winter	O
+19	Olympics	O
+20	held	O
+21	in	O
+22	Nagano	O
+23	,	O
+24	Japan	O
+25	,	O
+26	curling	O
+27	was	O
+28	included	O
+29	as	O
+30	an	O
+31	official	O
+32	Olympic	O
+33	sport	O
+34	for	O
+35	the	O
+36	first	O
+37	time	O
+38	.	O
+39	The	O
+40	medal	O
+41	winners	O
+42	in	O
+43	the	O
+44	curling	O
+45	events	O
+46	were	O
+47	:	O
+48	**	O
+49	Men	O
+50	'	O
+51	s	O
+52	Curling	O
+53	:**	O
+54	-	O
+55	**	O
+56	Gold	O
+57	Medal	O
+58	:**	O
+59	Canada	B-Male/Gold
+60	-	O
+61	**	O
+62	Silver	O
+63	Medal	O
+64	:**	O
+65	Sweden	B-Male/Silver
+66	-	O
+67	**	O
+68	Bronze	O
+69	Medal	O
+70	:**	O
+71	Norway	B-Male/Bronze
+72	**	O
+73	Women	O
+74	'	O
+75	s	O
+76	Curling	O
+77	:**	O
+78	-	O
+79	**	O
+80	Gold	O
+81	Medal	O
+82	:**	O
+83	Canada	B-Female/Gold
+84	-	O
+85	**	O
+86	Silver	O
+87	Medal	O
+88	:**	O
+89	Sweden	B-Female/Silver
+90	-	O
+91	**	O
+92	Bronze	O
+93	Medal	O
+94	:**	O
+95	Escaped	O
+96	my	O
+97	response	O
+98	,	O
+99	I	O
+100	will	O
+101	provide	O
+102	it	O
+103	here	O
+104	.	O
+105	In	O
+106	both	O
+107	the	O
+108	men	O
+109	'	O
+110	s	O
+111	and	O
+112	women	O
+113	'	O
+114	s	O
+115	events	O
+116	,	O
+117	Canada	O
+118	won	O
+119	the	O
+120	gold	O
+121	medal	O
+122	,	O
+123	thereby	O
+124	marking	O
+125	a	O
+126	significant	O
+127	achievement	O
+128	in	O
+129	the	O
+130	sport	O
+131	'	O
+132	s	O
+133	Olympic	O
+134	debut	O
+135	.	O
+
+
+
+# sent_id = 47
+# text = Who won the medals in the Ice Hockey event at the 1998 olympic games?At the 1998 Winter Olympics held in Nagano, Japan, the medals for the men's ice hockey event were awarded as follows:
+- **Gold Medal**: Czech Republic
+- **Silver Medal**: Russia
+- **Bronze Medal**: Sweden
+This tournament was notable as it was the first Olympic Games to feature NHL players.
+# status = {"0":"accepted"}
+# time (ms) = 2106
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Ice	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	1998	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	1998	O
+19	Winter	O
+20	Olympics	O
+21	held	O
+22	in	O
+23	Nagano	O
+24	,	O
+25	Japan	O
+26	,	O
+27	the	O
+28	medals	O
+29	for	O
+30	the	O
+31	men	O
+32	'	O
+33	s	O
+34	ice	O
+35	hockey	O
+36	event	O
+37	were	O
+38	awarded	O
+39	as	O
+40	follows	O
+41	:	O
+42	-	O
+43	**	O
+44	Gold	O
+45	Medal	O
+46	**:	O
+47	Czech	B-Male/Gold
+48	Republic	I-Male/Gold
+49	-	O
+50	**	O
+51	Silver	O
+52	Medal	O
+53	**:	O
+54	Russia	B-Male/Silver
+55	-	O
+56	**	O
+57	Bronze	O
+58	Medal	O
+59	**:	O
+60	Sweden	B-Male/Bronze
+61	This	O
+62	tournament	O
+63	was	O
+64	notable	O
+65	as	O
+66	it	O
+67	was	O
+68	the	O
+69	first	O
+70	Olympic	O
+71	Games	O
+72	to	O
+73	feature	O
+74	NHL	O
+75	players	O
+76	.	O
+
+
+
+# sent_id = 48
+# text = Who won the medals in the Swimming 4 x 100 metres Freestyle Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals for the Men's 4 x 100 metres Freestyle Relay were awarded as follows:
+- **Gold Medal**: Australia
+- **Silver Medal**: United States
+- **Bronze Medal**: Netherlands
+The Australian team set a new world record in that event.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	**:	O
+52	Australia	B-Male/Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	Medal	O
+57	**:	O
+58	United	B-Male/Silver
+59	States	I-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	**:	O
+65	Netherlands	B-Male/Bronze
+66	The	O
+67	Australian	O
+68	team	O
+69	set	O
+70	a	O
+71	new	O
+72	world	O
+73	record	O
+74	in	O
+75	that	O
+76	event	O
+77	.	O
+
+
+
+# sent_id = 49
+# text = Who won the medals in the Swimming 4 x 100 metres Medley Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals for the Men's 4 x 100 metres Medley Relay were awarded as follows:
+- **Gold Medal:** United States
+- **Silver Medal:** Australia
+- **Bronze Medal:** Great Britain
+If you need information about the Women's event or any other details, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 27030
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Medley	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	Medley	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	Medal	O
+51	:**	O
+52	United	B-Male/Gold
+53	States	I-Male/Gold
+54	-	O
+55	**	O
+56	Silver	O
+57	Medal	O
+58	:**	O
+59	Australia	B-Male/Silver
+60	-	O
+61	**	O
+62	Bronze	O
+63	Medal	O
+64	:**	O
+65	Great	B-Male/Bronze
+66	Britain	I-Male/Bronze
+67	If	O
+68	you	O
+69	need	O
+70	information	O
+71	about	O
+72	the	O
+73	Women	O
+74	'	O
+75	s	O
+76	event	O
+77	or	O
+78	any	O
+79	other	O
+80	details	O
+81	,	O
+82	feel	O
+83	free	O
+84	to	O
+85	ask	O
+86	!	O
+
+
+
+# sent_id = 50
+# text = Who won the medals in the Athletics 4 x 100 metres Relay event at the 2000 olympic games?At the 2000 Olympic Games held in Sydney, the medals for the men's 4 x 100 metres relay event were awarded as follows:
+- **Gold**: United States
+- **Silver**: Jamaica
+- **Bronze**: Canada
+In the women's 4 x 100 metres relay event, the medals were:
+- **Gold**: United States
+- **Silver**: Jamaica
+- **Bronze**: Great Britain
+If you need more information about the races or athletes, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 9732
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	100	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2000	O
+23	Olympic	O
+24	Games	O
+25	held	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	100	O
+39	metres	O
+40	relay	O
+41	event	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	United	B-Male/Gold
+52	States	I-Male/Gold
+53	-	O
+54	**	O
+55	Silver	O
+56	**:	O
+57	Jamaica	B-Male/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Canada	B-Male/Bronze
+63	In	O
+64	the	O
+65	women	O
+66	'	O
+67	s	O
+68	4	O
+69	x	O
+70	100	O
+71	metres	O
+72	relay	O
+73	event	O
+74	,	O
+75	the	O
+76	medals	O
+77	were	O
+78	:	O
+79	-	O
+80	**	O
+81	Gold	O
+82	**:	O
+83	United	B-Female/Gold
+84	States	I-Female/Gold
+85	-	O
+86	**	O
+87	Silver	O
+88	**:	O
+89	Jamaica	B-Female/Silver
+90	-	O
+91	**	O
+92	Bronze	O
+93	**:	O
+94	Great	B-Female/Bronze
+95	Britain	I-Female/Bronze
+96	If	O
+97	you	O
+98	need	O
+99	more	O
+100	information	O
+101	about	O
+102	the	O
+103	races	O
+104	or	O
+105	athletes	O
+106	,	O
+107	feel	O
+108	free	O
+109	to	O
+110	ask	O
+111	!	O
+
+
+
+# sent_id = 51
+# text = Who won the medals in the Swimming 4 x 200 metres Freestyle Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals for the Men's 4 x 200 metres Freestyle Relay were awarded as follows:
+- **Gold**: Australia
+- **Silver**: United States
+- **Bronze**: Russia
+Australia set a new world record in this event at the time.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Swimming	O
+8	4	O
+9	x	O
+10	200	O
+11	metres	O
+12	Freestyle	O
+13	Relay	O
+14	event	O
+15	at	O
+16	the	O
+17	2000	O
+18	olympic	O
+19	games	O
+20	?	O
+21	At	O
+22	the	O
+23	2000	O
+24	Olympic	O
+25	Games	O
+26	in	O
+27	Sydney	O
+28	,	O
+29	the	O
+30	medals	O
+31	for	O
+32	the	O
+33	Men	O
+34	'	O
+35	s	O
+36	4	O
+37	x	O
+38	200	O
+39	metres	O
+40	Freestyle	O
+41	Relay	O
+42	were	O
+43	awarded	O
+44	as	O
+45	follows	O
+46	:	O
+47	-	O
+48	**	O
+49	Gold	O
+50	**:	O
+51	Australia	B-Male/Gold
+52	-	O
+53	**	O
+54	Silver	O
+55	**:	O
+56	United	B-Male/Silver
+57	States	I-Male/Silver
+58	-	O
+59	**	O
+60	Bronze	O
+61	**:	O
+62	Russia	B-Male/Bronze
+63	Australia	O
+64	set	O
+65	a	O
+66	new	O
+67	world	O
+68	record	O
+69	in	O
+70	this	O
+71	event	O
+72	at	O
+73	the	O
+74	time	O
+75	.	O
+
+
+
+# sent_id = 52
+# text = Who won the medals in the Athletics 4 x 400 metres Relay event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals for the Athletics 4 x 400 metres relay event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Russia
+- **Bronze Medal**: Jamaica
+This event featured strong performances from all the teams, with the United States taking the top spot.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Athletics	O
+8	4	O
+9	x	O
+10	400	O
+11	metres	O
+12	Relay	O
+13	event	O
+14	at	O
+15	the	O
+16	2000	O
+17	olympic	O
+18	games	O
+19	?	O
+20	At	O
+21	the	O
+22	2000	O
+23	Olympic	O
+24	Games	O
+25	in	O
+26	Sydney	O
+27	,	O
+28	the	O
+29	medals	O
+30	for	O
+31	the	O
+32	Athletics	O
+33	4	O
+34	x	O
+35	400	O
+36	metres	O
+37	relay	O
+38	event	O
+39	were	O
+40	awarded	O
+41	as	O
+42	follows	O
+43	:	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	**:	O
+49	United	B-Unknown/Gold
+50	States	I-Unknown/Gold
+51	-	O
+52	**	O
+53	Silver	O
+54	Medal	O
+55	**:	O
+56	Russia	B-Unknown/Silver
+57	-	O
+58	**	O
+59	Bronze	O
+60	Medal	O
+61	**:	O
+62	Jamaica	B-Unknown/Bronze
+63	This	O
+64	event	O
+65	featured	O
+66	strong	O
+67	performances	O
+68	from	O
+69	all	O
+70	the	O
+71	teams	O
+72	,	O
+73	with	O
+74	the	O
+75	United	O
+76	States	O
+77	taking	O
+78	the	O
+79	top	O
+80	spot	O
+81	.	O
+
+
+
+# sent_id = 53
+# text = Who won the medals in the Basketball event at the 2000 olympic games?At the 2000 Sydney Olympic Games, the medals for the basketball event were awarded as follows:
+**Men's Basketball:**
+- Gold: United States
+- Silver: France
+- Bronze: Lithuania
+**Women's Basketball:**
+- Gold: United States
+- Silver: Australia
+- Bronze: Russia
+The United States teams dominated both the men's and women's competitions, continuing their strong basketball tradition.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Basketball	O
+8	event	O
+9	at	O
+10	the	O
+11	2000	O
+12	olympic	O
+13	games	O
+14	?	O
+15	At	O
+16	the	O
+17	2000	O
+18	Sydney	O
+19	Olympic	O
+20	Games	O
+21	,	O
+22	the	O
+23	medals	O
+24	for	O
+25	the	O
+26	basketball	O
+27	event	O
+28	were	O
+29	awarded	O
+30	as	O
+31	follows	O
+32	:	O
+33	**	O
+34	Men	O
+35	'	O
+36	s	O
+37	Basketball	O
+38	:**	O
+39	-	O
+40	Gold	O
+41	:	O
+42	United	B-Male/Gold
+43	States	I-Male/Gold
+44	-	O
+45	Silver	O
+46	:	O
+47	France	B-Male/Silver
+48	-	O
+49	Bronze	O
+50	:	O
+51	Lithuania	B-Male/Bronze
+52	**	O
+53	Women	O
+54	'	O
+55	s	O
+56	Basketball	O
+57	:**	O
+58	-	O
+59	Gold	O
+60	:	O
+61	United	B-Female/Gold
+62	States	I-Female/Gold
+63	-	O
+64	Silver	O
+65	:	O
+66	Australia	B-Female/Silver
+67	-	O
+68	Bronze	O
+69	:	O
+70	Russia	B-Female/Bronze
+71	The	O
+72	United	O
+73	States	O
+74	teams	O
+75	dominated	O
+76	both	O
+77	the	O
+78	men	O
+79	'	O
+80	s	O
+81	and	O
+82	women	O
+83	'	O
+84	s	O
+85	competitions	O
+86	,	O
+87	continuing	O
+88	their	O
+89	strong	O
+90	basketball	O
+91	tradition	O
+92	.	O
+
+
+
+# sent_id = 54
+# text = Who won the medals in the Rowing Coxed Eights event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals in the Rowing Coxed Eights event were awarded as follows:
+- **Gold Medal**: United States
+- **Silver Medal**: Germany
+- **Bronze Medal**: Canada
+If you need more detailed information about the event or the teams, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Rowing	O
+8	Coxed	O
+9	Eights	O
+10	event	O
+11	at	O
+12	the	O
+13	2000	O
+14	olympic	O
+15	games	O
+16	?	O
+17	At	O
+18	the	O
+19	2000	O
+20	Olympic	O
+21	Games	O
+22	in	O
+23	Sydney	O
+24	,	O
+25	the	O
+26	medals	O
+27	in	O
+28	the	O
+29	Rowing	O
+30	Coxed	O
+31	Eights	O
+32	event	O
+33	were	O
+34	awarded	O
+35	as	O
+36	follows	O
+37	:	O
+38	-	O
+39	**	O
+40	Gold	O
+41	Medal	O
+42	**:	O
+43	United	B-Unknown/Gold
+44	States	I-Unknown/Gold
+45	-	O
+46	**	O
+47	Silver	O
+48	Medal	O
+49	**:	O
+50	Germany	B-Unknown/Silver
+51	-	O
+52	**	O
+53	Bronze	O
+54	Medal	O
+55	**:	O
+56	Canada	B-Unknown/Bronze
+57	If	O
+58	you	O
+59	need	O
+60	more	O
+61	detailed	O
+62	information	O
+63	about	O
+64	the	O
+65	event	O
+66	or	O
+67	the	O
+68	teams	O
+69	,	O
+70	feel	O
+71	free	O
+72	to	O
+73	ask	O
+74	!	O
+
+
+
+# sent_id = 55
+# text = Who won the medals in the Field Hockey event at the 2000 olympic games?At the 2000 Summer Olympics held in Sydney, the medal winners in the Field Hockey events were as follows:
+**Men's Field Hockey:**
+- **Gold Medal:** Australia
+- **Silver Medal:** Spain
+- **Bronze Medal:** The Netherlands
+**Women's Field Hockey:**
+- **Gold Medal:** The Netherlands
+- **Silver Medal:** Australia
+- **Bronze Medal:** Argentina
+These teams competed fiercely, contributing to a memorable Olympic tournament in field hockey.
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Field	O
+8	Hockey	O
+9	event	O
+10	at	O
+11	the	O
+12	2000	O
+13	olympic	O
+14	games	O
+15	?	O
+16	At	O
+17	the	O
+18	2000	O
+19	Summer	O
+20	Olympics	O
+21	held	O
+22	in	O
+23	Sydney	O
+24	,	O
+25	the	O
+26	medal	O
+27	winners	O
+28	in	O
+29	the	O
+30	Field	O
+31	Hockey	O
+32	events	O
+33	were	O
+34	as	O
+35	follows	O
+36	:	O
+37	**	O
+38	Men	O
+39	'	O
+40	s	O
+41	Field	O
+42	Hockey	O
+43	:**	O
+44	-	O
+45	**	O
+46	Gold	O
+47	Medal	O
+48	:**	O
+49	Australia	B-Male/Gold
+50	-	O
+51	**	O
+52	Silver	O
+53	Medal	O
+54	:**	O
+55	Spain	B-Male/Silver
+56	-	O
+57	**	O
+58	Bronze	O
+59	Medal	O
+60	:**	O
+61	The	B-Male/Bronze
+62	Netherlands	I-Male/Bronze
+63	**	O
+64	Women	O
+65	'	O
+66	s	O
+67	Field	O
+68	Hockey	O
+69	:**	O
+70	-	O
+71	**	O
+72	Gold	O
+73	Medal	O
+74	:**	O
+75	The	B-Female/Gold
+76	Netherlands	I-Female/Gold
+77	-	O
+78	**	O
+79	Silver	O
+80	Medal	O
+81	:**	O
+82	Australia	B-Female/Silver
+83	-	O
+84	**	O
+85	Bronze	O
+86	Medal	O
+87	:**	O
+88	Argentina	B-Female/Bronze
+89	These	O
+90	teams	O
+91	competed	O
+92	fiercely	O
+93	,	O
+94	contributing	O
+95	to	O
+96	a	O
+97	memorable	O
+98	Olympic	O
+99	tournament	O
+100	in	O
+101	field	O
+102	hockey	O
+103	.	O
+
+
+
+# sent_id = 56
+# text = Who won the medals in the Fencing Foil, Team event at the 2000 olympic games?At the 2000 Olympic Games in Sydney, the medals for the Men's Foil Team event were awarded as follows:
+- **Gold Medal**: Italy
+- **Silver Medal**: France
+- **Bronze Medal**: United States
+If you're interested in the Women's Foil Team event or any other specifics, feel free to ask!
+# status = {"0":"accepted"}
+# time (ms) = 0
+1	Who	O
+2	won	O
+3	the	O
+4	medals	O
+5	in	O
+6	the	O
+7	Fencing	O
+8	Foil	O
+9	,	O
+10	Team	O
+11	event	O
+12	at	O
+13	the	O
+14	2000	O
+15	olympic	O
+16	games	O
+17	?	O
+18	At	O
+19	the	O
+20	2000	O
+21	Olympic	O
+22	Games	O
+23	in	O
+24	Sydney	O
+25	,	O
+26	the	O
+27	medals	O
+28	for	O
+29	the	O
+30	Men	O
+31	'	O
+32	s	O
+33	Foil	O
+34	Team	O
+35	event	O
+36	were	O
+37	awarded	O
+38	as	O
+39	follows	O
+40	:	O
+41	-	O
+42	**	O
+43	Gold	O
+44	Medal	O
+45	**:	O
+46	Italy	B-Male/Gold
+47	-	O
+48	**	O
+49	Silver	O
+50	Medal	O
+51	**:	O
+52	France	B-Male/Silver
+53	-	O
+54	**	O
+55	Bronze	O
+56	Medal	O
+57	**:	O
+58	United	B-Male/Bronze
+59	States	I-Male/Bronze
+60	If	O
+61	you	O
+62	'	O
+63	re	O
+64	interested	O
+65	in	O
+66	the	O
+67	Women	O
+68	'	O
+69	s	O
+70	Foil	O
+71	Team	O
+72	event	O
+73	or	O
+74	any	O
+75	other	O
+76	specifics	O
+77	,	O
+78	feel	O
+79	free	O
+80	to	O
+81	ask	O
+82	!	O
+
+
